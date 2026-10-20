@@ -1,0 +1,108 @@
+{
+ "page": "diagnostics",
+ "replace": true,
+ "blocks": [
+  {
+   "class": "kam-blockrow",
+   "widgets": [
+    {
+     "block": "kam_hero",
+     "fields": {
+      "id": "demo"
+     },
+     "lines": "https://kamservicing.eastwoodfc.com/wp-content/uploads/2026/10/Ascot-Drive-1200x300px.jpg|CAR SERVICING|Car Servicing from £99.99\nhttps://kamservicing.eastwoodfc.com/wp-content/uploads/2026/10/Bulwell-1200x300px.jpg|BUY TYRES|The Best Tyre Prices Online.\nhttps://kamservicing.eastwoodfc.com/wp-content/uploads/2026/10/Ascot-Drive-Illuminated-1200x300px.jpg|M.O.T|With Full Service!"
+    }
+   ]
+  },
+  {
+   "wrap": "kam-blockrow",
+   "wrap_padding": {
+    "top": 0,
+    "right": 0,
+    "bottom": 0,
+    "left": 0
+   },
+   "class": "container kam-reverse-mobile",
+   "columns": [
+    {
+     "class": "kam-blockrow",
+     "width": 66.667,
+     "tablet": 66.667,
+     "mobile": 100,
+     "padding": {
+      "top": 0,
+      "right": 12,
+      "bottom": 0,
+      "left": 12
+     },
+     "widgets": [
+      {
+       "widget": "spacer",
+       "fields": {
+        "height": 27
+       }
+      },
+      {
+       "widget": "heading",
+       "fields": {
+        "tag": "h4",
+        "title": "CAR DIAGNOSTICS",
+        "class": ""
+       }
+      },
+      {
+       "widget": "spacer",
+       "fields": {
+        "height": 27
+       }
+      },
+      {
+       "widget": "text-editor",
+       "fields": {
+        "editor": "<p>Here at KAM Servicing we have made heavy investment in the latest diagnostic tools, and staff training to make sure that KAM is your one-stop shop for all types of fault finding and repairs on all petrol, diesel and electric vehicles.</p><p>From strange noises coming from the car to internal problems with the electrical systems - we can identify all faults. We then assess the best way to fix your car depending on your specifications and budget.</p><p>A lot of the time a fault can be flagged up by a light appearing on the dashboard. If your dashboard has a light flashing on it, do not hesitate to bring it down so we can get started.</p><p><strong>Our Diagnostic Services Include -</strong><br/> Diagnosis &amp; fault finding<br/> Battery systems testing<br/> Injector testing &amp; cleaning<br/> ECU repairs<br/> Forced induction diagnostics<br/> Engine management faults<br/> Complete vehicle diagnostics</p><p>Due to the increased level of sophistication of the computer controlled management system, the days of home fault finding are long gone.</p><p>The average motorist cannot afford the specialist equipment needed to diagnose engine light, airbag or ABS system faults.</p>"
+       }
+      }
+     ]
+    },
+    {
+     "class": "kam-blockrow text-center",
+     "width": 33.333,
+     "tablet": 33.333,
+     "mobile": 100,
+     "padding": {
+      "top": 0,
+      "right": 12,
+      "bottom": 0,
+      "left": 12
+     },
+     "widgets": [
+      {
+       "widget": "image",
+       "fields": {
+        "url": "https://kamservicing.eastwoodfc.com/wp-content/uploads/2026/10/diagnostics.jpg",
+        "alt": "BRAKE REPAIRS",
+        "align": "left",
+        "class": "img-fluid w-100",
+        "link": "/contact/?&booking_for=Car-Diagnostics"
+       }
+      },
+      {
+       "widget": "heading",
+       "fields": {
+        "tag": "h5",
+        "title": "DIAGNOSTICS",
+        "class": ""
+       }
+      },
+      {
+       "widget": "text-editor",
+       "fields": {
+        "editor": "<p class=\"text-dark\">Expert Diagnostics using the latest equipment.<br/>Contact Your Local Branch For a Quote.</p><p class=\"mb-0\"><a class=\"text-decoration-none\" href=\"/contact/?&amp;booking_for=Car-Diagnostics\"><button class=\"btn bg-theme text-white btn-sm\">\n<i class=\"fas fa-check\"></i> Book Now\n                    </button></a></p><hr>"
+       }
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

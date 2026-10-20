@@ -1,0 +1,669 @@
+{
+ "page": "home",
+ "replace": true,
+ "blocks": [
+  {
+   "class": "kam-blockrow",
+   "widgets": [
+    {
+     "block": "kam_hero",
+     "fields": {
+      "id": "demo"
+     },
+     "lines": "https://kamservicing.eastwoodfc.com/wp-content/uploads/2026/10/Ascot-Drive-1200x300px.jpg|CAR SERVICING|Car Servicing from £99.99\nhttps://kamservicing.eastwoodfc.com/wp-content/uploads/2026/10/Bulwell-1200x300px.jpg|BUY TYRES|The Best Tyre Prices Online.\nhttps://kamservicing.eastwoodfc.com/wp-content/uploads/2026/10/Ascot-Drive-Illuminated-1200x300px.jpg|M.O.T|With Full Service!"
+    }
+   ]
+  },
+  {
+   "wrap": "container-fluid",
+   "wrap_padding": {
+    "top": 36,
+    "right": 10,
+    "bottom": 80,
+    "left": 10
+   },
+   "class": "container kam-grid",
+   "columns": [
+    {
+     "class": "kam-blockrow",
+     "width": 33.333,
+     "tablet": 50,
+     "mobile": 50,
+     "padding": {
+      "top": 24,
+      "right": 12,
+      "bottom": 0,
+      "left": 12
+     },
+     "widgets": [
+      {
+       "widget": "image-box",
+       "fields": {
+        "url": "https://kamservicing.eastwoodfc.com/wp-content/uploads/2026/10/mot.jpg",
+        "alt": "Book MOT Test",
+        "title": "Book M.O.T Test",
+        "tag": "h5",
+        "text": "M.O.T Testing for Cars and Vans.<br/>Book Your M.O.T Online Today.",
+        "link": "https://kamservicing.com/bookings.php?q=1#mot",
+        "align": "center",
+        "class": "service-item"
+       }
+      }
+     ]
+    },
+    {
+     "class": "kam-blockrow",
+     "width": 33.333,
+     "tablet": 50,
+     "mobile": 50,
+     "padding": {
+      "top": 24,
+      "right": 12,
+      "bottom": 0,
+      "left": 12
+     },
+     "widgets": [
+      {
+       "widget": "image-box",
+       "fields": {
+        "url": "https://kamservicing.eastwoodfc.com/wp-content/uploads/2026/10/oil.jpg",
+        "alt": "Book Car Servicing",
+        "title": "Book Car Servicing",
+        "tag": "h5",
+        "text": "We service <u>ALL</u> makes and models.<br/>Book Your Service Online Today.",
+        "link": "https://kamservicing.com/bookings.php?q=2#servicing",
+        "align": "center",
+        "class": "service-item"
+       }
+      }
+     ]
+    },
+    {
+     "class": "kam-blockrow",
+     "width": 33.333,
+     "tablet": 50,
+     "mobile": 50,
+     "padding": {
+      "top": 24,
+      "right": 12,
+      "bottom": 0,
+      "left": 12
+     },
+     "widgets": [
+      {
+       "widget": "image-box",
+       "fields": {
+        "url": "https://kamservicing.eastwoodfc.com/wp-content/uploads/2026/10/tyres.jpg",
+        "alt": "Book Tyre Fitting",
+        "title": "Book Tyre Fitting",
+        "tag": "h5",
+        "text": "The cheapest tyres in town.<br/>Reserve Online and Pay In Store.",
+        "link": "https://kamservicing.com/tyres.php",
+        "align": "center",
+        "class": "service-item"
+       }
+      }
+     ]
+    },
+    {
+     "class": "kam-blockrow",
+     "width": 33.333,
+     "tablet": 50,
+     "mobile": 50,
+     "padding": {
+      "top": 24,
+      "right": 12,
+      "bottom": 0,
+      "left": 12
+     },
+     "widgets": [
+      {
+       "widget": "image-box",
+       "fields": {
+        "url": "https://kamservicing.eastwoodfc.com/wp-content/uploads/2026/10/ac.jpg",
+        "alt": "Book Air Con Regas",
+        "title": "Book A/C Services",
+        "tag": "h5",
+        "text": "Car Air Con Recharge &amp; Regas<br/>R134a and the new 1234yf gas available.",
+        "link": "https://kamservicing.com/bookings.php?q=3#ac",
+        "align": "center",
+        "class": "service-item"
+       }
+      }
+     ]
+    },
+    {
+     "class": "kam-blockrow",
+     "width": 33.333,
+     "tablet": 50,
+     "mobile": 50,
+     "padding": {
+      "top": 24,
+      "right": 12,
+      "bottom": 0,
+      "left": 12
+     },
+     "widgets": [
+      {
+       "widget": "image-box",
+       "fields": {
+        "url": "https://kamservicing.eastwoodfc.com/wp-content/uploads/2026/10/dpf.jpg",
+        "alt": "DPF Clean",
+        "title": "Book DPF Clean",
+        "tag": "h5",
+        "text": "A clean well maintained Diesel Particulate Filter<br/>will enable your engine to maintain optimum efficiency.",
+        "link": "https://kamservicing.com/bookings.php?q=5#dpfc",
+        "align": "center",
+        "class": "service-item"
+       }
+      }
+     ]
+    },
+    {
+     "class": "kam-blockrow",
+     "width": 33.333,
+     "tablet": 50,
+     "mobile": 50,
+     "padding": {
+      "top": 24,
+      "right": 12,
+      "bottom": 0,
+      "left": 12
+     },
+     "widgets": [
+      {
+       "widget": "image-box",
+       "fields": {
+        "url": "https://kamservicing.eastwoodfc.com/wp-content/uploads/2026/10/diagnostic_check_logo.jpg",
+        "alt": "Book Diagnostic Check",
+        "title": "Book Diagnostic Check",
+        "tag": "h5",
+        "text": "Dashboard Warning Light On<br/>Don't get caught out!.",
+        "link": "https://kamservicing.com/bookings.php?q=4#diag",
+        "align": "center",
+        "class": "service-item"
+       }
+      }
+     ]
+    },
+    {
+     "class": "kam-blockrow",
+     "width": 33.333,
+     "tablet": 50,
+     "mobile": 50,
+     "padding": {
+      "top": 24,
+      "right": 12,
+      "bottom": 0,
+      "left": 12
+     },
+     "widgets": [
+      {
+       "widget": "image-box",
+       "fields": {
+        "url": "https://kamservicing.eastwoodfc.com/wp-content/uploads/2026/10/clutch_plate.jpg",
+        "alt": "Free Clutch Check",
+        "title": "Book Clutch Check",
+        "tag": "h5",
+        "text": "Does your clutch feel unusual?<br/>Book a <b><u>FREE</u></b> Clutch Inspection",
+        "link": "https://kamservicing.com/bookings.php?q=6#clutchcheck",
+        "align": "center",
+        "class": "service-item"
+       }
+      }
+     ]
+    },
+    {
+     "class": "kam-blockrow",
+     "width": 33.333,
+     "tablet": 50,
+     "mobile": 50,
+     "padding": {
+      "top": 24,
+      "right": 12,
+      "bottom": 0,
+      "left": 12
+     },
+     "widgets": [
+      {
+       "widget": "image-box",
+       "fields": {
+        "url": "https://kamservicing.eastwoodfc.com/wp-content/uploads/2026/10/health_check.jpg",
+        "alt": "Vehicle Health Check",
+        "title": "Book Health Check",
+        "tag": "h5",
+        "text": "Vehicle Health Check<br/>Avoid breakdowns and keep your car running smoothly",
+        "link": "https://kamservicing.com/bookings.php?q=6#clutchcheck",
+        "align": "center",
+        "class": "service-item"
+       }
+      }
+     ]
+    },
+    {
+     "class": "kam-blockrow",
+     "width": 33.333,
+     "tablet": 50,
+     "mobile": 50,
+     "padding": {
+      "top": 24,
+      "right": 12,
+      "bottom": 0,
+      "left": 12
+     },
+     "widgets": [
+      {
+       "widget": "image-box",
+       "fields": {
+        "url": "https://kamservicing.eastwoodfc.com/wp-content/uploads/2026/10/ev.jpg",
+        "alt": "electric ev servicing logo",
+        "title": "EV-Hybrid Servicing",
+        "tag": "h5",
+        "text": "Our trained team of technicians<br/>can look after your EV.",
+        "link": "https://kamservicing.com/bookings.php?q=2#servicing",
+        "align": "center",
+        "class": "service-item"
+       }
+      }
+     ]
+    },
+    {
+     "class": "kam-blockrow",
+     "width": 33.333,
+     "tablet": 50,
+     "mobile": 50,
+     "padding": {
+      "top": 24,
+      "right": 12,
+      "bottom": 0,
+      "left": 12
+     },
+     "widgets": [
+      {
+       "widget": "image-box",
+       "fields": {
+        "url": "https://kamservicing.eastwoodfc.com/wp-content/uploads/2026/10/pay_later.jpg",
+        "alt": "Buy Now Pay Later",
+        "title": "Spread The Cost",
+        "tag": "h5",
+        "text": "Pay 25% of your bill today.<br/>Spread the rest over the next 3 months.",
+        "link": "/payment-assist/",
+        "align": "center",
+        "class": "service-item"
+       }
+      }
+     ]
+    },
+    {
+     "class": "kam-blockrow",
+     "width": 33.333,
+     "tablet": 50,
+     "mobile": 50,
+     "padding": {
+      "top": 24,
+      "right": 12,
+      "bottom": 0,
+      "left": 12
+     },
+     "widgets": [
+      {
+       "widget": "image-box",
+       "fields": {
+        "url": "https://kamservicing.eastwoodfc.com/wp-content/uploads/2026/10/wheel_align.jpg",
+        "alt": "Wheel Alignment",
+        "title": "Discounted Wheel Alignment",
+        "tag": "h5",
+        "text": "Buy 2 or more tyres and get<br/>discounted front wheel alignment!. (selected depots)",
+        "link": "https://kamservicing.com/tyres.php",
+        "align": "center",
+        "class": "service-item"
+       }
+      }
+     ]
+    },
+    {
+     "class": "kam-blockrow",
+     "width": 33.333,
+     "tablet": 50,
+     "mobile": 50,
+     "padding": {
+      "top": 24,
+      "right": 12,
+      "bottom": 0,
+      "left": 12
+     },
+     "widgets": [
+      {
+       "widget": "image-box",
+       "fields": {
+        "url": "https://kamservicing.eastwoodfc.com/wp-content/uploads/2026/10/brake_check.jpg",
+        "alt": "Free Brake Check",
+        "title": "Book Brake Check",
+        "tag": "h5",
+        "text": "Do your brakes feel unusual?<br/>Book a <b><u>FREE</u></b> brake inspection",
+        "link": "https://kamservicing.com/bookings.php?q=6#clutchcheck",
+        "align": "center",
+        "class": "service-item"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "wrap": "container-fluid container-grey",
+   "wrap_padding": {
+    "top": 60,
+    "right": 10,
+    "bottom": 80,
+    "left": 10
+   },
+   "id": "about",
+   "class": "container",
+   "columns": [
+    {
+     "class": "kam-blockrow text-center",
+     "width": 100,
+     "padding": {
+      "left": 12,
+      "right": 12
+     },
+     "widgets": [
+      {
+       "widget": "heading",
+       "fields": {
+        "tag": "h4",
+        "title": "ABOUT KAM SERVICING",
+        "align": "center",
+        "class": "mb-4"
+       }
+      },
+      {
+       "widget": "text-editor",
+       "fields": {
+        "editor": "<p>KAM Servicing is a trusted family-run business that has been serving motorists across Derbyshire and the East Midlands for over 30 years.</p><p>What began as a small garage in Sawley, Derbyshire has grown into one of the largest independent garage networks in the region. Our continued commitment to quality workmanship, honest advice, and excellent customer service has helped us build long-standing relationships with drivers across the area.</p><p>Today, more than three decades later, KAM Servicing operates 16 centres throughout the East Midlands, covering locations from M1 Junction 24 to Junction 28. As we continue to grow, additional centres will be opening over the coming years, allowing us to serve even more customers across the region.</p><p>KAM Servicing is proud to be rated <b>Excellent on Trustpilot</b>. We are also accredited members of the <b>Good Garage Scheme</b> and recognised by the <b>AA</b> for warranty repair work. These accreditations reflect our commitment to maintaining the highest standards of service, giving you complete confidence that your vehicle is in safe and professional hands.</p>"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "wrap": "container-fluid container-grey",
+   "wrap_padding": {
+    "top": 60,
+    "right": 10,
+    "bottom": 0,
+    "left": 10
+   },
+   "id": "services",
+   "class": "container",
+   "columns": [
+    {
+     "class": "kam-blockrow",
+     "width": 100,
+     "padding": {
+      "left": 12,
+      "right": 12
+     },
+     "widgets": [
+      {
+       "widget": "heading",
+       "fields": {
+        "tag": "h4",
+        "title": "SERVICES",
+        "align": "center",
+        "class": "mb-0"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "wrap": "container-fluid container-grey",
+   "wrap_padding": {
+    "top": 0,
+    "right": 10,
+    "bottom": 0,
+    "left": 10
+   },
+   "class": "container kam-grid",
+   "columns": [
+    {
+     "class": "kam-blockrow",
+     "width": 33.333,
+     "tablet": 50,
+     "mobile": 50,
+     "padding": {
+      "top": 24,
+      "right": 12,
+      "bottom": 0,
+      "left": 12
+     },
+     "widgets": [
+      {
+       "widget": "image-box",
+       "fields": {
+        "url": "https://kamservicing.eastwoodfc.com/wp-content/uploads/2026/10/abs.jpg",
+        "alt": "abs repairs",
+        "title": "ABS REPAIRS",
+        "tag": "h5",
+        "text": "Specialists in ABS fault finding and repairs.",
+        "link": "/abs-repairs/",
+        "align": "center",
+        "class": "service-item"
+       }
+      }
+     ]
+    },
+    {
+     "class": "kam-blockrow",
+     "width": 33.333,
+     "tablet": 50,
+     "mobile": 50,
+     "padding": {
+      "top": 24,
+      "right": 12,
+      "bottom": 0,
+      "left": 12
+     },
+     "widgets": [
+      {
+       "widget": "image-box",
+       "fields": {
+        "url": "https://kamservicing.eastwoodfc.com/wp-content/uploads/2026/10/exhaust.jpg",
+        "alt": "car exhausts",
+        "title": "EXHAUSTS",
+        "tag": "h5",
+        "text": "Exhausts replaced, repaired, supplied and fitted.",
+        "link": "/exhausts/",
+        "align": "center",
+        "class": "service-item"
+       }
+      }
+     ]
+    },
+    {
+     "class": "kam-blockrow",
+     "width": 33.333,
+     "tablet": 50,
+     "mobile": 50,
+     "padding": {
+      "top": 24,
+      "right": 12,
+      "bottom": 0,
+      "left": 12
+     },
+     "widgets": [
+      {
+       "widget": "image-box",
+       "fields": {
+        "url": "https://kamservicing.eastwoodfc.com/wp-content/uploads/2026/10/air-bag.jpg",
+        "alt": "airbag faults",
+        "title": "AIRBAG FAULTS",
+        "tag": "h5",
+        "text": "Specialists in Airbag fault finding and repairs.",
+        "link": "/airbag-faults/",
+        "align": "center",
+        "class": "service-item"
+       }
+      }
+     ]
+    },
+    {
+     "class": "kam-blockrow",
+     "width": 33.333,
+     "tablet": 50,
+     "mobile": 50,
+     "padding": {
+      "top": 24,
+      "right": 12,
+      "bottom": 0,
+      "left": 12
+     },
+     "widgets": [
+      {
+       "widget": "image-box",
+       "fields": {
+        "url": "https://kamservicing.eastwoodfc.com/wp-content/uploads/2026/10/brakes.jpg",
+        "alt": "car brake repairs",
+        "title": "BRAKE REPAIRS",
+        "tag": "h5",
+        "text": "Brake repairs – We can carry out all aspects of brake repairs",
+        "link": "/brakes/",
+        "align": "center",
+        "class": "service-item"
+       }
+      }
+     ]
+    },
+    {
+     "class": "kam-blockrow",
+     "width": 33.333,
+     "tablet": 50,
+     "mobile": 50,
+     "padding": {
+      "top": 24,
+      "right": 12,
+      "bottom": 0,
+      "left": 12
+     },
+     "widgets": [
+      {
+       "widget": "image-box",
+       "fields": {
+        "url": "https://kamservicing.eastwoodfc.com/wp-content/uploads/2026/10/diagnostics.jpg",
+        "alt": "car diagnostics",
+        "title": "DIAGNOSTICS",
+        "tag": "h5",
+        "text": "Expert Diagnostics using the latest equipment.",
+        "link": "/diagnostics/",
+        "align": "center",
+        "class": "service-item"
+       }
+      }
+     ]
+    },
+    {
+     "class": "kam-blockrow",
+     "width": 33.333,
+     "tablet": 50,
+     "mobile": 50,
+     "padding": {
+      "top": 24,
+      "right": 12,
+      "bottom": 0,
+      "left": 12
+     },
+     "widgets": [
+      {
+       "widget": "image-box",
+       "fields": {
+        "url": "https://kamservicing.eastwoodfc.com/wp-content/uploads/2026/10/clutch.jpg",
+        "alt": "car clutch repairs",
+        "title": "CLUTCH REPAIRS",
+        "tag": "h5",
+        "text": "Quality clutch repairs.",
+        "link": "/clutch-replacement/",
+        "align": "center",
+        "class": "service-item"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "wrap": "container-fluid container-grey",
+   "wrap_padding": {
+    "top": 0,
+    "right": 10,
+    "bottom": 80,
+    "left": 10
+   },
+   "class": "container",
+   "columns": [
+    {
+     "class": "kam-blockrow view-all-services",
+     "width": 100,
+     "padding": {
+      "top": 60,
+      "left": 12,
+      "right": 12
+     },
+     "widgets": [
+      {
+       "widget": "text-editor",
+       "fields": {
+        "editor": "<p class=\"text-center mb-0\"><a class=\"btn btn-primary text-decoration-none text-white\" href=\"/services/\">View All Services</a></p>"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "wrap": "container-fluid container-grey",
+   "wrap_padding": {
+    "top": 60,
+    "right": 10,
+    "bottom": 80,
+    "left": 10
+   },
+   "id": "ratings",
+   "class": "container",
+   "columns": [
+    {
+     "class": "kam-blockrow",
+     "width": 100,
+     "padding": {
+      "left": 12,
+      "right": 12
+     },
+     "widgets": [
+      {
+       "widget": "heading",
+       "fields": {
+        "tag": "h4",
+        "title": "WHAT OUR CUSTOMERS SAY",
+        "align": "center",
+        "class": "mb-4"
+       }
+      },
+      {
+       "block": "kam_reviews",
+       "fields": {
+        "google_logo": "https://kamservicing.eastwoodfc.com/wp-content/uploads/2026/10/Google_2015_logo.svg_.webp",
+        "google_rating": "4.6",
+        "ggs_logo": "https://kamservicing.eastwoodfc.com/wp-content/uploads/2026/10/logo.png",
+        "ggs_url": "https://www.goodgaragescheme.com/pages/garage.aspx/6618/Kam+Servicing+Sherwood"
+       },
+       "lines": "Simon|Fantastic service, would use again\nNatasha|Very good service. Friendly staff. Got me in the day I wanted which was very convenient.\nMr Eric Giles|5 Star always excellent service\nMr J Davis|Very quick and easy. Good value. I will use your services again\nMr Coldrick|Good service invaluable to me on a Sunday.\nMRS S SWAN|They fit me in at short notice, kept me up to date about what was happening and were friendly and helpful throughout."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -47,8 +47,7 @@
       {
        "widget": "text-editor",
        "fields": {
-        "editor": "<p class=\"font-16\">Call <b>Ashley</b> on <a href=\"tel:01332342002\">01332 342 002</a> for details.</p>",
-        "class": "font-16"
+        "editor": "<p class=\"font-16\">Call <b>Ashley</b> on <a href=\"tel:01332342002\">01332 342 002</a> for details.</p>"
        }
       }
      ]
@@ -74,8 +73,7 @@
       {
        "widget": "text-editor",
        "fields": {
-        "editor": "<hr><p class=\"font-16\">Need Car Repairs on a Budget? Payment Assist offers financing for affordable monthly installments. Apply in-store and get approved quickly. Keep your vehicle running smoothly without financial stress.</p><ul class=\"font-16\"><li class=\"pb-2\">Need car repairs but short on cash? Our flexible payment plan requires just a 25% upfront deposit followed by 3 easy monthly payments. Get the repairs you need without breaking the bank.</li> <!-- <li class=\"pb-2\">Bad credit? No problem. Get affordable car repairs under £1,000 with our no credit check financing. Apply today and get started right away.</li> --> <li class=\"pb-2\">We offer affordable car repairs under £1,000.</li></ul><p class=\"font-16\">No more car repair stress. Payment Assist offers flexible financing and expert car repair services. <a href=\"#contact\">Contact us</a> today for a free consultation.</p>",
-        "class": "font-16"
+        "editor": "<hr><p class=\"font-16\">Need Car Repairs on a Budget? Payment Assist offers financing for affordable monthly installments. Apply in-store and get approved quickly. Keep your vehicle running smoothly without financial stress.</p><ul class=\"font-16\"><li class=\"pb-2\">Need car repairs but short on cash? Our flexible payment plan requires just a 25% upfront deposit followed by 3 easy monthly payments. Get the repairs you need without breaking the bank.</li> <!-- <li class=\"pb-2\">Bad credit? No problem. Get affordable car repairs under £1,000 with our no credit check financing. Apply today and get started right away.</li> --> <li class=\"pb-2\">We offer affordable car repairs under £1,000.</li></ul><p class=\"font-16\">No more car repair stress. Payment Assist offers flexible financing and expert car repair services. <a href=\"#contact\">Contact us</a> today for a free consultation.</p>"
        }
       }
      ]
@@ -113,8 +111,7 @@
       {
        "widget": "text-editor",
        "fields": {
-        "editor": "<hr><p class=\"font-16\">Derby Residents: Get Back on the Road Quickly with our Expert Car Care.</p><p class=\"font-16\">Schedule a car service at our AA-approved Derby garage today. Our expert technicians will diagnose and repair any car problem, getting you back on the road quickly and efficiently. Regular maintenance can help avoid major issues and save you money in the long run. Schedule a car service at our AA-approved Derby garage today. Let us keep your vehicle running at its best, ensuring optimal performance and warranty protection.</p><p class=\"font-16\">Trust Our Experienced Team : Our expert technicians have the skills and knowledge to handle any car problem. Don't wait until it's too late, schedule your car service at our Derby garage today and experience the difference.</p>",
-        "class": "font-16"
+        "editor": "<hr><p class=\"font-16\">Derby Residents: Get Back on the Road Quickly with our Expert Car Care.</p><p class=\"font-16\">Schedule a car service at our AA-approved Derby garage today. Our expert technicians will diagnose and repair any car problem, getting you back on the road quickly and efficiently. Regular maintenance can help avoid major issues and save you money in the long run. Schedule a car service at our AA-approved Derby garage today. Let us keep your vehicle running at its best, ensuring optimal performance and warranty protection.</p><p class=\"font-16\">Trust Our Experienced Team : Our expert technicians have the skills and knowledge to handle any car problem. Don't wait until it's too late, schedule your car service at our Derby garage today and experience the difference.</p>"
        }
       },
       {
@@ -149,8 +146,7 @@
       {
        "widget": "text-editor",
        "fields": {
-        "editor": "<hr><p class=\"font-16\">Expert MOT Testing in Derby: Trust KAM</p><p class=\"font-16\">Keep your vehicle roadworthy with KAM's expert MOT testing services. Our skilled mechanics have years of experience ensuring cars meet DVSA regulations. We offer competitive pricing and convenient scheduling options. Choose KAM for reliable, efficient, and customer-focused MOT testing.</p><p class=\"font-16\">Why choose KAM for your MOT?</p><ul class=\"font-16\"><li class=\"pb-2\">Speed: We prioritise efficiency to minimize your wait time, so you can get back on the road quickly.</li> <li class=\"pb-2\">Reliability: Our technicians are highly trained and experienced in MOT testing, ensuring accurate and thorough inspections.</li> <li class=\"pb-2\">Affordability: We offer competitive pricing and discounts on combined services, making it easy to keep your vehicle roadworthy without breaking the bank.</li> <li class=\"pb-2\">Convenience: Book your appointment online or over the phone at your convenience, so you can schedule a time that works best for you.</li></ul><p class=\"font-16\">Don't compromise your safety. Schedule your MOT test at KAM today and ensure your vehicle is roadworthy, so you can drive with confidence.</p>",
-        "class": "font-16"
+        "editor": "<hr><p class=\"font-16\">Expert MOT Testing in Derby: Trust KAM</p><p class=\"font-16\">Keep your vehicle roadworthy with KAM's expert MOT testing services. Our skilled mechanics have years of experience ensuring cars meet DVSA regulations. We offer competitive pricing and convenient scheduling options. Choose KAM for reliable, efficient, and customer-focused MOT testing.</p><p class=\"font-16\">Why choose KAM for your MOT?</p><ul class=\"font-16\"><li class=\"pb-2\">Speed: We prioritise efficiency to minimize your wait time, so you can get back on the road quickly.</li> <li class=\"pb-2\">Reliability: Our technicians are highly trained and experienced in MOT testing, ensuring accurate and thorough inspections.</li> <li class=\"pb-2\">Affordability: We offer competitive pricing and discounts on combined services, making it easy to keep your vehicle roadworthy without breaking the bank.</li> <li class=\"pb-2\">Convenience: Book your appointment online or over the phone at your convenience, so you can schedule a time that works best for you.</li></ul><p class=\"font-16\">Don't compromise your safety. Schedule your MOT test at KAM today and ensure your vehicle is roadworthy, so you can drive with confidence.</p>"
        }
       },
       {
@@ -197,8 +193,7 @@
       {
        "widget": "text-editor",
        "fields": {
-        "editor": "<hr><p class=\"font-16\">Looking for top-notch car tyres without the hefty price tag? KAM is your one-stop shop! We offer a vast selection of quality car tyres to suit every budget and driving style. From budget-friendly tyres to premium brands, our inventory has something for everyone.</p><p class=\"font-16\">Our team of experts are dedicated to providing personalised guidance, helping you find the perfect tyres for your vehicle.</p><p class=\"font-16\">Enjoy fast and efficient tyre fitting services, ensuring you're back on the road in no time.</p><p class=\"font-16\">Discover the difference quality car tyres can make. Visit us today!</p>",
-        "class": "font-16"
+        "editor": "<hr><p class=\"font-16\">Looking for top-notch car tyres without the hefty price tag? KAM is your one-stop shop! We offer a vast selection of quality car tyres to suit every budget and driving style. From budget-friendly tyres to premium brands, our inventory has something for everyone.</p><p class=\"font-16\">Our team of experts are dedicated to providing personalised guidance, helping you find the perfect tyres for your vehicle.</p><p class=\"font-16\">Enjoy fast and efficient tyre fitting services, ensuring you're back on the road in no time.</p><p class=\"font-16\">Discover the difference quality car tyres can make. Visit us today!</p>"
        }
       },
       {
@@ -233,8 +228,7 @@
       {
        "widget": "text-editor",
        "fields": {
-        "editor": "<hr><p class=\"font-16\">For over 30 years, we've been Derby's go-to for reliable cam belt replacements. Our experienced technicians are dedicated to precision and quality, ensuring your engine runs smoothly and efficiently.</p><p class=\"font-16\">With decades of experience, we guarantee a well-done job, every time. We use only the best parts and tools for a reliable, long-lasting repair.</p><p class=\"font-16\">A well-maintained cam belt improves fuel efficiency and reduces costs. Don't risk engine damage. Schedule your replacement today. We'll provide a detailed inspection and quote, so you can make an informed decision.</p>",
-        "class": "font-16"
+        "editor": "<hr><p class=\"font-16\">For over 30 years, we've been Derby's go-to for reliable cam belt replacements. Our experienced technicians are dedicated to precision and quality, ensuring your engine runs smoothly and efficiently.</p><p class=\"font-16\">With decades of experience, we guarantee a well-done job, every time. We use only the best parts and tools for a reliable, long-lasting repair.</p><p class=\"font-16\">A well-maintained cam belt improves fuel efficiency and reduces costs. Don't risk engine damage. Schedule your replacement today. We'll provide a detailed inspection and quote, so you can make an informed decision.</p>"
        }
       },
       {
@@ -281,8 +275,7 @@
       {
        "widget": "text-editor",
        "fields": {
-        "editor": "<hr><p class=\"font-16\">Tired of DPF issues? Our advanced cleaning solution is here to help. We use cutting-edge technology to meticulously remove soot and contaminants, preventing costly repairs and ensuring optimal engine performance.</p><p class=\"font-16\">Invest in your vehicle's health today and experience the difference a clean DPF can make. Our expert technicians are dedicated to providing top-notch DPF cleaning services, ensuring your engine runs smoothly and efficiently. Don't let DPF issues hold you back. Contact us today for a consultation and let us restore your vehicle's performance</p>",
-        "class": "font-16"
+        "editor": "<hr><p class=\"font-16\">Tired of DPF issues? Our advanced cleaning solution is here to help. We use cutting-edge technology to meticulously remove soot and contaminants, preventing costly repairs and ensuring optimal engine performance.</p><p class=\"font-16\">Invest in your vehicle's health today and experience the difference a clean DPF can make. Our expert technicians are dedicated to providing top-notch DPF cleaning services, ensuring your engine runs smoothly and efficiently. Don't let DPF issues hold you back. Contact us today for a consultation and let us restore your vehicle's performance</p>"
        }
       },
       {
@@ -317,8 +310,7 @@
       {
        "widget": "text-editor",
        "fields": {
-        "editor": "<hr><p class=\"font-16\">Maintaining a hybrid vehicle is akin to caring for a traditional car, but with a few additional considerations. Our expert technicians are not only proficient in handling standard maintenance procedures but also possess a deep understanding of the unique intricacies of hybrid technology. They are equipped to address the specific needs of your hybrid vehicle, ensuring its optimal performance and longevity. By entrusting your hybrid to our skilled technicians, you can rest assured that it is receiving the highest quality care, tailored to its specific requirements.</p><p class=\"font-16\">Schedule your hybrid service today and experience the peace of mind that comes with knowing your vehicle is in the hands of true experts. Our technicians are dedicated to providing exceptional care for your hybrid, utilising the latest diagnostic equipment and adhering to manufacturer guidelines. By choosing our services, you're investing in the long-term health and performance of your vehicle. Don't compromise on the care your hybrid deserves.</p>",
-        "class": "font-16"
+        "editor": "<hr><p class=\"font-16\">Maintaining a hybrid vehicle is akin to caring for a traditional car, but with a few additional considerations. Our expert technicians are not only proficient in handling standard maintenance procedures but also possess a deep understanding of the unique intricacies of hybrid technology. They are equipped to address the specific needs of your hybrid vehicle, ensuring its optimal performance and longevity. By entrusting your hybrid to our skilled technicians, you can rest assured that it is receiving the highest quality care, tailored to its specific requirements.</p><p class=\"font-16\">Schedule your hybrid service today and experience the peace of mind that comes with knowing your vehicle is in the hands of true experts. Our technicians are dedicated to providing exceptional care for your hybrid, utilising the latest diagnostic equipment and adhering to manufacturer guidelines. By choosing our services, you're investing in the long-term health and performance of your vehicle. Don't compromise on the care your hybrid deserves.</p>"
        }
       },
       {
@@ -365,8 +357,7 @@
       {
        "widget": "text-editor",
        "fields": {
-        "editor": "<hr><p class=\"font-16\"><i class=\"fas fa-map-marker-alt i-class-color\"></i> 252 Abbey St<br/> Derby<br/> DE22 3SW</p><p class=\"font-16\"><a href=\"tel:01332342002\"><i class=\"fas fa-phone i-class-color\"></i> 01332 342 002</a><br/> <i class=\"fas fa-envelope i-class-color\"></i> derby@kamservicing.com<br/> <i class=\"fas fa-user i-class-color\"></i> Manager : Ashley Wallace</p><p class=\"font-16\"><i class=\"fas fa-clock i-class-color\"></i> Mon-Fri : 7.30am - 5.30pm<br/> Sat : 7.45am - 2.00pm<br/> Sun : Closed</p>",
-        "class": "font-16"
+        "editor": "<hr><p class=\"font-16\"><i class=\"fas fa-map-marker-alt i-class-color\"></i> 252 Abbey St<br/> Derby<br/> DE22 3SW</p><p class=\"font-16\"><a href=\"tel:01332342002\"><i class=\"fas fa-phone i-class-color\"></i> 01332 342 002</a><br/> <i class=\"fas fa-envelope i-class-color\"></i> derby@kamservicing.com<br/> <i class=\"fas fa-user i-class-color\"></i> Manager : Ashley Wallace</p><p class=\"font-16\"><i class=\"fas fa-clock i-class-color\"></i> Mon-Fri : 7.30am - 5.30pm<br/> Sat : 7.45am - 2.00pm<br/> Sun : Closed</p>"
        }
       }
      ]
@@ -392,8 +383,7 @@
       {
        "widget": "text-editor",
        "fields": {
-        "editor": "<hr><p class=\"font-16\">Email us using the form below.</p>",
-        "class": "font-16"
+        "editor": "<hr><p class=\"font-16\">Email us using the form below.</p>"
        }
       },
       {
@@ -441,8 +431,7 @@
       {
        "widget": "text-editor",
        "fields": {
-        "editor": "<hr><p class=\"font-16\">We're conveniently located in Derby South, specifically in the Abbey Street area, which is part of the Abbey ward. Our location puts us within easy walking distance of the city center, where you'll find a vibrant mix of shops, restaurants, and entertainment. If you're a student at the University of Derby, we're also nearby. And for those who enjoy the outdoors, we're surrounded by beautiful green spaces like Derby Arboretum and Markeaton Park. Whether you live in the area or are just visiting, we're here to offer you exceptional service.</p>",
-        "class": "font-16"
+        "editor": "<hr><p class=\"font-16\">We're conveniently located in Derby South, specifically in the Abbey Street area, which is part of the Abbey ward. Our location puts us within easy walking distance of the city center, where you'll find a vibrant mix of shops, restaurants, and entertainment. If you're a student at the University of Derby, we're also nearby. And for those who enjoy the outdoors, we're surrounded by beautiful green spaces like Derby Arboretum and Markeaton Park. Whether you live in the area or are just visiting, we're here to offer you exceptional service.</p>"
        }
       },
       {
@@ -473,7 +462,8 @@
         "lat": "52.91548",
         "lng": "-1.48336",
         "zoom": "16",
-        "title": "KAM derby"
+        "title": "KAM derby",
+        "key": "AIzaSyDGrGuuFnXuejU-iuzOTXUSIDn6KTFYCa4"
        }
       }
      ]
@@ -511,8 +501,7 @@
       {
        "widget": "text-editor",
        "fields": {
-        "editor": "<hr><p class=\"font-16\">Trusted for over 30 years, we're a family-run garage with a 4.5-star Google rating. Specialising in all makes and models, we offer MOT testing, car servicing, and expert repairs like air conditioning, diagnostics, and clutch work. Enjoy a friendly atmosphere and competitive prices. Call <a href=\"tel:01332342002\">01332 342 002</a> to book your appointment. Our highly trained technicians use state-of-the-art equipment to deliver top-quality service. Customer satisfaction is our priority, and we're dedicated to going above and beyond for you.</p>",
-        "class": "font-16"
+        "editor": "<hr><p class=\"font-16\">Trusted for over 30 years, we're a family-run garage with a 4.5-star Google rating. Specialising in all makes and models, we offer MOT testing, car servicing, and expert repairs like air conditioning, diagnostics, and clutch work. Enjoy a friendly atmosphere and competitive prices. Call <a href=\"tel:01332342002\">01332 342 002</a> to book your appointment. Our highly trained technicians use state-of-the-art equipment to deliver top-quality service. Customer satisfaction is our priority, and we're dedicated to going above and beyond for you.</p>"
        }
       }
      ]

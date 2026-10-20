@@ -1,0 +1,108 @@
+{
+ "page": "brakes",
+ "replace": true,
+ "blocks": [
+  {
+   "class": "kam-blockrow",
+   "widgets": [
+    {
+     "block": "kam_hero",
+     "fields": {
+      "id": "demo"
+     },
+     "lines": "https://kamservicing.eastwoodfc.com/wp-content/uploads/2026/10/Ascot-Drive-1200x300px.jpg|CAR SERVICING|Car Servicing from £99.99\nhttps://kamservicing.eastwoodfc.com/wp-content/uploads/2026/10/Bulwell-1200x300px.jpg|BUY TYRES|The Best Tyre Prices Online.\nhttps://kamservicing.eastwoodfc.com/wp-content/uploads/2026/10/Ascot-Drive-Illuminated-1200x300px.jpg|M.O.T|With Full Service!"
+    }
+   ]
+  },
+  {
+   "wrap": "kam-blockrow",
+   "wrap_padding": {
+    "top": 0,
+    "right": 0,
+    "bottom": 0,
+    "left": 0
+   },
+   "class": "container kam-reverse-mobile",
+   "columns": [
+    {
+     "class": "kam-blockrow",
+     "width": 66.667,
+     "tablet": 66.667,
+     "mobile": 100,
+     "padding": {
+      "top": 0,
+      "right": 12,
+      "bottom": 0,
+      "left": 12
+     },
+     "widgets": [
+      {
+       "widget": "spacer",
+       "fields": {
+        "height": 27
+       }
+      },
+      {
+       "widget": "heading",
+       "fields": {
+        "tag": "h4",
+        "title": "CAR BRAKE REPAIRS",
+        "class": ""
+       }
+      },
+      {
+       "widget": "spacer",
+       "fields": {
+        "height": 27
+       }
+      },
+      {
+       "widget": "text-editor",
+       "fields": {
+        "editor": "<p>We all know how important the brakes are and how much potential danger can arise from these parts being faulty.</p><p>The brakes in your car play a vital role in ensuring your road safety.</p><p>The brakes are responsible for allowing your car to stop safely and when faults arise this can lead to mounting costs and in some cases, catastrophic damage to your car.</p><p>If your car is experiencing any early signs of brake problems make sure to bring it down to your local KAM Servicing centre where we offer a free brake check.</p><p>This will ensure your cars safety and we will even undertake the brake test while you wait so that no inconvenience is caused. Our talented team will be able to determine any existing or potential problems that lie within the car using our state of the art equipment.</p><p><b>Common Signs of Brake Wear</b><br/> A grinding noise - this usually suggests that the brake pads have reached the minimum thickness and a ready to be changed.</p><p>Pulling to the left or right - this normally indicates there could be sticking on the brake disc or issues with the brake hydraulics.</p><p>Remember that we offer a free local collection and delivery service - We also offer a free courtesy car while we undertake the repairs so that you are not caused too much inconvenience.</p>"
+       }
+      }
+     ]
+    },
+    {
+     "class": "kam-blockrow text-center",
+     "width": 33.333,
+     "tablet": 33.333,
+     "mobile": 100,
+     "padding": {
+      "top": 0,
+      "right": 12,
+      "bottom": 0,
+      "left": 12
+     },
+     "widgets": [
+      {
+       "widget": "image",
+       "fields": {
+        "url": "https://kamservicing.eastwoodfc.com/wp-content/uploads/2026/10/brakes.jpg",
+        "alt": "BRAKE REPAIRS",
+        "align": "left",
+        "class": "img-fluid w-100",
+        "link": "/contact/?&booking_for=Car-Brake-Repairs"
+       }
+      },
+      {
+       "widget": "heading",
+       "fields": {
+        "tag": "h5",
+        "title": "BRAKE REPAIRS",
+        "class": ""
+       }
+      },
+      {
+       "widget": "text-editor",
+       "fields": {
+        "editor": "<p class=\"text-dark\">Brake repairs - We are official PAGID Installers.<br/> Contact Your Local Branch For a Quote.</p><p class=\"mb-0\"><a class=\"text-decoration-none\" href=\"/contact/?&amp;booking_for=Car-Brake-Repairs\"><button class=\"btn bg-theme text-white btn-sm\">\n<i class=\"fas fa-check\"></i> Book Now\n                </button></a></p><hr>"
+       }
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,227 @@
+{
+ "page": "terms",
+ "replace": true,
+ "blocks": [
+  {
+   "wrap": "warranty-header",
+   "wrap_padding": {
+    "top": 60,
+    "right": 0,
+    "bottom": 60,
+    "left": 0
+   },
+   "class": "container",
+   "columns": [
+    {
+     "class": "kam-blockrow text-center",
+     "width": 100,
+     "padding": {
+      "left": 12,
+      "right": 12
+     },
+     "widgets": [
+      {
+       "widget": "heading",
+       "fields": {
+        "tag": "h1",
+        "title": "Warranty Terms &amp; Conditions",
+        "class": "fw-bold"
+       }
+      },
+      {
+       "widget": "text-editor",
+       "fields": {
+        "editor": "<p class=\"mb-0\">KAM SERVICING – WARRANTY TERMS AND CONDITIONS</p>"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "wrap": "bg-light",
+   "wrap_padding": {
+    "top": 48,
+    "right": 0,
+    "bottom": 48,
+    "left": 0
+   },
+   "class": "container justify-content-center",
+   "columns": [
+    {
+     "class": "kam-blockrow",
+     "width": 83.333,
+     "tablet": 100,
+     "mobile": 100,
+     "padding": {
+      "top": 0,
+      "right": 12,
+      "bottom": 0,
+      "left": 12
+     },
+     "inner": {
+      "class": "kam-blockrow card warranty-card",
+      "padding": {
+       "top": 48,
+       "right": 48,
+       "bottom": 48,
+       "left": 48
+      },
+      "widgets": [
+       {
+        "widget": "text-editor",
+        "fields": {
+         "editor": "<div class=\"warranty-item\">\n<div class=\"warranty-icon\">1</div>\n<div><strong>Proof of Purchase:</strong>  The original invoice must be provided before any work can be authorised under a warranty claim.</div>\n</div>"
+        }
+       },
+       {
+        "widget": "text-editor",
+        "fields": {
+         "editor": "<div class=\"warranty-item\">\n<div class=\"warranty-icon\">2</div>\n<div><strong>Warranty Period:</strong>  The warranty is valid from the date and/or mileage stated on the invoice and only applies to the person names on the invoice.</div>\n</div>"
+        }
+       },
+       {
+        "widget": "text-editor",
+        "fields": {
+         "editor": "<div class=\"warranty-item\">\n<div class=\"warranty-icon\">3</div>\n<div><strong>Repairs and Replacements:</strong>  KAM Servicing will endeavour to repair any defective part. If repair is not possible, the part will be replaced and refitted to the vehicle free of charge, subject to these terms and conditions.</div>\n</div>"
+        }
+       },
+       {
+        "widget": "text-editor",
+        "fields": {
+         "editor": "<div class=\"warranty-item\">\n<div class=\"warranty-icon\">4</div>\n<div><strong>Unauthorised Work:</strong>  The warranty will be void if any part is removed or interfered with by any third party without prior authorisation from KAM Servicing.</div>\n</div>"
+        }
+       },
+       {
+        "widget": "text-editor",
+        "fields": {
+         "editor": "<div class=\"warranty-item\">\n<div class=\"warranty-icon\">5</div>\n<div><strong>Exclusions of Liability:</strong>  KAM Servicing is not liable for any additional expenses, losses, or damages arising from a faulty part fitted.</div>\n</div>"
+        }
+       },
+       {
+        "widget": "text-editor",
+        "fields": {
+         "editor": "<div class=\"warranty-item\">\n<div class=\"warranty-icon\">6</div>\n<div><strong>Post-Repair Requirements:</strong>  Any mechanical repairs involving the engine or cylinder head gasket must be returned for re-torque, oil and filter change, or inspection within 500 miles of the invoice mileage.</div>\n</div>"
+        }
+       },
+       {
+        "widget": "text-editor",
+        "fields": {
+         "editor": "<div class=\"warranty-item\">\n<div class=\"warranty-icon\">7</div>\n<div><strong>Related Faults:</strong>  The warranty will be void if a component failure is caused by another fault that was identified on the invoice but not authorised for repair by the customer.</div>\n</div>"
+        }
+       },
+       {
+        "widget": "text-editor",
+        "fields": {
+         "editor": "<div class=\"warranty-item\">\n<div class=\"warranty-icon\">8</div>\n<div><strong>Undetected Issues:</strong>  KAM Servicing is not liable for any component failure that was not apparent at the time of repair.</div>\n</div>"
+        }
+       },
+       {
+        "widget": "text-editor",
+        "fields": {
+         "editor": "<div class=\"warranty-item\">\n<div class=\"warranty-icon\">9</div>\n<div><strong>Maximum Liability:</strong>  The maximum liability under any warranty claim is limited to the cost of the part supplied and fitted.</div>\n</div>"
+        }
+       },
+       {
+        "widget": "text-editor",
+        "fields": {
+         "editor": "<div class=\"warranty-item\">\n<div class=\"warranty-icon\">10</div>\n<div><strong>Warranty Claims Procedure:</strong>  In the event of a warranty claim, you must notify KAM Servicing and return the vehicle to the service centre where the work was carried out.</div>\n</div>"
+        }
+       },
+       {
+        "widget": "text-editor",
+        "fields": {
+         "editor": "<div class=\"warranty-item\">\n<div class=\"warranty-icon\">11</div>\n<div><strong>Wear and Tear:</strong>  This warranty does not cover damage resulting from normal wear and tear.</div>\n</div>"
+        }
+       },
+       {
+        "widget": "text-editor",
+        "fields": {
+         "editor": "<div class=\"warranty-item\">\n<div class=\"warranty-icon\">12</div>\n<div>\n<strong>Customer Responsibilities and Limitations:</strong>\n<ul><li>If you suffer any loss or damage for which KAM Servicing is responsible, you must provide a reasonable opportunity for the issue to be rectified.</li><li>You are required to take reasonable steps to minimise or avoid further loss or damage.</li><li>KAM Servicing will not be liable where you fail to provide such opportunity or fail to mitigate losses.</li><li>If an authorised repair is suspended at your request, or due to your breach of contract, KAM Servicing reserves the right to charge additional reasonable costs for any unavoidable expenses incurred.</li><li>Wheel alignment and geometry may be affected by road conditions and are therefore not covered under this warranty.</li></ul>\n</div>\n</div>"
+        }
+       },
+       {
+        "widget": "text-editor",
+        "fields": {
+         "editor": "<div class=\"warranty-item\">\n<div class=\"warranty-icon\">13</div>\n<div><strong>Ownership of Parts:</strong>  All parts fitted to the vehicle remain the property of KAM Servicing until payment has been made in full.</div>\n</div>"
+        }
+       },
+       {
+        "widget": "text-editor",
+        "fields": {
+         "editor": "<div class=\"warranty-item\">\n<div class=\"warranty-icon\">14</div>\n<div><strong>Parts Warranty:</strong>  All new parts carry a warranty of 12 months or 12,000 miles (whichever occurs first).</div>\n</div>"
+        }
+       },
+       {
+        "widget": "text-editor",
+        "fields": {
+         "editor": "<div class=\"warranty-item\">\n<div class=\"warranty-icon\">15</div>\n<div><strong>Service Adjustments:</strong>  This warranty does not cover serviceable adjustments.</div>\n</div>"
+        }
+       },
+       {
+        "widget": "text-editor",
+        "fields": {
+         "editor": "<div class=\"warranty-item\">\n<div class=\"warranty-icon\">16</div>\n<div><strong>Service Schedules:</strong>  KAM Servicing schedules are independent and may differ from manufacturer recommendations.</div>\n</div>"
+        }
+       },
+       {
+        "widget": "text-editor",
+        "fields": {
+         "editor": "<div class=\"warranty-item\">\n<div class=\"warranty-icon\">17</div>\n<div><strong>Digital Service Records:</strong>  KAM Servicing cannot guarantee that we can upload service history to online Digital Service Records.</div>\n</div>"
+        }
+       },
+       {
+        "widget": "text-editor",
+        "fields": {
+         "editor": "<div class=\"warranty-item\">\n<div class=\"warranty-icon\">18</div>\n<div><strong>Quotations:</strong>  All quotations are valid for 7 days from the date of issue.</div>\n</div>"
+        }
+       },
+       {
+        "widget": "text-editor",
+        "fields": {
+         "editor": "<div class=\"warranty-item\">\n<div class=\"warranty-icon\">19</div>\n<div><strong>Order Acceptance:</strong>  KAM Servicing reserves the right to refuse any order at its sole discretion. Where fraudulent activity is suspected, additional checks will be carried out, and relevant authorities WILL be notified.</div>\n</div>"
+        }
+       },
+       {
+        "widget": "text-editor",
+        "fields": {
+         "editor": "<div class=\"warranty-item\">\n<div class=\"warranty-icon\">20</div>\n<div><strong>Disposal of Parts:</strong>  Any removed parts, except those covered under warranty or exchange agreements, will be disposed of by the end of the working day in accordance with environmental regulations. A disposal fee may apply.</div>\n</div>"
+        }
+       },
+       {
+        "widget": "text-editor",
+        "fields": {
+         "editor": "<div class=\"warranty-item\">\n<div class=\"warranty-icon\">21</div>\n<div><strong>Storage Charges:</strong>  Storage charges may be applied to vehicles not collected within 5 days following completion of the work.</div>\n</div>"
+        }
+       },
+       {
+        "widget": "text-editor",
+        "fields": {
+         "editor": "<div class=\"warranty-item\">\n<div class=\"warranty-icon\">22</div>\n<div><strong>Vehicle Condition:</strong>  KAM Servicing is not liable for any damage resulting from pre-existing structural defects or weaknesses in the vehicle.</div>\n</div>"
+        }
+       },
+       {
+        "widget": "text-editor",
+        "fields": {
+         "editor": "<div class=\"warranty-item\">\n<div class=\"warranty-icon\">23</div>\n<div><strong>Parking Risk:</strong>  All vehicles left in the car park at owners’ risk.</div>\n</div>"
+        }
+       },
+       {
+        "widget": "text-editor",
+        "fields": {
+         "editor": "<div class=\"warranty-item\">\n<div class=\"warranty-icon\">24</div>\n<div><strong>Key Drop:</strong>  Keys left in the key drop off box is at owners’ risk.</div>\n</div>"
+        }
+       }
+      ],
+      "padding_mobile": {
+       "top": 24,
+       "right": 24,
+       "bottom": 24,
+       "left": 24
+      }
+     }
+    }
+   ]
+  }
+ ]
+}

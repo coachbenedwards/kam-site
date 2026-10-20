@@ -1,0 +1,110 @@
+{
+ "page": "abs-repairs",
+ "replace": true,
+ "blocks": [
+  {
+   "class": "kam-blockrow",
+   "widgets": [
+    {
+     "block": "kam_hero",
+     "fields": {
+      "id": "demo"
+     },
+     "lines": "https://kamservicing.eastwoodfc.com/wp-content/uploads/2026/10/Ascot-Drive-1200x300px.jpg|CAR SERVICING|Car Servicing from £99.99\nhttps://kamservicing.eastwoodfc.com/wp-content/uploads/2026/10/Bulwell-1200x300px.jpg|BUY TYRES|The Best Tyre Prices Online.\nhttps://kamservicing.eastwoodfc.com/wp-content/uploads/2026/10/Ascot-Drive-Illuminated-1200x300px.jpg|M.O.T|With Full Service!"
+    }
+   ]
+  },
+  {
+   "wrap": "kam-blockrow",
+   "wrap_padding": {
+    "top": 0,
+    "right": 0,
+    "bottom": 0,
+    "left": 0
+   },
+   "class": "container kam-reverse-mobile",
+   "columns": [
+    {
+     "class": "kam-blockrow",
+     "width": 66.667,
+     "tablet": 66.667,
+     "mobile": 100,
+     "padding": {
+      "top": 0,
+      "right": 12,
+      "bottom": 0,
+      "left": 12
+     },
+     "widgets": [
+      {
+       "widget": "spacer",
+       "fields": {
+        "height": 27
+       }
+      },
+      {
+       "widget": "heading",
+       "fields": {
+        "tag": "h4",
+        "title": "ABS FAULT REPAIRS",
+        "class": ""
+       }
+      },
+      {
+       "widget": "spacer",
+       "fields": {
+        "height": 27
+       }
+      },
+      {
+       "widget": "text-editor",
+       "fields": {
+        "editor": "<p>Here at KAM Servicing we specialise in diagnosing ABS problems, we provide a reliable and professional ABS repair service that will ensure any ABS faults are properly diagnosed and repaired to a high standard.</p><p>ABS, Anti-Lock-Braking Systems are electronically operated by an ABS ECU, and if a fault occurs or the ECU detects a problem such as a wheel turning significantly faster or slower than the others, it will send a signal to rectify it.</p><p>If a serious fault develops, the ABS ECU can cause the ABS to be disabled, which is dangerous and will cause an MOT failure.</p><p>An ABS system includes the ECU, wheel speed sensors and hydraulic valves within the brake hydraulics. A problem can occur with any of these which will cause a faulty signal to be sent to the ECU which will trigger the ABS light on the dashboard.</p><p>Should the ABS light appear on the dashboard - it is essential that you have a technician look at the vehicle immediately.</p><p>One of the most common faults, and the easiest to repair is a broken cable on the ABS sensor, this is simply a matter of replacing it with a new sensor.</p><p>We offer all our customers a pick-up and delivery service and if needed one of our courtesy cars can also be yours while we undertake the repairs.</p>"
+       }
+      }
+     ]
+    },
+    {
+     "class": "kam-blockrow",
+     "width": 33.333,
+     "tablet": 33.333,
+     "mobile": 100,
+     "padding": {
+      "top": 0,
+      "right": 12,
+      "bottom": 0,
+      "left": 12
+     },
+     "widgets": [
+      {
+       "widget": "image",
+       "fields": {
+        "url": "https://kamservicing.eastwoodfc.com/wp-content/uploads/2026/10/abs.jpg",
+        "alt": "ABS Fault Repairs",
+        "align": "center",
+        "class": "img-fluid",
+        "link": "/contact/?&booking_for=ABS-Repairs"
+       }
+      },
+      {
+       "widget": "heading",
+       "fields": {
+        "tag": "h5",
+        "title": "ABS REPAIRS",
+        "class": "",
+        "align": "center"
+       }
+      },
+      {
+       "widget": "text-editor",
+       "fields": {
+        "editor": "<p class=\"text-dark\">Specialist in ABS fault finding.<br/>Contact Your Local Branch For a Quote.</p><p class=\"mb-0 text-center\"><a class=\"text-decoration-none\" href=\"/contact/?&amp;booking_for=ABS-Repairs\"><button class=\"btn bg-theme text-white btn-sm\">\n<i class=\"fas fa-check\"></i> Book Now\n                        </button></a></p><hr>",
+        "class": "text-center"
+       }
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

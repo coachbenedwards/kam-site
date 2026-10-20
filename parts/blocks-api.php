@@ -37,6 +37,7 @@ function kam_blocks_allowed() {
 		// Only blocks that blocks.php registers. The home-page ones (hero,
 		// reviews, reg lookup) join this list when they are written.
 		'kam_tiles', 'kam_buttons', 'kam_branch', 'kam_contact_form', 'kam_map',
+		'kam_hero', 'kam_reviews',
 	);
 }
 
@@ -165,7 +166,9 @@ function kam_blocks_widget( $spec ) {
 			'settings'   => array(
 				'title'       => (string) ( $fields['title'] ?? '' ),
 				'header_size' => $tag,
-				'css_classes' => (string) ( $fields['class'] ?? '' ),
+				'align'       => (string) ( $fields['align'] ?? '' ),
+				'title_color' => (string) ( $fields['color'] ?? '' ),
+				'_css_classes' => (string) ( $fields['class'] ?? '' ),
 			),
 		);
 	}
@@ -177,7 +180,7 @@ function kam_blocks_widget( $spec ) {
 			'widgetType' => 'text-editor',
 			'settings'   => array(
 				'editor'      => (string) ( $fields['editor'] ?? '' ),
-				'css_classes' => (string) ( $fields['class'] ?? '' ),
+				'_css_classes' => (string) ( $fields['class'] ?? '' ),
 			),
 		);
 	}
@@ -205,9 +208,50 @@ function kam_blocks_widget( $spec ) {
 				'image'       => array( 'url' => $url, 'id' => $aid, 'alt' => (string) ( $fields['alt'] ?? '' ) ),
 				'image_size'  => 'full',
 				'align'       => (string) ( $fields['align'] ?? 'center' ),
+				// width: a percent of the column (an <img width="75%"> on the live site).
+				'width'       => isset( $fields['width'] ) ? array( 'unit' => '%', 'size' => (float) $fields['width'], 'sizes' => array() ) : array( 'unit' => '%', 'size' => '', 'sizes' => array() ),
 				'link_to'     => ! empty( $fields['link'] ) ? 'custom' : 'none',
 				'link'        => array( 'url' => (string) ( $fields['link'] ?? '' ) ),
-				'css_classes' => (string) ( $fields['class'] ?? '' ),
+				'_css_classes' => (string) ( $fields['class'] ?? '' ),
+			),
+		);
+	}
+
+	if ( 'spacer' === $kind ) {
+		// Empty vertical space, in pixels: what a bare <br> between blocks was.
+		return array(
+			'id'         => $id,
+			'elType'     => 'widget',
+			'widgetType' => 'spacer',
+			'settings'   => array( 'space' => array( 'unit' => 'px', 'size' => (int) ( $fields['height'] ?? 27 ), 'sizes' => array() ) ),
+		);
+	}
+
+	if ( 'image-box' === $kind ) {
+		// Elementor's own image + title + text + link card; every part a field.
+		$url = esc_url_raw( (string) ( $fields['url'] ?? '' ) );
+		$aid = (int) ( $fields['id'] ?? 0 );
+		if ( ! $aid && $url ) {
+			$aid = (int) attachment_url_to_postid( $url );
+		}
+		$tag = strtolower( (string) ( $fields['tag'] ?? 'h5' ) );
+		return array(
+			'id'         => $id,
+			'elType'     => 'widget',
+			'widgetType' => 'image-box',
+			'settings'   => array(
+				'image'            => array( 'url' => $url, 'id' => $aid, 'alt' => (string) ( $fields['alt'] ?? '' ) ),
+				'thumbnail_size'   => 'full',
+				// Full-width image, no gap under it: the tile's own classes space it.
+				'image_size'       => array( 'unit' => '%', 'size' => (int) ( $fields['image_width'] ?? 100 ), 'sizes' => array() ),
+				'image_space'      => array( 'unit' => 'px', 'size' => (int) ( $fields['image_space'] ?? 0 ), 'sizes' => array() ),
+				'title_text'       => (string) ( $fields['title'] ?? '' ),
+				'description_text' => (string) ( $fields['text'] ?? '' ),
+				'link'             => array( 'url' => (string) ( $fields['link'] ?? '' ), 'is_external' => '', 'nofollow' => '' ),
+				'position'         => 'top',
+				'title_size'       => in_array( $tag, array( 'h1', 'h2', 'h3', 'h4', 'h5', 'h6' ), true ) ? $tag : 'h5',
+				'text_align'       => (string) ( $fields['align'] ?? 'center' ),
+				'_css_classes'     => (string) ( $fields['class'] ?? '' ),
 			),
 		);
 	}
@@ -222,7 +266,7 @@ function kam_blocks_widget( $spec ) {
 				'link'        => array( 'url' => (string) ( $fields['link'] ?? '' ), 'is_external' => '', 'nofollow' => '' ),
 				'align'       => (string) ( $fields['align'] ?? 'left' ),
 				'size'        => (string) ( $fields['size'] ?? 'sm' ),
-				'css_classes' => (string) ( $fields['class'] ?? '' ),
+				'_css_classes' => (string) ( $fields['class'] ?? '' ),
 			),
 		);
 	}
@@ -284,16 +328,38 @@ function kam_blocks_row( $widgets, $class = 'kam-blockrow', $pad = array(), $ext
 function kam_blocks_columns( $columns, $class = 'kam-blockrow', $pad = array(), $extra = array() ) {
 	$children = array();
 	foreach ( $columns as $col ) {
-		$width = isset( $col['width'] ) ? (int) $col['width'] : 50;
+		$width = isset( $col['width'] ) ? (float) $col['width'] : 50;
 		$width = max( 10, min( 100, $width ) );
-		$child = kam_blocks_row( (array) ( $col['widgets'] ?? array() ),
+		$extra_col = array();
+		if ( ! empty( $col['padding_mobile'] ) ) {
+			// A phone-only padding (Bootstrap's p-4 p-md-5 and the like).
+			$pm = array_merge( array( 'top' => '0', 'right' => '0', 'bottom' => '0', 'left' => '0' ), $col['padding_mobile'] );
+			$extra_col['padding_mobile'] = array( 'unit' => 'px', 'top' => $pm['top'], 'right' => $pm['right'],
+				'bottom' => $pm['bottom'], 'left' => $pm['left'], 'isLinked' => false );
+		}
+		$widgets = (array) ( $col['widgets'] ?? array() );
+		if ( ! empty( $col['inner'] ) && is_array( $col['inner'] ) ) {
+			// A box inside the column (a Bootstrap .card): its own class and
+			// padding, holding the widgets.
+			$in = $col['inner'];
+			$in_extra = array();
+			if ( ! empty( $in['padding_mobile'] ) ) {
+				$pm = array_merge( array( 'top' => '0', 'right' => '0', 'bottom' => '0', 'left' => '0' ), $in['padding_mobile'] );
+				$in_extra['padding_mobile'] = array( 'unit' => 'px', 'top' => $pm['top'], 'right' => $pm['right'],
+					'bottom' => $pm['bottom'], 'left' => $pm['left'], 'isLinked' => false );
+			}
+			$box = kam_blocks_row( $widgets, (string) ( $in['class'] ?? 'kam-blockrow' ), (array) ( $in['padding'] ?? array() ), $in_extra );
+			$box['isInner'] = true;
+			$widgets = array( $box );
+		}
+		$child = kam_blocks_row( $widgets,
 			(string) ( $col['class'] ?? 'kam-blockrow' ),
 			(array) ( $col['padding'] ?? array() ),
-			array(
+			$extra_col + array(
 				'width'        => array( 'unit' => '%', 'size' => $width, 'sizes' => array() ),
 				// Bootstrap's col-lg-* stacks on a tablet too; col-md-* only on a phone.
-				'width_tablet' => array( 'unit' => '%', 'size' => isset( $col['tablet'] ) ? max( 10, min( 100, (int) $col['tablet'] ) ) : $width, 'sizes' => array() ),
-				'width_mobile' => array( 'unit' => '%', 'size' => 100, 'sizes' => array() ),
+				'width_tablet' => array( 'unit' => '%', 'size' => isset( $col['tablet'] ) ? max( 10, min( 100, (float) $col['tablet'] ) ) : $width, 'sizes' => array() ),
+				'width_mobile' => array( 'unit' => '%', 'size' => isset( $col['mobile'] ) ? max( 10, min( 100, (float) $col['mobile'] ) ) : 100, 'sizes' => array() ),
 			) );
 		$child['isInner'] = true;
 		$children[] = $child;
@@ -667,11 +733,11 @@ add_action( 'rest_api_init', function () {
 				}
 				return $built;
 			};
-			$padding = function ( $row ) {
+			$padding = function ( $row, $key = 'padding' ) {
 				$pad = array();
 				foreach ( array( 'top', 'right', 'bottom', 'left' ) as $side ) {
-					if ( isset( $row['padding'][ $side ] ) ) {
-						$pad[ $side ] = (string) (int) $row['padding'][ $side ];
+					if ( isset( $row[ $key ][ $side ] ) ) {
+						$pad[ $side ] = (string) (int) $row[ $key ][ $side ];
 					}
 				}
 				return $pad;
@@ -679,6 +745,13 @@ add_action( 'rest_api_init', function () {
 
 			foreach ( $rows as $row ) {
 				$extra = array();
+				if ( isset( $row['margin'] ) && is_array( $row['margin'] ) ) {
+					// Bootstrap's .row pulls itself up and out by its gutter; a
+					// container can do the same with a negative margin.
+					$m = array_merge( array( 'top' => 0, 'right' => 0, 'bottom' => 0, 'left' => 0 ), $row['margin'] );
+					$extra['margin'] = array( 'unit' => 'px', 'top' => (string) (int) $m['top'], 'right' => (string) (int) $m['right'],
+						'bottom' => (string) (int) $m['bottom'], 'left' => (string) (int) $m['left'], 'isLinked' => false );
+				}
 				if ( ! empty( $row['id'] ) ) {
 					$extra['_element_id'] = sanitize_html_class( (string) $row['id'] );
 				}
@@ -687,16 +760,23 @@ add_action( 'rest_api_init', function () {
 				if ( ! empty( $row['columns'] ) && is_array( $row['columns'] ) ) {
 					$cols = array();
 					foreach ( $row['columns'] as $col ) {
-						$built = $build( $col['widgets'] ?? array() );
+						$built = $build( $col['widgets'] ?? ( $col['inner']['widgets'] ?? array() ) );
 						if ( is_wp_error( $built ) ) {
 							return $built;
 						}
 						$cols[] = array(
 							'class'   => (string) ( $col['class'] ?? 'kam-blockrow' ),
 							'widgets' => $built,
-							'width'   => isset( $col['width'] ) ? (int) $col['width'] : 50,
-							'tablet'  => isset( $col['tablet'] ) ? (int) $col['tablet'] : ( isset( $col['width'] ) ? (int) $col['width'] : 50 ),
+							'width'   => isset( $col['width'] ) ? (float) $col['width'] : 50,
+							'tablet'  => isset( $col['tablet'] ) ? (float) $col['tablet'] : ( isset( $col['width'] ) ? (float) $col['width'] : 50 ),
+							'mobile'  => isset( $col['mobile'] ) ? (float) $col['mobile'] : 100,
 							'padding' => $padding( $col ),
+							'padding_mobile' => $padding( $col, 'padding_mobile' ),
+							'inner'   => empty( $col['inner'] ) ? null : array(
+								'class'          => (string) ( $col['inner']['class'] ?? 'kam-blockrow' ),
+								'padding'        => $padding( $col['inner'] ),
+								'padding_mobile' => $padding( $col['inner'], 'padding_mobile' ),
+							),
 						);
 					}
 					if ( $cols ) {
@@ -706,8 +786,13 @@ add_action( 'rest_api_init', function () {
 						 * columns row carries the centred width (class).
 						 */
 						if ( ! empty( $row['wrap'] ) ) {
+							$inner_extra = array();
+							if ( isset( $extra['margin'] ) ) {
+								$inner_extra['margin'] = $extra['margin'];
+								unset( $extra['margin'] );
+							}
 							$inner = kam_blocks_columns( $cols,
-								(string) ( $row['class'] ?? 'kam-blockrow' ), $padding( $row ) );
+								(string) ( $row['class'] ?? 'kam-blockrow' ), $padding( $row ), $inner_extra );
 							$inner['isInner'] = true;
 							$doc[] = kam_blocks_row( array( $inner ), (string) $row['wrap'],
 								$padding( array( 'padding' => $row['wrap_padding'] ?? array() ) ), $extra );

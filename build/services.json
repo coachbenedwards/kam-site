@@ -1,0 +1,453 @@
+{
+ "page": "services",
+ "replace": true,
+ "blocks": [
+  {
+   "class": "kam-blockrow",
+   "widgets": [
+    {
+     "block": "kam_hero",
+     "fields": {
+      "id": "demo"
+     },
+     "lines": "https://kamservicing.eastwoodfc.com/wp-content/uploads/2026/10/header_image_1.jpg|CAR SERVICING|Car Servicing from £99.99\nhttps://kamservicing.eastwoodfc.com/wp-content/uploads/2026/10/header_image_2.jpg|BUY TYRES|The Best Tyre Prices Online.\nhttps://kamservicing.eastwoodfc.com/wp-content/uploads/2026/10/header_image_3.jpg|M.O.T|With Full Service!\nhttps://kamservicing.eastwoodfc.com/wp-content/uploads/2026/10/header_image_4.jpg|LOCAL COLLECTION|Your Vehicle Collected From Home Or Work."
+    }
+   ]
+  },
+  {
+   "wrap": "my-5",
+   "wrap_padding": {
+    "top": 0,
+    "right": 0,
+    "bottom": 0,
+    "left": 0
+   },
+   "class": "container",
+   "columns": [
+    {
+     "class": "kam-blockrow",
+     "width": 33.333,
+     "tablet": 33.333,
+     "mobile": 100.0,
+     "padding": {
+      "top": 24,
+      "right": 12,
+      "bottom": 0,
+      "left": 12
+     },
+     "widgets": [
+      {
+       "widget": "image-box",
+       "fields": {
+        "url": "https://kamservicing.eastwoodfc.com/wp-content/uploads/2026/10/oil.jpg",
+        "alt": "CAR SERVICING",
+        "title": "CAR SERVICING",
+        "tag": "h5",
+        "text": "We service ALL makes and models.<br/> Book Your Service Online Today.",
+        "link": "https://kamservicing.com/car-service-near-me.php",
+        "align": "center",
+        "image_space": 8,
+        "class": ""
+       }
+      }
+     ]
+    },
+    {
+     "class": "kam-blockrow",
+     "width": 33.333,
+     "tablet": 33.333,
+     "mobile": 100.0,
+     "padding": {
+      "top": 24,
+      "right": 12,
+      "bottom": 0,
+      "left": 12
+     },
+     "widgets": [
+      {
+       "widget": "image-box",
+       "fields": {
+        "url": "https://kamservicing.eastwoodfc.com/wp-content/uploads/2026/10/mot.jpg",
+        "alt": "M.O.T TESTING",
+        "title": "M.O.T TESTING",
+        "tag": "h5",
+        "text": "M.O.T Testing for Cars and Vans.<br/> Book Your M.O.T Online Today.",
+        "link": "https://kamservicing.com/mot-near-me.php",
+        "align": "center",
+        "image_space": 8,
+        "class": ""
+       }
+      }
+     ]
+    },
+    {
+     "class": "kam-blockrow",
+     "width": 33.333,
+     "tablet": 33.333,
+     "mobile": 100.0,
+     "padding": {
+      "top": 24,
+      "right": 12,
+      "bottom": 0,
+      "left": 12
+     },
+     "widgets": [
+      {
+       "widget": "image-box",
+       "fields": {
+        "url": "https://kamservicing.eastwoodfc.com/wp-content/uploads/2026/10/tyres.jpg",
+        "alt": "DISCOUNT TYRES",
+        "title": "DISCOUNT TYRES",
+        "tag": "h5",
+        "text": "The cheapest tyres in town.<br/> Reserve Online and Pay In Store.",
+        "link": "https://kamservicing.com/cheap-tyres.php",
+        "align": "center",
+        "image_space": 8,
+        "class": ""
+       }
+      }
+     ]
+    },
+    {
+     "class": "kam-blockrow",
+     "width": 33.333,
+     "tablet": 33.333,
+     "mobile": 100.0,
+     "padding": {
+      "top": 24,
+      "right": 12,
+      "bottom": 0,
+      "left": 12
+     },
+     "widgets": [
+      {
+       "widget": "image-box",
+       "fields": {
+        "url": "https://kamservicing.eastwoodfc.com/wp-content/uploads/2026/10/brakes.jpg",
+        "alt": "BRAKE REPAIRS",
+        "title": "BRAKE REPAIRS",
+        "tag": "h5",
+        "text": "Brake repairs - We are official PAGID Installers.",
+        "link": "/brakes/",
+        "align": "center",
+        "image_space": 8,
+        "class": ""
+       }
+      }
+     ]
+    },
+    {
+     "class": "kam-blockrow",
+     "width": 33.333,
+     "tablet": 33.333,
+     "mobile": 100.0,
+     "padding": {
+      "top": 24,
+      "right": 12,
+      "bottom": 0,
+      "left": 12
+     },
+     "widgets": [
+      {
+       "widget": "image-box",
+       "fields": {
+        "url": "https://kamservicing.eastwoodfc.com/wp-content/uploads/2026/10/diagnostics.jpg",
+        "alt": "DIAGNOSTICS",
+        "title": "DIAGNOSTICS",
+        "tag": "h5",
+        "text": "Expert Diagnostics using the latest equipment.",
+        "link": "/diagnostics/",
+        "align": "center",
+        "image_space": 8,
+        "class": ""
+       }
+      }
+     ]
+    },
+    {
+     "class": "kam-blockrow",
+     "width": 33.333,
+     "tablet": 33.333,
+     "mobile": 100.0,
+     "padding": {
+      "top": 24,
+      "right": 12,
+      "bottom": 0,
+      "left": 12
+     },
+     "widgets": [
+      {
+       "widget": "image-box",
+       "fields": {
+        "url": "https://kamservicing.eastwoodfc.com/wp-content/uploads/2026/10/clutch.jpg",
+        "alt": "CLUTCH REPAIRS",
+        "title": "CLUTCH REPAIRS",
+        "tag": "h5",
+        "text": "Quality clutch repairs.",
+        "link": "/clutch-replacement/",
+        "align": "center",
+        "image_space": 8,
+        "class": ""
+       }
+      }
+     ]
+    },
+    {
+     "class": "kam-blockrow",
+     "width": 33.333,
+     "tablet": 33.333,
+     "mobile": 100.0,
+     "padding": {
+      "top": 24,
+      "right": 12,
+      "bottom": 0,
+      "left": 12
+     },
+     "widgets": [
+      {
+       "widget": "image-box",
+       "fields": {
+        "url": "https://kamservicing.eastwoodfc.com/wp-content/uploads/2026/10/ac.jpg",
+        "alt": "AIR CONDITIONING",
+        "title": "AIR CONDITIONING",
+        "tag": "h5",
+        "text": "Air Con Repair and Re-Gassing Service.",
+        "link": "https://kamservicing.com/air-con-recharge-near-me.php",
+        "align": "center",
+        "image_space": 8,
+        "class": ""
+       }
+      }
+     ]
+    },
+    {
+     "class": "kam-blockrow",
+     "width": 33.333,
+     "tablet": 33.333,
+     "mobile": 100.0,
+     "padding": {
+      "top": 24,
+      "right": 12,
+      "bottom": 0,
+      "left": 12
+     },
+     "widgets": [
+      {
+       "widget": "image-box",
+       "fields": {
+        "url": "https://kamservicing.eastwoodfc.com/wp-content/uploads/2026/10/cambelt.jpg",
+        "alt": "TIMING BELTS",
+        "title": "TIMING BELTS",
+        "tag": "h5",
+        "text": "We can replace both ‘Wet’ and ‘Dry’ timing belts on all makes and models",
+        "link": "https://kamservicing.com/cambelt-change.php",
+        "align": "center",
+        "image_space": 8,
+        "class": ""
+       }
+      }
+     ]
+    },
+    {
+     "class": "kam-blockrow",
+     "width": 33.333,
+     "tablet": 33.333,
+     "mobile": 100.0,
+     "padding": {
+      "top": 24,
+      "right": 12,
+      "bottom": 0,
+      "left": 12
+     },
+     "widgets": [
+      {
+       "widget": "image-box",
+       "fields": {
+        "url": "https://kamservicing.eastwoodfc.com/wp-content/uploads/2026/10/bodyshop.jpg",
+        "alt": "BODYSHOP",
+        "title": "BODYSHOP",
+        "tag": "h5",
+        "text": "Accident Damage &amp; Bodywork Repairs.",
+        "link": "https://kamservicing.com/car-body-repairs.php",
+        "align": "center",
+        "image_space": 8,
+        "class": ""
+       }
+      }
+     ]
+    },
+    {
+     "class": "kam-blockrow",
+     "width": 33.333,
+     "tablet": 33.333,
+     "mobile": 100.0,
+     "padding": {
+      "top": 24,
+      "right": 12,
+      "bottom": 0,
+      "left": 12
+     },
+     "widgets": [
+      {
+       "widget": "image-box",
+       "fields": {
+        "url": "https://kamservicing.eastwoodfc.com/wp-content/uploads/2026/10/repairs.jpg",
+        "alt": "REPAIRS",
+        "title": "REPAIRS",
+        "tag": "h5",
+        "text": "We can repair all makes and models.",
+        "link": "https://kamservicing.com/car-repair-near-me.php",
+        "align": "center",
+        "image_space": 8,
+        "class": ""
+       }
+      }
+     ]
+    },
+    {
+     "class": "kam-blockrow",
+     "width": 33.333,
+     "tablet": 33.333,
+     "mobile": 100.0,
+     "padding": {
+      "top": 24,
+      "right": 12,
+      "bottom": 0,
+      "left": 12
+     },
+     "widgets": [
+      {
+       "widget": "image-box",
+       "fields": {
+        "url": "https://kamservicing.eastwoodfc.com/wp-content/uploads/2026/10/recovery.jpg",
+        "alt": "RECOVERY",
+        "title": "RECOVERY",
+        "tag": "h5",
+        "text": "KAM Recovery Services.",
+        "link": "https://kamservicing.com/car-recovery-service.php",
+        "align": "center",
+        "image_space": 8,
+        "class": ""
+       }
+      }
+     ]
+    },
+    {
+     "class": "kam-blockrow",
+     "width": 33.333,
+     "tablet": 33.333,
+     "mobile": 100.0,
+     "padding": {
+      "top": 24,
+      "right": 12,
+      "bottom": 0,
+      "left": 12
+     },
+     "widgets": [
+      {
+       "widget": "image-box",
+       "fields": {
+        "url": "https://kamservicing.eastwoodfc.com/wp-content/uploads/2026/10/battery.jpg",
+        "alt": "BATTERY",
+        "title": "BATTERY",
+        "tag": "h5",
+        "text": "Batteries supplied and fitted.",
+        "link": "https://kamservicing.com/car-batteries.php",
+        "align": "center",
+        "image_space": 8,
+        "class": ""
+       }
+      }
+     ]
+    },
+    {
+     "class": "kam-blockrow",
+     "width": 33.333,
+     "tablet": 33.333,
+     "mobile": 100.0,
+     "padding": {
+      "top": 24,
+      "right": 12,
+      "bottom": 0,
+      "left": 12
+     },
+     "widgets": [
+      {
+       "widget": "image-box",
+       "fields": {
+        "url": "https://kamservicing.eastwoodfc.com/wp-content/uploads/2026/10/abs.jpg",
+        "alt": "ABS REPAIRS",
+        "title": "ABS REPAIRS",
+        "tag": "h5",
+        "text": "Specialists in ABS fault finding and repairs.",
+        "link": "/abs-repairs/",
+        "align": "center",
+        "image_space": 8,
+        "class": ""
+       }
+      }
+     ]
+    },
+    {
+     "class": "kam-blockrow",
+     "width": 33.333,
+     "tablet": 33.333,
+     "mobile": 100.0,
+     "padding": {
+      "top": 24,
+      "right": 12,
+      "bottom": 0,
+      "left": 12
+     },
+     "widgets": [
+      {
+       "widget": "image-box",
+       "fields": {
+        "url": "https://kamservicing.eastwoodfc.com/wp-content/uploads/2026/10/exhaust.jpg",
+        "alt": "EXHAUSTS",
+        "title": "EXHAUSTS",
+        "tag": "h5",
+        "text": "Exhausts replaced, repaired, supplied and fitted.",
+        "link": "/exhausts/",
+        "align": "center",
+        "image_space": 8,
+        "class": ""
+       }
+      }
+     ]
+    },
+    {
+     "class": "kam-blockrow",
+     "width": 33.333,
+     "tablet": 33.333,
+     "mobile": 100.0,
+     "padding": {
+      "top": 24,
+      "right": 12,
+      "bottom": 0,
+      "left": 12
+     },
+     "widgets": [
+      {
+       "widget": "image-box",
+       "fields": {
+        "url": "https://kamservicing.eastwoodfc.com/wp-content/uploads/2026/10/air-bag.jpg",
+        "alt": "AIRBAG FAULTS",
+        "title": "AIRBAG FAULTS",
+        "tag": "h5",
+        "text": "Specialists in Airbag fault finding and repairs.",
+        "link": "/airbag-faults/",
+        "align": "center",
+        "image_space": 8,
+        "class": ""
+       }
+      }
+     ]
+    }
+   ],
+   "margin": {
+    "top": -24
+   }
+  }
+ ]
+}

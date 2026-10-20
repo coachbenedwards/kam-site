@@ -1,0 +1,180 @@
+{
+ "page": "payment-assist",
+ "replace": true,
+ "blocks": [
+  {
+   "class": "kam-blockrow",
+   "widgets": [
+    {
+     "block": "kam_hero",
+     "fields": {
+      "id": "demo"
+     },
+     "lines": "https://kamservicing.eastwoodfc.com/wp-content/uploads/2026/10/header_image_1.jpg|CAR SERVICING|Car Servicing from £99.99\nhttps://kamservicing.eastwoodfc.com/wp-content/uploads/2026/10/header_image_2.jpg|BUY TYRES|The Best Tyre Prices Online.\nhttps://kamservicing.eastwoodfc.com/wp-content/uploads/2026/10/header_image_3.jpg|M.O.T|With Full Service!\nhttps://kamservicing.eastwoodfc.com/wp-content/uploads/2026/10/header_image_4.jpg|LOCAL COLLECTION|Your Vehicle Collected From Home Or Work."
+    }
+   ]
+  },
+  {
+   "wrap": "kam-blockrow",
+   "wrap_padding": {
+    "top": 0,
+    "right": 0,
+    "bottom": 0,
+    "left": 0
+   },
+   "class": "container",
+   "columns": [
+    {
+     "class": "kam-blockrow",
+     "width": 66.667,
+     "tablet": 66.667,
+     "mobile": 100,
+     "padding": {
+      "top": 0,
+      "right": 12,
+      "bottom": 0,
+      "left": 12
+     },
+     "widgets": [
+      {
+       "widget": "spacer",
+       "fields": {
+        "height": 27
+       }
+      },
+      {
+       "widget": "heading",
+       "fields": {
+        "tag": "h4",
+        "title": "Pay 25% of the total on the day of purchase then pay the remaining balance as three equal monthly payments",
+        "class": "",
+        "color": "red"
+       }
+      },
+      {
+       "widget": "spacer",
+       "fields": {
+        "height": 27
+       }
+      },
+      {
+       "widget": "text-editor",
+       "fields": {
+        "editor": "<p>Spend between £500 - £1,000 on servicing or repairs at KAM Servicing, pay just 25% now and spread the balance equally over the following 3 months. There are no lengthy forms to be completed, so as long as you have a UK-registered debit card with sufficient funds to cover the 25% initial deposit, you can take advantage of the scheme.</p>"
+       }
+      },
+      {
+       "widget": "spacer",
+       "fields": {
+        "height": 27
+       }
+      },
+      {
+       "widget": "heading",
+       "fields": {
+        "tag": "h5",
+        "title": "How it works",
+        "class": "",
+        "color": "red"
+       }
+      },
+      {
+       "widget": "text-editor",
+       "fields": {
+        "editor": "<p>You pay 25% of the bill on your debit card. Three further equal payments will be taken monthly from your debit card.</p>"
+       }
+      },
+      {
+       "widget": "spacer",
+       "fields": {
+        "height": 27
+       }
+      },
+      {
+       "widget": "heading",
+       "fields": {
+        "tag": "h5",
+        "title": "<font color=\"#FF0000\">Example:</font> Total Bill £600",
+        "class": ""
+       }
+      },
+      {
+       "widget": "text-editor",
+       "fields": {
+        "editor": "<p><br/>&nbsp;Pay on the day £150</p><hr><p>&nbsp;1st Payment £150 <small>(30 days later)</small></p><hr><p>&nbsp;2nd Payment £150 <small>(60 days later)</small></p><hr><p>&nbsp;3rd Payment £150 <small>(90 days later)</small></p><hr>"
+       }
+      },
+      {
+       "widget": "spacer",
+       "fields": {
+        "height": 27
+       }
+      },
+      {
+       "widget": "heading",
+       "fields": {
+        "tag": "h5",
+        "title": "<font color=\"#FF0000\">Total Paid:</font> £600",
+        "class": ""
+       }
+      },
+      {
+       "widget": "spacer",
+       "fields": {
+        "height": 54
+       }
+      },
+      {
+       "widget": "text-editor",
+       "fields": {
+        "editor": "<p>For more information, please speak to your local branch manager. Payment Assist is the number one service provider of retail finance in the automotive aftermarket. As a responsible lender, Payment Assist Ltd complies fully with the requirements of the Financial Conduct Authority FRN 622544 and the Data Protection Act: A8041970. Any personal information supplied will not be shared with third parties.</p>"
+       }
+      },
+      {
+       "widget": "spacer",
+       "fields": {
+        "height": 54
+       }
+      }
+     ]
+    },
+    {
+     "class": "kam-blockrow",
+     "width": 33.333,
+     "tablet": 33.333,
+     "mobile": 100,
+     "padding": {
+      "top": 0,
+      "right": 12,
+      "bottom": 0,
+      "left": 12
+     },
+     "widgets": [
+      {
+       "widget": "spacer",
+       "fields": {
+        "height": 27
+       }
+      },
+      {
+       "widget": "image",
+       "fields": {
+        "url": "https://kamservicing.eastwoodfc.com/wp-content/uploads/2026/10/PAYMENT-ASSIST-LOGO.jpg",
+        "alt": "Payment Assist Logo",
+        "align": "center",
+        "class": "rounded",
+        "width": 75
+       }
+      },
+      {
+       "widget": "spacer",
+       "fields": {
+        "height": 54
+       }
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

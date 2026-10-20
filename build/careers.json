@@ -1,0 +1,616 @@
+{
+ "page": "careers",
+ "replace": true,
+ "blocks": [
+  {
+   "wrap": "kam-blockrow",
+   "wrap_padding": {
+    "top": 0,
+    "right": 0,
+    "bottom": 0,
+    "left": 0
+   },
+   "class": "container",
+   "columns": [
+    {
+     "class": "kam-blockrow",
+     "width": 100,
+     "padding": {
+      "left": 12,
+      "right": 12
+     },
+     "widgets": [
+      {
+       "widget": "spacer",
+       "fields": {
+        "height": 27
+       }
+      },
+      {
+       "widget": "heading",
+       "fields": {
+        "tag": "h3",
+        "title": "<b>Join our team</b>",
+        "class": "fw-bold",
+        "align": "center"
+       }
+      },
+      {
+       "widget": "spacer",
+       "fields": {
+        "height": 27
+       }
+      },
+      {
+       "widget": "text-editor",
+       "fields": {
+        "editor": "<p>KAM Servicing is family-owned and has been operating since 1989. We have 15 locations throughout the East Midlands, including Nottingham &amp; Derby City. We offer great pay, excellent benefits, ongoing training, and opportunities to advance. We know that our success is dependent on our employees and that is why we strive to hire and develop those who are passionate about providing exceptional customer service in a team-based environment. <br/><br/></p>"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "wrap": "kam-blockrow",
+   "wrap_padding": {
+    "top": 0,
+    "right": 0,
+    "bottom": 0,
+    "left": 0
+   },
+   "class": "container",
+   "columns": [
+    {
+     "class": "kam-blockrow",
+     "width": 33.333,
+     "tablet": 33.333,
+     "mobile": 100,
+     "padding": {
+      "top": 0,
+      "right": 12,
+      "bottom": 0,
+      "left": 12
+     },
+     "widgets": [
+      {
+       "widget": "image",
+       "fields": {
+        "url": "https://kamservicing.eastwoodfc.com/wp-content/uploads/2026/10/man1.jpg",
+        "alt": "AltText",
+        "align": "left",
+        "class": "img-fluid"
+       }
+      },
+      {
+       "widget": "spacer",
+       "fields": {
+        "height": 27
+       }
+      }
+     ]
+    },
+    {
+     "class": "kam-blockrow",
+     "width": 33.333,
+     "tablet": 33.333,
+     "mobile": 100,
+     "padding": {
+      "top": 0,
+      "right": 12,
+      "bottom": 0,
+      "left": 12
+     },
+     "widgets": [
+      {
+       "widget": "image",
+       "fields": {
+        "url": "https://kamservicing.eastwoodfc.com/wp-content/uploads/2026/10/man2.jpg",
+        "alt": "AltText",
+        "align": "left",
+        "class": "img-fluid"
+       }
+      },
+      {
+       "widget": "spacer",
+       "fields": {
+        "height": 27
+       }
+      }
+     ]
+    },
+    {
+     "class": "kam-blockrow",
+     "width": 33.333,
+     "tablet": 33.333,
+     "mobile": 100,
+     "padding": {
+      "top": 0,
+      "right": 12,
+      "bottom": 0,
+      "left": 12
+     },
+     "widgets": [
+      {
+       "widget": "image",
+       "fields": {
+        "url": "https://kamservicing.eastwoodfc.com/wp-content/uploads/2026/10/man3.jpg",
+        "alt": "AltText",
+        "align": "left",
+        "class": "img-fluid"
+       }
+      },
+      {
+       "widget": "spacer",
+       "fields": {
+        "height": 27
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "wrap": "kam-blockrow",
+   "wrap_padding": {
+    "top": 0,
+    "right": 0,
+    "bottom": 0,
+    "left": 0
+   },
+   "class": "container",
+   "columns": [
+    {
+     "class": "kam-blockrow",
+     "width": 100,
+     "padding": {
+      "left": 12,
+      "right": 12
+     },
+     "widgets": [
+      {
+       "widget": "spacer",
+       "fields": {
+        "height": 27
+       }
+      },
+      {
+       "widget": "heading",
+       "fields": {
+        "tag": "h3",
+        "title": "<b>Current vacancies</b>",
+        "class": "fw-bold",
+        "align": "center"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "wrap": "kam-blockrow",
+   "wrap_padding": {
+    "top": 0,
+    "right": 0,
+    "bottom": 0,
+    "left": 0
+   },
+   "class": "container",
+   "columns": [
+    {
+     "class": "kam-blockrow",
+     "width": 100,
+     "padding": {
+      "left": 12,
+      "right": 12
+     },
+     "widgets": [
+      {
+       "widget": "spacer",
+       "fields": {
+        "height": 27
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "wrap": "kam-blockrow",
+   "wrap_padding": {
+    "top": 0,
+    "right": 0,
+    "bottom": 0,
+    "left": 0
+   },
+   "class": "container",
+   "columns": [
+    {
+     "class": "kam-blockrow",
+     "width": 100,
+     "padding": {
+      "left": 12,
+      "right": 12
+     },
+     "inner": {
+      "class": "kam-blockrow card",
+      "padding": {
+       "top": 16,
+       "right": 16,
+       "bottom": 16,
+       "left": 16
+      },
+      "widgets": [
+       {
+        "widget": "heading",
+        "fields": {
+         "tag": "h5",
+         "title": "<b>Motor Vehicle Technicians</b>",
+         "class": "card-title"
+        }
+       },
+       {
+        "widget": "text-editor",
+        "fields": {
+         "editor": "<p class=\"card-text\">We are looking for experienced Service Technicians / Mechanics. Opportunities are available across our network. Nottm, Derby &amp; Loughborough areas. Genuine opportunities for career advancement.</p><p class=\"mb-0\"><a class=\"card-link\" href=\"https://uk.indeed.com/cmp/Kam-Servicing/jobs?q=&amp;l=\" target=\"_blank\">\n<button class=\"btn btn-primary\" type=\"button\">Apply now</button>\n</a></p>"
+        }
+       }
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "wrap": "kam-blockrow",
+   "wrap_padding": {
+    "top": 0,
+    "right": 0,
+    "bottom": 0,
+    "left": 0
+   },
+   "class": "container",
+   "columns": [
+    {
+     "class": "kam-blockrow",
+     "width": 100,
+     "padding": {
+      "left": 12,
+      "right": 12
+     },
+     "widgets": [
+      {
+       "widget": "spacer",
+       "fields": {
+        "height": 27
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "wrap": "kam-blockrow",
+   "wrap_padding": {
+    "top": 0,
+    "right": 0,
+    "bottom": 0,
+    "left": 0
+   },
+   "class": "container",
+   "columns": [
+    {
+     "class": "kam-blockrow",
+     "width": 100,
+     "padding": {
+      "left": 12,
+      "right": 12
+     },
+     "inner": {
+      "class": "kam-blockrow card",
+      "padding": {
+       "top": 16,
+       "right": 16,
+       "bottom": 16,
+       "left": 16
+      },
+      "widgets": [
+       {
+        "widget": "heading",
+        "fields": {
+         "tag": "h5",
+         "title": "<b>MOT Testers/Mechanics</b>",
+         "class": "card-title"
+        }
+       },
+       {
+        "widget": "text-editor",
+        "fields": {
+         "editor": "<p class=\"card-text\">We are looking to recruit experienced MOT Testers in the Nottm, Derby &amp; Loughborough areas - an immediate start is available for the right candidates.</p><p class=\"mb-0\"><a class=\"card-link\" href=\"https://uk.indeed.com/cmp/Kam-Servicing/jobs?q=&amp;l=\" target=\"_blank\">\n<button class=\"btn btn-primary\" type=\"button\">Apply now</button>\n</a></p>"
+        }
+       }
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "wrap": "kam-blockrow",
+   "wrap_padding": {
+    "top": 0,
+    "right": 0,
+    "bottom": 0,
+    "left": 0
+   },
+   "class": "container",
+   "columns": [
+    {
+     "class": "kam-blockrow",
+     "width": 100,
+     "padding": {
+      "left": 12,
+      "right": 12
+     },
+     "widgets": [
+      {
+       "widget": "spacer",
+       "fields": {
+        "height": 27
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "wrap": "kam-blockrow",
+   "wrap_padding": {
+    "top": 0,
+    "right": 0,
+    "bottom": 0,
+    "left": 0
+   },
+   "class": "container",
+   "columns": [
+    {
+     "class": "kam-blockrow",
+     "width": 100,
+     "padding": {
+      "left": 12,
+      "right": 12
+     },
+     "inner": {
+      "class": "kam-blockrow card",
+      "padding": {
+       "top": 16,
+       "right": 16,
+       "bottom": 16,
+       "left": 16
+      },
+      "widgets": [
+       {
+        "widget": "heading",
+        "fields": {
+         "tag": "h5",
+         "title": "<b>PART Time MOT Testers</b>",
+         "class": "card-title"
+        }
+       },
+       {
+        "widget": "text-editor",
+        "fields": {
+         "editor": "<p class=\"card-text\">We are looking to recruit experienced MOT Testers in the Nottm, Derby &amp; Loughborough areas - an immediate start is available for the right candidates.</p><p class=\"mb-0\"><a class=\"card-link\" href=\"https://uk.indeed.com/cmp/Kam-Servicing/jobs?q=&amp;l=\" target=\"_blank\">\n<button class=\"btn btn-primary\" type=\"button\">Apply now</button>\n</a></p>"
+        }
+       }
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "wrap": "kam-blockrow",
+   "wrap_padding": {
+    "top": 0,
+    "right": 0,
+    "bottom": 0,
+    "left": 0
+   },
+   "class": "container",
+   "columns": [
+    {
+     "class": "kam-blockrow",
+     "width": 100,
+     "padding": {
+      "left": 12,
+      "right": 12
+     },
+     "widgets": [
+      {
+       "widget": "spacer",
+       "fields": {
+        "height": 27
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "wrap": "kam-blockrow",
+   "wrap_padding": {
+    "top": 0,
+    "right": 0,
+    "bottom": 0,
+    "left": 0
+   },
+   "class": "container",
+   "columns": [
+    {
+     "class": "kam-blockrow",
+     "width": 100,
+     "padding": {
+      "left": 12,
+      "right": 12
+     },
+     "inner": {
+      "class": "kam-blockrow card",
+      "padding": {
+       "top": 16,
+       "right": 16,
+       "bottom": 16,
+       "left": 16
+      },
+      "widgets": [
+       {
+        "widget": "heading",
+        "fields": {
+         "tag": "h5",
+         "title": "<b>Garage Managers</b>",
+         "class": "card-title"
+        }
+       },
+       {
+        "widget": "text-editor",
+        "fields": {
+         "editor": "<p class=\"card-text\">You will currently be employed as a Service Manager or Manager within a Fast Fit / Main Dealer environment and have a minimum of two or more years in the role. If this is you and you are looking for new opportunities then apply below. Multiple opportunities are available across our network. Nottm, Derby &amp; Loughborough areas</p><p class=\"mb-0\"><a class=\"card-link\" href=\"https://uk.indeed.com/cmp/Kam-Servicing/jobs?q=&amp;l=\" target=\"_blank\">\n<button class=\"btn btn-primary\" type=\"button\">Apply now</button>\n</a></p>"
+        }
+       }
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "wrap": "kam-blockrow",
+   "wrap_padding": {
+    "top": 0,
+    "right": 0,
+    "bottom": 0,
+    "left": 0
+   },
+   "class": "container",
+   "columns": [
+    {
+     "class": "kam-blockrow",
+     "width": 100,
+     "padding": {
+      "left": 12,
+      "right": 12
+     },
+     "widgets": [
+      {
+       "widget": "spacer",
+       "fields": {
+        "height": 27
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "wrap": "kam-blockrow",
+   "wrap_padding": {
+    "top": 0,
+    "right": 0,
+    "bottom": 0,
+    "left": 0
+   },
+   "class": "container",
+   "columns": [
+    {
+     "class": "kam-blockrow",
+     "width": 100,
+     "padding": {
+      "left": 12,
+      "right": 12
+     },
+     "inner": {
+      "class": "kam-blockrow card",
+      "padding": {
+       "top": 16,
+       "right": 16,
+       "bottom": 16,
+       "left": 16
+      },
+      "widgets": [
+       {
+        "widget": "heading",
+        "fields": {
+         "tag": "h5",
+         "title": "<b>Assistant Garage Managers</b>",
+         "class": "card-title"
+        }
+       },
+       {
+        "widget": "text-editor",
+        "fields": {
+         "editor": "<p class=\"card-text\">Are you currently a Service Technician or Assistant Manager within the Fastfit industry? If so, then this could be the opportunity you need to advance your career. Multiple opportunities are available across our network. Nottm, Derby &amp; Loughborough areas</p><p class=\"mb-0\"><a class=\"card-link\" href=\"https://uk.indeed.com/cmp/Kam-Servicing/jobs?q=&amp;l=\" target=\"_blank\">\n<button class=\"btn btn-primary\" type=\"button\">Apply now</button>\n</a></p>"
+        }
+       }
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "wrap": "kam-blockrow",
+   "wrap_padding": {
+    "top": 0,
+    "right": 0,
+    "bottom": 0,
+    "left": 0
+   },
+   "class": "container",
+   "columns": [
+    {
+     "class": "kam-blockrow",
+     "width": 100,
+     "padding": {
+      "left": 12,
+      "right": 12
+     },
+     "widgets": [
+      {
+       "widget": "spacer",
+       "fields": {
+        "height": 54
+       }
+      },
+      {
+       "widget": "heading",
+       "fields": {
+        "tag": "h3",
+        "title": "<b>Interested in a Career at KAM Servicing?</b>",
+        "class": "fw-bold",
+        "align": "center"
+       }
+      },
+      {
+       "widget": "spacer",
+       "fields": {
+        "height": 27
+       }
+      },
+      {
+       "widget": "text-editor",
+       "fields": {
+        "editor": "<p>We are always looking for talented, knowledgeable individuals to join our team. If you can't see a position in your area please feel free to contact our recruitment team. Email us at <font color=\"#FF0000\">jobs@kamservicing.com</font> with a copy of your CV and more information about what you'd bring to the KAM Servicing team.</p>"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "class": "kam-blockrow",
+   "widgets": [
+    {
+     "widget": "spacer",
+     "fields": {
+      "height": 27
+     }
+    }
+   ]
+  }
+ ]
+}

@@ -47,8 +47,7 @@
       {
        "widget": "text-editor",
        "fields": {
-        "editor": "<p class=\"font-16\">Call <b>Richard</b> on <a href=\"tel:01159472222\">0115 947 2222</a> for details.</p>",
-        "class": "font-16"
+        "editor": "<p class=\"font-16\">Call <b>Richard</b> on <a href=\"tel:01159472222\">0115 947 2222</a> for details.</p>"
        }
       }
      ]
@@ -74,8 +73,7 @@
       {
        "widget": "text-editor",
        "fields": {
-        "editor": "<hr><p class=\"font-16\">Need affordable car repairs without upfront costs? Payment Assist offers financing. Apply today, get approved quickly, and start enjoying your repaired vehicle.</p><ul class=\"font-16\"><li class=\"pb-2\">Pay only 25% upfront and spread the rest over 3 months. Our flexible financing options make it simple.</li> <li class=\"pb-2\">Get your car repaired and back on the road with Payment Assist. We offer affordable car repairs under £1,000.</li></ul><p class=\"font-16\">Affordable car repairs. Payment Assist offers flexible pay monthly financing options to suit your needs. <a href=\"#contact\">Apply now</a> and get approved quickly.</p>",
-        "class": "font-16"
+        "editor": "<hr><p class=\"font-16\">Need affordable car repairs without upfront costs? Payment Assist offers financing. Apply today, get approved quickly, and start enjoying your repaired vehicle.</p><ul class=\"font-16\"><li class=\"pb-2\">Pay only 25% upfront and spread the rest over 3 months. Our flexible financing options make it simple.</li> <li class=\"pb-2\">Get your car repaired and back on the road with Payment Assist. We offer affordable car repairs under £1,000.</li></ul><p class=\"font-16\">Affordable car repairs. Payment Assist offers flexible pay monthly financing options to suit your needs. <a href=\"#contact\">Apply now</a> and get approved quickly.</p>"
        }
       }
      ]
@@ -113,8 +111,7 @@
       {
        "widget": "text-editor",
        "fields": {
-        "editor": "<hr><p class=\"font-16\">Need Car Care in Nottingham? Trust Our AA-Approved Garage</p><p class=\"font-16\">As an AA-approved garage, we offer comprehensive car servicing and repairs tailored to your specific needs. Our highly skilled technicians have years of experience ensuring your vehicle runs smoothly, from routine check-ups and oil changes to major overhauls and complex engine repairs.</p><p class=\"font-16\">We utilise state-of-the-art equipment and high-quality parts to provide the best possible care for your car. Whether you're dealing with electrical issues, brake problems, or tyre replacements, our team is equipped to handle it all.</p><p class=\"font-16\">Experience the peace of mind that comes with knowing your car is in expert hands. Schedule your car service in Nottingham today and discover the difference.</p>",
-        "class": "font-16"
+        "editor": "<hr><p class=\"font-16\">Need Car Care in Nottingham? Trust Our AA-Approved Garage</p><p class=\"font-16\">As an AA-approved garage, we offer comprehensive car servicing and repairs tailored to your specific needs. Our highly skilled technicians have years of experience ensuring your vehicle runs smoothly, from routine check-ups and oil changes to major overhauls and complex engine repairs.</p><p class=\"font-16\">We utilise state-of-the-art equipment and high-quality parts to provide the best possible care for your car. Whether you're dealing with electrical issues, brake problems, or tyre replacements, our team is equipped to handle it all.</p><p class=\"font-16\">Experience the peace of mind that comes with knowing your car is in expert hands. Schedule your car service in Nottingham today and discover the difference.</p>"
        }
       },
       {
@@ -149,8 +146,7 @@
       {
        "widget": "text-editor",
        "fields": {
-        "editor": "<hr><p class=\"font-16\">Need a reliable MOT test in Nottingham? Choose KAM, your local experts. We offer thorough inspections, efficient service, and competitive pricing. Book your appointment today and ensure your vehicle's roadworthiness.</p><p class=\"font-16\">Our MOT services include:</p><ul class=\"font-16\"><li class=\"pb-2\">Comprehensive inspections: Our certified technicians conduct meticulous examinations of your vehicle, covering all critical components to ensure they meet the highest safety standards.</li> <li class=\"pb-2\">Advanced diagnostics: We use cutting-edge equipment to identify potential problems that may not be immediately apparent.</li> <li class=\"pb-2\">Flexible scheduling: We offer flexible appointments to suit your busy lifestyle.</li> <li class=\"pb-2\">Affordable pricing: We provide competitive pricing without compromising quality.</li> <li class=\"pb-2\">Excellent customer service: Our team is dedicated to providing outstanding service.</li></ul>",
-        "class": "font-16"
+        "editor": "<hr><p class=\"font-16\">Need a reliable MOT test in Nottingham? Choose KAM, your local experts. We offer thorough inspections, efficient service, and competitive pricing. Book your appointment today and ensure your vehicle's roadworthiness.</p><p class=\"font-16\">Our MOT services include:</p><ul class=\"font-16\"><li class=\"pb-2\">Comprehensive inspections: Our certified technicians conduct meticulous examinations of your vehicle, covering all critical components to ensure they meet the highest safety standards.</li> <li class=\"pb-2\">Advanced diagnostics: We use cutting-edge equipment to identify potential problems that may not be immediately apparent.</li> <li class=\"pb-2\">Flexible scheduling: We offer flexible appointments to suit your busy lifestyle.</li> <li class=\"pb-2\">Affordable pricing: We provide competitive pricing without compromising quality.</li> <li class=\"pb-2\">Excellent customer service: Our team is dedicated to providing outstanding service.</li></ul>"
        }
       },
       {
@@ -197,8 +193,7 @@
       {
        "widget": "text-editor",
        "fields": {
-        "editor": "<hr><p class=\"font-16\">Your car's tyres are the only point of contact between your vehicle and the road. They play a crucial role in your safety, handling, and fuel efficiency. Understanding the basics of tyre selection and maintenance is essential for every car owner.</p><ul class=\"font-16\"><li class=\"pb-2\">Prioritise Safety: Opt for tyres with good grip and braking performance, especially in wet conditions.</li> <li class=\"pb-2\">Consider Fuel Efficiency: Choose tyres with low rolling resistance to improve fuel economy.</li> <li class=\"pb-2\">Check the Warranty: A good warranty can provide peace of mind and protection against manufacturing defects.</li> <li class=\"pb-2\">Professional Fitting: Ensure that your tyres are fitted correctly by qualified technicians.</li></ul><p class=\"font-16\">By following these guidelines and considering your specific driving needs, you can make informed decisions when purchasing car tyres. Remember, safe and well-maintained tyres are essential for a comfortable and enjoyable driving experience.</p>",
-        "class": "font-16"
+        "editor": "<hr><p class=\"font-16\">Your car's tyres are the only point of contact between your vehicle and the road. They play a crucial role in your safety, handling, and fuel efficiency. Understanding the basics of tyre selection and maintenance is essential for every car owner.</p><ul class=\"font-16\"><li class=\"pb-2\">Prioritise Safety: Opt for tyres with good grip and braking performance, especially in wet conditions.</li> <li class=\"pb-2\">Consider Fuel Efficiency: Choose tyres with low rolling resistance to improve fuel economy.</li> <li class=\"pb-2\">Check the Warranty: A good warranty can provide peace of mind and protection against manufacturing defects.</li> <li class=\"pb-2\">Professional Fitting: Ensure that your tyres are fitted correctly by qualified technicians.</li></ul><p class=\"font-16\">By following these guidelines and considering your specific driving needs, you can make informed decisions when purchasing car tyres. Remember, safe and well-maintained tyres are essential for a comfortable and enjoyable driving experience.</p>"
        }
       },
       {
@@ -233,8 +228,7 @@
       {
        "widget": "text-editor",
        "fields": {
-        "editor": "<hr><p class=\"font-16\">Don't Risk Engine Failure: Schedule Your Cambelt Replacement Today</p><p class=\"font-16\">At KAM Servicing Nottingham, we understand the critical role a cambelt plays in your vehicle's engine. A worn or damaged cambelt can lead to severe engine damage, resulting in costly repairs or even total engine failure. That's why we offer expert cambelt replacement services to keep your vehicle running smoothly.</p><p class=\"font-16\">Why Choose KAM Servicing Nottingham for Cambelt Replacement?</p><ul class=\"font-16\"><li class=\"pb-2\">Expert Technicians: Our highly skilled technicians have years of experience in cambelt replacement, ensuring precision and efficiency.</li> <li class=\"pb-2\">Genuine Parts: We use only high-quality, genuine parts to guarantee optimal performance and longevity.</li> <li class=\"pb-2\">State-of-the-Art Equipment: We utilise the latest tools and technology to perform accurate and timely cambelt replacements.</li> <li class=\"pb-2\">Competitive Pricing: We offer competitive prices without compromising on quality or service.</li> <li class=\"pb-2\">Convenience: We provide flexible scheduling options to accommodate your busy lifestyle.</li></ul><p class=\"font-16\">Don't Wait Until It's Too Late</p><p class=\"font-16\">To avoid costly engine repairs, it's crucial to schedule regular cambelt inspections and replacements. At KAM Servicing Nottingham, we'll assess your vehicle's specific needs and recommend the appropriate service.</p>",
-        "class": "font-16"
+        "editor": "<hr><p class=\"font-16\">Don't Risk Engine Failure: Schedule Your Cambelt Replacement Today</p><p class=\"font-16\">At KAM Servicing Nottingham, we understand the critical role a cambelt plays in your vehicle's engine. A worn or damaged cambelt can lead to severe engine damage, resulting in costly repairs or even total engine failure. That's why we offer expert cambelt replacement services to keep your vehicle running smoothly.</p><p class=\"font-16\">Why Choose KAM Servicing Nottingham for Cambelt Replacement?</p><ul class=\"font-16\"><li class=\"pb-2\">Expert Technicians: Our highly skilled technicians have years of experience in cambelt replacement, ensuring precision and efficiency.</li> <li class=\"pb-2\">Genuine Parts: We use only high-quality, genuine parts to guarantee optimal performance and longevity.</li> <li class=\"pb-2\">State-of-the-Art Equipment: We utilise the latest tools and technology to perform accurate and timely cambelt replacements.</li> <li class=\"pb-2\">Competitive Pricing: We offer competitive prices without compromising on quality or service.</li> <li class=\"pb-2\">Convenience: We provide flexible scheduling options to accommodate your busy lifestyle.</li></ul><p class=\"font-16\">Don't Wait Until It's Too Late</p><p class=\"font-16\">To avoid costly engine repairs, it's crucial to schedule regular cambelt inspections and replacements. At KAM Servicing Nottingham, we'll assess your vehicle's specific needs and recommend the appropriate service.</p>"
        }
       },
       {
@@ -281,8 +275,7 @@
       {
        "widget": "text-editor",
        "fields": {
-        "editor": "<hr><p class=\"font-16\">Restore your DPF with our expert cleaning service. We remove soot and contaminants to prevent clogging, costly repairs, and emissions issues.</p><p class=\"font-16\">At KAM Servicing, we're dedicated to providing exceptional customer service and ensuring your complete satisfaction with our DPF cleaning services. Our team of highly skilled technicians are committed to delivering top-quality work and going the extra mile to meet your needs.</p><p class=\"font-16\">Our technicians will conduct a thorough inspection to assess the condition of your DPF and identify any underlying issues. We'll then use our state-of-the-art equipment to clean and restore your DPF to its optimal performance.</p><p class=\"font-16\">After the DPF cleaning is complete, we'll conduct a final inspection to ensure that your vehicle is running smoothly and efficiently. We'll also provide you with any necessary recommendations for future maintenance.</p><p class=\"font-16\">Ready to schedule a DPF cleaning or other maintenance service? Contact us today for a free quote and to learn more about how our expert technicians can help you keep your vehicle running smoothly. Our friendly team is available to answer your questions and provide personalised recommendations based on your specific needs.</p>",
-        "class": "font-16"
+        "editor": "<hr><p class=\"font-16\">Restore your DPF with our expert cleaning service. We remove soot and contaminants to prevent clogging, costly repairs, and emissions issues.</p><p class=\"font-16\">At KAM Servicing, we're dedicated to providing exceptional customer service and ensuring your complete satisfaction with our DPF cleaning services. Our team of highly skilled technicians are committed to delivering top-quality work and going the extra mile to meet your needs.</p><p class=\"font-16\">Our technicians will conduct a thorough inspection to assess the condition of your DPF and identify any underlying issues. We'll then use our state-of-the-art equipment to clean and restore your DPF to its optimal performance.</p><p class=\"font-16\">After the DPF cleaning is complete, we'll conduct a final inspection to ensure that your vehicle is running smoothly and efficiently. We'll also provide you with any necessary recommendations for future maintenance.</p><p class=\"font-16\">Ready to schedule a DPF cleaning or other maintenance service? Contact us today for a free quote and to learn more about how our expert technicians can help you keep your vehicle running smoothly. Our friendly team is available to answer your questions and provide personalised recommendations based on your specific needs.</p>"
        }
       },
       {
@@ -317,8 +310,7 @@
       {
        "widget": "text-editor",
        "fields": {
-        "editor": "<hr><p class=\"font-16\">At KAM Servicing Nottingham, we're committed to keeping your electric vehicle (EV) running at its peak performance. Our team of skilled technicians specializes in EV servicing, using the latest diagnostic tools and industry-leading techniques.</p><p class=\"font-16\">Why Choose KAM Servicing for Your EV?</p><ul class=\"font-16\"><li class=\"pb-2\">Expert Technicians: Our certified technicians have the knowledge and experience to handle all aspects of EV servicing.</li> <li class=\"pb-2\">State-of-the-Art Equipment: We utilise advanced diagnostic tools to accurately identify and address any issues.</li> <li class=\"pb-2\">Genuine Parts: We use only high-quality, genuine EV parts to ensure optimal performance and longevity.</li> <li class=\"pb-2\">Charging System Inspection: Thorough inspection of your charging system to identify and resolve any issues.</li></ul><p class=\"font-16\">Experience the KAM Servicing Difference</p><p class=\"font-16\">When you choose KAM Servicing Nottingham for your EV, you're choosing a partner dedicated to your satisfaction. We're committed to providing exceptional service and keeping you on the road.</p>",
-        "class": "font-16"
+        "editor": "<hr><p class=\"font-16\">At KAM Servicing Nottingham, we're committed to keeping your electric vehicle (EV) running at its peak performance. Our team of skilled technicians specializes in EV servicing, using the latest diagnostic tools and industry-leading techniques.</p><p class=\"font-16\">Why Choose KAM Servicing for Your EV?</p><ul class=\"font-16\"><li class=\"pb-2\">Expert Technicians: Our certified technicians have the knowledge and experience to handle all aspects of EV servicing.</li> <li class=\"pb-2\">State-of-the-Art Equipment: We utilise advanced diagnostic tools to accurately identify and address any issues.</li> <li class=\"pb-2\">Genuine Parts: We use only high-quality, genuine EV parts to ensure optimal performance and longevity.</li> <li class=\"pb-2\">Charging System Inspection: Thorough inspection of your charging system to identify and resolve any issues.</li></ul><p class=\"font-16\">Experience the KAM Servicing Difference</p><p class=\"font-16\">When you choose KAM Servicing Nottingham for your EV, you're choosing a partner dedicated to your satisfaction. We're committed to providing exceptional service and keeping you on the road.</p>"
        }
       },
       {
@@ -365,8 +357,7 @@
       {
        "widget": "text-editor",
        "fields": {
-        "editor": "<hr><p class=\"font-16\"><i class=\"fas fa-map-marker-alt i-class-color\"></i> 259 North Sherwood St<br/> Nottingham<br/> NG1 4EQ</p><p class=\"font-16\"><a href=\"tel:01159472222\"><i class=\"fas fa-phone i-class-color\"></i> 0115 947 2222</a></p><p class=\"font-16\"><i class=\"fas fa-envelope i-class-color\"></i> nottingham@kamservicing.com</p><p class=\"font-16\"><i class=\"fas fa-user i-class-color\"></i> Manager: Richard Alton</p><p class=\"font-16\"><i class=\"fas fa-clock i-class-color\"></i> Mon-Fri: 7.30am - 5.30pm<br/> Sat: 7.30am - 2.00pm<br/> Sun: Closed</p>",
-        "class": "font-16"
+        "editor": "<hr><p class=\"font-16\"><i class=\"fas fa-map-marker-alt i-class-color\"></i> 259 North Sherwood St<br/> Nottingham<br/> NG1 4EQ</p><p class=\"font-16\"><a href=\"tel:01159472222\"><i class=\"fas fa-phone i-class-color\"></i> 0115 947 2222</a></p><p class=\"font-16\"><i class=\"fas fa-envelope i-class-color\"></i> nottingham@kamservicing.com</p><p class=\"font-16\"><i class=\"fas fa-user i-class-color\"></i> Manager: Richard Alton</p><p class=\"font-16\"><i class=\"fas fa-clock i-class-color\"></i> Mon-Fri: 7.30am - 5.30pm<br/> Sat: 7.30am - 2.00pm<br/> Sun: Closed</p>"
        }
       }
      ]
@@ -392,8 +383,7 @@
       {
        "widget": "text-editor",
        "fields": {
-        "editor": "<hr><p class=\"font-16\">Email us using the form below.</p>",
-        "class": "font-16"
+        "editor": "<hr><p class=\"font-16\">Email us using the form below.</p>"
        }
       },
       {
@@ -441,8 +431,7 @@
       {
        "widget": "text-editor",
        "fields": {
-        "editor": "<hr><p class=\"font-16\">Conveniently located on the outskirts of Nottingham City Centre, near the iconic Goose Fair site and within easy reach of the Nottingham City tram network, we're your go-to destination for top-notch car servicing. Whether you're a local resident or visiting Nottingham, come and experience the convenience and quality of our car servicing.</p>",
-        "class": "font-16"
+        "editor": "<hr><p class=\"font-16\">Conveniently located on the outskirts of Nottingham City Centre, near the iconic Goose Fair site and within easy reach of the Nottingham City tram network, we're your go-to destination for top-notch car servicing. Whether you're a local resident or visiting Nottingham, come and experience the convenience and quality of our car servicing.</p>"
        }
       },
       {
@@ -470,10 +459,11 @@
       {
        "block": "kam_map",
        "fields": {
-        "lat": null,
-        "lng": null,
+        "lat": "52.96427",
+        "lng": "-1.15315",
         "zoom": "16",
-        "title": "KAM nottingham"
+        "title": "KAM nottingham",
+        "key": "AIzaSyDGrGuuFnXuejU-iuzOTXUSIDn6KTFYCa4"
        }
       }
      ]
@@ -511,8 +501,7 @@
       {
        "widget": "text-editor",
        "fields": {
-        "editor": "<hr><p class=\"font-16\">With a stellar 4.6-star Google rating, KAM Servicing Nottingham has been a trusted name in car care for over three decades. Our commitment to exceptional service and customer satisfaction has made us a go-to choice for drivers in Nottingham and the surrounding areas. Call us at <a href=\"tel:01159472222\">0115 947 2222</a> to book your next service or repair. Experience the KAM Servicing difference and keep your car running its best.</p>",
-        "class": "font-16"
+        "editor": "<hr><p class=\"font-16\">With a stellar 4.6-star Google rating, KAM Servicing Nottingham has been a trusted name in car care for over three decades. Our commitment to exceptional service and customer satisfaction has made us a go-to choice for drivers in Nottingham and the surrounding areas. Call us at <a href=\"tel:01159472222\">0115 947 2222</a> to book your next service or repair. Experience the KAM Servicing difference and keep your car running its best.</p>"
        }
       }
      ]

@@ -47,8 +47,7 @@
       {
        "widget": "text-editor",
        "fields": {
-        "editor": "<p class=\"font-16\">Call Elliot on <a href=\"tel:01623443399\">01623 443 399</a> for details.</p>",
-        "class": "font-16"
+        "editor": "<p class=\"font-16\">Call Elliot on <a href=\"tel:01623443399\">01623 443 399</a> for details.</p>"
        }
       }
      ]
@@ -74,8 +73,7 @@
       {
        "widget": "text-editor",
        "fields": {
-        "editor": "<hr><p class=\"font-16\">Tired of feeling financially constrained? Payment Assist is here to empower you with the freedom to get your car repaired without breaking the bank. Our innovative service allows you to spread the cost of your purchases over time.</p><ul class=\"font-16\"><li class=\"pb-2\">Get the things you need now. Pay a 25% deposit and enjoy the convenience of our three-month payment plan.</li> <!-- <li class=\"pb-2\">Looking to finance your car repairs without the hassle of a credit check? Apply for repairs under £1,000.</li> --> <li class=\"pb-2\">We offer affordable car repairs under £1,000.</li></ul><p class=\"font-16\">Don't let financial constraints stop you from getting your car fixed. Apply for Payment Assist and enjoy affordable monthly payments for repairs under £1,000. Our financing makes it easy to get the care your vehicle needs without straining your budget.</p>",
-        "class": "font-16"
+        "editor": "<hr><p class=\"font-16\">Tired of feeling financially constrained? Payment Assist is here to empower you with the freedom to get your car repaired without breaking the bank. Our innovative service allows you to spread the cost of your purchases over time.</p><ul class=\"font-16\"><li class=\"pb-2\">Get the things you need now. Pay a 25% deposit and enjoy the convenience of our three-month payment plan.</li> <!-- <li class=\"pb-2\">Looking to finance your car repairs without the hassle of a credit check? Apply for repairs under £1,000.</li> --> <li class=\"pb-2\">We offer affordable car repairs under £1,000.</li></ul><p class=\"font-16\">Don't let financial constraints stop you from getting your car fixed. Apply for Payment Assist and enjoy affordable monthly payments for repairs under £1,000. Our financing makes it easy to get the care your vehicle needs without straining your budget.</p>"
        }
       }
      ]
@@ -113,8 +111,7 @@
       {
        "widget": "text-editor",
        "fields": {
-        "editor": "<hr><p class=\"font-16\">KAM Sutton-in-Ashfield: Your Local Car Repair Experts</p><p class=\"font-16\">We're committed to providing top-notch car repair services that keep your vehicle on the road and running at its best. Our skilled technicians have years of experience diagnosing and repairing a wide range of car problems, from minor engine issues to major bodywork. We use the latest diagnostic tools and high-quality parts to ensure that your car is repaired correctly and efficiently.</p><p class=\"font-16\">Whether you need a routine oil change, brake repair, or engine overhaul, you can trust us to deliver exceptional service at competitive prices.</p><p class=\"font-16\">Visit KAM Sutton-in-Ashfield today and experience the difference.</p>",
-        "class": "font-16"
+        "editor": "<hr><p class=\"font-16\">KAM Sutton-in-Ashfield: Your Local Car Repair Experts</p><p class=\"font-16\">We're committed to providing top-notch car repair services that keep your vehicle on the road and running at its best. Our skilled technicians have years of experience diagnosing and repairing a wide range of car problems, from minor engine issues to major bodywork. We use the latest diagnostic tools and high-quality parts to ensure that your car is repaired correctly and efficiently.</p><p class=\"font-16\">Whether you need a routine oil change, brake repair, or engine overhaul, you can trust us to deliver exceptional service at competitive prices.</p><p class=\"font-16\">Visit KAM Sutton-in-Ashfield today and experience the difference.</p>"
        }
       },
       {
@@ -149,8 +146,7 @@
       {
        "widget": "text-editor",
        "fields": {
-        "editor": "<hr><p class=\"font-16\">Fast and Efficient MOTs in Sutton-in-Ashfield: KAM</p><p class=\"font-16\">Save time and stress by choosing KAM for your MOT test. Our convenient location and expert technicians make booking and completing your MOT a breeze. With our efficient process, you can get back on the road quickly and confidently. Our commitment to quality ensures that your vehicle meets the highest safety standards, giving you peace of mind. Trust KAM for a hassle-free and reliable MOT experience.</p><p class=\"font-16\">Our MOT services include:</p><ul class=\"font-16\"><li class=\"pb-2\">Thorough inspections: Our certified technicians conduct meticulous examinations of your vehicle, covering every aspect of its safety and roadworthiness. They carefully inspect the brakes, steering, suspension, lights, tyres, exhaust system, and other critical components to ensure they meet the highest safety standards.</li> <li class=\"pb-2\">Flexible appointment scheduling: We understand that your time is precious, so we offer flexible appointment scheduling options to accommodate your busy lifestyle. Whether you need a weekday or weekend appointment, we can work with you to find a time that suits your needs.</li> <li class=\"pb-2\">Competitive pricing: We believe that everyone should have access to affordable MOT testing. That's why we offer competitive pricing without compromising on quality. Our goal is to provide excellent value for your money and help you keep your vehicle on the road safely and legally.</li> <li class=\"pb-2\">Exceptional customer service: Our team is dedicated to providing outstanding customer service. We're always happy to answer your questions, provide advice, and assist you with any concerns you may have. Our goal is to make your MOT experience as stress-free and enjoyable as possible.</li></ul>",
-        "class": "font-16"
+        "editor": "<hr><p class=\"font-16\">Fast and Efficient MOTs in Sutton-in-Ashfield: KAM</p><p class=\"font-16\">Save time and stress by choosing KAM for your MOT test. Our convenient location and expert technicians make booking and completing your MOT a breeze. With our efficient process, you can get back on the road quickly and confidently. Our commitment to quality ensures that your vehicle meets the highest safety standards, giving you peace of mind. Trust KAM for a hassle-free and reliable MOT experience.</p><p class=\"font-16\">Our MOT services include:</p><ul class=\"font-16\"><li class=\"pb-2\">Thorough inspections: Our certified technicians conduct meticulous examinations of your vehicle, covering every aspect of its safety and roadworthiness. They carefully inspect the brakes, steering, suspension, lights, tyres, exhaust system, and other critical components to ensure they meet the highest safety standards.</li> <li class=\"pb-2\">Flexible appointment scheduling: We understand that your time is precious, so we offer flexible appointment scheduling options to accommodate your busy lifestyle. Whether you need a weekday or weekend appointment, we can work with you to find a time that suits your needs.</li> <li class=\"pb-2\">Competitive pricing: We believe that everyone should have access to affordable MOT testing. That's why we offer competitive pricing without compromising on quality. Our goal is to provide excellent value for your money and help you keep your vehicle on the road safely and legally.</li> <li class=\"pb-2\">Exceptional customer service: Our team is dedicated to providing outstanding customer service. We're always happy to answer your questions, provide advice, and assist you with any concerns you may have. Our goal is to make your MOT experience as stress-free and enjoyable as possible.</li></ul>"
        }
       },
       {
@@ -197,8 +193,7 @@
       {
        "widget": "text-editor",
        "fields": {
-        "editor": "<hr><p class=\"font-16\">Is your car's safety compromised by worn tyres? Order your tyres in Sutton-in-Ashfield and get a FREE tyre health check. Tyres play a crucial role in your vehicle's performance and safety. Neglecting them can lead to serious consequences. Ensure the well-being of yourself, your passengers, and other road users by prioritising tyre maintenance. Before purchasing tyres, consult our experienced technicians. They'll provide expert advice tailored to your driving needs, considering factors like annual mileage, driving conditions (motorway or town), and vehicle load. We'll recommend tyres that meet or exceed the manufacturer's specifications. KAM Servicing in Sutton-in-Ashfield offers comprehensive, professional tyre services at competitive prices. We're your local one-stop shop for all your tyre needs.</p>",
-        "class": "font-16"
+        "editor": "<hr><p class=\"font-16\">Is your car's safety compromised by worn tyres? Order your tyres in Sutton-in-Ashfield and get a FREE tyre health check. Tyres play a crucial role in your vehicle's performance and safety. Neglecting them can lead to serious consequences. Ensure the well-being of yourself, your passengers, and other road users by prioritising tyre maintenance. Before purchasing tyres, consult our experienced technicians. They'll provide expert advice tailored to your driving needs, considering factors like annual mileage, driving conditions (motorway or town), and vehicle load. We'll recommend tyres that meet or exceed the manufacturer's specifications. KAM Servicing in Sutton-in-Ashfield offers comprehensive, professional tyre services at competitive prices. We're your local one-stop shop for all your tyre needs.</p>"
        }
       },
       {
@@ -233,8 +228,7 @@
       {
        "widget": "text-editor",
        "fields": {
-        "editor": "<hr><p class=\"font-16\">Timing Belt Replacement</p><p class=\"font-16\">Timing belts, often referred to as cambelts, play a crucial role in the operation of many modern engines. Their condition directly impacts your engine's health. If a timing belt breaks, it can lead to severe engine damage, often necessitating a complete replacement. Therefore, regular maintenance is essential. We offer comprehensive timing belt inspections and replacement services. Our experts will assess your vehicle's manufacturer-recommended replacement interval, review its service history, and provide expert advice on whether a replacement is necessary. When it's time for a timing belt replacement, you can trust us to perform the job correctly. We have the specialised tools and expertise required to ensure a flawless installation, adhering to the highest standards. Please contact us to request a quote for timing belt replacement, and we'll promptly get back to you with a personalised estimate. We recommend replacing the water pump simultaneously with the timing belt. As a stressed component, it's prone to failure, and replacing it can prevent future problems. Our quotes always include OE quality parts and coolant replacement.</p>",
-        "class": "font-16"
+        "editor": "<hr><p class=\"font-16\">Timing Belt Replacement</p><p class=\"font-16\">Timing belts, often referred to as cambelts, play a crucial role in the operation of many modern engines. Their condition directly impacts your engine's health. If a timing belt breaks, it can lead to severe engine damage, often necessitating a complete replacement. Therefore, regular maintenance is essential. We offer comprehensive timing belt inspections and replacement services. Our experts will assess your vehicle's manufacturer-recommended replacement interval, review its service history, and provide expert advice on whether a replacement is necessary. When it's time for a timing belt replacement, you can trust us to perform the job correctly. We have the specialised tools and expertise required to ensure a flawless installation, adhering to the highest standards. Please contact us to request a quote for timing belt replacement, and we'll promptly get back to you with a personalised estimate. We recommend replacing the water pump simultaneously with the timing belt. As a stressed component, it's prone to failure, and replacing it can prevent future problems. Our quotes always include OE quality parts and coolant replacement.</p>"
        }
       },
       {
@@ -281,8 +275,7 @@
       {
        "widget": "text-editor",
        "fields": {
-        "editor": "<hr><p class=\"font-16\">Restore your DPF with our advanced cleaning service. We meticulously remove soot and contaminants, preventing severe clogging, costly repairs, and compromised emissions. Our highly skilled technicians use state-of-the-art equipment to clean your DPF thoroughly, restoring its original efficiency and preventing future clogging. We also offer comprehensive vehicle maintenance and a satisfaction guarantee. Our DPF cleaning process is designed to deliver exceptional results while minimising downtime. We strive to complete the cleaning process efficiently, ensuring you're back on the road quickly. We also offer routine maintenance services like oil changes and brake inspections. Additionally, we prioritise customer satisfaction and provide a personalised service tailored to your specific needs. Our team is dedicated to ensuring a smooth and hassle-free experience, from scheduling to completion. We understand the importance of maintaining your vehicle's performance, and we're committed to delivering a top-quality DPF cleaning service.</p><p class=\"font-16\">Contact us for a free quote and experience the difference of our expert care.</p>",
-        "class": "font-16"
+        "editor": "<hr><p class=\"font-16\">Restore your DPF with our advanced cleaning service. We meticulously remove soot and contaminants, preventing severe clogging, costly repairs, and compromised emissions. Our highly skilled technicians use state-of-the-art equipment to clean your DPF thoroughly, restoring its original efficiency and preventing future clogging. We also offer comprehensive vehicle maintenance and a satisfaction guarantee. Our DPF cleaning process is designed to deliver exceptional results while minimising downtime. We strive to complete the cleaning process efficiently, ensuring you're back on the road quickly. We also offer routine maintenance services like oil changes and brake inspections. Additionally, we prioritise customer satisfaction and provide a personalised service tailored to your specific needs. Our team is dedicated to ensuring a smooth and hassle-free experience, from scheduling to completion. We understand the importance of maintaining your vehicle's performance, and we're committed to delivering a top-quality DPF cleaning service.</p><p class=\"font-16\">Contact us for a free quote and experience the difference of our expert care.</p>"
        }
       },
       {
@@ -317,8 +310,7 @@
       {
        "widget": "text-editor",
        "fields": {
-        "editor": "<hr><p class=\"font-16\">Electric Vehicle Servicing - Keep Your EV Running Smoothly</p><p class=\"font-16\">Our in-house team of electric vehicle experts is dedicated to providing honest and hassle-free servicing. With fewer components than traditional vehicles, electric cars require less maintenance, making servicing straightforward. While an MOT test is important, it doesn't cover all aspects of electric vehicle maintenance. We offer comprehensive repairs and maintenance services to ensure your electric or hybrid vehicle remains in optimal condition. We can perform routine servicing, following manufacturer guidelines, for all makes and models without affecting your vehicle's warranty.</p><ul class=\"font-16\"><li class=\"pb-2\">Battery Health: Regular checks are essential to monitor battery performance and ensure optimal range.</li> <li class=\"pb-2\">Charging System: We inspect charging ports, cables, and the vehicle's charging system for any issues.</li> <li class=\"pb-2\">Cooling and Heating Systems: These systems require maintenance to function efficiently. </li> <li class=\"pb-2\">Software Updates: Keeping your vehicle's software up-to-date is crucial for performance and safety.</li></ul><p class=\"font-16\">Trust KAM Servicing for Expert EV Servicing.</p>",
-        "class": "font-16"
+        "editor": "<hr><p class=\"font-16\">Electric Vehicle Servicing - Keep Your EV Running Smoothly</p><p class=\"font-16\">Our in-house team of electric vehicle experts is dedicated to providing honest and hassle-free servicing. With fewer components than traditional vehicles, electric cars require less maintenance, making servicing straightforward. While an MOT test is important, it doesn't cover all aspects of electric vehicle maintenance. We offer comprehensive repairs and maintenance services to ensure your electric or hybrid vehicle remains in optimal condition. We can perform routine servicing, following manufacturer guidelines, for all makes and models without affecting your vehicle's warranty.</p><ul class=\"font-16\"><li class=\"pb-2\">Battery Health: Regular checks are essential to monitor battery performance and ensure optimal range.</li> <li class=\"pb-2\">Charging System: We inspect charging ports, cables, and the vehicle's charging system for any issues.</li> <li class=\"pb-2\">Cooling and Heating Systems: These systems require maintenance to function efficiently. </li> <li class=\"pb-2\">Software Updates: Keeping your vehicle's software up-to-date is crucial for performance and safety.</li></ul><p class=\"font-16\">Trust KAM Servicing for Expert EV Servicing.</p>"
        }
       },
       {
@@ -365,8 +357,7 @@
       {
        "widget": "text-editor",
        "fields": {
-        "editor": "<hr><p class=\"font-16\"><i class=\"fas fa-map-marker-alt i-class-color\"></i> Newark Road<br/> Sutton-in-Ashfield<br/> Nottingham<br/> NG17 5JP</p><p class=\"font-16\"><a href=\"tel:01623443399\"><i class=\"fas fa-phone i-class-color\"></i> 01623 443 399</a></p><p class=\"font-16\"><i class=\"fas fa-envelope i-class-color\"></i> sutton@kamservicing.com</p><p class=\"font-16\"><i class=\"fas fa-user i-class-color\"></i> Manager: Elliot Coxon</p><p class=\"font-16\"><i class=\"fas fa-clock i-class-color\"></i> Mon-Fri: 7.45am - 5.45pm<br/> Sat: 8.00am - 1.30pm<br/> Sun: Closed</p>",
-        "class": "font-16"
+        "editor": "<hr><p class=\"font-16\"><i class=\"fas fa-map-marker-alt i-class-color\"></i> Newark Road<br/> Sutton-in-Ashfield<br/> Nottingham<br/> NG17 5JP</p><p class=\"font-16\"><a href=\"tel:01623443399\"><i class=\"fas fa-phone i-class-color\"></i> 01623 443 399</a></p><p class=\"font-16\"><i class=\"fas fa-envelope i-class-color\"></i> sutton@kamservicing.com</p><p class=\"font-16\"><i class=\"fas fa-user i-class-color\"></i> Manager: Elliot Coxon</p><p class=\"font-16\"><i class=\"fas fa-clock i-class-color\"></i> Mon-Fri: 7.45am - 5.45pm<br/> Sat: 8.00am - 1.30pm<br/> Sun: Closed</p>"
        }
       }
      ]
@@ -392,8 +383,7 @@
       {
        "widget": "text-editor",
        "fields": {
-        "editor": "<hr><p class=\"font-16\">Email us using the form below.</p>",
-        "class": "font-16"
+        "editor": "<hr><p class=\"font-16\">Email us using the form below.</p>"
        }
       },
       {
@@ -441,8 +431,7 @@
       {
        "widget": "text-editor",
        "fields": {
-        "editor": "<hr><p class=\"font-16\">We are situated in Sutton-in-Ashfield, a thriving market town near Mansfield and the Derbyshire border, offering a variety of amenities, including shopping, dining, and entertainment. Excellent transport links, including buses, trains, and the M1 motorway, make it easy to get around. Find us on Newark Rd, a short walk from Sutton Parkway.</p>",
-        "class": "font-16"
+        "editor": "<hr><p class=\"font-16\">We are situated in Sutton-in-Ashfield, a thriving market town near Mansfield and the Derbyshire border, offering a variety of amenities, including shopping, dining, and entertainment. Excellent transport links, including buses, trains, and the M1 motorway, make it easy to get around. Find us on Newark Rd, a short walk from Sutton Parkway.</p>"
        }
       },
       {
@@ -473,7 +462,8 @@
         "lat": "53.12094",
         "lng": "-1.23773",
         "zoom": "16",
-        "title": "KAM sutton-in-ashfield"
+        "title": "KAM sutton-in-ashfield",
+        "key": "AIzaSyDGrGuuFnXuejU-iuzOTXUSIDn6KTFYCa4"
        }
       }
      ]
@@ -511,8 +501,7 @@
       {
        "widget": "text-editor",
        "fields": {
-        "editor": "<hr><p class=\"font-16\">Experience top-quality car care at KAM Servicing. We're a Trustpilot Excellent-rated garage, accredited by the Good Garage Scheme and the AA for warranty repairs. We service all makes and models, using only Original Equipment parts to protect your manufacturer's warranty. We also update your service records, including Digital Service records where applicable, and reset your service light, all at no extra cost.</p>",
-        "class": "font-16"
+        "editor": "<hr><p class=\"font-16\">Experience top-quality car care at KAM Servicing. We're a Trustpilot Excellent-rated garage, accredited by the Good Garage Scheme and the AA for warranty repairs. We service all makes and models, using only Original Equipment parts to protect your manufacturer's warranty. We also update your service records, including Digital Service records where applicable, and reset your service light, all at no extra cost.</p>"
        }
       }
      ]

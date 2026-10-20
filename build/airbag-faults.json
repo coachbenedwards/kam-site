@@ -1,0 +1,110 @@
+{
+ "page": "airbag-faults",
+ "replace": true,
+ "blocks": [
+  {
+   "class": "kam-blockrow",
+   "widgets": [
+    {
+     "block": "kam_hero",
+     "fields": {
+      "id": "demo"
+     },
+     "lines": "https://kamservicing.eastwoodfc.com/wp-content/uploads/2026/10/Ascot-Drive-1200x300px.jpg|CAR SERVICING|Car Servicing from £99.99\nhttps://kamservicing.eastwoodfc.com/wp-content/uploads/2026/10/Bulwell-1200x300px.jpg|BUY TYRES|The Best Tyre Prices Online.\nhttps://kamservicing.eastwoodfc.com/wp-content/uploads/2026/10/Ascot-Drive-Illuminated-1200x300px.jpg|M.O.T|With Full Service!"
+    }
+   ]
+  },
+  {
+   "wrap": "kam-blockrow",
+   "wrap_padding": {
+    "top": 0,
+    "right": 0,
+    "bottom": 0,
+    "left": 0
+   },
+   "class": "container kam-reverse-mobile",
+   "columns": [
+    {
+     "class": "kam-blockrow",
+     "width": 66.667,
+     "tablet": 66.667,
+     "mobile": 100,
+     "padding": {
+      "top": 0,
+      "right": 12,
+      "bottom": 0,
+      "left": 12
+     },
+     "widgets": [
+      {
+       "widget": "spacer",
+       "fields": {
+        "height": 27
+       }
+      },
+      {
+       "widget": "heading",
+       "fields": {
+        "tag": "h4",
+        "title": "AIR BAG FAULT REPAIRS",
+        "class": ""
+       }
+      },
+      {
+       "widget": "spacer",
+       "fields": {
+        "height": 27
+       }
+      },
+      {
+       "widget": "text-editor",
+       "fields": {
+        "editor": "<p>It's never a good time see a warning light on your dashboard, that's why we are here, to take the worry out of warning lights!</p><p>If your Airbag warning light is on this signifies that you have a fault somewhere on your Airbag system which needs to be checked a.s.a.p.</p><p>When turning on the ignition, the Airbag light should turn on and then off after a few seconds. If the Airbag light remains on and doesn't turn off, your Airbag module will need to be reset.</p><p>Here at KAM Servicing we have the latest diagnostic equipment, and most Airbag problems can be fixed the same day.</p>"
+       }
+      }
+     ]
+    },
+    {
+     "class": "kam-blockrow",
+     "width": 33.333,
+     "tablet": 33.333,
+     "mobile": 100,
+     "padding": {
+      "top": 0,
+      "right": 12,
+      "bottom": 0,
+      "left": 12
+     },
+     "widgets": [
+      {
+       "widget": "image",
+       "fields": {
+        "url": "https://kamservicing.eastwoodfc.com/wp-content/uploads/2026/10/air-bag.jpg",
+        "alt": "Airbag Fault Repairs",
+        "align": "center",
+        "class": "img-fluid",
+        "link": "/contact/?&booking_for=Airbag-Fault-Repair"
+       }
+      },
+      {
+       "widget": "heading",
+       "fields": {
+        "tag": "h5",
+        "title": "AIR BAG FAULT REPAIRS",
+        "class": "",
+        "align": "center"
+       }
+      },
+      {
+       "widget": "text-editor",
+       "fields": {
+        "editor": "<p class=\"text-dark\">Airbag fault finding and repairs.<br/>Contact Your Local Branch For a Quote.</p><p class=\"mb-0 text-center\"><a class=\"text-decoration-none\" href=\"/contact/?&amp;booking_for=Airbag-Fault-Repair\"><button class=\"btn bg-theme text-white btn-sm\">\n<i class=\"fas fa-check\"></i> Book Now\n                        </button></a></p><hr>",
+        "class": "text-center"
+       }
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -175,10 +175,11 @@ add_action( 'rest_api_init', function () {
  * seed only -- the words live on the page as widgets, laid out through
  * the command channel (parts/blocks-api.php).
  * ------------------------------------------------------------------ */
-const KAM_PAGES_V = '2';
+const KAM_PAGES_V = '3';
 
 function kam_owned_pages() {
 	$pages = array(
+		'home'               => 'KAM Servicing',
 		'contact'            => 'Contact',
 		'careers'            => 'Careers',
 		'services'           => 'All Services',
@@ -253,8 +254,12 @@ function kam_moved_paths() {
 function kam_install_pages() {
 	$state = (array) get_option( 'kam_owned_pages', array() );
 	foreach ( kam_owned_pages() as $slug => $title ) {
-		$existing = get_page_by_path( $slug );
+		$existing = get_page_by_path( $slug, OBJECT, 'page' );
 		if ( $existing ) {
+			// WordPress ships a draft "Privacy Policy" page; it has to be live.
+			if ( 'publish' !== $existing->post_status ) {
+				wp_update_post( array( 'ID' => $existing->ID, 'post_status' => 'publish' ) );
+			}
 			$state[ $slug ] = array( 'id' => $existing->ID );
 			continue;
 		}
@@ -270,6 +275,12 @@ function kam_install_pages() {
 		}
 	}
 	update_option( 'kam_owned_pages', $state );
+
+	// The home page is a page like the others; WordPress shows it at /.
+	if ( ! empty( $state['home']['id'] ) ) {
+		update_option( 'show_on_front', 'page' );
+		update_option( 'page_on_front', (int) $state['home']['id'] );
+	}
 
 	/*
 	 * Elementor's default colour and font schemes paint every heading widget

@@ -111,20 +111,72 @@ add_shortcode( 'kam_branch', function ( $atts ) {
 } );
 
 /**
- * The branch map. The live site draws it with the Google Maps script and a
- * key tied to kamservicing.com, which this domain cannot use; the embed
- * needs no key and shows the same pin at the same zoom.
+ * A map. With a Google Maps key (the live site's own, as a field) it is the
+ * same Google map the live site draws; without one it is Google's keyless
+ * embed, which can only show one pin.
+ *
+ *   one pin:   lat, lng, zoom (16), title
+ *   many pins: lines, one per pin: name | lat | lng | address (; between
+ *              lines) | phone | directions link -- the map fits them all,
+ *              then sits at zoom 9 as the live one does; clicking a pin
+ *              opens the same card.
  */
-add_shortcode( 'kam_map', function ( $atts ) {
-	$a = shortcode_atts( array( 'lat' => '', 'lng' => '', 'zoom' => '16', 'title' => 'Map', 'height' => '250' ), $atts, 'kam_map' );
-	if ( '' === $a['lat'] || '' === $a['lng'] ) {
+add_shortcode( 'kam_map', function ( $atts, $content = '' ) {
+	$a = shortcode_atts( array( 'lat' => '', 'lng' => '', 'zoom' => '16', 'title' => 'Map', 'height' => '250', 'key' => '', 'lines' => '' ), $atts, 'kam_map' );
+	$pins = array();
+	foreach ( array_filter( array_map( 'trim', preg_split( '/\r?\n/', (string) ( $a['lines'] ?: $content ) ) ) ) as $line ) {
+		$p = array_map( 'trim', explode( '|', $line ) ) + array( '', '', '', '', '', '' );
+		if ( is_numeric( $p[1] ) && is_numeric( $p[2] ) ) {
+			$pins[] = array( 'title' => $p[0], 'lat' => (float) $p[1], 'lng' => (float) $p[2],
+				'address' => $p[3], 'phone' => $p[4], 'url' => $p[5] );
+		}
+	}
+	if ( ! $pins && '' !== $a['lat'] && '' !== $a['lng'] ) {
+		$pins[] = array( 'title' => $a['title'], 'lat' => (float) $a['lat'], 'lng' => (float) $a['lng'] );
+	}
+	if ( ! $pins ) {
 		return '';
 	}
-	$src = 'https://maps.google.com/maps?q=' . rawurlencode( $a['lat'] . ',' . $a['lng'] )
-		. '&z=' . (int) $a['zoom'] . '&output=embed';
-	return '<div id="map_canvas" style="width:100%;height:' . (int) $a['height'] . 'px;">'
-		. '<iframe title="' . esc_attr( $a['title'] ) . '" src="' . esc_url( $src ) . '" width="100%" height="' . (int) $a['height'] . '" style="border:0" loading="lazy" referrerpolicy="no-referrer-when-downgrade" allowfullscreen></iframe></div>';
+	static $n = 0;
+	$n++;
+	$id = 1 === $n ? 'map_canvas' : 'map_canvas_' . $n;
+	$h  = (int) $a['height'];
+
+	if ( '' === $a['key'] ) {
+		$src = 'https://maps.google.com/maps?q=' . rawurlencode( $pins[0]['lat'] . ',' . $pins[0]['lng'] ) . '&z=' . (int) $a['zoom'] . '&output=embed';
+		return '<div id="' . esc_attr( $id ) . '" style="width:100%;height:' . $h . 'px;"><iframe title="' . esc_attr( $pins[0]['title'] ) . '" src="' . esc_url( $src ) . '" width="100%" height="' . $h . '" style="border:0" loading="lazy" referrerpolicy="no-referrer-when-downgrade" allowfullscreen></iframe></div>';
+	}
+
+	kam_map_script( $a['key'] );
+	return '<div id="' . esc_attr( $id ) . '" class="kam-map" style="width:100%;height:' . $h . 'px;"'
+		. ' data-pins="' . esc_attr( wp_json_encode( $pins ) ) . '" data-zoom="' . (int) $a['zoom'] . '"></div>';
 } );
+
+/** Loads the Google Maps script once per page and draws every .kam-map on it. */
+function kam_map_script( $key ) {
+	static $done = false;
+	if ( $done ) {
+		return;
+	}
+	$done = true;
+	add_action( 'wp_footer', function () use ( $key ) {
+		echo '<script>window.kamMapsInit=function(){document.querySelectorAll(".kam-map").forEach(function(el){'
+			. 'var pins=JSON.parse(el.getAttribute("data-pins")||"[]");if(!pins.length)return;'
+			. 'var map=new google.maps.Map(el,{mapTypeId:"roadmap",center:{lat:pins[0].lat,lng:pins[0].lng},zoom:parseInt(el.getAttribute("data-zoom")||"16",10)});'
+			. 'if(pins.length===1){map.setTilt(45);new google.maps.Marker({position:{lat:pins[0].lat,lng:pins[0].lng},map:map,title:pins[0].title});return;}'
+			. 'var b=new google.maps.LatLngBounds(),iw=new google.maps.InfoWindow();'
+			. 'function esc(t){return String(t||"").replace(/[&<>"]/g,function(c){return {"&":"&amp;","<":"&lt;",">":"&gt;","\"":"&quot;"}[c];});}'
+			. 'pins.forEach(function(p){var pos={lat:p.lat,lng:p.lng};var m=new google.maps.Marker({position:pos,map:map,title:p.title});b.extend(pos);'
+			. 'm.addListener("click",function(){var h="<div class=\"text-center info_content\"><p><b>"+esc(p.title)+"</b></p>";'
+			. 'if(p.address){h+="<p><i class=\"fas fa-map-marker-alt\" style=\"color:#2691D5\"></i> "+esc(p.address).split(";").join("<br>")+"</p>";}'
+			. 'if(p.phone){h+="<p><i class=\"fas fa-phone\" style=\"color:#2691D5\"></i> <a href=\"tel:"+esc(p.phone.replace(/[^0-9+]/g,""))+"\">"+esc(p.phone)+"</a></p>";}'
+			. 'if(p.url){h+="<a class=\"btn btn-danger btn-sm\" target=\"_blank\" href=\""+esc(p.url)+"\">Driving Directions <i class=\"fas fa-chevron-right\"></i> <i class=\"fas fa-chevron-right\"></i></a>";}'
+			. 'iw.setContent(h+"</div>");iw.open(map,m);});});'
+			. 'map.fitBounds(b);var once=google.maps.event.addListener(map,"bounds_changed",function(){this.setZoom(9);google.maps.event.removeListener(once);});});};</script>'
+			. '<script async defer src="https://maps.googleapis.com/maps/api/js?key=' . rawurlencode( $key ) . '&callback=kamMapsInit"></script>';
+	}, 50 );
+}
+
 
 /**
  * The branch contact form. Same fields as the live site's. It posts to this
@@ -191,6 +243,110 @@ add_action( 'rest_api_init', function () {
 } );
 
 /**
+ * The home-page carousel. Lines, one per slide: image | heading | line.
+ * Same Bootstrap carousel as the live site, which its stylesheet hides
+ * under 500px and dims with a dark wash.
+ */
+add_shortcode( 'kam_hero', function ( $atts, $content = '' ) {
+	$a = shortcode_atts( array( 'lines' => '', 'id' => 'demo', 'interval' => '' ), $atts, 'kam_hero' );
+	$lines = array_filter( array_map( 'trim', preg_split( '/\r?\n/', (string) ( $a['lines'] ?: $content ) ) ) );
+	if ( ! $lines ) {
+		return '';
+	}
+	$id  = sanitize_html_class( $a['id'] );
+	$out = '<div id="' . esc_attr( $id ) . '" class="carousel slide" data-bs-ride="carousel"><div class="carousel-indicators">';
+	$n = 0;
+	foreach ( $lines as $line ) {
+		$out .= '<button type="button" data-bs-target="#' . esc_attr( $id ) . '" data-bs-slide-to="' . $n . '"' . ( 0 === $n ? ' class="active" aria-current="true"' : '' ) . ' aria-label="Slide ' . ( $n + 1 ) . '"></button>';
+		$n++;
+	}
+	$out .= '</div><div class="carousel-inner">';
+	$n = 0;
+	foreach ( $lines as $line ) {
+		$p = array_map( 'trim', explode( '|', $line ) ) + array( '', '', '' );
+		list( $img, $h, $sub ) = $p;
+		$out .= '<div class="carousel-item' . ( 0 === $n ? ' active' : '' ) . '">'
+			. '<img src="' . esc_url( $img ) . '" class="d-block w-100" alt="' . esc_attr( $h ) . '">'
+			. '<div class="carousel-caption d-none d-md-block">'
+			. ( 0 === $n ? '<h1>' . esc_html( $h ) . '</h1>' : '<h2>' . esc_html( $h ) . '</h2>' )
+			. ( $sub ? '<h3>' . esc_html( $sub ) . '</h3>' : '' )
+			. '</div></div>';
+		$n++;
+	}
+	$out .= '</div>'
+		. '<button class="carousel-control-prev" type="button" data-bs-target="#' . esc_attr( $id ) . '" data-bs-slide="prev"><span class="carousel-control-prev-icon" aria-hidden="true"></span><span class="visually-hidden">Previous</span></button>'
+		. '<button class="carousel-control-next" type="button" data-bs-target="#' . esc_attr( $id ) . '" data-bs-slide="next"><span class="carousel-control-next-icon" aria-hidden="true"></span><span class="visually-hidden">Next</span></button>'
+		. '</div>';
+	return $out;
+} );
+
+/**
+ * Customer reviews. Lines, one per card: name | words. The live site pulls
+ * six from its own database; here they are the block's lines, so the words
+ * are the field. Same card markup, same Read More behaviour.
+ */
+add_shortcode( 'kam_reviews', function ( $atts, $content = '' ) {
+	$a = shortcode_atts( array(
+		'lines'         => '',
+		// The badges under the cards: Google's mark with the rating, and the
+		// Good Garage Scheme mark linking to KAM's listing.
+		'google_logo'   => '',
+		'google_rating' => '',
+		'ggs_logo'      => '',
+		'ggs_url'       => '',
+	), $atts, 'kam_reviews' );
+	$lines = array_filter( array_map( 'trim', preg_split( '/\r?\n/', (string) ( $a['lines'] ?: $content ) ) ) );
+	if ( ! $lines ) {
+		return '';
+	}
+	$out = '<div class="py-2 pt-3" id="ratings-container"><div class="row g-4">';
+	foreach ( $lines as $line ) {
+		$p = array_map( 'trim', explode( '|', $line, 2 ) ) + array( '', '' );
+		list( $name, $text ) = $p;
+		$initial = function_exists( 'mb_substr' ) ? mb_substr( $name, 0, 1 ) : substr( $name, 0, 1 );
+		$out .= '<div class="col-md-6 col-lg-4"><div class="card shadow-sm border-0 h-100"><div class="card-body">'
+			. '<div class="d-flex align-items-center mb-3"><div class="avatar rounded-circle text-white d-flex justify-content-center align-items-center me-2">' . esc_html( $initial ) . '</div>'
+			. '<h6 class="mb-0">' . esc_html( $name ) . '</h6></div>'
+			. '<p class="card-text text-dark feedback-text" style="overflow:hidden;max-height:60px">' . esc_html( $text ) . '</p>'
+			. '<a href="javascript:void(0);" class="read-more-link">Read More</a>'
+			. '</div></div></div>';
+	}
+	$out .= '</div>';
+	if ( $a['google_logo'] || $a['ggs_logo'] ) {
+		$out .= '<div class="row"><div class="col-12"><div class="review-badges">';
+		if ( $a['google_logo'] ) {
+			$r     = (float) $a['google_rating'];
+			$stars = '';
+			for ( $i = 1; $i <= 5; $i++ ) {
+				// A space between the icons, as the live markup has (it is ~4px of width each).
+				$stars .= ( 1 === $i ? '' : ' ' ) . '<i class="fa-solid ' . ( $r >= $i ? 'fa-star' : ( $r >= $i - 0.5 ? 'fa-star-half-stroke' : 'fa-star' ) ) . '"></i>';
+			}
+			$out .= '<a href="javascript:void(0);" class="trustpilot-link badge-card google-badge">'
+				. '<img src="' . esc_url( $a['google_logo'] ) . '" alt="Google Reviews" class="trustpilot-logo">'
+				. '<div class="google-rating"><span class="rating-text">' . esc_html( $a['google_rating'] ) . '</span><span class="stars">' . $stars . '</span></div></a>';
+		}
+		if ( $a['ggs_logo'] ) {
+			$out .= '<a href="' . esc_url( $a['ggs_url'] ) . '" target="_blank" class="trustpilot-link badge-card">'
+				. '<img src="' . esc_url( $a['ggs_logo'] ) . '" alt="Good Garage Scheme" class="trustpilot-logo"></a>';
+		}
+		$out .= '</div></div></div>';
+	}
+	return $out . '</div>';
+} );
+
+function kam_reviews_js() {
+	return <<<'JS'
+document.querySelectorAll('.read-more-link').forEach(function (link) {
+	link.addEventListener('click', function () {
+		var p = this.previousElementSibling;
+		if (this.textContent === 'Read More') { p.style.maxHeight = 'none'; p.style.overflow = 'visible'; this.textContent = 'Read Less'; }
+		else { p.style.maxHeight = '60px'; p.style.overflow = 'hidden'; this.textContent = 'Read More'; }
+	});
+});
+JS;
+}
+
+/**
  * The few lines of CSS that sit between Elementor's containers and KAM's
  * stylesheet, printed only on a page that has a channel-written row.
  *
@@ -213,10 +369,34 @@ function kam_blockrow_css() {
 		 * margins never collapse -- so the heading gives up its margin and
 		 * the hr, which Elementor resets to 0, gets Bootstrap's back.
 		 */
-		. '.kam-blockrow .elementor-heading-title{margin-bottom:0;line-height:1.3}'
+		. '.kam-blockrow .elementor-heading-title{margin-bottom:.5rem;line-height:1.3}'
+		. '.kam-blockrow .elementor-widget-heading[class*=" mb-"] .elementor-heading-title{margin-bottom:0}'
 		. '.kam-blockrow hr{margin:1rem 0}'
+		. '.kam-blockrow .elementor-widget-heading+.elementor-widget-text-editor hr:first-child{margin-top:.5rem}'
 		. '.kam-blockrow .elementor-widget-text-editor p:last-child{margin-bottom:1rem}'
-		. '.kam-buttons{margin-bottom:0}';
+		. '.kam-buttons{margin-bottom:0}'
+		/*
+		 * The service grids. The live site's .service-item is the <a> round
+		 * each tile; here it is the Image Box widget's class, and the tiles
+		 * in the last row lose their bottom rule as they do there.
+		 */
+		. '.service-item .elementor-image-box-title,.service-item .elementor-image-box-description{color:#000}'
+		// Bootstrap gives every <p> 1rem underneath; Elementor's description has none.
+		. '.kam-blockrow .elementor-image-box-description{margin-bottom:1rem}'
+		. '.kam-blockrow .elementor-image-box-title,.kam-blockrow .elementor-image-box-title a{color:#212529}'
+		// An inline-block image leaves a descender gap under it; the live tiles have none.
+		. '.kam-blockrow .elementor-image-box-img{display:block}'
+		. '.service-item .elementor-image-box-title a{color:#000}'
+		// Elementor's ".elementor img{height:auto}" outranks KAM's 50px badge logos.
+		. '.kam-blockrow .trustpilot-logo{height:50px;width:auto}'
+		// Terms page: each numbered term is its own widget, so each is a :last-child;
+		// the rule between them comes back, and only the box's last term goes without.
+		. '.kam-blockrow .elementor-widget-text-editor .warranty-item:last-child{border-bottom:1px solid #eee}'
+		. '.kam-blockrow .elementor-widget-text-editor:last-child .warranty-item:last-child{border-bottom:none}'
+		// Bootstrap's flex-column-reverse: text under the picture on a phone.
+		. '@media(max-width:767px){.e-con.kam-reverse-mobile{--flex-direction:column-reverse!important;flex-direction:column-reverse}}'
+		. '.kam-grid>.e-con:nth-last-child(-n+2) .service-item{border-bottom:none}'
+		. '@media(min-width:992px){.kam-grid>.e-con:nth-last-child(-n+3) .service-item{border-bottom:none}}';
 }
 
 add_action( 'wp_enqueue_scripts', function () {
@@ -231,6 +411,11 @@ add_action( 'wp_enqueue_scripts', function () {
 	wp_enqueue_style( 'kam-blockrow' );
 	wp_add_inline_style( 'kam-blockrow', kam_blockrow_css() );
 
+	if ( kam_uses_shortcode( $post, 'kam_reviews' ) ) {
+		wp_register_script( 'kam-reviews', false, array(), KAM_SITE_VERSION, true );
+		wp_enqueue_script( 'kam-reviews' );
+		wp_add_inline_script( 'kam-reviews', kam_reviews_js() );
+	}
 	if ( kam_uses_shortcode( $post, 'kam_contact_form' ) ) {
 		wp_register_script( 'kam-contact', false, array(), KAM_SITE_VERSION, true );
 		wp_enqueue_script( 'kam-contact' );
