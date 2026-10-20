@@ -463,7 +463,7 @@
         "lng": "-1.23773",
         "zoom": "16",
         "title": "KAM sutton-in-ashfield",
-        "key": "AIzaSyDGrGuuFnXuejU-iuzOTXUSIDn6KTFYCa4"
+        "key": "@MAPS_KEY@"
        }
       }
      ]

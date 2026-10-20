@@ -1,4 +1,6 @@
 import { chromium } from 'playwright';
+import fs from 'node:fs';
+const KEY = fs.readFileSync(process.env.HOME + '/Documents/Claude outputs/kam-review/kam-maps-key.txt', 'utf8').trim();
 const b = await chromium.launch({ args: ['--no-sandbox'] });
 const ctx = await b.newContext({ viewport: { width: 1200, height: 800 } });
 const p = await ctx.newPage();
@@ -10,7 +12,7 @@ await p.goto('https://kamservicing.eastwoodfc.com/bulwell/', { waitUntil: 'domco
 await p.evaluate(() => new Promise((res) => {
   const d = document.createElement('div'); d.id = 'kt'; d.style.cssText = 'width:600px;height:300px'; document.body.prepend(d);
   window.kt_init = () => { try { new google.maps.Map(document.getElementById('kt'), { center: { lat: 52.99, lng: -1.19 }, zoom: 12 }); res('init ok'); } catch (e) { res('init err ' + e.message); } };
-  const s = document.createElement('script'); s.src = 'https://maps.googleapis.com/maps/api/js?key=AIzaSyDGrGuuFnXuejU-iuzOTXUSIDn6KTFYCa4&callback=kt_init'; s.onerror = () => res('script error'); document.body.appendChild(s);
+  const s = document.createElement('script'); s.src = 'https://maps.googleapis.com/maps/api/js?key=' + KEY + '&callback=kt_init'; s.onerror = () => res('script error'); document.body.appendChild(s);
   setTimeout(() => res('timeout'), 8000);
 }));
 await p.waitForTimeout(3000);

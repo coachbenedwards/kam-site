@@ -8,7 +8,7 @@
     {
      "block": "kam_map",
      "fields": {
-      "key": "AIzaSyDGrGuuFnXuejU-iuzOTXUSIDn6KTFYCa4",
+      "key": "@MAPS_KEY@",
       "height": "420",
       "zoom": "9"
      },

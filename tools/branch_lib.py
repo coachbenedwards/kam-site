@@ -18,7 +18,7 @@ from bs4 import BeautifulSoup, NavigableString, Tag
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 MEDIA = 'https://kamservicing.eastwoodfc.com/wp-content/uploads/2026/10/'
 OLD = 'https://kamservicing.com/'
-MAPS_KEY = 'AIzaSyDGrGuuFnXuejU-iuzOTXUSIDn6KTFYCa4'   # the live site's own key, used only for the preview
+MAPS_KEY = '@MAPS_KEY@'   # filled in by tools/push-page.sh from ~/Documents/Claude outputs/kam-review/kam-maps-key.txt (never in the repo)
 
 BRANCHES = {
  'nottingham':'kam-servicing-nottingham.php','bulwell':'kam-servicing-bulwell.php',

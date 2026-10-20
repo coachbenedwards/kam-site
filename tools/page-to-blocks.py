@@ -209,8 +209,8 @@ def card_padding(body):
     return {'top': md, 'right': md, 'bottom': md, 'left': md}, {'top': base, 'right': base, 'bottom': base, 'left': base}
 
 def maps_key(html):
-    m = re.search(r'maps/api/js\?key=([A-Za-z0-9_-]+)', html)
-    return m.group(1) if m else ''
+    # The key itself is never written here; the push script fills the placeholder.
+    return '@MAPS_KEY@' if 'maps/api/js?key=' in html else ''
 
 def all_branches_map(html):
     """The contact page's map: every pin from the page's own script, with the
