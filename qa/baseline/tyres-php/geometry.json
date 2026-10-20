@@ -1,0 +1,1978 @@
+{
+ "url": "/tyres.php",
+ "at": "2026-10-20T08:45:39.537Z",
+ "widths": {
+  "390": {
+   "title": "Car Repairs, Servicing, Tyres and MOT, Nottingham & Derby : KAM",
+   "text": "£0.00 Choose your nearest centre. Ambergate Beeston Belper Derby - Ascot Dr Derby - City Derby - Sinfin Heanor Long Eaton - Derby Rd Long Eaton - Tamworth Rd Nottingham - Bulwell Nottingham - City Centre Nottingham - Colwick Nottingham - Hucknall Nottingham - Nuthall Stapleford Sutton-in-Ashfield Submit BRANCHES Nottingham - Sherwood Nottingham - Bulwell Nottingham - Nuthall Nottingham - Colwick Nottingham - Hucknall Beeston Sutton-in-Ashfield Stapleford Derby - City Derby - Ascot Drive Derby - Sinfin Long Eaton - Derby Rd Long Eaton - Tamworth Rd Heanor Belper Ambergate SERVICES Book an MOT Book a Service Buy Tyres Book A/C Regas View All Services Renu Orthopedic hospital CBSE School faridabad © KAM Servicing - 2026 | Privacy Policy| All Services| Terms & Conditions",
+   "scrollW": 390,
+   "vw": 390,
+   "nodes": [
+    {
+     "k": "a|https://kamservicing.com/::1",
+     "t": "a",
+     "x": 12,
+     "y": 0,
+     "w": 160,
+     "h": 50,
+     "s": "",
+     "href": "https://kamservicing.com/"
+    },
+    {
+     "k": "img|logokams-2.png::1",
+     "t": "img",
+     "x": 12,
+     "y": 0,
+     "w": 160,
+     "h": 50,
+     "s": ""
+    },
+    {
+     "k": "a|/blank.php::1",
+     "t": "a",
+     "x": 278,
+     "y": 2,
+     "w": 100,
+     "h": 47,
+     "s": "",
+     "href": "/blank.php"
+    },
+    {
+     "k": "span|£0.00::1",
+     "t": "span",
+     "x": 292,
+     "y": 10,
+     "w": 46,
+     "h": 31,
+     "s": "£0.00"
+    },
+    {
+     "k": "nav|paints|rgb(38, 145, 213)|none::1",
+     "t": "nav",
+     "x": 0,
+     "y": 50,
+     "w": 390,
+     "h": 40,
+     "s": ""
+    },
+    {
+     "k": "button|paints|rgba(0, 0, 0, 0)|none::1",
+     "t": "button",
+     "x": 12,
+     "y": 50,
+     "w": 56,
+     "h": 40,
+     "s": ""
+    },
+    {
+     "k": "span|paints|rgba(0, 0, 0, 0)|url(\"data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000::1",
+     "t": "span",
+     "x": 25,
+     "y": 55,
+     "w": 30,
+     "h": 30,
+     "s": ""
+    },
+    {
+     "k": "div|paints|rgb(255, 255, 255)|none::1",
+     "t": "div",
+     "x": 8,
+     "y": 8,
+     "w": 374,
+     "h": 331,
+     "s": ""
+    },
+    {
+     "k": "div|paints|rgba(0, 0, 0, 0)|linear-gradient(135deg, rgb(38, 145, 213), rgb(28, 111, 176)::1",
+     "t": "div",
+     "x": 9,
+     "y": 9,
+     "w": 372,
+     "h": 123,
+     "s": ""
+    },
+    {
+     "k": "img|logokams-2.png::2",
+     "t": "img",
+     "x": 25,
+     "y": 25,
+     "w": 286,
+     "h": 90,
+     "s": ""
+    },
+    {
+     "k": "button|paints|rgba(0, 0, 0, 0)|url(\"data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000::1",
+     "t": "button",
+     "x": 342,
+     "y": 55,
+     "w": 31,
+     "h": 31,
+     "s": ""
+    },
+    {
+     "k": "select|paints|rgb(255, 255, 255)|url(\"data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000::1",
+     "t": "select",
+     "x": 25,
+     "y": 148,
+     "w": 340,
+     "h": 38,
+     "s": ""
+    },
+    {
+     "k": "input|paints|rgb(255, 255, 255)|none::1",
+     "t": "input",
+     "x": 25,
+     "y": 202,
+     "w": 340,
+     "h": 38,
+     "s": ""
+    },
+    {
+     "k": "div|paints|rgba(0, 0, 0, 0)|none::1",
+     "t": "div",
+     "x": 9,
+     "y": 272,
+     "w": 372,
+     "h": 66,
+     "s": ""
+    },
+    {
+     "k": "button|Submit::1",
+     "t": "button",
+     "x": 270,
+     "y": 289,
+     "w": 95,
+     "h": 33,
+     "s": "Submit"
+    },
+    {
+     "k": "section|paints|rgb(38, 145, 213)|none::1",
+     "t": "section",
+     "x": 0,
+     "y": 1090,
+     "w": 390,
+     "h": 1217,
+     "s": ""
+    },
+    {
+     "k": "h4|BRANCHES::1",
+     "t": "h4",
+     "x": 22,
+     "y": 1150,
+     "w": 346,
+     "h": 28,
+     "s": "BRANCHES"
+    },
+    {
+     "k": "a|Nottingham - Sherwood::1",
+     "t": "a",
+     "x": 51,
+     "y": 1205,
+     "w": 165,
+     "h": 20,
+     "s": "Nottingham - Sherwood",
+     "href": "/kam-servicing-nottingham.php"
+    },
+    {
+     "k": "a|Nottingham - Bulwell::1",
+     "t": "a",
+     "x": 51,
+     "y": 1248,
+     "w": 143,
+     "h": 20,
+     "s": "Nottingham - Bulwell",
+     "href": "/kam-servicing-bulwell.php"
+    },
+    {
+     "k": "a|Nottingham - Nuthall::1",
+     "t": "a",
+     "x": 51,
+     "y": 1291,
+     "w": 142,
+     "h": 20,
+     "s": "Nottingham - Nuthall",
+     "href": "/kam-servicing-nuthall.php"
+    },
+    {
+     "k": "a|Nottingham - Colwick::1",
+     "t": "a",
+     "x": 51,
+     "y": 1334,
+     "w": 145,
+     "h": 20,
+     "s": "Nottingham - Colwick",
+     "href": "/kam-servicing-colwick.php"
+    },
+    {
+     "k": "a|Nottingham - Hucknall::1",
+     "t": "a",
+     "x": 51,
+     "y": 1377,
+     "w": 151,
+     "h": 20,
+     "s": "Nottingham - Hucknall",
+     "href": "/kam-servicing-hucknall.php"
+    },
+    {
+     "k": "a|Beeston::1",
+     "t": "a",
+     "x": 51,
+     "y": 1420,
+     "w": 59,
+     "h": 20,
+     "s": "Beeston",
+     "href": "/kam-servicing-beeston.php"
+    },
+    {
+     "k": "a|Sutton-in-Ashfield::1",
+     "t": "a",
+     "x": 51,
+     "y": 1463,
+     "w": 123,
+     "h": 20,
+     "s": "Sutton-in-Ashfield",
+     "href": "/kam-servicing-sutton.php"
+    },
+    {
+     "k": "a|Stapleford::1",
+     "t": "a",
+     "x": 51,
+     "y": 1506,
+     "w": 72,
+     "h": 20,
+     "s": "Stapleford",
+     "href": "/kam-servicing-stapleford.php"
+    },
+    {
+     "k": "a|Derby - City::1",
+     "t": "a",
+     "x": 51,
+     "y": 1549,
+     "w": 83,
+     "h": 20,
+     "s": "Derby - City",
+     "href": "/kam-servicing-derby.php"
+    },
+    {
+     "k": "a|Derby - Ascot Drive::1",
+     "t": "a",
+     "x": 51,
+     "y": 1592,
+     "w": 137,
+     "h": 20,
+     "s": "Derby - Ascot Drive",
+     "href": "/kam-servicing-ascot.php"
+    },
+    {
+     "k": "a|Derby - Sinfin::1",
+     "t": "a",
+     "x": 51,
+     "y": 1635,
+     "w": 93,
+     "h": 20,
+     "s": "Derby - Sinfin",
+     "href": "/kam-servicing-sinfin.php"
+    },
+    {
+     "k": "a|Long Eaton - Derby Rd::1",
+     "t": "a",
+     "x": 51,
+     "y": 1678,
+     "w": 158,
+     "h": 20,
+     "s": "Long Eaton - Derby Rd",
+     "href": "/kam-servicing-longeaton.php"
+    },
+    {
+     "k": "a|Long Eaton - Tamworth Rd::1",
+     "t": "a",
+     "x": 51,
+     "y": 1721,
+     "w": 187,
+     "h": 20,
+     "s": "Long Eaton - Tamworth Rd",
+     "href": "/kam-servicing-sawley.php"
+    },
+    {
+     "k": "a|Heanor::1",
+     "t": "a",
+     "x": 51,
+     "y": 1764,
+     "w": 52,
+     "h": 20,
+     "s": "Heanor",
+     "href": "/kam-servicing-heanor.php"
+    },
+    {
+     "k": "a|Belper::1",
+     "t": "a",
+     "x": 51,
+     "y": 1807,
+     "w": 46,
+     "h": 20,
+     "s": "Belper",
+     "href": "/kam-servicing-belper.php"
+    },
+    {
+     "k": "a|Ambergate::1",
+     "t": "a",
+     "x": 51,
+     "y": 1850,
+     "w": 78,
+     "h": 20,
+     "s": "Ambergate",
+     "href": "/kam-servicing-ambergate.php"
+    },
+    {
+     "k": "h4|SERVICES::1",
+     "t": "h4",
+     "x": 22,
+     "y": 1914,
+     "w": 346,
+     "h": 28,
+     "s": "SERVICES"
+    },
+    {
+     "k": "a|Book an MOT::1",
+     "t": "a",
+     "x": 55,
+     "y": 1969,
+     "w": 94,
+     "h": 20,
+     "s": "Book an MOT",
+     "href": "/bookings.php"
+    },
+    {
+     "k": "a|Book a Service::1",
+     "t": "a",
+     "x": 55,
+     "y": 2012,
+     "w": 101,
+     "h": 20,
+     "s": "Book a Service",
+     "href": "/bookings.php"
+    },
+    {
+     "k": "a|Buy Tyres::1",
+     "t": "a",
+     "x": 55,
+     "y": 2055,
+     "w": 71,
+     "h": 20,
+     "s": "Buy Tyres",
+     "href": "/tyres.php"
+    },
+    {
+     "k": "a|Book A/C Regas::1",
+     "t": "a",
+     "x": 55,
+     "y": 2098,
+     "w": 111,
+     "h": 20,
+     "s": "Book A/C Regas",
+     "href": "/bookings.php"
+    },
+    {
+     "k": "a|View All Services::1",
+     "t": "a",
+     "x": 55,
+     "y": 2141,
+     "w": 114,
+     "h": 20,
+     "s": "View All Services",
+     "href": "/all-kam-services.php"
+    },
+    {
+     "k": "a|Renu::1",
+     "t": "a",
+     "x": 22,
+     "y": 2205,
+     "w": 28,
+     "h": 22,
+     "s": "Renu",
+     "href": "https://renusai.com/"
+    },
+    {
+     "k": "a|Orthopedic hospital::1",
+     "t": "a",
+     "x": 50,
+     "y": 2205,
+     "w": 115,
+     "h": 22,
+     "s": "Orthopedic hospital",
+     "href": "https://happy-hospitals.com/"
+    },
+    {
+     "k": "a|CBSE School faridabad::1",
+     "t": "a",
+     "x": 165,
+     "y": 2205,
+     "w": 129,
+     "h": 22,
+     "s": "CBSE School faridabad",
+     "href": "https://www.homertongrammar.com/"
+    },
+    {
+     "k": "footer|paints|rgb(248, 249, 250)|none::1",
+     "t": "footer",
+     "x": 0,
+     "y": 2307,
+     "w": 390,
+     "h": 102,
+     "s": ""
+    },
+    {
+     "k": "p|© KAM Servicing - 2026 | | |::1",
+     "t": "p",
+     "x": 12,
+     "y": 2331,
+     "w": 366,
+     "h": 54,
+     "s": "© KAM Servicing - 2026 | | |"
+    },
+    {
+     "k": "a|Privacy Policy::1",
+     "t": "a",
+     "x": 225,
+     "y": 2334,
+     "w": 94,
+     "h": 20,
+     "s": "Privacy Policy",
+     "href": "https://kamservicing.com/gdpr-privacy-policy.php"
+    },
+    {
+     "k": "a|All Services::1",
+     "t": "a",
+     "x": 91,
+     "y": 2334,
+     "w": 256,
+     "h": 47,
+     "s": "All Services",
+     "href": "https://kamservicing.com/all-kam-services.php"
+    },
+    {
+     "k": "a|Terms & Conditions::1",
+     "t": "a",
+     "x": 162,
+     "y": 2361,
+     "w": 137,
+     "h": 20,
+     "s": "Terms & Conditions",
+     "href": "https://kamservicing.com/terms-conditions.php"
+    },
+    {
+     "k": "div|paints|rgb(0, 0, 0)|none::1",
+     "t": "div",
+     "x": 0,
+     "y": 0,
+     "w": 390,
+     "h": 1000,
+     "s": ""
+    }
+   ]
+  },
+  "820": {
+   "title": "Car Repairs, Servicing, Tyres and MOT, Nottingham & Derby : KAM",
+   "text": "£0.00 Home About Services Contact Careers Choose your nearest centre. Ambergate Beeston Belper Derby - Ascot Dr Derby - City Derby - Sinfin Heanor Long Eaton - Derby Rd Long Eaton - Tamworth Rd Nottingham - Bulwell Nottingham - City Centre Nottingham - Colwick Nottingham - Hucknall Nottingham - Nuthall Stapleford Sutton-in-Ashfield Submit BRANCHES Nottingham - Sherwood Nottingham - Bulwell Nottingham - Nuthall Nottingham - Colwick Nottingham - Hucknall Beeston Sutton-in-Ashfield Stapleford Derby - City Derby - Ascot Drive Derby - Sinfin Long Eaton - Derby Rd Long Eaton - Tamworth Rd Heanor Belper Ambergate SERVICES Book an MOT Book a Service Buy Tyres Book A/C Regas View All Services Renu Orthopedic hospital CBSE School faridabad © KAM Servicing - 2026 | Privacy Policy| All Services| Terms & Conditions",
+   "scrollW": 820,
+   "vw": 820,
+   "nodes": [
+    {
+     "k": "a|https://kamservicing.com/::1",
+     "t": "a",
+     "x": 62,
+     "y": 0,
+     "w": 286,
+     "h": 90,
+     "s": "",
+     "href": "https://kamservicing.com/"
+    },
+    {
+     "k": "img|logokams-2.png::1",
+     "t": "img",
+     "x": 62,
+     "y": 0,
+     "w": 286,
+     "h": 90,
+     "s": ""
+    },
+    {
+     "k": "a|/blank.php::1",
+     "t": "a",
+     "x": 658,
+     "y": 22,
+     "w": 100,
+     "h": 47,
+     "s": "",
+     "href": "/blank.php"
+    },
+    {
+     "k": "span|£0.00::1",
+     "t": "span",
+     "x": 672,
+     "y": 30,
+     "w": 46,
+     "h": 31,
+     "s": "£0.00"
+    },
+    {
+     "k": "nav|paints|rgb(38, 145, 213)|none::1",
+     "t": "nav",
+     "x": 0,
+     "y": 90,
+     "w": 820,
+     "h": 47,
+     "s": ""
+    },
+    {
+     "k": "a|Home::1",
+     "t": "a",
+     "x": 62,
+     "y": 90,
+     "w": 86,
+     "h": 47,
+     "s": "Home",
+     "href": "/"
+    },
+    {
+     "k": "a|About::1",
+     "t": "a",
+     "x": 148,
+     "y": 90,
+     "w": 85,
+     "h": 47,
+     "s": "About",
+     "href": "https://kamservicing.com/#about"
+    },
+    {
+     "k": "a|Services::1",
+     "t": "a",
+     "x": 233,
+     "y": 90,
+     "w": 106,
+     "h": 47,
+     "s": "Services",
+     "href": "/all-kam-services.php"
+    },
+    {
+     "k": "a|Contact::1",
+     "t": "a",
+     "x": 339,
+     "y": 90,
+     "w": 101,
+     "h": 47,
+     "s": "Contact",
+     "href": "/kam-servicing.php"
+    },
+    {
+     "k": "a|Careers::1",
+     "t": "a",
+     "x": 440,
+     "y": 90,
+     "w": 101,
+     "h": 47,
+     "s": "Careers",
+     "href": "/careers_at_kam_servicing.php"
+    },
+    {
+     "k": "div|paints|rgb(255, 255, 255)|none::1",
+     "t": "div",
+     "x": 160,
+     "y": 28,
+     "w": 500,
+     "h": 331,
+     "s": ""
+    },
+    {
+     "k": "div|paints|rgba(0, 0, 0, 0)|linear-gradient(135deg, rgb(38, 145, 213), rgb(28, 111, 176)::1",
+     "t": "div",
+     "x": 161,
+     "y": 29,
+     "w": 498,
+     "h": 123,
+     "s": ""
+    },
+    {
+     "k": "img|logokams-2.png::2",
+     "t": "img",
+     "x": 177,
+     "y": 45,
+     "w": 286,
+     "h": 90,
+     "s": ""
+    },
+    {
+     "k": "button|paints|rgba(0, 0, 0, 0)|url(\"data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000::1",
+     "t": "button",
+     "x": 620,
+     "y": 75,
+     "w": 31,
+     "h": 31,
+     "s": ""
+    },
+    {
+     "k": "select|paints|rgb(255, 255, 255)|url(\"data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000::1",
+     "t": "select",
+     "x": 177,
+     "y": 168,
+     "w": 466,
+     "h": 38,
+     "s": ""
+    },
+    {
+     "k": "input|paints|rgb(255, 255, 255)|none::1",
+     "t": "input",
+     "x": 177,
+     "y": 222,
+     "w": 466,
+     "h": 38,
+     "s": ""
+    },
+    {
+     "k": "div|paints|rgba(0, 0, 0, 0)|none::1",
+     "t": "div",
+     "x": 161,
+     "y": 292,
+     "w": 498,
+     "h": 66,
+     "s": ""
+    },
+    {
+     "k": "button|Submit::1",
+     "t": "button",
+     "x": 548,
+     "y": 309,
+     "w": 95,
+     "h": 33,
+     "s": "Submit"
+    },
+    {
+     "k": "section|paints|rgb(38, 145, 213)|none::1",
+     "t": "section",
+     "x": 0,
+     "y": 1137,
+     "w": 820,
+     "h": 876,
+     "s": ""
+    },
+    {
+     "k": "h4|BRANCHES::1",
+     "t": "h4",
+     "x": 62,
+     "y": 1197,
+     "w": 696,
+     "h": 30,
+     "s": "BRANCHES"
+    },
+    {
+     "k": "a|Nottingham - Sherwood::1",
+     "t": "a",
+     "x": 91,
+     "y": 1253,
+     "w": 165,
+     "h": 20,
+     "s": "Nottingham - Sherwood",
+     "href": "/kam-servicing-nottingham.php"
+    },
+    {
+     "k": "a|Nottingham - Bulwell::1",
+     "t": "a",
+     "x": 91,
+     "y": 1296,
+     "w": 143,
+     "h": 20,
+     "s": "Nottingham - Bulwell",
+     "href": "/kam-servicing-bulwell.php"
+    },
+    {
+     "k": "a|Nottingham - Nuthall::1",
+     "t": "a",
+     "x": 91,
+     "y": 1339,
+     "w": 142,
+     "h": 20,
+     "s": "Nottingham - Nuthall",
+     "href": "/kam-servicing-nuthall.php"
+    },
+    {
+     "k": "a|Nottingham - Colwick::1",
+     "t": "a",
+     "x": 91,
+     "y": 1382,
+     "w": 145,
+     "h": 20,
+     "s": "Nottingham - Colwick",
+     "href": "/kam-servicing-colwick.php"
+    },
+    {
+     "k": "a|Nottingham - Hucknall::1",
+     "t": "a",
+     "x": 91,
+     "y": 1425,
+     "w": 151,
+     "h": 20,
+     "s": "Nottingham - Hucknall",
+     "href": "/kam-servicing-hucknall.php"
+    },
+    {
+     "k": "a|Beeston::1",
+     "t": "a",
+     "x": 91,
+     "y": 1468,
+     "w": 59,
+     "h": 20,
+     "s": "Beeston",
+     "href": "/kam-servicing-beeston.php"
+    },
+    {
+     "k": "a|Sutton-in-Ashfield::1",
+     "t": "a",
+     "x": 91,
+     "y": 1511,
+     "w": 123,
+     "h": 20,
+     "s": "Sutton-in-Ashfield",
+     "href": "/kam-servicing-sutton.php"
+    },
+    {
+     "k": "a|Stapleford::1",
+     "t": "a",
+     "x": 91,
+     "y": 1554,
+     "w": 72,
+     "h": 20,
+     "s": "Stapleford",
+     "href": "/kam-servicing-stapleford.php"
+    },
+    {
+     "k": "a|Derby - City::1",
+     "t": "a",
+     "x": 451,
+     "y": 1253,
+     "w": 83,
+     "h": 20,
+     "s": "Derby - City",
+     "href": "/kam-servicing-derby.php"
+    },
+    {
+     "k": "a|Derby - Ascot Drive::1",
+     "t": "a",
+     "x": 451,
+     "y": 1296,
+     "w": 137,
+     "h": 20,
+     "s": "Derby - Ascot Drive",
+     "href": "/kam-servicing-ascot.php"
+    },
+    {
+     "k": "a|Derby - Sinfin::1",
+     "t": "a",
+     "x": 451,
+     "y": 1339,
+     "w": 93,
+     "h": 20,
+     "s": "Derby - Sinfin",
+     "href": "/kam-servicing-sinfin.php"
+    },
+    {
+     "k": "a|Long Eaton - Derby Rd::1",
+     "t": "a",
+     "x": 451,
+     "y": 1382,
+     "w": 158,
+     "h": 20,
+     "s": "Long Eaton - Derby Rd",
+     "href": "/kam-servicing-longeaton.php"
+    },
+    {
+     "k": "a|Long Eaton - Tamworth Rd::1",
+     "t": "a",
+     "x": 451,
+     "y": 1425,
+     "w": 187,
+     "h": 20,
+     "s": "Long Eaton - Tamworth Rd",
+     "href": "/kam-servicing-sawley.php"
+    },
+    {
+     "k": "a|Heanor::1",
+     "t": "a",
+     "x": 451,
+     "y": 1468,
+     "w": 52,
+     "h": 20,
+     "s": "Heanor",
+     "href": "/kam-servicing-heanor.php"
+    },
+    {
+     "k": "a|Belper::1",
+     "t": "a",
+     "x": 451,
+     "y": 1511,
+     "w": 46,
+     "h": 20,
+     "s": "Belper",
+     "href": "/kam-servicing-belper.php"
+    },
+    {
+     "k": "a|Ambergate::1",
+     "t": "a",
+     "x": 451,
+     "y": 1554,
+     "w": 78,
+     "h": 20,
+     "s": "Ambergate",
+     "href": "/kam-servicing-ambergate.php"
+    },
+    {
+     "k": "h4|SERVICES::1",
+     "t": "h4",
+     "x": 62,
+     "y": 1618,
+     "w": 696,
+     "h": 30,
+     "s": "SERVICES"
+    },
+    {
+     "k": "a|Book an MOT::1",
+     "t": "a",
+     "x": 335,
+     "y": 1675,
+     "w": 94,
+     "h": 20,
+     "s": "Book an MOT",
+     "href": "/bookings.php"
+    },
+    {
+     "k": "a|Book a Service::1",
+     "t": "a",
+     "x": 335,
+     "y": 1718,
+     "w": 101,
+     "h": 20,
+     "s": "Book a Service",
+     "href": "/bookings.php"
+    },
+    {
+     "k": "a|Buy Tyres::1",
+     "t": "a",
+     "x": 335,
+     "y": 1761,
+     "w": 71,
+     "h": 20,
+     "s": "Buy Tyres",
+     "href": "/tyres.php"
+    },
+    {
+     "k": "a|Book A/C Regas::1",
+     "t": "a",
+     "x": 335,
+     "y": 1804,
+     "w": 111,
+     "h": 20,
+     "s": "Book A/C Regas",
+     "href": "/bookings.php"
+    },
+    {
+     "k": "a|View All Services::1",
+     "t": "a",
+     "x": 335,
+     "y": 1847,
+     "w": 114,
+     "h": 20,
+     "s": "View All Services",
+     "href": "/all-kam-services.php"
+    },
+    {
+     "k": "a|Renu::1",
+     "t": "a",
+     "x": 62,
+     "y": 1911,
+     "w": 28,
+     "h": 22,
+     "s": "Renu",
+     "href": "https://renusai.com/"
+    },
+    {
+     "k": "a|Orthopedic hospital::1",
+     "t": "a",
+     "x": 90,
+     "y": 1911,
+     "w": 115,
+     "h": 22,
+     "s": "Orthopedic hospital",
+     "href": "https://happy-hospitals.com/"
+    },
+    {
+     "k": "a|CBSE School faridabad::1",
+     "t": "a",
+     "x": 205,
+     "y": 1911,
+     "w": 129,
+     "h": 22,
+     "s": "CBSE School faridabad",
+     "href": "https://www.homertongrammar.com/"
+    },
+    {
+     "k": "footer|paints|rgb(248, 249, 250)|none::1",
+     "t": "footer",
+     "x": 0,
+     "y": 2013,
+     "w": 820,
+     "h": 75,
+     "s": ""
+    },
+    {
+     "k": "p|© KAM Servicing - 2026 | | |::1",
+     "t": "p",
+     "x": 62,
+     "y": 2037,
+     "w": 696,
+     "h": 27,
+     "s": "© KAM Servicing - 2026 | | |"
+    },
+    {
+     "k": "a|Privacy Policy::1",
+     "t": "a",
+     "x": 334,
+     "y": 2040,
+     "w": 94,
+     "h": 20,
+     "s": "Privacy Policy",
+     "href": "https://kamservicing.com/gdpr-privacy-policy.php"
+    },
+    {
+     "k": "a|All Services::1",
+     "t": "a",
+     "x": 441,
+     "y": 2040,
+     "w": 77,
+     "h": 20,
+     "s": "All Services",
+     "href": "https://kamservicing.com/all-kam-services.php"
+    },
+    {
+     "k": "a|Terms & Conditions::1",
+     "t": "a",
+     "x": 531,
+     "y": 2040,
+     "w": 137,
+     "h": 20,
+     "s": "Terms & Conditions",
+     "href": "https://kamservicing.com/terms-conditions.php"
+    },
+    {
+     "k": "div|paints|rgb(0, 0, 0)|none::1",
+     "t": "div",
+     "x": 0,
+     "y": 0,
+     "w": 820,
+     "h": 1000,
+     "s": ""
+    }
+   ]
+  },
+  "1440": {
+   "title": "Car Repairs, Servicing, Tyres and MOT, Nottingham & Derby : KAM",
+   "text": "£0.00 Home About Services Contact Careers Choose your nearest centre. Ambergate Beeston Belper Derby - Ascot Dr Derby - City Derby - Sinfin Heanor Long Eaton - Derby Rd Long Eaton - Tamworth Rd Nottingham - Bulwell Nottingham - City Centre Nottingham - Colwick Nottingham - Hucknall Nottingham - Nuthall Stapleford Sutton-in-Ashfield Submit BRANCHES Nottingham - Sherwood Nottingham - Bulwell Nottingham - Nuthall Nottingham - Colwick Nottingham - Hucknall Beeston Sutton-in-Ashfield Stapleford Derby - City Derby - Ascot Drive Derby - Sinfin Long Eaton - Derby Rd Long Eaton - Tamworth Rd Heanor Belper Ambergate SERVICES Book an MOT Book a Service Buy Tyres Book A/C Regas View All Services Renu Orthopedic hospital CBSE School faridabad © KAM Servicing - 2026 | Privacy Policy| All Services| Terms & Conditions",
+   "scrollW": 1440,
+   "vw": 1440,
+   "nodes": [
+    {
+     "k": "a|https://kamservicing.com/::1",
+     "t": "a",
+     "x": 162,
+     "y": 0,
+     "w": 286,
+     "h": 90,
+     "s": "",
+     "href": "https://kamservicing.com/"
+    },
+    {
+     "k": "img|logokams-2.png::1",
+     "t": "img",
+     "x": 162,
+     "y": 0,
+     "w": 286,
+     "h": 90,
+     "s": ""
+    },
+    {
+     "k": "a|/blank.php::1",
+     "t": "a",
+     "x": 1178,
+     "y": 22,
+     "w": 100,
+     "h": 47,
+     "s": "",
+     "href": "/blank.php"
+    },
+    {
+     "k": "span|£0.00::1",
+     "t": "span",
+     "x": 1192,
+     "y": 30,
+     "w": 46,
+     "h": 31,
+     "s": "£0.00"
+    },
+    {
+     "k": "nav|paints|rgb(38, 145, 213)|none::1",
+     "t": "nav",
+     "x": 0,
+     "y": 90,
+     "w": 1440,
+     "h": 47,
+     "s": ""
+    },
+    {
+     "k": "a|Home::1",
+     "t": "a",
+     "x": 162,
+     "y": 90,
+     "w": 86,
+     "h": 47,
+     "s": "Home",
+     "href": "/"
+    },
+    {
+     "k": "a|About::1",
+     "t": "a",
+     "x": 248,
+     "y": 90,
+     "w": 85,
+     "h": 47,
+     "s": "About",
+     "href": "https://kamservicing.com/#about"
+    },
+    {
+     "k": "a|Services::1",
+     "t": "a",
+     "x": 333,
+     "y": 90,
+     "w": 106,
+     "h": 47,
+     "s": "Services",
+     "href": "/all-kam-services.php"
+    },
+    {
+     "k": "a|Contact::1",
+     "t": "a",
+     "x": 439,
+     "y": 90,
+     "w": 101,
+     "h": 47,
+     "s": "Contact",
+     "href": "/kam-servicing.php"
+    },
+    {
+     "k": "a|Careers::1",
+     "t": "a",
+     "x": 540,
+     "y": 90,
+     "w": 101,
+     "h": 47,
+     "s": "Careers",
+     "href": "/careers_at_kam_servicing.php"
+    },
+    {
+     "k": "div|paints|rgb(255, 255, 255)|none::1",
+     "t": "div",
+     "x": 470,
+     "y": 28,
+     "w": 500,
+     "h": 331,
+     "s": ""
+    },
+    {
+     "k": "div|paints|rgba(0, 0, 0, 0)|linear-gradient(135deg, rgb(38, 145, 213), rgb(28, 111, 176)::1",
+     "t": "div",
+     "x": 471,
+     "y": 29,
+     "w": 498,
+     "h": 123,
+     "s": ""
+    },
+    {
+     "k": "img|logokams-2.png::2",
+     "t": "img",
+     "x": 487,
+     "y": 45,
+     "w": 286,
+     "h": 90,
+     "s": ""
+    },
+    {
+     "k": "button|paints|rgba(0, 0, 0, 0)|url(\"data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000::1",
+     "t": "button",
+     "x": 930,
+     "y": 75,
+     "w": 31,
+     "h": 31,
+     "s": ""
+    },
+    {
+     "k": "select|paints|rgb(255, 255, 255)|url(\"data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000::1",
+     "t": "select",
+     "x": 487,
+     "y": 168,
+     "w": 466,
+     "h": 38,
+     "s": ""
+    },
+    {
+     "k": "input|paints|rgb(255, 255, 255)|none::1",
+     "t": "input",
+     "x": 487,
+     "y": 222,
+     "w": 466,
+     "h": 38,
+     "s": ""
+    },
+    {
+     "k": "div|paints|rgba(0, 0, 0, 0)|none::1",
+     "t": "div",
+     "x": 471,
+     "y": 292,
+     "w": 498,
+     "h": 66,
+     "s": ""
+    },
+    {
+     "k": "button|Submit::1",
+     "t": "button",
+     "x": 858,
+     "y": 309,
+     "w": 95,
+     "h": 33,
+     "s": "Submit"
+    },
+    {
+     "k": "section|paints|rgb(38, 145, 213)|none::1",
+     "t": "section",
+     "x": 0,
+     "y": 1137,
+     "w": 1440,
+     "h": 585,
+     "s": ""
+    },
+    {
+     "k": "h4|BRANCHES::1",
+     "t": "h4",
+     "x": 162,
+     "y": 1197,
+     "w": 641,
+     "h": 31,
+     "s": "BRANCHES"
+    },
+    {
+     "k": "a|Nottingham - Sherwood::1",
+     "t": "a",
+     "x": 191,
+     "y": 1255,
+     "w": 165,
+     "h": 20,
+     "s": "Nottingham - Sherwood",
+     "href": "/kam-servicing-nottingham.php"
+    },
+    {
+     "k": "a|Nottingham - Bulwell::1",
+     "t": "a",
+     "x": 191,
+     "y": 1298,
+     "w": 143,
+     "h": 20,
+     "s": "Nottingham - Bulwell",
+     "href": "/kam-servicing-bulwell.php"
+    },
+    {
+     "k": "a|Nottingham - Nuthall::1",
+     "t": "a",
+     "x": 191,
+     "y": 1341,
+     "w": 142,
+     "h": 20,
+     "s": "Nottingham - Nuthall",
+     "href": "/kam-servicing-nuthall.php"
+    },
+    {
+     "k": "a|Nottingham - Colwick::1",
+     "t": "a",
+     "x": 191,
+     "y": 1384,
+     "w": 145,
+     "h": 20,
+     "s": "Nottingham - Colwick",
+     "href": "/kam-servicing-colwick.php"
+    },
+    {
+     "k": "a|Nottingham - Hucknall::1",
+     "t": "a",
+     "x": 191,
+     "y": 1427,
+     "w": 151,
+     "h": 20,
+     "s": "Nottingham - Hucknall",
+     "href": "/kam-servicing-hucknall.php"
+    },
+    {
+     "k": "a|Beeston::1",
+     "t": "a",
+     "x": 191,
+     "y": 1470,
+     "w": 59,
+     "h": 20,
+     "s": "Beeston",
+     "href": "/kam-servicing-beeston.php"
+    },
+    {
+     "k": "a|Sutton-in-Ashfield::1",
+     "t": "a",
+     "x": 191,
+     "y": 1513,
+     "w": 123,
+     "h": 20,
+     "s": "Sutton-in-Ashfield",
+     "href": "/kam-servicing-sutton.php"
+    },
+    {
+     "k": "a|Stapleford::1",
+     "t": "a",
+     "x": 191,
+     "y": 1556,
+     "w": 72,
+     "h": 20,
+     "s": "Stapleford",
+     "href": "/kam-servicing-stapleford.php"
+    },
+    {
+     "k": "a|Derby - City::1",
+     "t": "a",
+     "x": 524,
+     "y": 1255,
+     "w": 83,
+     "h": 20,
+     "s": "Derby - City",
+     "href": "/kam-servicing-derby.php"
+    },
+    {
+     "k": "a|Derby - Ascot Drive::1",
+     "t": "a",
+     "x": 524,
+     "y": 1298,
+     "w": 137,
+     "h": 20,
+     "s": "Derby - Ascot Drive",
+     "href": "/kam-servicing-ascot.php"
+    },
+    {
+     "k": "a|Derby - Sinfin::1",
+     "t": "a",
+     "x": 524,
+     "y": 1341,
+     "w": 93,
+     "h": 20,
+     "s": "Derby - Sinfin",
+     "href": "/kam-servicing-sinfin.php"
+    },
+    {
+     "k": "a|Long Eaton - Derby Rd::1",
+     "t": "a",
+     "x": 524,
+     "y": 1384,
+     "w": 158,
+     "h": 20,
+     "s": "Long Eaton - Derby Rd",
+     "href": "/kam-servicing-longeaton.php"
+    },
+    {
+     "k": "a|Long Eaton - Tamworth Rd::1",
+     "t": "a",
+     "x": 524,
+     "y": 1427,
+     "w": 187,
+     "h": 20,
+     "s": "Long Eaton - Tamworth Rd",
+     "href": "/kam-servicing-sawley.php"
+    },
+    {
+     "k": "a|Heanor::1",
+     "t": "a",
+     "x": 524,
+     "y": 1470,
+     "w": 52,
+     "h": 20,
+     "s": "Heanor",
+     "href": "/kam-servicing-heanor.php"
+    },
+    {
+     "k": "a|Belper::1",
+     "t": "a",
+     "x": 524,
+     "y": 1513,
+     "w": 46,
+     "h": 20,
+     "s": "Belper",
+     "href": "/kam-servicing-belper.php"
+    },
+    {
+     "k": "a|Ambergate::1",
+     "t": "a",
+     "x": 524,
+     "y": 1556,
+     "w": 78,
+     "h": 20,
+     "s": "Ambergate",
+     "href": "/kam-servicing-ambergate.php"
+    },
+    {
+     "k": "h4|SERVICES::1",
+     "t": "h4",
+     "x": 827,
+     "y": 1197,
+     "w": 451,
+     "h": 31,
+     "s": "SERVICES"
+    },
+    {
+     "k": "a|Book an MOT::1",
+     "t": "a",
+     "x": 1018,
+     "y": 1255,
+     "w": 94,
+     "h": 20,
+     "s": "Book an MOT",
+     "href": "/bookings.php"
+    },
+    {
+     "k": "a|Book a Service::1",
+     "t": "a",
+     "x": 1018,
+     "y": 1298,
+     "w": 101,
+     "h": 20,
+     "s": "Book a Service",
+     "href": "/bookings.php"
+    },
+    {
+     "k": "a|Buy Tyres::1",
+     "t": "a",
+     "x": 1018,
+     "y": 1341,
+     "w": 71,
+     "h": 20,
+     "s": "Buy Tyres",
+     "href": "/tyres.php"
+    },
+    {
+     "k": "a|Book A/C Regas::1",
+     "t": "a",
+     "x": 1018,
+     "y": 1384,
+     "w": 111,
+     "h": 20,
+     "s": "Book A/C Regas",
+     "href": "/bookings.php"
+    },
+    {
+     "k": "a|View All Services::1",
+     "t": "a",
+     "x": 1018,
+     "y": 1427,
+     "w": 114,
+     "h": 20,
+     "s": "View All Services",
+     "href": "/all-kam-services.php"
+    },
+    {
+     "k": "a|Renu::1",
+     "t": "a",
+     "x": 162,
+     "y": 1620,
+     "w": 28,
+     "h": 22,
+     "s": "Renu",
+     "href": "https://renusai.com/"
+    },
+    {
+     "k": "a|Orthopedic hospital::1",
+     "t": "a",
+     "x": 190,
+     "y": 1620,
+     "w": 115,
+     "h": 22,
+     "s": "Orthopedic hospital",
+     "href": "https://happy-hospitals.com/"
+    },
+    {
+     "k": "a|CBSE School faridabad::1",
+     "t": "a",
+     "x": 305,
+     "y": 1620,
+     "w": 129,
+     "h": 22,
+     "s": "CBSE School faridabad",
+     "href": "https://www.homertongrammar.com/"
+    },
+    {
+     "k": "footer|paints|rgb(248, 249, 250)|none::1",
+     "t": "footer",
+     "x": 0,
+     "y": 1721,
+     "w": 1440,
+     "h": 75,
+     "s": ""
+    },
+    {
+     "k": "p|© KAM Servicing - 2026 | | |::1",
+     "t": "p",
+     "x": 162,
+     "y": 1745,
+     "w": 1116,
+     "h": 27,
+     "s": "© KAM Servicing - 2026 | | |"
+    },
+    {
+     "k": "a|Privacy Policy::1",
+     "t": "a",
+     "x": 644,
+     "y": 1748,
+     "w": 94,
+     "h": 20,
+     "s": "Privacy Policy",
+     "href": "https://kamservicing.com/gdpr-privacy-policy.php"
+    },
+    {
+     "k": "a|All Services::1",
+     "t": "a",
+     "x": 751,
+     "y": 1748,
+     "w": 77,
+     "h": 20,
+     "s": "All Services",
+     "href": "https://kamservicing.com/all-kam-services.php"
+    },
+    {
+     "k": "a|Terms & Conditions::1",
+     "t": "a",
+     "x": 841,
+     "y": 1748,
+     "w": 137,
+     "h": 20,
+     "s": "Terms & Conditions",
+     "href": "https://kamservicing.com/terms-conditions.php"
+    },
+    {
+     "k": "div|paints|rgb(0, 0, 0)|none::1",
+     "t": "div",
+     "x": 0,
+     "y": 0,
+     "w": 1440,
+     "h": 1000,
+     "s": ""
+    }
+   ]
+  },
+  "1512": {
+   "title": "Car Repairs, Servicing, Tyres and MOT, Nottingham & Derby : KAM",
+   "text": "£0.00 Home About Services Contact Careers Choose your nearest centre. Ambergate Beeston Belper Derby - Ascot Dr Derby - City Derby - Sinfin Heanor Long Eaton - Derby Rd Long Eaton - Tamworth Rd Nottingham - Bulwell Nottingham - City Centre Nottingham - Colwick Nottingham - Hucknall Nottingham - Nuthall Stapleford Sutton-in-Ashfield Submit BRANCHES Nottingham - Sherwood Nottingham - Bulwell Nottingham - Nuthall Nottingham - Colwick Nottingham - Hucknall Beeston Sutton-in-Ashfield Stapleford Derby - City Derby - Ascot Drive Derby - Sinfin Long Eaton - Derby Rd Long Eaton - Tamworth Rd Heanor Belper Ambergate SERVICES Book an MOT Book a Service Buy Tyres Book A/C Regas View All Services Renu Orthopedic hospital CBSE School faridabad © KAM Servicing - 2026 | Privacy Policy| All Services| Terms & Conditions",
+   "scrollW": 1512,
+   "vw": 1512,
+   "nodes": [
+    {
+     "k": "a|https://kamservicing.com/::1",
+     "t": "a",
+     "x": 198,
+     "y": 0,
+     "w": 286,
+     "h": 90,
+     "s": "",
+     "href": "https://kamservicing.com/"
+    },
+    {
+     "k": "img|logokams-2.png::1",
+     "t": "img",
+     "x": 198,
+     "y": 0,
+     "w": 286,
+     "h": 90,
+     "s": ""
+    },
+    {
+     "k": "a|/blank.php::1",
+     "t": "a",
+     "x": 1214,
+     "y": 22,
+     "w": 100,
+     "h": 47,
+     "s": "",
+     "href": "/blank.php"
+    },
+    {
+     "k": "span|£0.00::1",
+     "t": "span",
+     "x": 1228,
+     "y": 30,
+     "w": 46,
+     "h": 31,
+     "s": "£0.00"
+    },
+    {
+     "k": "nav|paints|rgb(38, 145, 213)|none::1",
+     "t": "nav",
+     "x": 0,
+     "y": 90,
+     "w": 1512,
+     "h": 47,
+     "s": ""
+    },
+    {
+     "k": "a|Home::1",
+     "t": "a",
+     "x": 198,
+     "y": 90,
+     "w": 86,
+     "h": 47,
+     "s": "Home",
+     "href": "/"
+    },
+    {
+     "k": "a|About::1",
+     "t": "a",
+     "x": 284,
+     "y": 90,
+     "w": 85,
+     "h": 47,
+     "s": "About",
+     "href": "https://kamservicing.com/#about"
+    },
+    {
+     "k": "a|Services::1",
+     "t": "a",
+     "x": 369,
+     "y": 90,
+     "w": 106,
+     "h": 47,
+     "s": "Services",
+     "href": "/all-kam-services.php"
+    },
+    {
+     "k": "a|Contact::1",
+     "t": "a",
+     "x": 475,
+     "y": 90,
+     "w": 101,
+     "h": 47,
+     "s": "Contact",
+     "href": "/kam-servicing.php"
+    },
+    {
+     "k": "a|Careers::1",
+     "t": "a",
+     "x": 576,
+     "y": 90,
+     "w": 101,
+     "h": 47,
+     "s": "Careers",
+     "href": "/careers_at_kam_servicing.php"
+    },
+    {
+     "k": "div|paints|rgb(255, 255, 255)|none::1",
+     "t": "div",
+     "x": 506,
+     "y": 28,
+     "w": 500,
+     "h": 331,
+     "s": ""
+    },
+    {
+     "k": "div|paints|rgba(0, 0, 0, 0)|linear-gradient(135deg, rgb(38, 145, 213), rgb(28, 111, 176)::1",
+     "t": "div",
+     "x": 507,
+     "y": 29,
+     "w": 498,
+     "h": 123,
+     "s": ""
+    },
+    {
+     "k": "img|logokams-2.png::2",
+     "t": "img",
+     "x": 523,
+     "y": 45,
+     "w": 286,
+     "h": 90,
+     "s": ""
+    },
+    {
+     "k": "button|paints|rgba(0, 0, 0, 0)|url(\"data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000::1",
+     "t": "button",
+     "x": 966,
+     "y": 75,
+     "w": 31,
+     "h": 31,
+     "s": ""
+    },
+    {
+     "k": "select|paints|rgb(255, 255, 255)|url(\"data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000::1",
+     "t": "select",
+     "x": 523,
+     "y": 168,
+     "w": 466,
+     "h": 38,
+     "s": ""
+    },
+    {
+     "k": "input|paints|rgb(255, 255, 255)|none::1",
+     "t": "input",
+     "x": 523,
+     "y": 222,
+     "w": 466,
+     "h": 38,
+     "s": ""
+    },
+    {
+     "k": "div|paints|rgba(0, 0, 0, 0)|none::1",
+     "t": "div",
+     "x": 507,
+     "y": 292,
+     "w": 498,
+     "h": 66,
+     "s": ""
+    },
+    {
+     "k": "button|Submit::1",
+     "t": "button",
+     "x": 894,
+     "y": 309,
+     "w": 95,
+     "h": 33,
+     "s": "Submit"
+    },
+    {
+     "k": "section|paints|rgb(38, 145, 213)|none::1",
+     "t": "section",
+     "x": 0,
+     "y": 1137,
+     "w": 1512,
+     "h": 585,
+     "s": ""
+    },
+    {
+     "k": "h4|BRANCHES::1",
+     "t": "h4",
+     "x": 198,
+     "y": 1197,
+     "w": 641,
+     "h": 31,
+     "s": "BRANCHES"
+    },
+    {
+     "k": "a|Nottingham - Sherwood::1",
+     "t": "a",
+     "x": 227,
+     "y": 1255,
+     "w": 165,
+     "h": 20,
+     "s": "Nottingham - Sherwood",
+     "href": "/kam-servicing-nottingham.php"
+    },
+    {
+     "k": "a|Nottingham - Bulwell::1",
+     "t": "a",
+     "x": 227,
+     "y": 1298,
+     "w": 143,
+     "h": 20,
+     "s": "Nottingham - Bulwell",
+     "href": "/kam-servicing-bulwell.php"
+    },
+    {
+     "k": "a|Nottingham - Nuthall::1",
+     "t": "a",
+     "x": 227,
+     "y": 1341,
+     "w": 142,
+     "h": 20,
+     "s": "Nottingham - Nuthall",
+     "href": "/kam-servicing-nuthall.php"
+    },
+    {
+     "k": "a|Nottingham - Colwick::1",
+     "t": "a",
+     "x": 227,
+     "y": 1384,
+     "w": 145,
+     "h": 20,
+     "s": "Nottingham - Colwick",
+     "href": "/kam-servicing-colwick.php"
+    },
+    {
+     "k": "a|Nottingham - Hucknall::1",
+     "t": "a",
+     "x": 227,
+     "y": 1427,
+     "w": 151,
+     "h": 20,
+     "s": "Nottingham - Hucknall",
+     "href": "/kam-servicing-hucknall.php"
+    },
+    {
+     "k": "a|Beeston::1",
+     "t": "a",
+     "x": 227,
+     "y": 1470,
+     "w": 59,
+     "h": 20,
+     "s": "Beeston",
+     "href": "/kam-servicing-beeston.php"
+    },
+    {
+     "k": "a|Sutton-in-Ashfield::1",
+     "t": "a",
+     "x": 227,
+     "y": 1513,
+     "w": 123,
+     "h": 20,
+     "s": "Sutton-in-Ashfield",
+     "href": "/kam-servicing-sutton.php"
+    },
+    {
+     "k": "a|Stapleford::1",
+     "t": "a",
+     "x": 227,
+     "y": 1556,
+     "w": 72,
+     "h": 20,
+     "s": "Stapleford",
+     "href": "/kam-servicing-stapleford.php"
+    },
+    {
+     "k": "a|Derby - City::1",
+     "t": "a",
+     "x": 560,
+     "y": 1255,
+     "w": 83,
+     "h": 20,
+     "s": "Derby - City",
+     "href": "/kam-servicing-derby.php"
+    },
+    {
+     "k": "a|Derby - Ascot Drive::1",
+     "t": "a",
+     "x": 560,
+     "y": 1298,
+     "w": 137,
+     "h": 20,
+     "s": "Derby - Ascot Drive",
+     "href": "/kam-servicing-ascot.php"
+    },
+    {
+     "k": "a|Derby - Sinfin::1",
+     "t": "a",
+     "x": 560,
+     "y": 1341,
+     "w": 93,
+     "h": 20,
+     "s": "Derby - Sinfin",
+     "href": "/kam-servicing-sinfin.php"
+    },
+    {
+     "k": "a|Long Eaton - Derby Rd::1",
+     "t": "a",
+     "x": 560,
+     "y": 1384,
+     "w": 158,
+     "h": 20,
+     "s": "Long Eaton - Derby Rd",
+     "href": "/kam-servicing-longeaton.php"
+    },
+    {
+     "k": "a|Long Eaton - Tamworth Rd::1",
+     "t": "a",
+     "x": 560,
+     "y": 1427,
+     "w": 187,
+     "h": 20,
+     "s": "Long Eaton - Tamworth Rd",
+     "href": "/kam-servicing-sawley.php"
+    },
+    {
+     "k": "a|Heanor::1",
+     "t": "a",
+     "x": 560,
+     "y": 1470,
+     "w": 52,
+     "h": 20,
+     "s": "Heanor",
+     "href": "/kam-servicing-heanor.php"
+    },
+    {
+     "k": "a|Belper::1",
+     "t": "a",
+     "x": 560,
+     "y": 1513,
+     "w": 46,
+     "h": 20,
+     "s": "Belper",
+     "href": "/kam-servicing-belper.php"
+    },
+    {
+     "k": "a|Ambergate::1",
+     "t": "a",
+     "x": 560,
+     "y": 1556,
+     "w": 78,
+     "h": 20,
+     "s": "Ambergate",
+     "href": "/kam-servicing-ambergate.php"
+    },
+    {
+     "k": "h4|SERVICES::1",
+     "t": "h4",
+     "x": 863,
+     "y": 1197,
+     "w": 451,
+     "h": 31,
+     "s": "SERVICES"
+    },
+    {
+     "k": "a|Book an MOT::1",
+     "t": "a",
+     "x": 1054,
+     "y": 1255,
+     "w": 94,
+     "h": 20,
+     "s": "Book an MOT",
+     "href": "/bookings.php"
+    },
+    {
+     "k": "a|Book a Service::1",
+     "t": "a",
+     "x": 1054,
+     "y": 1298,
+     "w": 101,
+     "h": 20,
+     "s": "Book a Service",
+     "href": "/bookings.php"
+    },
+    {
+     "k": "a|Buy Tyres::1",
+     "t": "a",
+     "x": 1054,
+     "y": 1341,
+     "w": 71,
+     "h": 20,
+     "s": "Buy Tyres",
+     "href": "/tyres.php"
+    },
+    {
+     "k": "a|Book A/C Regas::1",
+     "t": "a",
+     "x": 1054,
+     "y": 1384,
+     "w": 111,
+     "h": 20,
+     "s": "Book A/C Regas",
+     "href": "/bookings.php"
+    },
+    {
+     "k": "a|View All Services::1",
+     "t": "a",
+     "x": 1054,
+     "y": 1427,
+     "w": 114,
+     "h": 20,
+     "s": "View All Services",
+     "href": "/all-kam-services.php"
+    },
+    {
+     "k": "a|Renu::1",
+     "t": "a",
+     "x": 198,
+     "y": 1620,
+     "w": 28,
+     "h": 22,
+     "s": "Renu",
+     "href": "https://renusai.com/"
+    },
+    {
+     "k": "a|Orthopedic hospital::1",
+     "t": "a",
+     "x": 226,
+     "y": 1620,
+     "w": 115,
+     "h": 22,
+     "s": "Orthopedic hospital",
+     "href": "https://happy-hospitals.com/"
+    },
+    {
+     "k": "a|CBSE School faridabad::1",
+     "t": "a",
+     "x": 341,
+     "y": 1620,
+     "w": 129,
+     "h": 22,
+     "s": "CBSE School faridabad",
+     "href": "https://www.homertongrammar.com/"
+    },
+    {
+     "k": "footer|paints|rgb(248, 249, 250)|none::1",
+     "t": "footer",
+     "x": 0,
+     "y": 1721,
+     "w": 1512,
+     "h": 75,
+     "s": ""
+    },
+    {
+     "k": "p|© KAM Servicing - 2026 | | |::1",
+     "t": "p",
+     "x": 198,
+     "y": 1745,
+     "w": 1116,
+     "h": 27,
+     "s": "© KAM Servicing - 2026 | | |"
+    },
+    {
+     "k": "a|Privacy Policy::1",
+     "t": "a",
+     "x": 680,
+     "y": 1748,
+     "w": 94,
+     "h": 20,
+     "s": "Privacy Policy",
+     "href": "https://kamservicing.com/gdpr-privacy-policy.php"
+    },
+    {
+     "k": "a|All Services::1",
+     "t": "a",
+     "x": 787,
+     "y": 1748,
+     "w": 77,
+     "h": 20,
+     "s": "All Services",
+     "href": "https://kamservicing.com/all-kam-services.php"
+    },
+    {
+     "k": "a|Terms & Conditions::1",
+     "t": "a",
+     "x": 877,
+     "y": 1748,
+     "w": 137,
+     "h": 20,
+     "s": "Terms & Conditions",
+     "href": "https://kamservicing.com/terms-conditions.php"
+    },
+    {
+     "k": "div|paints|rgb(0, 0, 0)|none::1",
+     "t": "div",
+     "x": 0,
+     "y": 0,
+     "w": 1512,
+     "h": 1000,
+     "s": ""
+    }
+   ]
+  }
+ }
+}

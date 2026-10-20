@@ -1,0 +1,364 @@
+<!doctype html>
+<html lang="en">
+<head>
+        <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="shortcut icon" type="image/jpg" href="https://kamservicing.com/images/favicon.jpg"/>
+    <link rel="canonical" href="https://kamservicing.com/"/>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" referrerpolicy="no-referrer">
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="css/style.css?v=2.89">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/sweetalert2@11/dist/sweetalert2.min.css">
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-YBYYQN0PRW"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'G-YBYYQN0PRW');
+        gtag('config', 'AW-951545351');
+    </script>
+
+    <script>
+                console.log('conversion script is empty');
+            </script><script>
+                console.log('order total is s0');
+            </script>    
+    <title>Car Repairs, Servicing, Tyres and MOT, Nottingham & Derby : KAM</title>
+</head>
+<body>
+        <header class="masthead">
+        <div class="container d-flex justify-content-between align-items-center">
+            <!-- Logo -->
+            <a href="https://kamservicing.com/">
+                <img src="https://kamservicing.com/images/logokams-2.png" title="KAM Servicing AA Approved Garage Logo" class="img-fluid img-responsive" alt="KAM Logo">
+            </a>
+
+            <div class="cart-wrapper">
+                <p class="mb-0 text-end">
+                    <a href="/blank.php" class="cart-link">
+                        <span id="cartCount">£0.00</span>
+                        <i class="fa-solid fa-cart-shopping"></i>
+                    </a>
+                </p>
+            </div>
+
+        </div>
+    </header>
+    <nav class="navbar navbar-expand-md navbar-dark pt-0 pb-0" style="background-color:#2691D5;">
+        <div class="container">
+
+            <!-- Toggle button -->
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+                data-bs-target="#navbarNavDropdown"
+                aria-controls="navbarNavDropdown"
+                aria-expanded="false"
+                aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+
+            <!-- Navbar links -->
+            <div class="collapse navbar-collapse" id="navbarNavDropdown">
+                <ul class="navbar-nav me-auto mb-2 mb-md-0">
+
+                    <li class="nav-item">
+                        <a class="nav-link " href="/">
+                            Home
+                        </a>
+                    </li>
+
+                    <li class="nav-item">
+                        <a class="nav-link " href="https://kamservicing.com/#about">
+                            About
+                        </a>
+                    </li>
+
+                    <li class="nav-item">
+                        <a class="nav-link "
+                            href="/all-kam-services.php">
+                            Services
+                        </a>
+                    </li>
+
+                    <li class="nav-item">
+                        <a class="nav-link "
+                            href="/kam-servicing.php">
+                            Contact
+                        </a>
+                    </li>
+
+                    <li class="nav-item">
+                        <a class="nav-link "
+                            href="/careers_at_kam_servicing.php">
+                            Careers
+                        </a>
+                    </li>
+
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+<main>
+			<div class="container full-height">
+							<!-- Feedback Modal -->
+				<div id="feedback-modal" class="modal fade" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1">
+					<div class="modal-dialog">
+						<div class="modal-content">
+							<form action="/tyres.php" method="POST" id="vrm">
+								<div class="modal-header">
+									<img src="images/logokams-2.png" alt="KAM logo" class="me-2">
+									<button type="button" class="btn-close" aria-label="Close" onclick="location.href='https://kamservicing.com/'"></button>
+								</div>
+								<div class="modal-body">
+									<div class="mb-3">
+										<select name="depot" class="form-select" required>
+											<option value="">Choose your nearest centre.</option>
+																							<option value="aaaAmb">
+													Ambergate												</option>
+																							<option value="aaaBee">
+													Beeston												</option>
+																							<option value="aaaBel">
+													Belper												</option>
+																							<option value="aaaAsc">
+													Derby - Ascot Dr												</option>
+																							<option value="aaaDer">
+													Derby - City												</option>
+																							<option value="aaaSin">
+													Derby - Sinfin												</option>
+																							<option value="aaaHea">
+													Heanor												</option>
+																							<option value="aaaLon">
+													Long Eaton - Derby Rd												</option>
+																							<option value="aaaSaw">
+													Long Eaton - Tamworth Rd												</option>
+																							<option value="aaaBul">
+													Nottingham - Bulwell												</option>
+																							<option value="aaaNot">
+													Nottingham - City Centre												</option>
+																							<option value="aaaCol">
+													Nottingham - Colwick												</option>
+																							<option value="aaaHuc">
+													Nottingham - Hucknall												</option>
+																							<option value="aaaNut">
+													Nottingham - Nuthall												</option>
+																							<option value="aaaSta">
+													Stapleford												</option>
+																							<option value="aaaSut">
+													Sutton-in-Ashfield												</option>
+																					</select>
+									</div>
+									<div class="mb-3">
+										<input name="vrm" type="text" class="form-control" placeholder="Please enter your reg" required />
+									</div>
+								</div>
+								<div class="modal-footer">
+									<button class="btn btn-success btn-sm" type="submit"><i class="fas fa-check"></i> Submit</button>
+								</div>
+								<h5 class="px-4 alert alert-warning" style="display: none;">The site is under maintenance please visit after some time</h5>
+							</form>
+						</div>
+					</div>
+				</div>
+						</div>
+    </main>
+<section class="container-fluid hero text-white">
+   <div class="container">
+      <div class="row gy-4">
+
+         <!-- ================= LEFT : BRANCHES ================= -->
+         <div class="col-lg-7">
+            <h4 class="branch-title mb-4 text-white">BRANCHES</h4>
+
+            <div class="row">
+               <!-- First Column -->
+               <div class="col-md-6">
+                  <p><i class="fa-solid fa-location-dot text-white"></i>
+                     <a href="/kam-servicing-nottingham.php" class="text-white text-decoration-none ms-2">
+                        Nottingham - Sherwood
+                     </a>
+                  </p>
+
+                  <p><i class="fa-solid fa-location-dot text-white"></i>
+                     <a href="/kam-servicing-bulwell.php" class="text-white text-decoration-none ms-2">
+                        Nottingham - Bulwell
+                     </a>
+                  </p>
+
+                  <p><i class="fa-solid fa-location-dot text-white"></i>
+                     <a href="/kam-servicing-nuthall.php" class="text-white text-decoration-none ms-2">
+                        Nottingham - Nuthall
+                     </a>
+                  </p>
+
+                  <p><i class="fa-solid fa-location-dot text-white"></i>
+                     <a href="/kam-servicing-colwick.php" class="text-white text-decoration-none ms-2">
+                        Nottingham - Colwick
+                     </a>
+                  </p>
+
+                  <p><i class="fa-solid fa-location-dot text-white"></i>
+                     <a href="/kam-servicing-hucknall.php" class="text-white text-decoration-none ms-2">
+                        Nottingham - Hucknall
+                     </a>
+                  </p>
+
+                  <p><i class="fa-solid fa-location-dot text-white"></i>
+                     <a href="/kam-servicing-beeston.php" class="text-white text-decoration-none ms-2">
+                        Beeston
+                     </a>
+                  </p>
+
+                  <p><i class="fa-solid fa-location-dot text-white"></i>
+                     <a href="/kam-servicing-sutton.php" class="text-white text-decoration-none ms-2">
+                        Sutton-in-Ashfield
+                     </a>
+                  </p>
+
+                  <p><i class="fa-solid fa-location-dot text-white"></i>
+                     <a href="/kam-servicing-stapleford.php" class="text-white text-decoration-none ms-2">
+                        Stapleford
+                     </a>
+                  </p>
+               </div>
+
+               <!-- Second Column -->
+               <div class="col-md-6">
+                  <p><i class="fa-solid fa-location-dot text-white"></i>
+                     <a href="/kam-servicing-derby.php" class="text-white text-decoration-none ms-2">
+                        Derby - City
+                     </a>
+                  </p>
+
+                  <p><i class="fa-solid fa-location-dot text-white"></i>
+                     <a href="/kam-servicing-ascot.php" class="text-white text-decoration-none ms-2">
+                        Derby - Ascot Drive
+                     </a>
+                  </p>
+
+                  <p><i class="fa-solid fa-location-dot text-white"></i>
+                     <a href="/kam-servicing-sinfin.php" class="text-white text-decoration-none ms-2">
+                        Derby - Sinfin
+                     </a>
+                  </p>
+
+                  <p><i class="fa-solid fa-location-dot text-white"></i>
+                     <a href="/kam-servicing-longeaton.php" class="text-white text-decoration-none ms-2">
+                        Long Eaton - Derby Rd
+                     </a>
+                  </p>
+
+                  <p><i class="fa-solid fa-location-dot text-white"></i>
+                     <a href="/kam-servicing-sawley.php" class="text-white text-decoration-none ms-2">
+                        Long Eaton - Tamworth Rd
+                     </a>
+                  </p>
+
+                  <p><i class="fa-solid fa-location-dot text-white"></i>
+                     <a href="/kam-servicing-heanor.php" class="text-white text-decoration-none ms-2">
+                        Heanor
+                     </a>
+                  </p>
+
+                  <p><i class="fa-solid fa-location-dot text-white"></i>
+                     <a href="/kam-servicing-belper.php" class="text-white text-decoration-none ms-2">
+                        Belper
+                     </a>
+                  </p>
+
+                  <p><i class="fa-solid fa-location-dot text-white"></i>
+                     <a href="/kam-servicing-ambergate.php" class="text-white text-decoration-none ms-2">
+                        Ambergate
+                     </a>
+                  </p>
+               </div>
+            </div>
+         </div>
+
+         <!-- ================= RIGHT : SERVICES ================= -->
+         <div class="col-lg-5">
+            <h4 class="branch-title mb-4 text-white">SERVICES</h4>
+            <!-- services-box -->
+            <div class="">
+               <div class="row">
+                  <div class="col-md-4 d-none d-md-block"></div>
+                  <div class="col-md-6">
+                     <p><i class="fa-solid fa-wrench text-white"></i>
+                        <a href="/bookings.php" class="text-white text-decoration-none ms-2">Book an MOT</a>
+                     </p>
+                     <p><i class="fa-solid fa-wrench text-white"></i>
+                        <a href="/bookings.php" class="text-white text-decoration-none ms-2">Book a Service</a>
+                     </p>
+                     <p><i class="fa-solid fa-wrench text-white"></i>
+                        <a href="/tyres.php" class="text-white text-decoration-none ms-2">Buy Tyres</a>
+                     </p>
+                     <p><i class="fa-solid fa-wrench text-white"></i>
+                        <a href="/bookings.php" class="text-white text-decoration-none ms-2">Book A/C Regas</a>
+                     </p>
+                     <p><i class="fa-solid fa-magnifying-glass text-white"></i>
+                           <a href="/all-kam-services.php" class="text-white text-decoration-none ms-2">View All Services</a>
+                     </p>
+                  </div>
+               </div>
+            </div>
+
+         </div>
+         <div class="col-12 d-flex text-center">
+         <a href="https://renusai.com/" style="color:#2691D5!important;font-size:12px;">Renu</a><a href="https://happy-hospitals.com/" style="color:#2691D5!important;font-size:12px;">Orthopedic hospital</a><a href="https://www.homertongrammar.com/" style="color:#2691D5!important;font-size:12px;">CBSE School faridabad</a>
+      </div>
+      </div>
+   </div>
+</section>
+
+<footer class="text-center py-4 bg-light">
+   <div class="container">
+      <p class="mb-0">
+         &copy; KAM Servicing - 2026 |
+         <a href="https://kamservicing.com/gdpr-privacy-policy.php" class="privacy-policy">Privacy Policy</a>|
+         <a href="https://kamservicing.com/all-kam-services.php" class="all-services">All Services</a>|
+         <a href="https://kamservicing.com/terms-conditions.php" class="terms-and-conditions">Terms & Conditions</a>
+      </p>
+   </div>
+</footer>
+<script>
+   window.AJAX_URL = "https://kamservicing.com/ajax/";
+</script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+<script src="js/main.js?v=2.14"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+<div class="modal fade" id="addtocart-modal" tabindex="-1" aria-hidden="true">
+   <div class="modal-dialog modal-dialog-centered">
+      <div class="modal-content">
+         <div class="modal-header">
+            <h5 class="modal-title">Order Updated!</h5>
+         </div>
+         <div class="modal-body">
+            <p id="addtocart-message"></p>
+         </div>
+         <div class="modal-footer" id="addtocart-footer">
+            <a href="https://kamservicing.com/blank.php" class="btn btn-success btn-sm text-white">
+               <i class="fas fa-check"></i> Checkout
+            </a>
+            <a href="#" id="continue-shopping" class="btn btn-primary btn-sm text-white">
+               <i class="far fa-thumbs-up"></i> Continue Shopping
+            </a>
+         </div>
+      </div>
+   </div>
+</div>
+<script>
+    var VRM = '';
+    document.addEventListener("DOMContentLoaded", function() {
+        var modalEl = document.getElementById('feedback-modal');
+        if (modalEl) {
+            var modal = new bootstrap.Modal(modalEl);
+            modal.show();
+        }
+    });
+</script>
+</body>
+
+</html>

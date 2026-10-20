@@ -1,0 +1,523 @@
+{
+ "page": "heanor",
+ "title": "Book MOT",
+ "replace": true,
+ "blocks": [
+  {
+   "class": "kam-blockrow",
+   "widgets": [
+    {
+     "block": "kam_tiles",
+     "fields": {
+      "h1": "1"
+     },
+     "lines": "https://kamservicing.eastwoodfc.com/wp-content/uploads/2026/10/mot-bg.jpg|Book MOT|from £49.99|https://kamservicing.com/bookings.php?q=1#mot\nhttps://kamservicing.eastwoodfc.com/wp-content/uploads/2026/10/oil-bg.jpg|Book Car Service|from £119.99|https://kamservicing.com/bookings.php?q=2#servicing\nhttps://kamservicing.eastwoodfc.com/wp-content/uploads/2026/10/ac-bg.jpg|Book Air Con Regas|from £59.99|https://kamservicing.com/bookings.php?q=3#ac\nhttps://kamservicing.eastwoodfc.com/wp-content/uploads/2026/10/tyres-bg.jpg|Book Car Tyres|from £18.00|https://kamservicing.com/tyres.php"
+    }
+   ]
+  },
+  {
+   "wrap": "booking-summary",
+   "class": "container mb-5",
+   "padding": {
+    "top": 0,
+    "right": 0,
+    "bottom": 0,
+    "left": 0
+   },
+   "columns": [
+    {
+     "class": "kam-blockrow text-center",
+     "width": 50,
+     "tablet": 50,
+     "padding": {
+      "top": 0,
+      "right": 12,
+      "bottom": 0,
+      "left": 12
+     },
+     "widgets": [
+      {
+       "widget": "image",
+       "fields": {
+        "url": "https://kamservicing.eastwoodfc.com/wp-content/uploads/2026/10/payment-assist.webp",
+        "alt": "Payment Assist",
+        "align": "center"
+       }
+      },
+      {
+       "widget": "text-editor",
+       "fields": {
+        "editor": "<p class=\"font-16\">Call <b>Raj</b> on <a href=\"tel:01773710500\">01773 710 500</a> for details.</p>",
+        "class": "font-16"
+       }
+      }
+     ]
+    },
+    {
+     "class": "kam-blockrow",
+     "width": 50,
+     "tablet": 50,
+     "padding": {
+      "top": 0,
+      "right": 12,
+      "bottom": 0,
+      "left": 12
+     },
+     "widgets": [
+      {
+       "widget": "heading",
+       "fields": {
+        "tag": "h5",
+        "title": "<i class=\"fas fa-cog i-class-color\"></i> Budget-Friendly Car Repairs. 25% Deposit. 0% finance"
+       }
+      },
+      {
+       "widget": "text-editor",
+       "fields": {
+        "editor": "<hr><p class=\"font-16\">Need car repairs without breaking the bank? Payment Assist offers flexible pay monthly payment plans. Say goodbye to financial stress. Apply now!</p><ul class=\"font-16\"><li class=\"pb-2\">Our flexible payment plan requires just a 25% upfront deposit followed by 3 easy monthly installments. Get the repairs you need without breaking the bank.</li> <li class=\"pb-2\">Get affordable car repairs under £1,000. Our simple application process makes it easy to get approved.</li></ul><p class=\"font-16\">Don't worry, we're here to help! <a href=\"#contact\">Contact us</a> today for affordable and reliable pay monthly car maintenance services.</p>",
+        "class": "font-16"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "wrap": "booking-summary-font container-grey",
+   "class": "container",
+   "padding": {
+    "top": 20,
+    "right": 8,
+    "bottom": 20,
+    "left": 8
+   },
+   "columns": [
+    {
+     "class": "kam-blockrow",
+     "width": 50,
+     "tablet": 50,
+     "padding": {
+      "top": 20,
+      "right": 20,
+      "bottom": 20,
+      "left": 20
+     },
+     "widgets": [
+      {
+       "widget": "heading",
+       "fields": {
+        "tag": "h5",
+        "title": "<i class=\"fas fa-cog i-class-color\"></i> Car servicing in Heanor"
+       }
+      },
+      {
+       "widget": "text-editor",
+       "fields": {
+        "editor": "<hr><p class=\"font-16\">Heanor Residents: Your Trusted AA-Approved Garage</p><p class=\"font-16\">Looking for exceptional car care in Heanor? Look no further! As an AA-approved garage, we're committed to providing top-notch car servicing and car repairs that keep your vehicle running smoothly. Our team of skilled technicians offers reliable, personalised maintenance designed to ensure optimal performance and peace of mind.</p><p class=\"font-16\">Experience our proven track record of excellence and customer satisfaction. Trust us for expert car servicing that keeps your vehicle in tip top shape. Our dedicated team of experienced technicians are committed to delivering the highest quality of service.</p>",
+        "class": "font-16"
+       }
+      },
+      {
+       "block": "kam_buttons",
+       "fields": {
+        "book": "Book an Appointment",
+        "book_url": "https://kamservicing.com/bookings.php?q=2#servicing",
+        "call": "Call 01773 710 500",
+        "call_url": "tel:01773710500"
+       }
+      }
+     ]
+    },
+    {
+     "class": "kam-blockrow",
+     "width": 50,
+     "tablet": 50,
+     "padding": {
+      "top": 20,
+      "right": 20,
+      "bottom": 20,
+      "left": 20
+     },
+     "widgets": [
+      {
+       "widget": "heading",
+       "fields": {
+        "tag": "h5",
+        "title": "<i class=\"fas fa-cog i-class-color\"></i> Book your MOT in Heanor"
+       }
+      },
+      {
+       "widget": "text-editor",
+       "fields": {
+        "editor": "<hr><p class=\"font-16\">KAM: Your Trusted MOT Testing Experts in Heanor</p><p class=\"font-16\">Keep your vehicle safe and compliant with KAM's expert MOT testing services. Our skilled mechanics have years of experience ensuring cars meet DVSA standards. We offer competitive pricing, convenient scheduling, and a commitment to customer satisfaction.</p><p class=\"font-16\">With KAM, you can rest assured that your vehicle is in good hands. Our technicians are highly trained and experienced in all aspects of MOT testing. We use state-of-the-art equipment to ensure accurate and thorough inspections.</p><p class=\"font-16\">We understand that getting an MOT test can be stressful. That's why we strive to make the process as easy and convenient as possible. We offer flexible booking options and competitive pricing. We also provide clear communication throughout the testing process, so you know exactly what's happening.</p>",
+        "class": "font-16"
+       }
+      },
+      {
+       "block": "kam_buttons",
+       "fields": {
+        "book": "Book an Appointment",
+        "book_url": "https://kamservicing.com/bookings.php?q=1#mot",
+        "call": "Call 01773 710 500",
+        "call_url": "tel:01773710500"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "wrap": "booking-summary-font container-grey",
+   "class": "container",
+   "padding": {
+    "top": 20,
+    "right": 8,
+    "bottom": 20,
+    "left": 8
+   },
+   "columns": [
+    {
+     "class": "kam-blockrow",
+     "width": 50,
+     "tablet": 50,
+     "padding": {
+      "top": 20,
+      "right": 20,
+      "bottom": 20,
+      "left": 20
+     },
+     "widgets": [
+      {
+       "widget": "heading",
+       "fields": {
+        "tag": "h5",
+        "title": "<i class=\"fas fa-cog i-class-color\"></i> Car tyres Heanor"
+       }
+      },
+      {
+       "widget": "text-editor",
+       "fields": {
+        "editor": "<hr><p class=\"font-16\">Need new car tyres? Experience fast, expert service at KAM Heanor.</p><p class=\"font-16\">We offer a wide range of car tyres to suit your vehicle, driving style, and budget. Our knowledgeable team will provide personalised advice to help you find the perfect fit.</p><p class=\"font-16\">From budget-friendly options to premium brands, we have the car tyres you need. We'll handle everything from selection to installation, ensuring a smooth and hassle-free experience.</p><p class=\"font-16\">Book your appointment online or call us today. We're committed to providing exceptional customer service, so you can trust us to make your tyre-buying experience as stress-free as possible.</p>",
+        "class": "font-16"
+       }
+      },
+      {
+       "block": "kam_buttons",
+       "fields": {
+        "book": "Book an Appointment",
+        "book_url": "https://kamservicing.com/tyres.php",
+        "call": "Call 01773 710 500",
+        "call_url": "tel:01773710500"
+       }
+      }
+     ]
+    },
+    {
+     "class": "kam-blockrow",
+     "width": 50,
+     "tablet": 50,
+     "padding": {
+      "top": 20,
+      "right": 20,
+      "bottom": 20,
+      "left": 20
+     },
+     "widgets": [
+      {
+       "widget": "heading",
+       "fields": {
+        "tag": "h5",
+        "title": "<i class=\"fas fa-cog i-class-color\"></i> Cam belt replacement Heanor"
+       }
+      },
+      {
+       "widget": "text-editor",
+       "fields": {
+        "editor": "<hr><p class=\"font-16\">A timing belt (or cam belt) is a vital part of your car's engine. If it fails, it can cause serious damage. Watch out for these signs that it might need replacing:</p><p class=\"font-16\">Strange noises: A squealing or slapping sound can indicate a problem.</p><p class=\"font-16\">Reduced power: If your car feels sluggish or lacks acceleration, it could be a symptom.</p><p class=\"font-16\">Check engine light: This light might illuminate if there's an issue with the timing belt.</p><p class=\"font-16\">Timing belts are made of rubber and can wear out over time. It's recommended to replace them at the recommended service intervals. The timing belt tensioner should usually be replaced at the same time.</p><p class=\"font-16\">If you suspect your timing belt is faulty, contact The KAM Servicing for a professional inspection and replacement. Early action can prevent expensive engine repairs and save you money.</p>",
+        "class": "font-16"
+       }
+      },
+      {
+       "block": "kam_buttons",
+       "fields": {
+        "book": "Enquire Now",
+        "book_url": "#contact",
+        "call": "Call 01773 710 500",
+        "call_url": "tel:01773710500"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "wrap": "booking-summary-font container-grey",
+   "class": "container",
+   "padding": {
+    "top": 20,
+    "right": 8,
+    "bottom": 20,
+    "left": 8
+   },
+   "columns": [
+    {
+     "class": "kam-blockrow",
+     "width": 50,
+     "tablet": 50,
+     "padding": {
+      "top": 20,
+      "right": 20,
+      "bottom": 20,
+      "left": 20
+     },
+     "widgets": [
+      {
+       "widget": "heading",
+       "fields": {
+        "tag": "h5",
+        "title": "<i class=\"fas fa-cog i-class-color\"></i> DPF cleaning Heanor"
+       }
+      },
+      {
+       "widget": "text-editor",
+       "fields": {
+        "editor": "<hr><p class=\"font-16\">Is your diesel particulate filter (DPF) struggling to keep up? Our advanced cleaning service is designed to revitalise your DPF, restoring its efficiency, reducing emissions, and enhancing fuel economy. We employ cutting-edge technology and specialised solutions to meticulously remove harmful soot and contaminants that can clog your DPF, preventing costly repairs and ensuring optimal engine performance.</p><p class=\"font-16\">By investing in our DPF cleaning service, you're not just maintaining your vehicle; you're safeguarding your engine's health and protecting the environment. Our expert technicians will remove even the most stubborn deposits and restore it to its original condition. This will result in improved fuel efficiency, reduced emissions, and enhanced engine power. With a clean DPF, your vehicle will run smoother, operate more efficiently, and provide a more enjoyable driving experience.</p>",
+        "class": "font-16"
+       }
+      },
+      {
+       "block": "kam_buttons",
+       "fields": {
+        "book": "Book an Appointment",
+        "book_url": "https://kamservicing.com/bookings.php?q=5#dpfc",
+        "call": "Call 01773 710 500",
+        "call_url": "tel:01773710500"
+       }
+      }
+     ]
+    },
+    {
+     "class": "kam-blockrow",
+     "width": 50,
+     "tablet": 50,
+     "padding": {
+      "top": 20,
+      "right": 20,
+      "bottom": 20,
+      "left": 20
+     },
+     "widgets": [
+      {
+       "widget": "heading",
+       "fields": {
+        "tag": "h5",
+        "title": "<i class=\"fas fa-cog i-class-color\"></i> Hybrid EV Servicing Heanor"
+       }
+      },
+      {
+       "widget": "text-editor",
+       "fields": {
+        "editor": "<hr><p class=\"font-16\">Keep your hybrid running smoothly with our expert service. Our skilled technicians use advanced diagnostic tools and follow manufacturer recommendations to provide top-notch care for your hybrid vehicle.</p><p class=\"font-16\">We prioritise battery health. Our technicians will thoroughly assess your battery's condition using state-of-the-art equipment and ensure your regenerative braking system is functioning optimally - if applicable.</p><p class=\"font-16\">At KAM Servicing, we're dedicated to maintaining eco-friendly vehicles. Trust our experienced team to handle your hybrid or electric vehicle with the care it deserves.</p><p class=\"font-16\">Regular servicing is essential for ensuring your EV's performance, safety, and longevity. Schedule your appointment today.</p>",
+        "class": "font-16"
+       }
+      },
+      {
+       "block": "kam_buttons",
+       "fields": {
+        "book": "Book an Appointment",
+        "book_url": "https://kamservicing.com/bookings.php?q=2#servicing",
+        "call": "Call 01773 710 500",
+        "call_url": "tel:01773710500"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "wrap": "booking-summary",
+   "class": "container mb-5",
+   "padding": {
+    "top": 0,
+    "right": 0,
+    "bottom": 0,
+    "left": 0
+   },
+   "columns": [
+    {
+     "class": "kam-blockrow",
+     "width": 50,
+     "tablet": 50,
+     "padding": {
+      "top": 20,
+      "right": 20,
+      "bottom": 20,
+      "left": 20
+     },
+     "widgets": [
+      {
+       "widget": "heading",
+       "fields": {
+        "tag": "h5",
+        "title": "<i class=\"fas fa-cog i-class-color\"></i> Heanor garage"
+       }
+      },
+      {
+       "widget": "text-editor",
+       "fields": {
+        "editor": "<hr><p class=\"font-16\">129 Derby Rd<br/> Heanor<br/> DE75 7QL<br/></p><p class=\"font-16\"><a href=\"tel:01773710500\"><i class=\"fas fa-phone i-class-color\"></i> 01773 710 500</a><br/> <i class=\"fas fa-envelope i-class-color\"></i> heanor@kamservicing.com<br/> <i class=\"fas fa-user i-class-color\"></i> Manager: Raj Sharma</p><p class=\"font-16\"><i class=\"fas fa-clock i-class-color\"></i> Mon-Fri: 7.00am - 6.00pm<br/> Sat: 7.00am - 1.00pm<br/> Sun: Closed<br/></p>",
+        "class": "font-16"
+       }
+      }
+     ]
+    },
+    {
+     "class": "kam-blockrow",
+     "width": 50,
+     "tablet": 50,
+     "padding": {
+      "top": 20,
+      "right": 20,
+      "bottom": 20,
+      "left": 20
+     },
+     "widgets": [
+      {
+       "widget": "heading",
+       "fields": {
+        "tag": "h5",
+        "title": "<i class=\"fas fa-envelope i-class-color\"></i> Get in touch"
+       }
+      },
+      {
+       "widget": "text-editor",
+       "fields": {
+        "editor": "<hr><p class=\"font-16\">Email us using the form below.</p>",
+        "class": "font-16"
+       }
+      },
+      {
+       "block": "kam_contact_form",
+       "fields": {
+        "depot": "aaaHea",
+        "depot_name": "Heanor",
+        "to": "",
+        "intro": ""
+       }
+      }
+     ]
+    }
+   ],
+   "id": "contact"
+  },
+  {
+   "wrap": "booking-summary",
+   "class": "container mb-5",
+   "padding": {
+    "top": 0,
+    "right": 0,
+    "bottom": 0,
+    "left": 0
+   },
+   "columns": [
+    {
+     "class": "kam-blockrow",
+     "width": 50,
+     "tablet": 50,
+     "padding": {
+      "top": 20,
+      "right": 20,
+      "bottom": 20,
+      "left": 20
+     },
+     "widgets": [
+      {
+       "widget": "heading",
+       "fields": {
+        "tag": "h5",
+        "title": "<i class=\"fas fa-cog i-class-color\"></i> Where can I find KAM Servicing in Heanor?"
+       }
+      },
+      {
+       "widget": "text-editor",
+       "fields": {
+        "editor": "<hr><p class=\"font-16\">Nestled in the historic mining town of Heanor, Derbyshire, we're just a short stroll from Langley Mill railway station. Our prime location puts you within easy reach of the bustling town center, offering a variety of shops, pubs, and cafes. We're conveniently situated for residents of Codnor, Langley Mill, Smalley, and Shipley. Whether you're a local or visiting the area, we're dedicated to providing exceptional service.</p>",
+        "class": "font-16"
+       }
+      },
+      {
+       "block": "kam_buttons",
+       "fields": {
+        "book": "Book an Appointment",
+        "book_url": "https://kamservicing.com/bookings.php?q=6#clutchcheck",
+        "call": "Call 01773 710 500",
+        "call_url": "tel:01773710500"
+       }
+      }
+     ]
+    },
+    {
+     "class": "kam-blockrow",
+     "width": 50,
+     "tablet": 50,
+     "padding": {
+      "top": 20,
+      "right": 20,
+      "bottom": 20,
+      "left": 20
+     },
+     "widgets": [
+      {
+       "block": "kam_map",
+       "fields": {
+        "lat": "53.01144",
+        "lng": "-1.36486",
+        "zoom": "16",
+        "title": "KAM heanor"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "wrap": "booking-summary",
+   "class": "container mb-5",
+   "padding": {
+    "top": 0,
+    "right": 0,
+    "bottom": 0,
+    "left": 0
+   },
+   "columns": [
+    {
+     "class": "kam-blockrow",
+     "width": 100,
+     "tablet": 100,
+     "padding": {
+      "top": 20,
+      "right": 20,
+      "bottom": 20,
+      "left": 20
+     },
+     "widgets": [
+      {
+       "widget": "heading",
+       "fields": {
+        "tag": "h5",
+        "title": "<i class=\"fas fa-cog i-class-color\"></i> Why choose KAM Servicing?"
+       }
+      },
+      {
+       "widget": "text-editor",
+       "fields": {
+        "editor": "<hr><p class=\"font-16\">With over 30 years of experience and a 4.7-star Google rating, we're your trusted family-run garage. We specialise in all makes and models of cars and light commercial vehicles, offering MOT testing, car servicing, and expert repairs like air conditioning, diagnostics, and clutch work. Experience our friendly atmosphere and competitive prices. <a href=\"tel:01773710500\">Call 01773 710 500</a> to schedule your appointment. Customer satisfaction is our top priority, and we're committed to exceeding your expectations.</p>",
+        "class": "font-16"
+       }
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

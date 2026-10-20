@@ -1,0 +1,523 @@
+{
+ "page": "stapleford",
+ "title": "Book MOT",
+ "replace": true,
+ "blocks": [
+  {
+   "class": "kam-blockrow",
+   "widgets": [
+    {
+     "block": "kam_tiles",
+     "fields": {
+      "h1": "1"
+     },
+     "lines": "https://kamservicing.eastwoodfc.com/wp-content/uploads/2026/10/mot-bg.jpg|Book MOT|from £49.99|https://kamservicing.com/bookings.php?q=1#mot\nhttps://kamservicing.eastwoodfc.com/wp-content/uploads/2026/10/oil-bg.jpg|Book Car Service|from £74.99|https://kamservicing.com/bookings.php?q=2#servicing\nhttps://kamservicing.eastwoodfc.com/wp-content/uploads/2026/10/ac-bg.jpg|Book Air Con Regas|from £71.99|https://kamservicing.com/bookings.php?q=3#ac\nhttps://kamservicing.eastwoodfc.com/wp-content/uploads/2026/10/tyres-bg.jpg|Book Car Tyres|from £18.00|https://kamservicing.com/tyres.php"
+    }
+   ]
+  },
+  {
+   "wrap": "booking-summary",
+   "class": "container mb-5",
+   "padding": {
+    "top": 0,
+    "right": 0,
+    "bottom": 0,
+    "left": 0
+   },
+   "columns": [
+    {
+     "class": "kam-blockrow text-center",
+     "width": 50,
+     "tablet": 50,
+     "padding": {
+      "top": 0,
+      "right": 12,
+      "bottom": 0,
+      "left": 12
+     },
+     "widgets": [
+      {
+       "widget": "image",
+       "fields": {
+        "url": "https://kamservicing.eastwoodfc.com/wp-content/uploads/2026/10/payment-assist.webp",
+        "alt": "Payment Assist",
+        "align": "center"
+       }
+      },
+      {
+       "widget": "text-editor",
+       "fields": {
+        "editor": "<p class=\"font-16\">Call <b>Danny</b> on <a href=\"tel:01159252525\">0115 925 2525</a> for details.</p>",
+        "class": "font-16"
+       }
+      }
+     ]
+    },
+    {
+     "class": "kam-blockrow",
+     "width": 50,
+     "tablet": 50,
+     "padding": {
+      "top": 0,
+      "right": 12,
+      "bottom": 0,
+      "left": 12
+     },
+     "widgets": [
+      {
+       "widget": "heading",
+       "fields": {
+        "tag": "h5",
+        "title": "<i class=\"fas fa-cog i-class-color\"></i> Affordable financing for repairs under £1,000"
+       }
+      },
+      {
+       "widget": "text-editor",
+       "fields": {
+        "editor": "<hr><p class=\"font-16\">Tired of feeling financially burdened by unexpected car repair expenses? Payment Assist is here to offer a helping hand. Our innovative service allows you to spread the cost of various purchases and services over time. No more worrying about upfront payments.</p><ul class=\"font-16\"><li class=\"pb-2\">Get the things you need now. Pay a 25% deposit and enjoy the convenience of our three-month payment plan.</li> <li class=\"pb-2\">Apply for repairs under £1,000 and start fresh.</li></ul><p class=\"font-16\">Need Car Repairs? Bad Credit? No Problem. Apply for Payment Assist and get affordable financing for repairs under £1,000. Start fresh and get back on the road today. <a href=\"#contact\">Call us</a> now for more information.</p>",
+        "class": "font-16"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "wrap": "booking-summary-font container-grey",
+   "class": "container",
+   "padding": {
+    "top": 20,
+    "right": 8,
+    "bottom": 20,
+    "left": 8
+   },
+   "columns": [
+    {
+     "class": "kam-blockrow",
+     "width": 50,
+     "tablet": 50,
+     "padding": {
+      "top": 20,
+      "right": 20,
+      "bottom": 20,
+      "left": 20
+     },
+     "widgets": [
+      {
+       "widget": "heading",
+       "fields": {
+        "tag": "h5",
+        "title": "<i class=\"fas fa-cog i-class-color\"></i> Car servicing in Stapleford"
+       }
+      },
+      {
+       "widget": "text-editor",
+       "fields": {
+        "editor": "<hr><p class=\"font-16\">KAM Stapleford: Your Trusted Car Repair Experts</p><p class=\"font-16\">We're committed to providing top-notch car repair services that keep your vehicle on the road and running at its best. Our skilled technicians have years of experience diagnosing and repairing a wide range of car problems, from minor engine issues to major bodywork. We use the latest diagnostic tools and high-quality parts to ensure that your car is repaired correctly and efficiently.</p><p class=\"font-16\">Whether you need a routine oil change, brake repair, or engine overhaul, you can trust us to deliver exceptional service that exceeds your expectations. Our team is dedicated to providing personalised care and attention to detail, ensuring that your vehicle receives the highest quality of service. We are committed to customer satisfaction and strive to provide a positive experience for every customer who walks through our doors. From the moment you arrive, you can expect to be greeted by friendly and knowledgeable staff who are ready to assist you with all your car repair needs.</p><p class=\"font-16\">Visit KAM Stapleford today and experience the difference.</p>",
+        "class": "font-16"
+       }
+      },
+      {
+       "block": "kam_buttons",
+       "fields": {
+        "book": "Book an Appointment",
+        "book_url": "https://kamservicing.com/bookings.php?q=2#servicing",
+        "call": "Call 0115 925 2525",
+        "call_url": "tel:01159252525"
+       }
+      }
+     ]
+    },
+    {
+     "class": "kam-blockrow",
+     "width": 50,
+     "tablet": 50,
+     "padding": {
+      "top": 20,
+      "right": 20,
+      "bottom": 20,
+      "left": 20
+     },
+     "widgets": [
+      {
+       "widget": "heading",
+       "fields": {
+        "tag": "h5",
+        "title": "<i class=\"fas fa-cog i-class-color\"></i> Book your MOT in Stapleford"
+       }
+      },
+      {
+       "widget": "text-editor",
+       "fields": {
+        "editor": "<hr><p class=\"font-16\">Don't break the bank on your MOT test. At KAM, we offer competitive pricing without compromising on quality. Our expert technicians will ensure your vehicle is roadworthy and safe. We understand that unexpected expenses can be stressful, so we've designed our pricing to be fair and affordable. Our goal is to help you keep your vehicle on the road without breaking the bank. Schedule your MOT today and experience the KAM difference.</p><p class=\"font-16\">Why choose KAM for your MOT test?</p><ul class=\"font-16\"><li class=\"pb-2\">Expertise: Our technicians have years of experience and are trained to identify potential issues that may not be immediately apparent, even those that are subtle or hidden. They have a deep understanding of vehicle mechanics and safety regulations, ensuring that your MOT test is thorough and accurate.</li> <li class=\"pb-2\">Efficiency: We provide fast and efficient MOT inspections to minimise your downtime. Our streamlined processes and advanced equipment allow us to complete inspections quickly without sacrificing quality.</li> <li class=\"pb-2\">Convenience: We offer flexible appointment scheduling and a convenient location in Stapleford. We understand that your time is valuable, so we make it easy for you to book your MOT test and get back on the road.</li> <li class=\"pb-2\">Quality: We use the latest diagnostic equipment to ensure accurate and reliable results. Our equipment is regularly calibrated and maintained to ensure that it provides accurate readings and identifies potential issues effectively. </li> <li class=\"pb-2\">Customer satisfaction: We are committed to providing excellent customer service and ensuring your complete satisfaction. Our friendly and knowledgeable staff is always available to answer your questions and provide assistance. We strive to create a positive and hassle-free experience for all of our customers.</li></ul>",
+        "class": "font-16"
+       }
+      },
+      {
+       "block": "kam_buttons",
+       "fields": {
+        "book": "Book an Appointment",
+        "book_url": "https://kamservicing.com/bookings.php?q=1#mot",
+        "call": "Call 0115 925 2525",
+        "call_url": "tel:01159252525"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "wrap": "booking-summary-font container-grey",
+   "class": "container",
+   "padding": {
+    "top": 20,
+    "right": 8,
+    "bottom": 20,
+    "left": 8
+   },
+   "columns": [
+    {
+     "class": "kam-blockrow",
+     "width": 50,
+     "tablet": 50,
+     "padding": {
+      "top": 20,
+      "right": 20,
+      "bottom": 20,
+      "left": 20
+     },
+     "widgets": [
+      {
+       "widget": "heading",
+       "fields": {
+        "tag": "h5",
+        "title": "<i class=\"fas fa-cog i-class-color\"></i> Car tyres Stapleford"
+       }
+      },
+      {
+       "widget": "text-editor",
+       "fields": {
+        "editor": "<hr><p class=\"font-16\">Grip the Road with Confidence: Premium &amp; Budget Tyres at Unbeatable Prices.</p><p class=\"font-16\">Safety is paramount. Equip your vehicle with high-quality tyres from KAM Servicing. We stock a vast range of tyres to suit every budget and driving need, from everyday commuting to high-performance driving. Our experienced technicians ensure a safe and efficient tyre fitting process. Choose KAM Servicing for peace of mind on the road.</p><p class=\"font-16\">Budget vs Premium Tyres - What to choose?</p><p class=\"font-16\">Budget tyres generally utilise less expensive materials and incorporate less advanced technology compared to premium brands. This can impact their performance in various conditions, potentially leading to reduced grip, longer braking distances, and a shorter lifespan.</p><p class=\"font-16\">While budget tyres can offer a tempting price point, it's crucial to prioritise safety and performance. Consider your driving needs, vehicle type, and the potential long-term costs before making a decision. Investing in quality tyres can ultimately save you money on fuel, maintenance, and potentially even prevent costly accidents.</p>",
+        "class": "font-16"
+       }
+      },
+      {
+       "block": "kam_buttons",
+       "fields": {
+        "book": "Book an Appointment",
+        "book_url": "https://kamservicing.com/tyres.php",
+        "call": "Call 0115 925 2525",
+        "call_url": "tel:01159252525"
+       }
+      }
+     ]
+    },
+    {
+     "class": "kam-blockrow",
+     "width": 50,
+     "tablet": 50,
+     "padding": {
+      "top": 20,
+      "right": 20,
+      "bottom": 20,
+      "left": 20
+     },
+     "widgets": [
+      {
+       "widget": "heading",
+       "fields": {
+        "tag": "h5",
+        "title": "<i class=\"fas fa-cog i-class-color\"></i> Cam belt replacement Stapleford"
+       }
+      },
+      {
+       "widget": "text-editor",
+       "fields": {
+        "editor": "<hr><p class=\"font-16\">Timing Belts: Keeping Your Engine in Sync</p><p class=\"font-16\">Timing belts, often called cambelts, are essential engine components that ensure smooth and efficient operation. They synchronise the crankshaft, which powers the pistons, with the camshaft, which controls the flow of fuel into and out of the engine cylinders. This precise timing is crucial, as even minor disruptions can lead to severe engine damage.</p><p class=\"font-16\">Signs of a Failing Timing Belt:</p><ul class=\"font-16\"><li class=\"pb-2\">Ticking or Clicking Noises: Unusual sounds emanating from the engine could signal timing belt wear.</li> <li class=\"pb-2\">Engine Performance Issues: Rough idling, hesitation, or a decrease in engine power can be symptoms of timing belt problems.</li> <li class=\"pb-2\">Visible Damage: In some cases, visual inspection may reveal cracks, fraying, or missing teeth on the timing belt.</li></ul>",
+        "class": "font-16"
+       }
+      },
+      {
+       "block": "kam_buttons",
+       "fields": {
+        "book": "Enquire Now",
+        "book_url": "#contact",
+        "call": "Call 0115 925 2525",
+        "call_url": "tel:01159252525"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "wrap": "booking-summary-font container-grey",
+   "class": "container",
+   "padding": {
+    "top": 20,
+    "right": 8,
+    "bottom": 20,
+    "left": 8
+   },
+   "columns": [
+    {
+     "class": "kam-blockrow",
+     "width": 50,
+     "tablet": 50,
+     "padding": {
+      "top": 20,
+      "right": 20,
+      "bottom": 20,
+      "left": 20
+     },
+     "widgets": [
+      {
+       "widget": "heading",
+       "fields": {
+        "tag": "h5",
+        "title": "<i class=\"fas fa-cog i-class-color\"></i> DPF cleaning Stapleford"
+       }
+      },
+      {
+       "widget": "text-editor",
+       "fields": {
+        "editor": "<hr><p class=\"font-16\">Restore Your DPF to Peak Performance</p><p class=\"font-16\">Experience superior DPF cleaning with our advanced service. We expertly remove soot and contaminants, preventing costly clogging and ensuring optimal performance.</p><ul class=\"font-16\"><li>Meticulous Cleaning: Our skilled technicians utilise state-of-the-art equipment and innovative techniques to thoroughly clean every part of your DPF.</li> <li>Guaranteed Results: We're so confident in our service that we offer a satisfaction guarantee.</li> <li>Fast Turnaround: Our efficient process minimises downtime, getting you back on the road quickly.</li></ul><p class=\"font-16\">Contact us for a free quote and experience the difference of our expert care.</p>",
+        "class": "font-16"
+       }
+      },
+      {
+       "block": "kam_buttons",
+       "fields": {
+        "book": "Book an Appointment",
+        "book_url": "https://kamservicing.com/bookings.php?q=5#dpfc",
+        "call": "Call 0115 925 2525",
+        "call_url": "tel:01159252525"
+       }
+      }
+     ]
+    },
+    {
+     "class": "kam-blockrow",
+     "width": 50,
+     "tablet": 50,
+     "padding": {
+      "top": 20,
+      "right": 20,
+      "bottom": 20,
+      "left": 20
+     },
+     "widgets": [
+      {
+       "widget": "heading",
+       "fields": {
+        "tag": "h5",
+        "title": "<i class=\"fas fa-cog i-class-color\"></i> Hybrid EV servicing Stapleford"
+       }
+      },
+      {
+       "widget": "text-editor",
+       "fields": {
+        "editor": "<hr><p class=\"font-16\">Electric Vehicle Servicing: Keeping Your EV Running Smoothly</p><p class=\"font-16\">Our team of expert technicians provides honest and straightforward electric vehicle servicing. With fewer moving parts than traditional vehicles, EVs require less maintenance, making them cost-effective to run. At KAM Servicing we believe servicing costs should reflect this efficiency.</p><p class=\"font-16\">Our fully equipped facility provides high-quality repairs and maintenance for all makes and models of electric and hybrid vehicles. Experience the KAM difference - expert service, customer satisfaction, and the peace of mind that comes from knowing your EV is in the best possible hands.</p>",
+        "class": "font-16"
+       }
+      },
+      {
+       "block": "kam_buttons",
+       "fields": {
+        "book": "Book an Appointment",
+        "book_url": "https://kamservicing.com/bookings.php?q=2#servicing",
+        "call": "Call 0115 925 2525",
+        "call_url": "tel:01159252525"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "wrap": "booking-summary",
+   "class": "container mb-5",
+   "padding": {
+    "top": 0,
+    "right": 0,
+    "bottom": 0,
+    "left": 0
+   },
+   "columns": [
+    {
+     "class": "kam-blockrow",
+     "width": 50,
+     "tablet": 50,
+     "padding": {
+      "top": 20,
+      "right": 20,
+      "bottom": 20,
+      "left": 20
+     },
+     "widgets": [
+      {
+       "widget": "heading",
+       "fields": {
+        "tag": "h5",
+        "title": "<i class=\"fas fa-cog i-class-color\"></i> Stapleford garage"
+       }
+      },
+      {
+       "widget": "text-editor",
+       "fields": {
+        "editor": "<hr><p class=\"font-16\"><i class=\"fas fa-map-marker-alt i-class-color\"></i> Hickings Lane<br/> Stapleford<br/> Nottingham<br/> NG9 8PJ</p><p class=\"font-16\"><a href=\"tel:01159252525\"><i class=\"fas fa-phone i-class-color\"></i> 0115 925 2525</a></p><p class=\"font-16\"><i class=\"fas fa-envelope i-class-color\"></i> stapleford@kamservicing.com</p><p class=\"font-16\"><i class=\"fas fa-user i-class-color\"></i> Manager: Danny Southall</p><p class=\"font-16\"><i class=\"fas fa-clock i-class-color\"></i> Mon-Fri: 7.30am - 5.30pm<br/> Sat: 8.00am - 1.30pm<br/> Sun: Closed</p>",
+        "class": "font-16"
+       }
+      }
+     ]
+    },
+    {
+     "class": "kam-blockrow",
+     "width": 50,
+     "tablet": 50,
+     "padding": {
+      "top": 20,
+      "right": 20,
+      "bottom": 20,
+      "left": 20
+     },
+     "widgets": [
+      {
+       "widget": "heading",
+       "fields": {
+        "tag": "h5",
+        "title": "<i class=\"fas fa-envelope i-class-color\"></i> Get in touch"
+       }
+      },
+      {
+       "widget": "text-editor",
+       "fields": {
+        "editor": "<hr><p class=\"font-16\">Email us using the form below.</p>",
+        "class": "font-16"
+       }
+      },
+      {
+       "block": "kam_contact_form",
+       "fields": {
+        "depot": "aaaSta",
+        "depot_name": "Stapleford",
+        "to": "",
+        "intro": ""
+       }
+      }
+     ]
+    }
+   ],
+   "id": "contact"
+  },
+  {
+   "wrap": "booking-summary",
+   "class": "container mb-5",
+   "padding": {
+    "top": 0,
+    "right": 0,
+    "bottom": 0,
+    "left": 0
+   },
+   "columns": [
+    {
+     "class": "kam-blockrow",
+     "width": 50,
+     "tablet": 50,
+     "padding": {
+      "top": 20,
+      "right": 20,
+      "bottom": 20,
+      "left": 20
+     },
+     "widgets": [
+      {
+       "widget": "heading",
+       "fields": {
+        "tag": "h5",
+        "title": "<i class=\"fas fa-cog i-class-color\"></i> Where can I find KAM Servicing in Stapleford?"
+       }
+      },
+      {
+       "widget": "text-editor",
+       "fields": {
+        "editor": "<hr><p class=\"font-16\">KAM Servicing is conveniently located on Hickings Lane in Stapleford, Nottingham, making it easily accessible from Nottingham city centre, Bramcote, Sandiacre, and Toton. Just two minutes off the A52 (the main Nottingham to Derby road) and with close proximity to the M1, reaching us is simple. We're also only a 10-minute walk from Stapleford Town Centre, where you'll find a variety of shops and restaurants.</p>",
+        "class": "font-16"
+       }
+      },
+      {
+       "block": "kam_buttons",
+       "fields": {
+        "book": "Book an Appointment",
+        "book_url": "https://kamservicing.com/bookings.php?q=6#clutchcheck",
+        "call": "Call 0115 925 2525",
+        "call_url": "tel:01159252525"
+       }
+      }
+     ]
+    },
+    {
+     "class": "kam-blockrow",
+     "width": 50,
+     "tablet": 50,
+     "padding": {
+      "top": 20,
+      "right": 20,
+      "bottom": 20,
+      "left": 20
+     },
+     "widgets": [
+      {
+       "block": "kam_map",
+       "fields": {
+        "lat": "52.94053",
+        "lng": "-1.26065",
+        "zoom": "16",
+        "title": "KAM stapleford"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "wrap": "booking-summary",
+   "class": "container mb-5",
+   "padding": {
+    "top": 0,
+    "right": 0,
+    "bottom": 0,
+    "left": 0
+   },
+   "columns": [
+    {
+     "class": "kam-blockrow",
+     "width": 100,
+     "tablet": 100,
+     "padding": {
+      "top": 20,
+      "right": 20,
+      "bottom": 20,
+      "left": 20
+     },
+     "widgets": [
+      {
+       "widget": "heading",
+       "fields": {
+        "tag": "h5",
+        "title": "<i class=\"fas fa-cog i-class-color\"></i> Why choose KAM Servicing?"
+       }
+      },
+      {
+       "widget": "text-editor",
+       "fields": {
+        "editor": "<hr><p class=\"font-16\">Family-owned and operated for over 30 years: KAM Servicing is a family business with a long history of providing quality car care. We have an extensive knowledge of the automotive industry and are committed to providing our customers with the best possible service. We are known for our excellent customer service. We are always happy to answer any questions you have and will go the extra mile to make sure you are satisfied with your experience.</p>",
+        "class": "font-16"
+       }
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

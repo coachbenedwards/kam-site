@@ -1,0 +1,523 @@
+{
+ "page": "long-eaton-tamworth-road",
+ "title": "Book MOT",
+ "replace": true,
+ "blocks": [
+  {
+   "class": "kam-blockrow",
+   "widgets": [
+    {
+     "block": "kam_tiles",
+     "fields": {
+      "h1": "1"
+     },
+     "lines": "https://kamservicing.eastwoodfc.com/wp-content/uploads/2026/10/mot-bg.jpg|Book MOT|from £54.85|https://kamservicing.com/bookings.php?q=1#mot\nhttps://kamservicing.eastwoodfc.com/wp-content/uploads/2026/10/oil-bg.jpg|Book Car Service|from £119.99|https://kamservicing.com/bookings.php?q=2#servicing\nhttps://kamservicing.eastwoodfc.com/wp-content/uploads/2026/10/ac-bg.jpg|Book Air Con Regas|from £79.99|https://kamservicing.com/bookings.php?q=3#ac\nhttps://kamservicing.eastwoodfc.com/wp-content/uploads/2026/10/tyres-bg.jpg|Book Car Tyres|from £18.00|https://kamservicing.com/tyres.php"
+    }
+   ]
+  },
+  {
+   "wrap": "booking-summary",
+   "class": "container mb-5",
+   "padding": {
+    "top": 0,
+    "right": 0,
+    "bottom": 0,
+    "left": 0
+   },
+   "columns": [
+    {
+     "class": "kam-blockrow text-center",
+     "width": 50,
+     "tablet": 50,
+     "padding": {
+      "top": 0,
+      "right": 12,
+      "bottom": 0,
+      "left": 12
+     },
+     "widgets": [
+      {
+       "widget": "image",
+       "fields": {
+        "url": "https://kamservicing.eastwoodfc.com/wp-content/uploads/2026/10/payment-assist.webp",
+        "alt": "Payment Assist",
+        "align": "center"
+       }
+      },
+      {
+       "widget": "text-editor",
+       "fields": {
+        "editor": "<p class=\"font-16\">Call <b>Paul</b> on <a href=\"tel:01159460879\">01159 460 879</a> for details.</p>",
+        "class": "font-16"
+       }
+      }
+     ]
+    },
+    {
+     "class": "kam-blockrow",
+     "width": 50,
+     "tablet": 50,
+     "padding": {
+      "top": 0,
+      "right": 12,
+      "bottom": 0,
+      "left": 12
+     },
+     "widgets": [
+      {
+       "widget": "heading",
+       "fields": {
+        "tag": "h5",
+        "title": "<i class=\"fas fa-cog i-class-color\"></i> Pay monthly car repairs"
+       }
+      },
+      {
+       "widget": "text-editor",
+       "fields": {
+        "editor": "<hr><p class=\"font-16\">Tired of the financial strain that unexpected car repairs can bring? Payment Assist is here to offer a solution. This innovative service allows you to spread the cost of car servicing and car repair into manageable monthly payments.</p><ul class=\"font-16\"><li class=\"pb-2\">Take the pressure off your wallet. Pay a 25% deposit upfront and spread the remaining cost over three manageable monthly payments.</li> <li class=\"pb-2\">Need urgent car repairs ? No problem. We offer affordable car repairs under £1,000.</li></ul><p class=\"font-16\">Affordable car repairs are just a <a href=\"#contact\">phone call</a> away. Get the car repairs you need with Payment Assist. Our financing is perfect for repairs under £1,000.</p>",
+        "class": "font-16"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "wrap": "booking-summary-font container-grey",
+   "class": "container",
+   "padding": {
+    "top": 20,
+    "right": 8,
+    "bottom": 20,
+    "left": 8
+   },
+   "columns": [
+    {
+     "class": "kam-blockrow",
+     "width": 50,
+     "tablet": 50,
+     "padding": {
+      "top": 20,
+      "right": 20,
+      "bottom": 20,
+      "left": 20
+     },
+     "widgets": [
+      {
+       "widget": "heading",
+       "fields": {
+        "tag": "h5",
+        "title": "<i class=\"fas fa-cog i-class-color\"></i> Car servicing in Sawley"
+       }
+      },
+      {
+       "widget": "text-editor",
+       "fields": {
+        "editor": "<hr><p class=\"font-16\">Get your car serviced fast and easy - any make, any model.</p><p class=\"font-16\">Are you looking for local car servicing? Look no further than KAM Sawley, we are a family-owned and operated garage with over 50 years of experience. Our skilled technicians have years of experience diagnosing and repairing a wide range of car problems, from minor issues to major overhauls.</p><p class=\"font-16\">Why Choose Us:</p><ul class=\"font-16\"><li class=\"pb-2\">Expert Car Repairs: From engine work to bodywork, we've got you covered.</li> <li class=\"pb-2\">AA-Approved Quality: Trust our reputation for excellence and customer satisfaction.</li> <li class=\"pb-2\">State-of-the-Art Equipment: We use the latest tools and technology for precise diagnostics and repairs.</li> <li class=\"pb-2\">Competitive Prices: Get quality car care without breaking the bank.</li></ul><p class=\"font-16\">Let us help you keep your car in top condition. Schedule your car service today and discover why Sawley residents trust us for expert car servicing.</p>",
+        "class": "font-16"
+       }
+      },
+      {
+       "block": "kam_buttons",
+       "fields": {
+        "book": "Book an Appointment",
+        "book_url": "https://kamservicing.com/bookings.php?q=2#servicing",
+        "call": "Call 01159 460 879",
+        "call_url": "tel:01159460879"
+       }
+      }
+     ]
+    },
+    {
+     "class": "kam-blockrow",
+     "width": 50,
+     "tablet": 50,
+     "padding": {
+      "top": 20,
+      "right": 20,
+      "bottom": 20,
+      "left": 20
+     },
+     "widgets": [
+      {
+       "widget": "heading",
+       "fields": {
+        "tag": "h5",
+        "title": "<i class=\"fas fa-cog i-class-color\"></i> Book your MOT in Sawley"
+       }
+      },
+      {
+       "widget": "text-editor",
+       "fields": {
+        "editor": "<hr><p class=\"font-16\">Need a hassle-free MOT test in Sawley?</p><p class=\"font-16\">Look no further than KAM. Our experienced technicians are dedicated to ensuring your vehicle meets the highest safety standards. With years of experience and state-of-the-art equipment, we provide thorough and efficient MOT inspections. We understand the importance of keeping your vehicle roadworthy, and we're committed to delivering exceptional service.</p><p class=\"font-16\">At KAM, we pride ourselves on our attention to detail and commitment to customer satisfaction. Our technicians are trained to identify potential issues that may not be immediately apparent, ensuring your vehicle is safe and reliable on the road. We also offer convenient appointment scheduling and flexible options to accommodate your busy lifestyle.</p><p class=\"font-16\">Whether you're a local resident or simply passing through Sawley, we invite you to experience the KAM difference. Book your MOT test today and enjoy peace of mind knowing your vehicle is in the hands of trusted professionals.</p>",
+        "class": "font-16"
+       }
+      },
+      {
+       "block": "kam_buttons",
+       "fields": {
+        "book": "Book an Appointment",
+        "book_url": "https://kamservicing.com/bookings.php?q=1#mot",
+        "call": "Call 01159 460 879",
+        "call_url": "tel:01159460879"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "wrap": "booking-summary-font container-grey",
+   "class": "container",
+   "padding": {
+    "top": 20,
+    "right": 8,
+    "bottom": 20,
+    "left": 8
+   },
+   "columns": [
+    {
+     "class": "kam-blockrow",
+     "width": 50,
+     "tablet": 50,
+     "padding": {
+      "top": 20,
+      "right": 20,
+      "bottom": 20,
+      "left": 20
+     },
+     "widgets": [
+      {
+       "widget": "heading",
+       "fields": {
+        "tag": "h5",
+        "title": "<i class=\"fas fa-cog i-class-color\"></i> Car tyres Sawley"
+       }
+      },
+      {
+       "widget": "text-editor",
+       "fields": {
+        "editor": "<hr><p class=\"font-16\">KAM Servicing - Your Trusted Tyre Experts</p><p class=\"font-16\">Why Choose Us?</p><p class=\"font-16\">At KAM Servicing, we're more than just a tyre shop; we're your trusted partner for all your vehicle's tyre needs. With years of experience and a commitment to customer satisfaction, we've built a reputation for excellence.</p><p class=\"font-16\">What Sets Us Apart?</p><ul class=\"font-16\"><li class=\"pb-2\">Expert Advice: Our knowledgeable team is always ready to provide personalised advice on the best tyres for your vehicle.</li> <li class=\"pb-2\">Quality Tyres: We offer a wide range of high-quality tyres from top brands to suit every budget.</li> <li class=\"pb-2\">Fast and Efficient Service: Our skilled technicians will have you back on the road in no time.</li> <li class=\"pb-2\">Competitive Pricing: We strive to offer the most competitive prices on tyres and services.</li> <li class=\"pb-2\">Convenient Online Booking: Book your tyre service appointment online at your convenience.</li></ul>",
+        "class": "font-16"
+       }
+      },
+      {
+       "block": "kam_buttons",
+       "fields": {
+        "book": "Book an Appointment",
+        "book_url": "https://kamservicing.com/tyres.php",
+        "call": "Call 01159 460 879",
+        "call_url": "tel:01159460879"
+       }
+      }
+     ]
+    },
+    {
+     "class": "kam-blockrow",
+     "width": 50,
+     "tablet": 50,
+     "padding": {
+      "top": 20,
+      "right": 20,
+      "bottom": 20,
+      "left": 20
+     },
+     "widgets": [
+      {
+       "widget": "heading",
+       "fields": {
+        "tag": "h5",
+        "title": "<i class=\"fas fa-cog i-class-color\"></i> Cam belt replacement Sawley"
+       }
+      },
+      {
+       "widget": "text-editor",
+       "fields": {
+        "editor": "<hr><p class=\"font-16\">Your Local Cambelt Change Experts: Your Engine's Lifeline</p><p class=\"font-16\">Don't Let a Broken Cambelt Ruin Your Day!</p><p class=\"font-16\">A broken cambelt can lead to catastrophic engine damage. That's why regular cambelt replacement is crucial. At KAM Servicing, we're your local cambelt change experts, committed to keeping your vehicle running smoothly.</p><p class=\"font-16\">Why Choose Us?</p><ul class=\"font-16\"><li class=\"pb-2\">Expert Technicians: Our highly skilled mechanics have years of experience in cambelt replacement.</li> <li class=\"pb-2\">Quality Parts: We use only genuine OEM or high-quality aftermarket parts.</li> <li class=\"pb-2\">State-of-the-Art Equipment: We utilise the latest diagnostic tools and equipment for precise work.</li> <li class=\"pb-2\">Competitive Pricing: Transparent pricing and no hidden costs.</li> <li class=\"pb-2\">Convenience: Flexible booking options and efficient service.</li></ul>",
+        "class": "font-16"
+       }
+      },
+      {
+       "block": "kam_buttons",
+       "fields": {
+        "book": "Enquire Now",
+        "book_url": "#contact",
+        "call": "Call 01159 460 879",
+        "call_url": "tel:01159460879"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "wrap": "booking-summary-font container-grey",
+   "class": "container",
+   "padding": {
+    "top": 20,
+    "right": 8,
+    "bottom": 20,
+    "left": 8
+   },
+   "columns": [
+    {
+     "class": "kam-blockrow",
+     "width": 50,
+     "tablet": 50,
+     "padding": {
+      "top": 20,
+      "right": 20,
+      "bottom": 20,
+      "left": 20
+     },
+     "widgets": [
+      {
+       "widget": "heading",
+       "fields": {
+        "tag": "h5",
+        "title": "<i class=\"fas fa-cog i-class-color\"></i> DPF cleaning Sawley"
+       }
+      },
+      {
+       "widget": "text-editor",
+       "fields": {
+        "editor": "<hr><p class=\"font-16\">Regain Your Vehicle's Peak Performance with DPF Cleaning</p><p class=\"font-16\">Is Your Diesel Vehicle Struggling?</p><p class=\"font-16\">A clogged Diesel Particulate Filter (DPF) can lead to a host of issues, including:</p><ul class=\"font-16\"><li class=\"pb-2\">Reduced Engine Power: Feel the loss of acceleration and overall performance.</li> <li class=\"pb-2\">Increased Fuel Consumption: Waste more money at the pump.</li> <li class=\"pb-2\">Engine Malfunction Indicator Light (EML): A constant reminder of the problem.</li> <li class=\"pb-2\">Costly Repairs: Neglecting the issue can lead to severe engine damage.</li></ul><p class=\"font-16\">Don't Let a Clogged DPF Ruin Your Driving Experience.</p><p class=\"font-16\">At KAM Servicing, we offer professional DPF cleaning services to restore your vehicle's optimal performance. Our expert technicians use advanced cleaning techniques to remove harmful soot and ash particles, ensuring:</p><ul class=\"font-16\"><li class=\"pb-2\">Improved Engine Efficiency: Experience better fuel economy and reduced emissions.</li> <li class=\"pb-2\">Restored Power: Regain the acceleration and performance you deserve.</li> <li class=\"pb-2\">Extended Vehicle Lifespan: Prevent costly engine damage and maintain your vehicle's value.</li> <li class=\"pb-2\">Peace of Mind: Drive with confidence, knowing your vehicle is running smoothly.</li></ul>",
+        "class": "font-16"
+       }
+      },
+      {
+       "block": "kam_buttons",
+       "fields": {
+        "book": "Book an Appointment",
+        "book_url": "https://kamservicing.com/bookings.php?q=5#dpfc",
+        "call": "Call 01159 460 879",
+        "call_url": "tel:01159460879"
+       }
+      }
+     ]
+    },
+    {
+     "class": "kam-blockrow",
+     "width": 50,
+     "tablet": 50,
+     "padding": {
+      "top": 20,
+      "right": 20,
+      "bottom": 20,
+      "left": 20
+     },
+     "widgets": [
+      {
+       "widget": "heading",
+       "fields": {
+        "tag": "h5",
+        "title": "<i class=\"fas fa-cog i-class-color\"></i> Hybrid EV Servicing: Powering Your Future"
+       }
+      },
+      {
+       "widget": "text-editor",
+       "fields": {
+        "editor": "<hr><p class=\"font-16\">Your Hybrid, Our Expertise</p><p class=\"font-16\">Are you a proud owner of a hybrid electric vehicle (HEV)? At KAM Servicing, we understand the unique needs of these advanced vehicles. Our team of certified technicians is dedicated to providing top-notch hybrid EV servicing, ensuring optimal performance and longevity.</p><p class=\"font-16\">Why Choose Us for Your Hybrid EV Servicing?</p><ul class=\"font-16\"><li class=\"pb-2\">Expert Technicians: Our skilled technicians are trained to work on the latest hybrid technologies, from mild hybrids to plug-in hybrids.</li> <li class=\"pb-2\">State-of-the-Art Equipment: We utilise advanced diagnostic tools to identify and address any issues promptly.</li> <li class=\"pb-2\">Genuine Parts: We only use genuine OEM or high-quality aftermarket parts to maintain your vehicle's integrity.</li></ul><p class=\"font-16\">Experience the Difference</p><p class=\"font-16\">Don't compromise the performance and longevity of your hybrid EV. Schedule your next service appointment with KAM Servicing today. Our commitment to excellence ensures your vehicle remains in top condition.</p>",
+        "class": "font-16"
+       }
+      },
+      {
+       "block": "kam_buttons",
+       "fields": {
+        "book": "Book an Appointment",
+        "book_url": "https://kamservicing.com/bookings.php?q=2#servicing",
+        "call": "Call 01159 460 879",
+        "call_url": "tel:01159460879"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "wrap": "booking-summary",
+   "class": "container mb-5",
+   "padding": {
+    "top": 0,
+    "right": 0,
+    "bottom": 0,
+    "left": 0
+   },
+   "columns": [
+    {
+     "class": "kam-blockrow",
+     "width": 50,
+     "tablet": 50,
+     "padding": {
+      "top": 20,
+      "right": 20,
+      "bottom": 20,
+      "left": 20
+     },
+     "widgets": [
+      {
+       "widget": "heading",
+       "fields": {
+        "tag": "h5",
+        "title": "<i class=\"fas fa-cog i-class-color\"></i> Sawley garage"
+       }
+      },
+      {
+       "widget": "text-editor",
+       "fields": {
+        "editor": "<hr><p class=\"font-16\">Tamworth Rd<br/> Long Eaton<br/> Sawley<br/> Nottingham<br/> NG10 3FB<br/></p><p class=\"font-16\"><a href=\"tel:01159460879\"><i class=\"fas fa-phone i-class-color\"></i> 01159 460 879</a></p><p class=\"font-16\"><i class=\"fas fa-envelope i-class-color\"></i> sawley@kamservicing.com</p><p class=\"font-16\"><i class=\"fas fa-user i-class-color\"></i> Manager: Paul Gregory</p><p class=\"font-16\"><i class=\"fas fa-clock i-class-color\"></i> Mon-Fri: 7.00am - 6.00pm<br/> Sat: 7.30am - 2.00pm<br/> Sun: 8.30am - 2.00pm<br/></p>",
+        "class": "font-16"
+       }
+      }
+     ]
+    },
+    {
+     "class": "kam-blockrow",
+     "width": 50,
+     "tablet": 50,
+     "padding": {
+      "top": 20,
+      "right": 20,
+      "bottom": 20,
+      "left": 20
+     },
+     "widgets": [
+      {
+       "widget": "heading",
+       "fields": {
+        "tag": "h5",
+        "title": "<i class=\"fas fa-envelope i-class-color\"></i> Get in touch"
+       }
+      },
+      {
+       "widget": "text-editor",
+       "fields": {
+        "editor": "<hr><p class=\"font-16\">Email us using the form below.</p>",
+        "class": "font-16"
+       }
+      },
+      {
+       "block": "kam_contact_form",
+       "fields": {
+        "depot": "aaaSaw",
+        "depot_name": "Long Eaton - Tamworth Rd - Sawley",
+        "to": "",
+        "intro": ""
+       }
+      }
+     ]
+    }
+   ],
+   "id": "contact"
+  },
+  {
+   "wrap": "booking-summary",
+   "class": "container mb-5",
+   "padding": {
+    "top": 0,
+    "right": 0,
+    "bottom": 0,
+    "left": 0
+   },
+   "columns": [
+    {
+     "class": "kam-blockrow",
+     "width": 50,
+     "tablet": 50,
+     "padding": {
+      "top": 20,
+      "right": 20,
+      "bottom": 20,
+      "left": 20
+     },
+     "widgets": [
+      {
+       "widget": "heading",
+       "fields": {
+        "tag": "h5",
+        "title": "<i class=\"fas fa-cog i-class-color\"></i> Where can I find KAM Servicing in Sawley?"
+       }
+      },
+      {
+       "widget": "text-editor",
+       "fields": {
+        "editor": "<hr><p class=\"font-16\">Based in Sawley, a stone's throw from Long Eaton town center and Trent Lock Golf Centre, we're your local experts in car and light commercial vehicle servicing. Easily accessible by train or bus, we serve Long Eaton, Draycott, Breaston, Castle Donnington, and the surrounding areas.</p>",
+        "class": "font-16"
+       }
+      },
+      {
+       "block": "kam_buttons",
+       "fields": {
+        "book": "Book an Appointment",
+        "book_url": "https://kamservicing.com/bookings.php?q=6#clutchcheck",
+        "call": "Call 01159 460 879",
+        "call_url": "tel:01159460879"
+       }
+      }
+     ]
+    },
+    {
+     "class": "kam-blockrow",
+     "width": 50,
+     "tablet": 50,
+     "padding": {
+      "top": 20,
+      "right": 20,
+      "bottom": 20,
+      "left": 20
+     },
+     "widgets": [
+      {
+       "block": "kam_map",
+       "fields": {
+        "lat": "52.87946",
+        "lng": "-1.29409",
+        "zoom": "16",
+        "title": "KAM long-eaton-tamworth-road"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "wrap": "booking-summary",
+   "class": "container mb-5",
+   "padding": {
+    "top": 0,
+    "right": 0,
+    "bottom": 0,
+    "left": 0
+   },
+   "columns": [
+    {
+     "class": "kam-blockrow",
+     "width": 100,
+     "tablet": 100,
+     "padding": {
+      "top": 20,
+      "right": 20,
+      "bottom": 20,
+      "left": 20
+     },
+     "widgets": [
+      {
+       "widget": "heading",
+       "fields": {
+        "tag": "h5",
+        "title": "<i class=\"fas fa-cog i-class-color\"></i> Why choose KAM Servicing?"
+       }
+      },
+      {
+       "widget": "text-editor",
+       "fields": {
+        "editor": "<hr><p class=\"font-16\">Your local, family-run garage, rated 4.8 stars on Google. Our team of highly trained technicians offers expert MOT testing, servicing, repairs, and more. Experience personalised service and competitive prices. <a href=\"tel:01159460879\">Call 01159 460 879</a> to book your appointment today.</p>",
+        "class": "font-16"
+       }
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

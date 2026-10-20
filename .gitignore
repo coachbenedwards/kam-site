@@ -1,0 +1,4 @@
+node_modules
+build/*.min.json
+qa/baseline/**/*.png
+.DS_Store

@@ -1,0 +1,5398 @@
+{
+ "url": "/terms-conditions.php",
+ "at": "2026-10-20T08:45:04.040Z",
+ "widths": {
+  "390": {
+   "title": "Car Repairs, Servicing, Tyres and MOT, Nottingham & Derby : KAM",
+   "text": "£0.00 Warranty Terms & Conditions KAM SERVICING – WARRANTY TERMS AND CONDITIONS 1 Proof of Purchase: The original invoice must be provided before any work can be authorised under a warranty claim. 2 Warranty Period: The warranty is valid from the date and/or mileage stated on the invoice and only applies to the person names on the invoice. 3 Repairs and Replacements: KAM Servicing will endeavour to repair any defective part. If repair is not possible, the part will be replaced and refitted to the vehicle free of charge, subject to these terms and conditions. 4 Unauthorised Work: The warranty will be void if any part is removed or interfered with by any third party without prior authorisation from KAM Servicing. 5 Exclusions of Liability: KAM Servicing is not liable for any additional expenses, losses, or damages arising from a faulty part fitted. 6 Post-Repair Requirements: Any mechanical repairs involving the engine or cylinder head gasket must be returned for re-torque, oil and filter change, or inspection within 500 miles of the invoice mileage. 7 Related Faults: The warranty will be void if a component failure is caused by another fault that was identified on the invoice but not authorised for repair by the customer. 8 Undetected Issues: KAM Servicing is not liable for any component failure that was not apparent at the time of repair. 9 Maximum Liability: The maximum liability under any warranty claim is limited to the cost of the part supplied and fitted. 10 Warranty Claims Procedure: In the event of a warranty claim, you must notify KAM Servicing and return the vehicle to the service centre where the work was carried out. 11 Wear and Tear: This warranty does not cover damage resulting from normal wear and tear. 12 Customer Responsibilities and Limitations: If you suffer any loss or damage for which KAM Servicing is responsible, you must provide a reasonable opportunity for the issue to be rectified. You are required to take reasonable steps to minimise or avoid further loss or damage. KAM Servicing will not be liable where you fail to provide such opportunity or fail to mitigate losses. If an authorised repair is suspended at your request, or due to your breach of contract, KAM Servicing reserves the right to charge additional reasonable costs for any unavoidable expenses incurred. Wheel alignment and geometry may be affected by road conditions and are therefore not covered under this warranty. 13 Ownership of Parts: All parts fitted to the vehicle remain the property of KAM Servicing until payment has been made in full. 14 Parts Warranty: All new parts carry a warranty of 12 months or 12,000 miles (whichever occurs first). 15 Service Adjustments: This warranty does not cover serviceable adjustments. 16 Service Schedules: KAM Servicing schedules are independent and may differ from manufacturer recommendations. 17 Digital Service Records: KAM Servicing cannot guarantee that we can upload service history to online Digital Service Records. 18 Quotations: All quotations are valid for 7 days from the date of issue. 19 Order Acceptance: KAM Servicing reserves the right to refuse any order at its sole discretion. Where fraudulent activity is suspected, additional checks will be carried out, and relevant authorities WILL be notified. 20 Disposal of Parts: Any removed parts, except those covered under warranty or exchange agreements, will be disposed of by the end of the working day in accordance with environmental regulations. A disposal fee may apply. 21 Storage Charges: Storage charges may be applied to vehicles not collected within 5 days following completion of the work. 22 Vehicle Condition: KAM Servicing is not liable for any damage resulting from pre-existing structural defects or weaknesses in the vehicle. 23 Parking Risk: All vehicles left in the car park at owners’ risk. 24 Key Drop: Keys left in the key drop off box is at owners’ risk. BRANCHES Nottingham - Sherwood Nottingham - Bulwell Nottingham - Nuthall Nottingham - Colwick Nottingham - Hucknall Beeston Sutton-in-Ashfield Stapleford Derby - City Derby - Ascot Drive Derby - Sinfin Long Eaton - Derby Rd Long Eaton - Tamworth Rd Heanor Belper Ambergate SERVICES Book an MOT Book a Service Buy Tyres Book A/C Regas View All Services Renu Orthopedic hospital CBSE School faridabad © KAM Servicing - 2026 | Privacy Policy| All Services| Terms & Conditions",
+   "scrollW": 390,
+   "vw": 390,
+   "nodes": [
+    {
+     "k": "a|https://kamservicing.com/::1",
+     "t": "a",
+     "x": 12,
+     "y": 0,
+     "w": 160,
+     "h": 50,
+     "s": "",
+     "href": "https://kamservicing.com/"
+    },
+    {
+     "k": "img|logokams-2.png::1",
+     "t": "img",
+     "x": 12,
+     "y": 0,
+     "w": 160,
+     "h": 50,
+     "s": ""
+    },
+    {
+     "k": "a|/blank.php::1",
+     "t": "a",
+     "x": 278,
+     "y": 2,
+     "w": 100,
+     "h": 47,
+     "s": "",
+     "href": "/blank.php"
+    },
+    {
+     "k": "span|£0.00::1",
+     "t": "span",
+     "x": 292,
+     "y": 10,
+     "w": 46,
+     "h": 31,
+     "s": "£0.00"
+    },
+    {
+     "k": "nav|paints|rgb(38, 145, 213)|none::1",
+     "t": "nav",
+     "x": 0,
+     "y": 50,
+     "w": 390,
+     "h": 40,
+     "s": ""
+    },
+    {
+     "k": "button|paints|rgba(0, 0, 0, 0)|none::1",
+     "t": "button",
+     "x": 12,
+     "y": 50,
+     "w": 56,
+     "h": 40,
+     "s": ""
+    },
+    {
+     "k": "span|paints|rgba(0, 0, 0, 0)|url(\"data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000::1",
+     "t": "span",
+     "x": 25,
+     "y": 55,
+     "w": 30,
+     "h": 30,
+     "s": ""
+    },
+    {
+     "k": "section|paints|rgb(239, 239, 239)|none::1",
+     "t": "section",
+     "x": 0,
+     "y": 90,
+     "w": 390,
+     "h": 254,
+     "s": ""
+    },
+    {
+     "k": "h1|Warranty Terms & Conditions::1",
+     "t": "h1",
+     "x": 12,
+     "y": 150,
+     "w": 366,
+     "h": 72,
+     "s": "Warranty Terms & Conditions"
+    },
+    {
+     "k": "p|KAM SERVICING – WARRANTY TERMS AND CONDITIONS::1",
+     "t": "p",
+     "x": 12,
+     "y": 231,
+     "w": 366,
+     "h": 54,
+     "s": "KAM SERVICING – WARRANTY TERMS AND CONDITIONS"
+    },
+    {
+     "k": "section|paints|rgb(248, 249, 250)|none::1",
+     "t": "section",
+     "x": 0,
+     "y": 345,
+     "w": 390,
+     "h": 4634,
+     "s": ""
+    },
+    {
+     "k": "div|paints|rgb(255, 255, 255)|none::1",
+     "t": "div",
+     "x": 12,
+     "y": 393,
+     "w": 366,
+     "h": 4538,
+     "s": ""
+    },
+    {
+     "k": "div|paints|rgba(0, 0, 0, 0)|none::1",
+     "t": "div",
+     "x": 36,
+     "y": 417,
+     "w": 318,
+     "h": 139,
+     "s": ""
+    },
+    {
+     "k": "div|1::1",
+     "t": "div",
+     "x": 51,
+     "y": 432,
+     "w": 35,
+     "h": 35,
+     "s": "1"
+    },
+    {
+     "k": "div|The original invoice must be provided before any work can be authorised under a ::1",
+     "t": "div",
+     "x": 101,
+     "y": 432,
+     "w": 238,
+     "h": 108,
+     "s": "The original invoice must be provided before any work can be authorised under a "
+    },
+    {
+     "k": "strong|Proof of Purchase:::1",
+     "t": "strong",
+     "x": 101,
+     "y": 435,
+     "w": 140,
+     "h": 20,
+     "s": "Proof of Purchase:"
+    },
+    {
+     "k": "div|paints|rgba(0, 0, 0, 0)|none::2",
+     "t": "div",
+     "x": 36,
+     "y": 556,
+     "w": 318,
+     "h": 166,
+     "s": ""
+    },
+    {
+     "k": "div|2::1",
+     "t": "div",
+     "x": 51,
+     "y": 571,
+     "w": 35,
+     "h": 35,
+     "s": "2"
+    },
+    {
+     "k": "div|The warranty is valid from the date and/or mileage stated on the invoice and onl::1",
+     "t": "div",
+     "x": 101,
+     "y": 571,
+     "w": 238,
+     "h": 135,
+     "s": "The warranty is valid from the date and/or mileage stated on the invoice and onl"
+    },
+    {
+     "k": "strong|Warranty Period:::1",
+     "t": "strong",
+     "x": 101,
+     "y": 574,
+     "w": 130,
+     "h": 20,
+     "s": "Warranty Period:"
+    },
+    {
+     "k": "div|paints|rgba(0, 0, 0, 0)|none::3",
+     "t": "div",
+     "x": 36,
+     "y": 722,
+     "w": 318,
+     "h": 220,
+     "s": ""
+    },
+    {
+     "k": "div|3::1",
+     "t": "div",
+     "x": 51,
+     "y": 737,
+     "w": 35,
+     "h": 35,
+     "s": "3"
+    },
+    {
+     "k": "div|KAM Servicing will endeavour to repair any defective part. If repair is not poss::1",
+     "t": "div",
+     "x": 101,
+     "y": 737,
+     "w": 238,
+     "h": 189,
+     "s": "KAM Servicing will endeavour to repair any defective part. If repair is not poss"
+    },
+    {
+     "k": "strong|Repairs and Replacements:::1",
+     "t": "strong",
+     "x": 101,
+     "y": 740,
+     "w": 202,
+     "h": 20,
+     "s": "Repairs and Replacements:"
+    },
+    {
+     "k": "div|paints|rgba(0, 0, 0, 0)|none::4",
+     "t": "div",
+     "x": 36,
+     "y": 942,
+     "w": 318,
+     "h": 166,
+     "s": ""
+    },
+    {
+     "k": "div|4::1",
+     "t": "div",
+     "x": 51,
+     "y": 957,
+     "w": 35,
+     "h": 35,
+     "s": "4"
+    },
+    {
+     "k": "div|The warranty will be void if any part is removed or interfered with by any third::1",
+     "t": "div",
+     "x": 101,
+     "y": 957,
+     "w": 238,
+     "h": 135,
+     "s": "The warranty will be void if any part is removed or interfered with by any third"
+    },
+    {
+     "k": "strong|Unauthorised Work:::1",
+     "t": "strong",
+     "x": 101,
+     "y": 960,
+     "w": 152,
+     "h": 20,
+     "s": "Unauthorised Work:"
+    },
+    {
+     "k": "div|paints|rgba(0, 0, 0, 0)|none::5",
+     "t": "div",
+     "x": 36,
+     "y": 1108,
+     "w": 318,
+     "h": 166,
+     "s": ""
+    },
+    {
+     "k": "div|5::1",
+     "t": "div",
+     "x": 51,
+     "y": 1123,
+     "w": 35,
+     "h": 35,
+     "s": "5"
+    },
+    {
+     "k": "div|KAM Servicing is not liable for any additional expenses, losses, or damages aris::1",
+     "t": "div",
+     "x": 101,
+     "y": 1123,
+     "w": 238,
+     "h": 135,
+     "s": "KAM Servicing is not liable for any additional expenses, losses, or damages aris"
+    },
+    {
+     "k": "strong|Exclusions of Liability:::1",
+     "t": "strong",
+     "x": 101,
+     "y": 1126,
+     "w": 166,
+     "h": 20,
+     "s": "Exclusions of Liability:"
+    },
+    {
+     "k": "div|paints|rgba(0, 0, 0, 0)|none::6",
+     "t": "div",
+     "x": 36,
+     "y": 1274,
+     "w": 318,
+     "h": 220,
+     "s": ""
+    },
+    {
+     "k": "div|6::1",
+     "t": "div",
+     "x": 51,
+     "y": 1289,
+     "w": 35,
+     "h": 35,
+     "s": "6"
+    },
+    {
+     "k": "div|Any mechanical repairs involving the engine or cylinder head gasket must be retu::1",
+     "t": "div",
+     "x": 101,
+     "y": 1289,
+     "w": 238,
+     "h": 189,
+     "s": "Any mechanical repairs involving the engine or cylinder head gasket must be retu"
+    },
+    {
+     "k": "strong|Post-Repair Requirements:::1",
+     "t": "strong",
+     "x": 101,
+     "y": 1292,
+     "w": 202,
+     "h": 20,
+     "s": "Post-Repair Requirements:"
+    },
+    {
+     "k": "div|paints|rgba(0, 0, 0, 0)|none::7",
+     "t": "div",
+     "x": 36,
+     "y": 1494,
+     "w": 318,
+     "h": 193,
+     "s": ""
+    },
+    {
+     "k": "div|7::1",
+     "t": "div",
+     "x": 51,
+     "y": 1509,
+     "w": 35,
+     "h": 35,
+     "s": "7"
+    },
+    {
+     "k": "div|The warranty will be void if a component failure is caused by another fault that::1",
+     "t": "div",
+     "x": 101,
+     "y": 1509,
+     "w": 238,
+     "h": 162,
+     "s": "The warranty will be void if a component failure is caused by another fault that"
+    },
+    {
+     "k": "strong|Related Faults:::1",
+     "t": "strong",
+     "x": 101,
+     "y": 1512,
+     "w": 112,
+     "h": 20,
+     "s": "Related Faults:"
+    },
+    {
+     "k": "div|paints|rgba(0, 0, 0, 0)|none::8",
+     "t": "div",
+     "x": 36,
+     "y": 1687,
+     "w": 318,
+     "h": 139,
+     "s": ""
+    },
+    {
+     "k": "div|8::1",
+     "t": "div",
+     "x": 51,
+     "y": 1702,
+     "w": 35,
+     "h": 35,
+     "s": "8"
+    },
+    {
+     "k": "div|KAM Servicing is not liable for any component failure that was not apparent at t::1",
+     "t": "div",
+     "x": 101,
+     "y": 1702,
+     "w": 238,
+     "h": 108,
+     "s": "KAM Servicing is not liable for any component failure that was not apparent at t"
+    },
+    {
+     "k": "strong|Undetected Issues:::1",
+     "t": "strong",
+     "x": 101,
+     "y": 1705,
+     "w": 146,
+     "h": 20,
+     "s": "Undetected Issues:"
+    },
+    {
+     "k": "div|paints|rgba(0, 0, 0, 0)|none::9",
+     "t": "div",
+     "x": 36,
+     "y": 1826,
+     "w": 318,
+     "h": 166,
+     "s": ""
+    },
+    {
+     "k": "div|9::1",
+     "t": "div",
+     "x": 51,
+     "y": 1841,
+     "w": 35,
+     "h": 35,
+     "s": "9"
+    },
+    {
+     "k": "div|The maximum liability under any warranty claim is limited to the cost of the par::1",
+     "t": "div",
+     "x": 101,
+     "y": 1841,
+     "w": 238,
+     "h": 135,
+     "s": "The maximum liability under any warranty claim is limited to the cost of the par"
+    },
+    {
+     "k": "strong|Maximum Liability:::1",
+     "t": "strong",
+     "x": 101,
+     "y": 1844,
+     "w": 141,
+     "h": 20,
+     "s": "Maximum Liability:"
+    },
+    {
+     "k": "div|paints|rgba(0, 0, 0, 0)|none::10",
+     "t": "div",
+     "x": 36,
+     "y": 1992,
+     "w": 318,
+     "h": 193,
+     "s": ""
+    },
+    {
+     "k": "div|10::1",
+     "t": "div",
+     "x": 51,
+     "y": 2007,
+     "w": 35,
+     "h": 35,
+     "s": "10"
+    },
+    {
+     "k": "div|In the event of a warranty claim, you must notify KAM Servicing and return the v::1",
+     "t": "div",
+     "x": 101,
+     "y": 2007,
+     "w": 238,
+     "h": 162,
+     "s": "In the event of a warranty claim, you must notify KAM Servicing and return the v"
+    },
+    {
+     "k": "strong|Warranty Claims Procedure:::1",
+     "t": "strong",
+     "x": 101,
+     "y": 2010,
+     "w": 212,
+     "h": 20,
+     "s": "Warranty Claims Procedure:"
+    },
+    {
+     "k": "div|paints|rgba(0, 0, 0, 0)|none::11",
+     "t": "div",
+     "x": 36,
+     "y": 2185,
+     "w": 318,
+     "h": 112,
+     "s": ""
+    },
+    {
+     "k": "div|11::1",
+     "t": "div",
+     "x": 51,
+     "y": 2200,
+     "w": 35,
+     "h": 35,
+     "s": "11"
+    },
+    {
+     "k": "div|This warranty does not cover damage resulting from normal wear and tear.::1",
+     "t": "div",
+     "x": 101,
+     "y": 2200,
+     "w": 238,
+     "h": 81,
+     "s": "This warranty does not cover damage resulting from normal wear and tear."
+    },
+    {
+     "k": "strong|Wear and Tear:::1",
+     "t": "strong",
+     "x": 101,
+     "y": 2203,
+     "w": 115,
+     "h": 20,
+     "s": "Wear and Tear:"
+    },
+    {
+     "k": "div|paints|rgba(0, 0, 0, 0)|none::12",
+     "t": "div",
+     "x": 36,
+     "y": 2297,
+     "w": 318,
+     "h": 835,
+     "s": ""
+    },
+    {
+     "k": "div|12::1",
+     "t": "div",
+     "x": 51,
+     "y": 2312,
+     "w": 35,
+     "h": 35,
+     "s": "12"
+    },
+    {
+     "k": "strong|Customer Responsibilities and Limitations:::1",
+     "t": "strong",
+     "x": 101,
+     "y": 2315,
+     "w": 229,
+     "h": 47,
+     "s": "Customer Responsibilities and Limitations:"
+    },
+    {
+     "k": "li|If you suffer any loss or damage for which KAM Servicing is responsible, you mus::1",
+     "t": "li",
+     "x": 119,
+     "y": 2374,
+     "w": 220,
+     "h": 162,
+     "s": "If you suffer any loss or damage for which KAM Servicing is responsible, you mus"
+    },
+    {
+     "k": "li|You are required to take reasonable steps to minimise or avoid further loss or d::1",
+     "t": "li",
+     "x": 119,
+     "y": 2542,
+     "w": 220,
+     "h": 108,
+     "s": "You are required to take reasonable steps to minimise or avoid further loss or d"
+    },
+    {
+     "k": "li|KAM Servicing will not be liable where you fail to provide such opportunity or f::1",
+     "t": "li",
+     "x": 119,
+     "y": 2656,
+     "w": 220,
+     "h": 108,
+     "s": "KAM Servicing will not be liable where you fail to provide such opportunity or f"
+    },
+    {
+     "k": "li|If an authorised repair is suspended at your request, or due to your breach of c::1",
+     "t": "li",
+     "x": 119,
+     "y": 2770,
+     "w": 220,
+     "h": 189,
+     "s": "If an authorised repair is suspended at your request, or due to your breach of c"
+    },
+    {
+     "k": "li|Wheel alignment and geometry may be affected by road conditions and are therefor::1",
+     "t": "li",
+     "x": 119,
+     "y": 2965,
+     "w": 220,
+     "h": 135,
+     "s": "Wheel alignment and geometry may be affected by road conditions and are therefor"
+    },
+    {
+     "k": "div|paints|rgba(0, 0, 0, 0)|none::13",
+     "t": "div",
+     "x": 36,
+     "y": 3132,
+     "w": 318,
+     "h": 139,
+     "s": ""
+    },
+    {
+     "k": "div|13::1",
+     "t": "div",
+     "x": 51,
+     "y": 3147,
+     "w": 35,
+     "h": 35,
+     "s": "13"
+    },
+    {
+     "k": "div|All parts fitted to the vehicle remain the property of KAM Servicing until payme::1",
+     "t": "div",
+     "x": 101,
+     "y": 3147,
+     "w": 238,
+     "h": 108,
+     "s": "All parts fitted to the vehicle remain the property of KAM Servicing until payme"
+    },
+    {
+     "k": "strong|Ownership of Parts:::1",
+     "t": "strong",
+     "x": 101,
+     "y": 3150,
+     "w": 151,
+     "h": 20,
+     "s": "Ownership of Parts:"
+    },
+    {
+     "k": "div|paints|rgba(0, 0, 0, 0)|none::14",
+     "t": "div",
+     "x": 36,
+     "y": 3271,
+     "w": 318,
+     "h": 139,
+     "s": ""
+    },
+    {
+     "k": "div|14::1",
+     "t": "div",
+     "x": 51,
+     "y": 3286,
+     "w": 35,
+     "h": 35,
+     "s": "14"
+    },
+    {
+     "k": "div|All new parts carry a warranty of 12 months or 12,000 miles (whichever occurs fi::1",
+     "t": "div",
+     "x": 101,
+     "y": 3286,
+     "w": 238,
+     "h": 108,
+     "s": "All new parts carry a warranty of 12 months or 12,000 miles (whichever occurs fi"
+    },
+    {
+     "k": "strong|Parts Warranty:::1",
+     "t": "strong",
+     "x": 101,
+     "y": 3289,
+     "w": 122,
+     "h": 20,
+     "s": "Parts Warranty:"
+    },
+    {
+     "k": "div|paints|rgba(0, 0, 0, 0)|none::15",
+     "t": "div",
+     "x": 36,
+     "y": 3410,
+     "w": 318,
+     "h": 112,
+     "s": ""
+    },
+    {
+     "k": "div|15::1",
+     "t": "div",
+     "x": 51,
+     "y": 3425,
+     "w": 35,
+     "h": 35,
+     "s": "15"
+    },
+    {
+     "k": "div|This warranty does not cover serviceable adjustments.::1",
+     "t": "div",
+     "x": 101,
+     "y": 3425,
+     "w": 238,
+     "h": 81,
+     "s": "This warranty does not cover serviceable adjustments."
+    },
+    {
+     "k": "strong|Service Adjustments:::1",
+     "t": "strong",
+     "x": 101,
+     "y": 3428,
+     "w": 160,
+     "h": 20,
+     "s": "Service Adjustments:"
+    },
+    {
+     "k": "div|paints|rgba(0, 0, 0, 0)|none::16",
+     "t": "div",
+     "x": 36,
+     "y": 3522,
+     "w": 318,
+     "h": 139,
+     "s": ""
+    },
+    {
+     "k": "div|16::1",
+     "t": "div",
+     "x": 51,
+     "y": 3537,
+     "w": 35,
+     "h": 35,
+     "s": "16"
+    },
+    {
+     "k": "div|KAM Servicing schedules are independent and may differ from manufacturer recomme::1",
+     "t": "div",
+     "x": 101,
+     "y": 3537,
+     "w": 238,
+     "h": 108,
+     "s": "KAM Servicing schedules are independent and may differ from manufacturer recomme"
+    },
+    {
+     "k": "strong|Service Schedules:::1",
+     "t": "strong",
+     "x": 101,
+     "y": 3540,
+     "w": 138,
+     "h": 20,
+     "s": "Service Schedules:"
+    },
+    {
+     "k": "div|paints|rgba(0, 0, 0, 0)|none::17",
+     "t": "div",
+     "x": 36,
+     "y": 3661,
+     "w": 318,
+     "h": 139,
+     "s": ""
+    },
+    {
+     "k": "div|17::1",
+     "t": "div",
+     "x": 51,
+     "y": 3676,
+     "w": 35,
+     "h": 35,
+     "s": "17"
+    },
+    {
+     "k": "div|KAM Servicing cannot guarantee that we can upload service history to online Digi::1",
+     "t": "div",
+     "x": 101,
+     "y": 3676,
+     "w": 238,
+     "h": 108,
+     "s": "KAM Servicing cannot guarantee that we can upload service history to online Digi"
+    },
+    {
+     "k": "strong|Digital Service Records:::1",
+     "t": "strong",
+     "x": 101,
+     "y": 3679,
+     "w": 178,
+     "h": 20,
+     "s": "Digital Service Records:"
+    },
+    {
+     "k": "div|paints|rgba(0, 0, 0, 0)|none::18",
+     "t": "div",
+     "x": 36,
+     "y": 3800,
+     "w": 318,
+     "h": 112,
+     "s": ""
+    },
+    {
+     "k": "div|18::1",
+     "t": "div",
+     "x": 51,
+     "y": 3815,
+     "w": 35,
+     "h": 35,
+     "s": "18"
+    },
+    {
+     "k": "div|All quotations are valid for 7 days from the date of issue.::1",
+     "t": "div",
+     "x": 101,
+     "y": 3815,
+     "w": 238,
+     "h": 81,
+     "s": "All quotations are valid for 7 days from the date of issue."
+    },
+    {
+     "k": "strong|Quotations:::1",
+     "t": "strong",
+     "x": 101,
+     "y": 3818,
+     "w": 91,
+     "h": 20,
+     "s": "Quotations:"
+    },
+    {
+     "k": "div|paints|rgba(0, 0, 0, 0)|none::19",
+     "t": "div",
+     "x": 36,
+     "y": 3912,
+     "w": 318,
+     "h": 247,
+     "s": ""
+    },
+    {
+     "k": "div|19::1",
+     "t": "div",
+     "x": 51,
+     "y": 3927,
+     "w": 35,
+     "h": 35,
+     "s": "19"
+    },
+    {
+     "k": "div|KAM Servicing reserves the right to refuse any order at its sole discretion. Whe::1",
+     "t": "div",
+     "x": 101,
+     "y": 3927,
+     "w": 238,
+     "h": 216,
+     "s": "KAM Servicing reserves the right to refuse any order at its sole discretion. Whe"
+    },
+    {
+     "k": "strong|Order Acceptance:::1",
+     "t": "strong",
+     "x": 101,
+     "y": 3930,
+     "w": 141,
+     "h": 20,
+     "s": "Order Acceptance:"
+    },
+    {
+     "k": "div|paints|rgba(0, 0, 0, 0)|none::20",
+     "t": "div",
+     "x": 36,
+     "y": 4159,
+     "w": 318,
+     "h": 247,
+     "s": ""
+    },
+    {
+     "k": "div|20::1",
+     "t": "div",
+     "x": 51,
+     "y": 4174,
+     "w": 35,
+     "h": 35,
+     "s": "20"
+    },
+    {
+     "k": "div|Any removed parts, except those covered under warranty or exchange agreements, w::1",
+     "t": "div",
+     "x": 101,
+     "y": 4174,
+     "w": 238,
+     "h": 216,
+     "s": "Any removed parts, except those covered under warranty or exchange agreements, w"
+    },
+    {
+     "k": "strong|Disposal of Parts:::1",
+     "t": "strong",
+     "x": 101,
+     "y": 4177,
+     "w": 134,
+     "h": 20,
+     "s": "Disposal of Parts:"
+    },
+    {
+     "k": "div|paints|rgba(0, 0, 0, 0)|none::21",
+     "t": "div",
+     "x": 36,
+     "y": 4406,
+     "w": 318,
+     "h": 166,
+     "s": ""
+    },
+    {
+     "k": "div|21::1",
+     "t": "div",
+     "x": 51,
+     "y": 4421,
+     "w": 35,
+     "h": 35,
+     "s": "21"
+    },
+    {
+     "k": "div|Storage charges may be applied to vehicles not collected within 5 days following::1",
+     "t": "div",
+     "x": 101,
+     "y": 4421,
+     "w": 238,
+     "h": 135,
+     "s": "Storage charges may be applied to vehicles not collected within 5 days following"
+    },
+    {
+     "k": "strong|Storage Charges:::1",
+     "t": "strong",
+     "x": 101,
+     "y": 4424,
+     "w": 132,
+     "h": 20,
+     "s": "Storage Charges:"
+    },
+    {
+     "k": "div|paints|rgba(0, 0, 0, 0)|none::22",
+     "t": "div",
+     "x": 36,
+     "y": 4572,
+     "w": 318,
+     "h": 166,
+     "s": ""
+    },
+    {
+     "k": "div|22::1",
+     "t": "div",
+     "x": 51,
+     "y": 4587,
+     "w": 35,
+     "h": 35,
+     "s": "22"
+    },
+    {
+     "k": "div|KAM Servicing is not liable for any damage resulting from pre-existing structura::1",
+     "t": "div",
+     "x": 101,
+     "y": 4587,
+     "w": 238,
+     "h": 135,
+     "s": "KAM Servicing is not liable for any damage resulting from pre-existing structura"
+    },
+    {
+     "k": "strong|Vehicle Condition:::1",
+     "t": "strong",
+     "x": 101,
+     "y": 4590,
+     "w": 135,
+     "h": 20,
+     "s": "Vehicle Condition:"
+    },
+    {
+     "k": "div|paints|rgba(0, 0, 0, 0)|none::23",
+     "t": "div",
+     "x": 36,
+     "y": 4738,
+     "w": 318,
+     "h": 85,
+     "s": ""
+    },
+    {
+     "k": "div|23::1",
+     "t": "div",
+     "x": 51,
+     "y": 4753,
+     "w": 35,
+     "h": 35,
+     "s": "23"
+    },
+    {
+     "k": "div|All vehicles left in the car park at owners’ risk.::1",
+     "t": "div",
+     "x": 101,
+     "y": 4753,
+     "w": 238,
+     "h": 54,
+     "s": "All vehicles left in the car park at owners’ risk."
+    },
+    {
+     "k": "strong|Parking Risk:::1",
+     "t": "strong",
+     "x": 101,
+     "y": 4756,
+     "w": 95,
+     "h": 20,
+     "s": "Parking Risk:"
+    },
+    {
+     "k": "div|24::1",
+     "t": "div",
+     "x": 51,
+     "y": 4838,
+     "w": 35,
+     "h": 35,
+     "s": "24"
+    },
+    {
+     "k": "div|Keys left in the key drop off box is at owners’ risk.::1",
+     "t": "div",
+     "x": 101,
+     "y": 4838,
+     "w": 238,
+     "h": 54,
+     "s": "Keys left in the key drop off box is at owners’ risk."
+    },
+    {
+     "k": "strong|Key Drop:::1",
+     "t": "strong",
+     "x": 101,
+     "y": 4841,
+     "w": 74,
+     "h": 20,
+     "s": "Key Drop:"
+    },
+    {
+     "k": "section|paints|rgb(38, 145, 213)|none::1",
+     "t": "section",
+     "x": 0,
+     "y": 4979,
+     "w": 390,
+     "h": 1217,
+     "s": ""
+    },
+    {
+     "k": "h4|BRANCHES::1",
+     "t": "h4",
+     "x": 22,
+     "y": 5039,
+     "w": 346,
+     "h": 28,
+     "s": "BRANCHES"
+    },
+    {
+     "k": "a|Nottingham - Sherwood::1",
+     "t": "a",
+     "x": 51,
+     "y": 5094,
+     "w": 165,
+     "h": 20,
+     "s": "Nottingham - Sherwood",
+     "href": "/kam-servicing-nottingham.php"
+    },
+    {
+     "k": "a|Nottingham - Bulwell::1",
+     "t": "a",
+     "x": 51,
+     "y": 5137,
+     "w": 143,
+     "h": 20,
+     "s": "Nottingham - Bulwell",
+     "href": "/kam-servicing-bulwell.php"
+    },
+    {
+     "k": "a|Nottingham - Nuthall::1",
+     "t": "a",
+     "x": 51,
+     "y": 5180,
+     "w": 142,
+     "h": 20,
+     "s": "Nottingham - Nuthall",
+     "href": "/kam-servicing-nuthall.php"
+    },
+    {
+     "k": "a|Nottingham - Colwick::1",
+     "t": "a",
+     "x": 51,
+     "y": 5223,
+     "w": 145,
+     "h": 20,
+     "s": "Nottingham - Colwick",
+     "href": "/kam-servicing-colwick.php"
+    },
+    {
+     "k": "a|Nottingham - Hucknall::1",
+     "t": "a",
+     "x": 51,
+     "y": 5266,
+     "w": 151,
+     "h": 20,
+     "s": "Nottingham - Hucknall",
+     "href": "/kam-servicing-hucknall.php"
+    },
+    {
+     "k": "a|Beeston::1",
+     "t": "a",
+     "x": 51,
+     "y": 5309,
+     "w": 59,
+     "h": 20,
+     "s": "Beeston",
+     "href": "/kam-servicing-beeston.php"
+    },
+    {
+     "k": "a|Sutton-in-Ashfield::1",
+     "t": "a",
+     "x": 51,
+     "y": 5352,
+     "w": 123,
+     "h": 20,
+     "s": "Sutton-in-Ashfield",
+     "href": "/kam-servicing-sutton.php"
+    },
+    {
+     "k": "a|Stapleford::1",
+     "t": "a",
+     "x": 51,
+     "y": 5395,
+     "w": 72,
+     "h": 20,
+     "s": "Stapleford",
+     "href": "/kam-servicing-stapleford.php"
+    },
+    {
+     "k": "a|Derby - City::1",
+     "t": "a",
+     "x": 51,
+     "y": 5438,
+     "w": 83,
+     "h": 20,
+     "s": "Derby - City",
+     "href": "/kam-servicing-derby.php"
+    },
+    {
+     "k": "a|Derby - Ascot Drive::1",
+     "t": "a",
+     "x": 51,
+     "y": 5481,
+     "w": 137,
+     "h": 20,
+     "s": "Derby - Ascot Drive",
+     "href": "/kam-servicing-ascot.php"
+    },
+    {
+     "k": "a|Derby - Sinfin::1",
+     "t": "a",
+     "x": 51,
+     "y": 5524,
+     "w": 93,
+     "h": 20,
+     "s": "Derby - Sinfin",
+     "href": "/kam-servicing-sinfin.php"
+    },
+    {
+     "k": "a|Long Eaton - Derby Rd::1",
+     "t": "a",
+     "x": 51,
+     "y": 5567,
+     "w": 158,
+     "h": 20,
+     "s": "Long Eaton - Derby Rd",
+     "href": "/kam-servicing-longeaton.php"
+    },
+    {
+     "k": "a|Long Eaton - Tamworth Rd::1",
+     "t": "a",
+     "x": 51,
+     "y": 5610,
+     "w": 187,
+     "h": 20,
+     "s": "Long Eaton - Tamworth Rd",
+     "href": "/kam-servicing-sawley.php"
+    },
+    {
+     "k": "a|Heanor::1",
+     "t": "a",
+     "x": 51,
+     "y": 5653,
+     "w": 52,
+     "h": 20,
+     "s": "Heanor",
+     "href": "/kam-servicing-heanor.php"
+    },
+    {
+     "k": "a|Belper::1",
+     "t": "a",
+     "x": 51,
+     "y": 5696,
+     "w": 46,
+     "h": 20,
+     "s": "Belper",
+     "href": "/kam-servicing-belper.php"
+    },
+    {
+     "k": "a|Ambergate::1",
+     "t": "a",
+     "x": 51,
+     "y": 5739,
+     "w": 78,
+     "h": 20,
+     "s": "Ambergate",
+     "href": "/kam-servicing-ambergate.php"
+    },
+    {
+     "k": "h4|SERVICES::1",
+     "t": "h4",
+     "x": 22,
+     "y": 5803,
+     "w": 346,
+     "h": 28,
+     "s": "SERVICES"
+    },
+    {
+     "k": "a|Book an MOT::1",
+     "t": "a",
+     "x": 55,
+     "y": 5858,
+     "w": 94,
+     "h": 20,
+     "s": "Book an MOT",
+     "href": "/bookings.php"
+    },
+    {
+     "k": "a|Book a Service::1",
+     "t": "a",
+     "x": 55,
+     "y": 5901,
+     "w": 101,
+     "h": 20,
+     "s": "Book a Service",
+     "href": "/bookings.php"
+    },
+    {
+     "k": "a|Buy Tyres::1",
+     "t": "a",
+     "x": 55,
+     "y": 5944,
+     "w": 71,
+     "h": 20,
+     "s": "Buy Tyres",
+     "href": "/tyres.php"
+    },
+    {
+     "k": "a|Book A/C Regas::1",
+     "t": "a",
+     "x": 55,
+     "y": 5987,
+     "w": 111,
+     "h": 20,
+     "s": "Book A/C Regas",
+     "href": "/bookings.php"
+    },
+    {
+     "k": "a|View All Services::1",
+     "t": "a",
+     "x": 55,
+     "y": 6030,
+     "w": 114,
+     "h": 20,
+     "s": "View All Services",
+     "href": "/all-kam-services.php"
+    },
+    {
+     "k": "a|Renu::1",
+     "t": "a",
+     "x": 22,
+     "y": 6094,
+     "w": 28,
+     "h": 22,
+     "s": "Renu",
+     "href": "https://renusai.com/"
+    },
+    {
+     "k": "a|Orthopedic hospital::1",
+     "t": "a",
+     "x": 50,
+     "y": 6094,
+     "w": 115,
+     "h": 22,
+     "s": "Orthopedic hospital",
+     "href": "https://happy-hospitals.com/"
+    },
+    {
+     "k": "a|CBSE School faridabad::1",
+     "t": "a",
+     "x": 165,
+     "y": 6094,
+     "w": 129,
+     "h": 22,
+     "s": "CBSE School faridabad",
+     "href": "https://www.homertongrammar.com/"
+    },
+    {
+     "k": "footer|paints|rgb(248, 249, 250)|none::1",
+     "t": "footer",
+     "x": 0,
+     "y": 6195,
+     "w": 390,
+     "h": 102,
+     "s": ""
+    },
+    {
+     "k": "p|© KAM Servicing - 2026 | | |::1",
+     "t": "p",
+     "x": 12,
+     "y": 6219,
+     "w": 366,
+     "h": 54,
+     "s": "© KAM Servicing - 2026 | | |"
+    },
+    {
+     "k": "a|Privacy Policy::1",
+     "t": "a",
+     "x": 225,
+     "y": 6222,
+     "w": 94,
+     "h": 20,
+     "s": "Privacy Policy",
+     "href": "https://kamservicing.com/gdpr-privacy-policy.php"
+    },
+    {
+     "k": "a|All Services::1",
+     "t": "a",
+     "x": 91,
+     "y": 6222,
+     "w": 256,
+     "h": 47,
+     "s": "All Services",
+     "href": "https://kamservicing.com/all-kam-services.php"
+    },
+    {
+     "k": "a|Terms & Conditions::1",
+     "t": "a",
+     "x": 162,
+     "y": 6249,
+     "w": 137,
+     "h": 20,
+     "s": "Terms & Conditions",
+     "href": "https://kamservicing.com/terms-conditions.php"
+    }
+   ]
+  },
+  "820": {
+   "title": "Car Repairs, Servicing, Tyres and MOT, Nottingham & Derby : KAM",
+   "text": "£0.00 Home About Services Contact Careers Warranty Terms & Conditions KAM SERVICING – WARRANTY TERMS AND CONDITIONS 1 Proof of Purchase: The original invoice must be provided before any work can be authorised under a warranty claim. 2 Warranty Period: The warranty is valid from the date and/or mileage stated on the invoice and only applies to the person names on the invoice. 3 Repairs and Replacements: KAM Servicing will endeavour to repair any defective part. If repair is not possible, the part will be replaced and refitted to the vehicle free of charge, subject to these terms and conditions. 4 Unauthorised Work: The warranty will be void if any part is removed or interfered with by any third party without prior authorisation from KAM Servicing. 5 Exclusions of Liability: KAM Servicing is not liable for any additional expenses, losses, or damages arising from a faulty part fitted. 6 Post-Repair Requirements: Any mechanical repairs involving the engine or cylinder head gasket must be returned for re-torque, oil and filter change, or inspection within 500 miles of the invoice mileage. 7 Related Faults: The warranty will be void if a component failure is caused by another fault that was identified on the invoice but not authorised for repair by the customer. 8 Undetected Issues: KAM Servicing is not liable for any component failure that was not apparent at the time of repair. 9 Maximum Liability: The maximum liability under any warranty claim is limited to the cost of the part supplied and fitted. 10 Warranty Claims Procedure: In the event of a warranty claim, you must notify KAM Servicing and return the vehicle to the service centre where the work was carried out. 11 Wear and Tear: This warranty does not cover damage resulting from normal wear and tear. 12 Customer Responsibilities and Limitations: If you suffer any loss or damage for which KAM Servicing is responsible, you must provide a reasonable opportunity for the issue to be rectified. You are required to take reasonable steps to minimise or avoid further loss or damage. KAM Servicing will not be liable where you fail to provide such opportunity or fail to mitigate losses. If an authorised repair is suspended at your request, or due to your breach of contract, KAM Servicing reserves the right to charge additional reasonable costs for any unavoidable expenses incurred. Wheel alignment and geometry may be affected by road conditions and are therefore not covered under this warranty. 13 Ownership of Parts: All parts fitted to the vehicle remain the property of KAM Servicing until payment has been made in full. 14 Parts Warranty: All new parts carry a warranty of 12 months or 12,000 miles (whichever occurs first). 15 Service Adjustments: This warranty does not cover serviceable adjustments. 16 Service Schedules: KAM Servicing schedules are independent and may differ from manufacturer recommendations. 17 Digital Service Records: KAM Servicing cannot guarantee that we can upload service history to online Digital Service Records. 18 Quotations: All quotations are valid for 7 days from the date of issue. 19 Order Acceptance: KAM Servicing reserves the right to refuse any order at its sole discretion. Where fraudulent activity is suspected, additional checks will be carried out, and relevant authorities WILL be notified. 20 Disposal of Parts: Any removed parts, except those covered under warranty or exchange agreements, will be disposed of by the end of the working day in accordance with environmental regulations. A disposal fee may apply. 21 Storage Charges: Storage charges may be applied to vehicles not collected within 5 days following completion of the work. 22 Vehicle Condition: KAM Servicing is not liable for any damage resulting from pre-existing structural defects or weaknesses in the vehicle. 23 Parking Risk: All vehicles left in the car park at owners’ risk. 24 Key Drop: Keys left in the key drop off box is at owners’ risk. BRANCHES Nottingham - Sherwood Nottingham - Bulwell Nottingham - Nuthall Nottingham - Colwick Nottingham - Hucknall Beeston Sutton-in-Ashfield Stapleford Derby - City Derby - Ascot Drive Derby - Sinfin Long Eaton - Derby Rd Long Eaton - Tamworth Rd Heanor Belper Ambergate SERVICES Book an MOT Book a Service Buy Tyres Book A/C Regas View All Services Renu Orthopedic hospital CBSE School faridabad © KAM Servicing - 2026 | Privacy Policy| All Services| Terms & Conditions",
+   "scrollW": 820,
+   "vw": 820,
+   "nodes": [
+    {
+     "k": "a|https://kamservicing.com/::1",
+     "t": "a",
+     "x": 62,
+     "y": 0,
+     "w": 286,
+     "h": 90,
+     "s": "",
+     "href": "https://kamservicing.com/"
+    },
+    {
+     "k": "img|logokams-2.png::1",
+     "t": "img",
+     "x": 62,
+     "y": 0,
+     "w": 286,
+     "h": 90,
+     "s": ""
+    },
+    {
+     "k": "a|/blank.php::1",
+     "t": "a",
+     "x": 658,
+     "y": 22,
+     "w": 100,
+     "h": 47,
+     "s": "",
+     "href": "/blank.php"
+    },
+    {
+     "k": "span|£0.00::1",
+     "t": "span",
+     "x": 672,
+     "y": 30,
+     "w": 46,
+     "h": 31,
+     "s": "£0.00"
+    },
+    {
+     "k": "nav|paints|rgb(38, 145, 213)|none::1",
+     "t": "nav",
+     "x": 0,
+     "y": 90,
+     "w": 820,
+     "h": 47,
+     "s": ""
+    },
+    {
+     "k": "a|Home::1",
+     "t": "a",
+     "x": 62,
+     "y": 90,
+     "w": 86,
+     "h": 47,
+     "s": "Home",
+     "href": "/"
+    },
+    {
+     "k": "a|About::1",
+     "t": "a",
+     "x": 148,
+     "y": 90,
+     "w": 85,
+     "h": 47,
+     "s": "About",
+     "href": "https://kamservicing.com/#about"
+    },
+    {
+     "k": "a|Services::1",
+     "t": "a",
+     "x": 233,
+     "y": 90,
+     "w": 106,
+     "h": 47,
+     "s": "Services",
+     "href": "/all-kam-services.php"
+    },
+    {
+     "k": "a|Contact::1",
+     "t": "a",
+     "x": 339,
+     "y": 90,
+     "w": 101,
+     "h": 47,
+     "s": "Contact",
+     "href": "/kam-servicing.php"
+    },
+    {
+     "k": "a|Careers::1",
+     "t": "a",
+     "x": 440,
+     "y": 90,
+     "w": 101,
+     "h": 47,
+     "s": "Careers",
+     "href": "/careers_at_kam_servicing.php"
+    },
+    {
+     "k": "section|paints|rgb(239, 239, 239)|none::1",
+     "t": "section",
+     "x": 0,
+     "y": 137,
+     "w": 820,
+     "h": 200,
+     "s": ""
+    },
+    {
+     "k": "h1|Warranty Terms & Conditions::1",
+     "t": "h1",
+     "x": 62,
+     "y": 197,
+     "w": 696,
+     "h": 45,
+     "s": "Warranty Terms & Conditions"
+    },
+    {
+     "k": "p|KAM SERVICING – WARRANTY TERMS AND CONDITIONS::1",
+     "t": "p",
+     "x": 62,
+     "y": 249,
+     "w": 696,
+     "h": 27,
+     "s": "KAM SERVICING – WARRANTY TERMS AND CONDITIONS"
+    },
+    {
+     "k": "section|paints|rgb(248, 249, 250)|none::1",
+     "t": "section",
+     "x": 0,
+     "y": 336,
+     "w": 820,
+     "h": 2735,
+     "s": ""
+    },
+    {
+     "k": "div|paints|rgb(255, 255, 255)|none::1",
+     "t": "div",
+     "x": 62,
+     "y": 384,
+     "w": 696,
+     "h": 2639,
+     "s": ""
+    },
+    {
+     "k": "div|paints|rgba(0, 0, 0, 0)|none::1",
+     "t": "div",
+     "x": 110,
+     "y": 432,
+     "w": 600,
+     "h": 85,
+     "s": ""
+    },
+    {
+     "k": "div|1::1",
+     "t": "div",
+     "x": 125,
+     "y": 447,
+     "w": 35,
+     "h": 35,
+     "s": "1"
+    },
+    {
+     "k": "div|The original invoice must be provided before any work can be authorised under a ::1",
+     "t": "div",
+     "x": 175,
+     "y": 447,
+     "w": 520,
+     "h": 54,
+     "s": "The original invoice must be provided before any work can be authorised under a "
+    },
+    {
+     "k": "strong|Proof of Purchase:::1",
+     "t": "strong",
+     "x": 175,
+     "y": 450,
+     "w": 140,
+     "h": 20,
+     "s": "Proof of Purchase:"
+    },
+    {
+     "k": "div|paints|rgba(0, 0, 0, 0)|none::2",
+     "t": "div",
+     "x": 110,
+     "y": 517,
+     "w": 600,
+     "h": 85,
+     "s": ""
+    },
+    {
+     "k": "div|2::1",
+     "t": "div",
+     "x": 125,
+     "y": 532,
+     "w": 35,
+     "h": 35,
+     "s": "2"
+    },
+    {
+     "k": "div|The warranty is valid from the date and/or mileage stated on the invoice and onl::1",
+     "t": "div",
+     "x": 175,
+     "y": 532,
+     "w": 520,
+     "h": 54,
+     "s": "The warranty is valid from the date and/or mileage stated on the invoice and onl"
+    },
+    {
+     "k": "strong|Warranty Period:::1",
+     "t": "strong",
+     "x": 175,
+     "y": 535,
+     "w": 130,
+     "h": 20,
+     "s": "Warranty Period:"
+    },
+    {
+     "k": "div|paints|rgba(0, 0, 0, 0)|none::3",
+     "t": "div",
+     "x": 110,
+     "y": 602,
+     "w": 600,
+     "h": 139,
+     "s": ""
+    },
+    {
+     "k": "div|3::1",
+     "t": "div",
+     "x": 125,
+     "y": 617,
+     "w": 35,
+     "h": 35,
+     "s": "3"
+    },
+    {
+     "k": "div|KAM Servicing will endeavour to repair any defective part. If repair is not poss::1",
+     "t": "div",
+     "x": 175,
+     "y": 617,
+     "w": 520,
+     "h": 108,
+     "s": "KAM Servicing will endeavour to repair any defective part. If repair is not poss"
+    },
+    {
+     "k": "strong|Repairs and Replacements:::1",
+     "t": "strong",
+     "x": 175,
+     "y": 620,
+     "w": 202,
+     "h": 20,
+     "s": "Repairs and Replacements:"
+    },
+    {
+     "k": "div|paints|rgba(0, 0, 0, 0)|none::4",
+     "t": "div",
+     "x": 110,
+     "y": 741,
+     "w": 600,
+     "h": 112,
+     "s": ""
+    },
+    {
+     "k": "div|4::1",
+     "t": "div",
+     "x": 125,
+     "y": 756,
+     "w": 35,
+     "h": 35,
+     "s": "4"
+    },
+    {
+     "k": "div|The warranty will be void if any part is removed or interfered with by any third::1",
+     "t": "div",
+     "x": 175,
+     "y": 756,
+     "w": 520,
+     "h": 81,
+     "s": "The warranty will be void if any part is removed or interfered with by any third"
+    },
+    {
+     "k": "strong|Unauthorised Work:::1",
+     "t": "strong",
+     "x": 175,
+     "y": 759,
+     "w": 152,
+     "h": 20,
+     "s": "Unauthorised Work:"
+    },
+    {
+     "k": "div|paints|rgba(0, 0, 0, 0)|none::5",
+     "t": "div",
+     "x": 110,
+     "y": 853,
+     "w": 600,
+     "h": 85,
+     "s": ""
+    },
+    {
+     "k": "div|5::1",
+     "t": "div",
+     "x": 125,
+     "y": 868,
+     "w": 35,
+     "h": 35,
+     "s": "5"
+    },
+    {
+     "k": "div|KAM Servicing is not liable for any additional expenses, losses, or damages aris::1",
+     "t": "div",
+     "x": 175,
+     "y": 868,
+     "w": 520,
+     "h": 54,
+     "s": "KAM Servicing is not liable for any additional expenses, losses, or damages aris"
+    },
+    {
+     "k": "strong|Exclusions of Liability:::1",
+     "t": "strong",
+     "x": 175,
+     "y": 871,
+     "w": 166,
+     "h": 20,
+     "s": "Exclusions of Liability:"
+    },
+    {
+     "k": "div|paints|rgba(0, 0, 0, 0)|none::6",
+     "t": "div",
+     "x": 110,
+     "y": 938,
+     "w": 600,
+     "h": 112,
+     "s": ""
+    },
+    {
+     "k": "div|6::1",
+     "t": "div",
+     "x": 125,
+     "y": 953,
+     "w": 35,
+     "h": 35,
+     "s": "6"
+    },
+    {
+     "k": "div|Any mechanical repairs involving the engine or cylinder head gasket must be retu::1",
+     "t": "div",
+     "x": 175,
+     "y": 953,
+     "w": 520,
+     "h": 81,
+     "s": "Any mechanical repairs involving the engine or cylinder head gasket must be retu"
+    },
+    {
+     "k": "strong|Post-Repair Requirements:::1",
+     "t": "strong",
+     "x": 175,
+     "y": 956,
+     "w": 202,
+     "h": 20,
+     "s": "Post-Repair Requirements:"
+    },
+    {
+     "k": "div|paints|rgba(0, 0, 0, 0)|none::7",
+     "t": "div",
+     "x": 110,
+     "y": 1050,
+     "w": 600,
+     "h": 112,
+     "s": ""
+    },
+    {
+     "k": "div|7::1",
+     "t": "div",
+     "x": 125,
+     "y": 1065,
+     "w": 35,
+     "h": 35,
+     "s": "7"
+    },
+    {
+     "k": "div|The warranty will be void if a component failure is caused by another fault that::1",
+     "t": "div",
+     "x": 175,
+     "y": 1065,
+     "w": 520,
+     "h": 81,
+     "s": "The warranty will be void if a component failure is caused by another fault that"
+    },
+    {
+     "k": "strong|Related Faults:::1",
+     "t": "strong",
+     "x": 175,
+     "y": 1068,
+     "w": 112,
+     "h": 20,
+     "s": "Related Faults:"
+    },
+    {
+     "k": "div|paints|rgba(0, 0, 0, 0)|none::8",
+     "t": "div",
+     "x": 110,
+     "y": 1162,
+     "w": 600,
+     "h": 85,
+     "s": ""
+    },
+    {
+     "k": "div|8::1",
+     "t": "div",
+     "x": 125,
+     "y": 1177,
+     "w": 35,
+     "h": 35,
+     "s": "8"
+    },
+    {
+     "k": "div|KAM Servicing is not liable for any component failure that was not apparent at t::1",
+     "t": "div",
+     "x": 175,
+     "y": 1177,
+     "w": 520,
+     "h": 54,
+     "s": "KAM Servicing is not liable for any component failure that was not apparent at t"
+    },
+    {
+     "k": "strong|Undetected Issues:::1",
+     "t": "strong",
+     "x": 175,
+     "y": 1180,
+     "w": 146,
+     "h": 20,
+     "s": "Undetected Issues:"
+    },
+    {
+     "k": "div|paints|rgba(0, 0, 0, 0)|none::9",
+     "t": "div",
+     "x": 110,
+     "y": 1247,
+     "w": 600,
+     "h": 85,
+     "s": ""
+    },
+    {
+     "k": "div|9::1",
+     "t": "div",
+     "x": 125,
+     "y": 1262,
+     "w": 35,
+     "h": 35,
+     "s": "9"
+    },
+    {
+     "k": "div|The maximum liability under any warranty claim is limited to the cost of the par::1",
+     "t": "div",
+     "x": 175,
+     "y": 1262,
+     "w": 520,
+     "h": 54,
+     "s": "The maximum liability under any warranty claim is limited to the cost of the par"
+    },
+    {
+     "k": "strong|Maximum Liability:::1",
+     "t": "strong",
+     "x": 175,
+     "y": 1265,
+     "w": 141,
+     "h": 20,
+     "s": "Maximum Liability:"
+    },
+    {
+     "k": "div|paints|rgba(0, 0, 0, 0)|none::10",
+     "t": "div",
+     "x": 110,
+     "y": 1332,
+     "w": 600,
+     "h": 112,
+     "s": ""
+    },
+    {
+     "k": "div|10::1",
+     "t": "div",
+     "x": 125,
+     "y": 1347,
+     "w": 35,
+     "h": 35,
+     "s": "10"
+    },
+    {
+     "k": "div|In the event of a warranty claim, you must notify KAM Servicing and return the v::1",
+     "t": "div",
+     "x": 175,
+     "y": 1347,
+     "w": 520,
+     "h": 81,
+     "s": "In the event of a warranty claim, you must notify KAM Servicing and return the v"
+    },
+    {
+     "k": "strong|Warranty Claims Procedure:::1",
+     "t": "strong",
+     "x": 175,
+     "y": 1350,
+     "w": 212,
+     "h": 20,
+     "s": "Warranty Claims Procedure:"
+    },
+    {
+     "k": "div|paints|rgba(0, 0, 0, 0)|none::11",
+     "t": "div",
+     "x": 110,
+     "y": 1444,
+     "w": 600,
+     "h": 85,
+     "s": ""
+    },
+    {
+     "k": "div|11::1",
+     "t": "div",
+     "x": 125,
+     "y": 1459,
+     "w": 35,
+     "h": 35,
+     "s": "11"
+    },
+    {
+     "k": "div|This warranty does not cover damage resulting from normal wear and tear.::1",
+     "t": "div",
+     "x": 175,
+     "y": 1459,
+     "w": 520,
+     "h": 54,
+     "s": "This warranty does not cover damage resulting from normal wear and tear."
+    },
+    {
+     "k": "strong|Wear and Tear:::1",
+     "t": "strong",
+     "x": 175,
+     "y": 1462,
+     "w": 115,
+     "h": 20,
+     "s": "Wear and Tear:"
+    },
+    {
+     "k": "div|paints|rgba(0, 0, 0, 0)|none::12",
+     "t": "div",
+     "x": 110,
+     "y": 1529,
+     "w": 600,
+     "h": 403,
+     "s": ""
+    },
+    {
+     "k": "div|12::1",
+     "t": "div",
+     "x": 125,
+     "y": 1544,
+     "w": 35,
+     "h": 35,
+     "s": "12"
+    },
+    {
+     "k": "strong|Customer Responsibilities and Limitations:::1",
+     "t": "strong",
+     "x": 175,
+     "y": 1547,
+     "w": 323,
+     "h": 20,
+     "s": "Customer Responsibilities and Limitations:"
+    },
+    {
+     "k": "li|If you suffer any loss or damage for which KAM Servicing is responsible, you mus::1",
+     "t": "li",
+     "x": 193,
+     "y": 1579,
+     "w": 502,
+     "h": 54,
+     "s": "If you suffer any loss or damage for which KAM Servicing is responsible, you mus"
+    },
+    {
+     "k": "li|You are required to take reasonable steps to minimise or avoid further loss or d::1",
+     "t": "li",
+     "x": 193,
+     "y": 1639,
+     "w": 502,
+     "h": 54,
+     "s": "You are required to take reasonable steps to minimise or avoid further loss or d"
+    },
+    {
+     "k": "li|KAM Servicing will not be liable where you fail to provide such opportunity or f::1",
+     "t": "li",
+     "x": 193,
+     "y": 1699,
+     "w": 502,
+     "h": 54,
+     "s": "KAM Servicing will not be liable where you fail to provide such opportunity or f"
+    },
+    {
+     "k": "li|If an authorised repair is suspended at your request, or due to your breach of c::1",
+     "t": "li",
+     "x": 193,
+     "y": 1759,
+     "w": 502,
+     "h": 81,
+     "s": "If an authorised repair is suspended at your request, or due to your breach of c"
+    },
+    {
+     "k": "li|Wheel alignment and geometry may be affected by road conditions and are therefor::1",
+     "t": "li",
+     "x": 193,
+     "y": 1846,
+     "w": 502,
+     "h": 54,
+     "s": "Wheel alignment and geometry may be affected by road conditions and are therefor"
+    },
+    {
+     "k": "div|paints|rgba(0, 0, 0, 0)|none::13",
+     "t": "div",
+     "x": 110,
+     "y": 1932,
+     "w": 600,
+     "h": 85,
+     "s": ""
+    },
+    {
+     "k": "div|13::1",
+     "t": "div",
+     "x": 125,
+     "y": 1947,
+     "w": 35,
+     "h": 35,
+     "s": "13"
+    },
+    {
+     "k": "div|All parts fitted to the vehicle remain the property of KAM Servicing until payme::1",
+     "t": "div",
+     "x": 175,
+     "y": 1947,
+     "w": 520,
+     "h": 54,
+     "s": "All parts fitted to the vehicle remain the property of KAM Servicing until payme"
+    },
+    {
+     "k": "strong|Ownership of Parts:::1",
+     "t": "strong",
+     "x": 175,
+     "y": 1950,
+     "w": 151,
+     "h": 20,
+     "s": "Ownership of Parts:"
+    },
+    {
+     "k": "div|paints|rgba(0, 0, 0, 0)|none::14",
+     "t": "div",
+     "x": 110,
+     "y": 2017,
+     "w": 600,
+     "h": 85,
+     "s": ""
+    },
+    {
+     "k": "div|14::1",
+     "t": "div",
+     "x": 125,
+     "y": 2032,
+     "w": 35,
+     "h": 35,
+     "s": "14"
+    },
+    {
+     "k": "div|All new parts carry a warranty of 12 months or 12,000 miles (whichever occurs fi::1",
+     "t": "div",
+     "x": 175,
+     "y": 2032,
+     "w": 520,
+     "h": 54,
+     "s": "All new parts carry a warranty of 12 months or 12,000 miles (whichever occurs fi"
+    },
+    {
+     "k": "strong|Parts Warranty:::1",
+     "t": "strong",
+     "x": 175,
+     "y": 2035,
+     "w": 122,
+     "h": 20,
+     "s": "Parts Warranty:"
+    },
+    {
+     "k": "div|paints|rgba(0, 0, 0, 0)|none::15",
+     "t": "div",
+     "x": 110,
+     "y": 2102,
+     "w": 600,
+     "h": 85,
+     "s": ""
+    },
+    {
+     "k": "div|15::1",
+     "t": "div",
+     "x": 125,
+     "y": 2117,
+     "w": 35,
+     "h": 35,
+     "s": "15"
+    },
+    {
+     "k": "div|This warranty does not cover serviceable adjustments.::1",
+     "t": "div",
+     "x": 175,
+     "y": 2117,
+     "w": 520,
+     "h": 54,
+     "s": "This warranty does not cover serviceable adjustments."
+    },
+    {
+     "k": "strong|Service Adjustments:::1",
+     "t": "strong",
+     "x": 175,
+     "y": 2120,
+     "w": 160,
+     "h": 20,
+     "s": "Service Adjustments:"
+    },
+    {
+     "k": "div|paints|rgba(0, 0, 0, 0)|none::16",
+     "t": "div",
+     "x": 110,
+     "y": 2187,
+     "w": 600,
+     "h": 85,
+     "s": ""
+    },
+    {
+     "k": "div|16::1",
+     "t": "div",
+     "x": 125,
+     "y": 2202,
+     "w": 35,
+     "h": 35,
+     "s": "16"
+    },
+    {
+     "k": "div|KAM Servicing schedules are independent and may differ from manufacturer recomme::1",
+     "t": "div",
+     "x": 175,
+     "y": 2202,
+     "w": 520,
+     "h": 54,
+     "s": "KAM Servicing schedules are independent and may differ from manufacturer recomme"
+    },
+    {
+     "k": "strong|Service Schedules:::1",
+     "t": "strong",
+     "x": 175,
+     "y": 2205,
+     "w": 138,
+     "h": 20,
+     "s": "Service Schedules:"
+    },
+    {
+     "k": "div|paints|rgba(0, 0, 0, 0)|none::17",
+     "t": "div",
+     "x": 110,
+     "y": 2272,
+     "w": 600,
+     "h": 85,
+     "s": ""
+    },
+    {
+     "k": "div|17::1",
+     "t": "div",
+     "x": 125,
+     "y": 2287,
+     "w": 35,
+     "h": 35,
+     "s": "17"
+    },
+    {
+     "k": "div|KAM Servicing cannot guarantee that we can upload service history to online Digi::1",
+     "t": "div",
+     "x": 175,
+     "y": 2287,
+     "w": 520,
+     "h": 54,
+     "s": "KAM Servicing cannot guarantee that we can upload service history to online Digi"
+    },
+    {
+     "k": "strong|Digital Service Records:::1",
+     "t": "strong",
+     "x": 175,
+     "y": 2290,
+     "w": 178,
+     "h": 20,
+     "s": "Digital Service Records:"
+    },
+    {
+     "k": "div|paints|rgba(0, 0, 0, 0)|none::18",
+     "t": "div",
+     "x": 110,
+     "y": 2357,
+     "w": 600,
+     "h": 66,
+     "s": ""
+    },
+    {
+     "k": "div|18::1",
+     "t": "div",
+     "x": 125,
+     "y": 2372,
+     "w": 35,
+     "h": 35,
+     "s": "18"
+    },
+    {
+     "k": "div|All quotations are valid for 7 days from the date of issue.::1",
+     "t": "div",
+     "x": 175,
+     "y": 2372,
+     "w": 485,
+     "h": 27,
+     "s": "All quotations are valid for 7 days from the date of issue."
+    },
+    {
+     "k": "strong|Quotations:::1",
+     "t": "strong",
+     "x": 175,
+     "y": 2375,
+     "w": 91,
+     "h": 20,
+     "s": "Quotations:"
+    },
+    {
+     "k": "div|paints|rgba(0, 0, 0, 0)|none::19",
+     "t": "div",
+     "x": 110,
+     "y": 2423,
+     "w": 600,
+     "h": 112,
+     "s": ""
+    },
+    {
+     "k": "div|19::1",
+     "t": "div",
+     "x": 125,
+     "y": 2438,
+     "w": 35,
+     "h": 35,
+     "s": "19"
+    },
+    {
+     "k": "div|KAM Servicing reserves the right to refuse any order at its sole discretion. Whe::1",
+     "t": "div",
+     "x": 175,
+     "y": 2438,
+     "w": 520,
+     "h": 81,
+     "s": "KAM Servicing reserves the right to refuse any order at its sole discretion. Whe"
+    },
+    {
+     "k": "strong|Order Acceptance:::1",
+     "t": "strong",
+     "x": 175,
+     "y": 2441,
+     "w": 141,
+     "h": 20,
+     "s": "Order Acceptance:"
+    },
+    {
+     "k": "div|paints|rgba(0, 0, 0, 0)|none::20",
+     "t": "div",
+     "x": 110,
+     "y": 2535,
+     "w": 600,
+     "h": 139,
+     "s": ""
+    },
+    {
+     "k": "div|20::1",
+     "t": "div",
+     "x": 125,
+     "y": 2550,
+     "w": 35,
+     "h": 35,
+     "s": "20"
+    },
+    {
+     "k": "div|Any removed parts, except those covered under warranty or exchange agreements, w::1",
+     "t": "div",
+     "x": 175,
+     "y": 2550,
+     "w": 520,
+     "h": 108,
+     "s": "Any removed parts, except those covered under warranty or exchange agreements, w"
+    },
+    {
+     "k": "strong|Disposal of Parts:::1",
+     "t": "strong",
+     "x": 175,
+     "y": 2553,
+     "w": 134,
+     "h": 20,
+     "s": "Disposal of Parts:"
+    },
+    {
+     "k": "div|paints|rgba(0, 0, 0, 0)|none::21",
+     "t": "div",
+     "x": 110,
+     "y": 2674,
+     "w": 600,
+     "h": 85,
+     "s": ""
+    },
+    {
+     "k": "div|21::1",
+     "t": "div",
+     "x": 125,
+     "y": 2689,
+     "w": 35,
+     "h": 35,
+     "s": "21"
+    },
+    {
+     "k": "div|Storage charges may be applied to vehicles not collected within 5 days following::1",
+     "t": "div",
+     "x": 175,
+     "y": 2689,
+     "w": 520,
+     "h": 54,
+     "s": "Storage charges may be applied to vehicles not collected within 5 days following"
+    },
+    {
+     "k": "strong|Storage Charges:::1",
+     "t": "strong",
+     "x": 175,
+     "y": 2692,
+     "w": 132,
+     "h": 20,
+     "s": "Storage Charges:"
+    },
+    {
+     "k": "div|paints|rgba(0, 0, 0, 0)|none::22",
+     "t": "div",
+     "x": 110,
+     "y": 2759,
+     "w": 600,
+     "h": 85,
+     "s": ""
+    },
+    {
+     "k": "div|22::1",
+     "t": "div",
+     "x": 125,
+     "y": 2774,
+     "w": 35,
+     "h": 35,
+     "s": "22"
+    },
+    {
+     "k": "div|KAM Servicing is not liable for any damage resulting from pre-existing structura::1",
+     "t": "div",
+     "x": 175,
+     "y": 2774,
+     "w": 520,
+     "h": 54,
+     "s": "KAM Servicing is not liable for any damage resulting from pre-existing structura"
+    },
+    {
+     "k": "strong|Vehicle Condition:::1",
+     "t": "strong",
+     "x": 175,
+     "y": 2777,
+     "w": 135,
+     "h": 20,
+     "s": "Vehicle Condition:"
+    },
+    {
+     "k": "div|paints|rgba(0, 0, 0, 0)|none::23",
+     "t": "div",
+     "x": 110,
+     "y": 2844,
+     "w": 600,
+     "h": 66,
+     "s": ""
+    },
+    {
+     "k": "div|23::1",
+     "t": "div",
+     "x": 125,
+     "y": 2859,
+     "w": 35,
+     "h": 35,
+     "s": "23"
+    },
+    {
+     "k": "div|All vehicles left in the car park at owners’ risk.::1",
+     "t": "div",
+     "x": 175,
+     "y": 2859,
+     "w": 409,
+     "h": 27,
+     "s": "All vehicles left in the car park at owners’ risk."
+    },
+    {
+     "k": "strong|Parking Risk:::1",
+     "t": "strong",
+     "x": 175,
+     "y": 2862,
+     "w": 95,
+     "h": 20,
+     "s": "Parking Risk:"
+    },
+    {
+     "k": "div|24::1",
+     "t": "div",
+     "x": 125,
+     "y": 2925,
+     "w": 35,
+     "h": 35,
+     "s": "24"
+    },
+    {
+     "k": "div|Keys left in the key drop off box is at owners’ risk.::1",
+     "t": "div",
+     "x": 175,
+     "y": 2925,
+     "w": 423,
+     "h": 27,
+     "s": "Keys left in the key drop off box is at owners’ risk."
+    },
+    {
+     "k": "strong|Key Drop:::1",
+     "t": "strong",
+     "x": 175,
+     "y": 2928,
+     "w": 74,
+     "h": 20,
+     "s": "Key Drop:"
+    },
+    {
+     "k": "section|paints|rgb(38, 145, 213)|none::1",
+     "t": "section",
+     "x": 0,
+     "y": 3071,
+     "w": 820,
+     "h": 876,
+     "s": ""
+    },
+    {
+     "k": "h4|BRANCHES::1",
+     "t": "h4",
+     "x": 62,
+     "y": 3131,
+     "w": 696,
+     "h": 30,
+     "s": "BRANCHES"
+    },
+    {
+     "k": "a|Nottingham - Sherwood::1",
+     "t": "a",
+     "x": 91,
+     "y": 3188,
+     "w": 165,
+     "h": 20,
+     "s": "Nottingham - Sherwood",
+     "href": "/kam-servicing-nottingham.php"
+    },
+    {
+     "k": "a|Nottingham - Bulwell::1",
+     "t": "a",
+     "x": 91,
+     "y": 3231,
+     "w": 143,
+     "h": 20,
+     "s": "Nottingham - Bulwell",
+     "href": "/kam-servicing-bulwell.php"
+    },
+    {
+     "k": "a|Nottingham - Nuthall::1",
+     "t": "a",
+     "x": 91,
+     "y": 3274,
+     "w": 142,
+     "h": 20,
+     "s": "Nottingham - Nuthall",
+     "href": "/kam-servicing-nuthall.php"
+    },
+    {
+     "k": "a|Nottingham - Colwick::1",
+     "t": "a",
+     "x": 91,
+     "y": 3317,
+     "w": 145,
+     "h": 20,
+     "s": "Nottingham - Colwick",
+     "href": "/kam-servicing-colwick.php"
+    },
+    {
+     "k": "a|Nottingham - Hucknall::1",
+     "t": "a",
+     "x": 91,
+     "y": 3360,
+     "w": 151,
+     "h": 20,
+     "s": "Nottingham - Hucknall",
+     "href": "/kam-servicing-hucknall.php"
+    },
+    {
+     "k": "a|Beeston::1",
+     "t": "a",
+     "x": 91,
+     "y": 3403,
+     "w": 59,
+     "h": 20,
+     "s": "Beeston",
+     "href": "/kam-servicing-beeston.php"
+    },
+    {
+     "k": "a|Sutton-in-Ashfield::1",
+     "t": "a",
+     "x": 91,
+     "y": 3446,
+     "w": 123,
+     "h": 20,
+     "s": "Sutton-in-Ashfield",
+     "href": "/kam-servicing-sutton.php"
+    },
+    {
+     "k": "a|Stapleford::1",
+     "t": "a",
+     "x": 91,
+     "y": 3489,
+     "w": 72,
+     "h": 20,
+     "s": "Stapleford",
+     "href": "/kam-servicing-stapleford.php"
+    },
+    {
+     "k": "a|Derby - City::1",
+     "t": "a",
+     "x": 451,
+     "y": 3188,
+     "w": 83,
+     "h": 20,
+     "s": "Derby - City",
+     "href": "/kam-servicing-derby.php"
+    },
+    {
+     "k": "a|Derby - Ascot Drive::1",
+     "t": "a",
+     "x": 451,
+     "y": 3231,
+     "w": 137,
+     "h": 20,
+     "s": "Derby - Ascot Drive",
+     "href": "/kam-servicing-ascot.php"
+    },
+    {
+     "k": "a|Derby - Sinfin::1",
+     "t": "a",
+     "x": 451,
+     "y": 3274,
+     "w": 93,
+     "h": 20,
+     "s": "Derby - Sinfin",
+     "href": "/kam-servicing-sinfin.php"
+    },
+    {
+     "k": "a|Long Eaton - Derby Rd::1",
+     "t": "a",
+     "x": 451,
+     "y": 3317,
+     "w": 158,
+     "h": 20,
+     "s": "Long Eaton - Derby Rd",
+     "href": "/kam-servicing-longeaton.php"
+    },
+    {
+     "k": "a|Long Eaton - Tamworth Rd::1",
+     "t": "a",
+     "x": 451,
+     "y": 3360,
+     "w": 187,
+     "h": 20,
+     "s": "Long Eaton - Tamworth Rd",
+     "href": "/kam-servicing-sawley.php"
+    },
+    {
+     "k": "a|Heanor::1",
+     "t": "a",
+     "x": 451,
+     "y": 3403,
+     "w": 52,
+     "h": 20,
+     "s": "Heanor",
+     "href": "/kam-servicing-heanor.php"
+    },
+    {
+     "k": "a|Belper::1",
+     "t": "a",
+     "x": 451,
+     "y": 3446,
+     "w": 46,
+     "h": 20,
+     "s": "Belper",
+     "href": "/kam-servicing-belper.php"
+    },
+    {
+     "k": "a|Ambergate::1",
+     "t": "a",
+     "x": 451,
+     "y": 3489,
+     "w": 78,
+     "h": 20,
+     "s": "Ambergate",
+     "href": "/kam-servicing-ambergate.php"
+    },
+    {
+     "k": "h4|SERVICES::1",
+     "t": "h4",
+     "x": 62,
+     "y": 3553,
+     "w": 696,
+     "h": 30,
+     "s": "SERVICES"
+    },
+    {
+     "k": "a|Book an MOT::1",
+     "t": "a",
+     "x": 335,
+     "y": 3610,
+     "w": 94,
+     "h": 20,
+     "s": "Book an MOT",
+     "href": "/bookings.php"
+    },
+    {
+     "k": "a|Book a Service::1",
+     "t": "a",
+     "x": 335,
+     "y": 3653,
+     "w": 101,
+     "h": 20,
+     "s": "Book a Service",
+     "href": "/bookings.php"
+    },
+    {
+     "k": "a|Buy Tyres::1",
+     "t": "a",
+     "x": 335,
+     "y": 3696,
+     "w": 71,
+     "h": 20,
+     "s": "Buy Tyres",
+     "href": "/tyres.php"
+    },
+    {
+     "k": "a|Book A/C Regas::1",
+     "t": "a",
+     "x": 335,
+     "y": 3739,
+     "w": 111,
+     "h": 20,
+     "s": "Book A/C Regas",
+     "href": "/bookings.php"
+    },
+    {
+     "k": "a|View All Services::1",
+     "t": "a",
+     "x": 335,
+     "y": 3782,
+     "w": 114,
+     "h": 20,
+     "s": "View All Services",
+     "href": "/all-kam-services.php"
+    },
+    {
+     "k": "a|Renu::1",
+     "t": "a",
+     "x": 62,
+     "y": 3846,
+     "w": 28,
+     "h": 22,
+     "s": "Renu",
+     "href": "https://renusai.com/"
+    },
+    {
+     "k": "a|Orthopedic hospital::1",
+     "t": "a",
+     "x": 90,
+     "y": 3846,
+     "w": 115,
+     "h": 22,
+     "s": "Orthopedic hospital",
+     "href": "https://happy-hospitals.com/"
+    },
+    {
+     "k": "a|CBSE School faridabad::1",
+     "t": "a",
+     "x": 205,
+     "y": 3846,
+     "w": 129,
+     "h": 22,
+     "s": "CBSE School faridabad",
+     "href": "https://www.homertongrammar.com/"
+    },
+    {
+     "k": "footer|paints|rgb(248, 249, 250)|none::1",
+     "t": "footer",
+     "x": 0,
+     "y": 3947,
+     "w": 820,
+     "h": 75,
+     "s": ""
+    },
+    {
+     "k": "p|© KAM Servicing - 2026 | | |::1",
+     "t": "p",
+     "x": 62,
+     "y": 3971,
+     "w": 696,
+     "h": 27,
+     "s": "© KAM Servicing - 2026 | | |"
+    },
+    {
+     "k": "a|Privacy Policy::1",
+     "t": "a",
+     "x": 334,
+     "y": 3974,
+     "w": 94,
+     "h": 20,
+     "s": "Privacy Policy",
+     "href": "https://kamservicing.com/gdpr-privacy-policy.php"
+    },
+    {
+     "k": "a|All Services::1",
+     "t": "a",
+     "x": 441,
+     "y": 3974,
+     "w": 77,
+     "h": 20,
+     "s": "All Services",
+     "href": "https://kamservicing.com/all-kam-services.php"
+    },
+    {
+     "k": "a|Terms & Conditions::1",
+     "t": "a",
+     "x": 531,
+     "y": 3974,
+     "w": 137,
+     "h": 20,
+     "s": "Terms & Conditions",
+     "href": "https://kamservicing.com/terms-conditions.php"
+    }
+   ]
+  },
+  "1440": {
+   "title": "Car Repairs, Servicing, Tyres and MOT, Nottingham & Derby : KAM",
+   "text": "£0.00 Home About Services Contact Careers Warranty Terms & Conditions KAM SERVICING – WARRANTY TERMS AND CONDITIONS 1 Proof of Purchase: The original invoice must be provided before any work can be authorised under a warranty claim. 2 Warranty Period: The warranty is valid from the date and/or mileage stated on the invoice and only applies to the person names on the invoice. 3 Repairs and Replacements: KAM Servicing will endeavour to repair any defective part. If repair is not possible, the part will be replaced and refitted to the vehicle free of charge, subject to these terms and conditions. 4 Unauthorised Work: The warranty will be void if any part is removed or interfered with by any third party without prior authorisation from KAM Servicing. 5 Exclusions of Liability: KAM Servicing is not liable for any additional expenses, losses, or damages arising from a faulty part fitted. 6 Post-Repair Requirements: Any mechanical repairs involving the engine or cylinder head gasket must be returned for re-torque, oil and filter change, or inspection within 500 miles of the invoice mileage. 7 Related Faults: The warranty will be void if a component failure is caused by another fault that was identified on the invoice but not authorised for repair by the customer. 8 Undetected Issues: KAM Servicing is not liable for any component failure that was not apparent at the time of repair. 9 Maximum Liability: The maximum liability under any warranty claim is limited to the cost of the part supplied and fitted. 10 Warranty Claims Procedure: In the event of a warranty claim, you must notify KAM Servicing and return the vehicle to the service centre where the work was carried out. 11 Wear and Tear: This warranty does not cover damage resulting from normal wear and tear. 12 Customer Responsibilities and Limitations: If you suffer any loss or damage for which KAM Servicing is responsible, you must provide a reasonable opportunity for the issue to be rectified. You are required to take reasonable steps to minimise or avoid further loss or damage. KAM Servicing will not be liable where you fail to provide such opportunity or fail to mitigate losses. If an authorised repair is suspended at your request, or due to your breach of contract, KAM Servicing reserves the right to charge additional reasonable costs for any unavoidable expenses incurred. Wheel alignment and geometry may be affected by road conditions and are therefore not covered under this warranty. 13 Ownership of Parts: All parts fitted to the vehicle remain the property of KAM Servicing until payment has been made in full. 14 Parts Warranty: All new parts carry a warranty of 12 months or 12,000 miles (whichever occurs first). 15 Service Adjustments: This warranty does not cover serviceable adjustments. 16 Service Schedules: KAM Servicing schedules are independent and may differ from manufacturer recommendations. 17 Digital Service Records: KAM Servicing cannot guarantee that we can upload service history to online Digital Service Records. 18 Quotations: All quotations are valid for 7 days from the date of issue. 19 Order Acceptance: KAM Servicing reserves the right to refuse any order at its sole discretion. Where fraudulent activity is suspected, additional checks will be carried out, and relevant authorities WILL be notified. 20 Disposal of Parts: Any removed parts, except those covered under warranty or exchange agreements, will be disposed of by the end of the working day in accordance with environmental regulations. A disposal fee may apply. 21 Storage Charges: Storage charges may be applied to vehicles not collected within 5 days following completion of the work. 22 Vehicle Condition: KAM Servicing is not liable for any damage resulting from pre-existing structural defects or weaknesses in the vehicle. 23 Parking Risk: All vehicles left in the car park at owners’ risk. 24 Key Drop: Keys left in the key drop off box is at owners’ risk. BRANCHES Nottingham - Sherwood Nottingham - Bulwell Nottingham - Nuthall Nottingham - Colwick Nottingham - Hucknall Beeston Sutton-in-Ashfield Stapleford Derby - City Derby - Ascot Drive Derby - Sinfin Long Eaton - Derby Rd Long Eaton - Tamworth Rd Heanor Belper Ambergate SERVICES Book an MOT Book a Service Buy Tyres Book A/C Regas View All Services Renu Orthopedic hospital CBSE School faridabad © KAM Servicing - 2026 | Privacy Policy| All Services| Terms & Conditions",
+   "scrollW": 1440,
+   "vw": 1440,
+   "nodes": [
+    {
+     "k": "a|https://kamservicing.com/::1",
+     "t": "a",
+     "x": 162,
+     "y": 0,
+     "w": 286,
+     "h": 90,
+     "s": "",
+     "href": "https://kamservicing.com/"
+    },
+    {
+     "k": "img|logokams-2.png::1",
+     "t": "img",
+     "x": 162,
+     "y": 0,
+     "w": 286,
+     "h": 90,
+     "s": ""
+    },
+    {
+     "k": "a|/blank.php::1",
+     "t": "a",
+     "x": 1178,
+     "y": 22,
+     "w": 100,
+     "h": 47,
+     "s": "",
+     "href": "/blank.php"
+    },
+    {
+     "k": "span|£0.00::1",
+     "t": "span",
+     "x": 1192,
+     "y": 30,
+     "w": 46,
+     "h": 31,
+     "s": "£0.00"
+    },
+    {
+     "k": "nav|paints|rgb(38, 145, 213)|none::1",
+     "t": "nav",
+     "x": 0,
+     "y": 90,
+     "w": 1440,
+     "h": 47,
+     "s": ""
+    },
+    {
+     "k": "a|Home::1",
+     "t": "a",
+     "x": 162,
+     "y": 90,
+     "w": 86,
+     "h": 47,
+     "s": "Home",
+     "href": "/"
+    },
+    {
+     "k": "a|About::1",
+     "t": "a",
+     "x": 248,
+     "y": 90,
+     "w": 85,
+     "h": 47,
+     "s": "About",
+     "href": "https://kamservicing.com/#about"
+    },
+    {
+     "k": "a|Services::1",
+     "t": "a",
+     "x": 333,
+     "y": 90,
+     "w": 106,
+     "h": 47,
+     "s": "Services",
+     "href": "/all-kam-services.php"
+    },
+    {
+     "k": "a|Contact::1",
+     "t": "a",
+     "x": 439,
+     "y": 90,
+     "w": 101,
+     "h": 47,
+     "s": "Contact",
+     "href": "/kam-servicing.php"
+    },
+    {
+     "k": "a|Careers::1",
+     "t": "a",
+     "x": 540,
+     "y": 90,
+     "w": 101,
+     "h": 47,
+     "s": "Careers",
+     "href": "/careers_at_kam_servicing.php"
+    },
+    {
+     "k": "section|paints|rgb(239, 239, 239)|none::1",
+     "t": "section",
+     "x": 0,
+     "y": 137,
+     "w": 1440,
+     "h": 207,
+     "s": ""
+    },
+    {
+     "k": "h1|Warranty Terms & Conditions::1",
+     "t": "h1",
+     "x": 162,
+     "y": 197,
+     "w": 1116,
+     "h": 52,
+     "s": "Warranty Terms & Conditions"
+    },
+    {
+     "k": "p|KAM SERVICING – WARRANTY TERMS AND CONDITIONS::1",
+     "t": "p",
+     "x": 162,
+     "y": 257,
+     "w": 1116,
+     "h": 27,
+     "s": "KAM SERVICING – WARRANTY TERMS AND CONDITIONS"
+    },
+    {
+     "k": "section|paints|rgb(248, 249, 250)|none::1",
+     "t": "section",
+     "x": 0,
+     "y": 344,
+     "w": 1440,
+     "h": 2435,
+     "s": ""
+    },
+    {
+     "k": "div|paints|rgb(255, 255, 255)|none::1",
+     "t": "div",
+     "x": 257,
+     "y": 392,
+     "w": 926,
+     "h": 2339,
+     "s": ""
+    },
+    {
+     "k": "div|paints|rgba(0, 0, 0, 0)|none::1",
+     "t": "div",
+     "x": 305,
+     "y": 440,
+     "w": 830,
+     "h": 85,
+     "s": ""
+    },
+    {
+     "k": "div|1::1",
+     "t": "div",
+     "x": 320,
+     "y": 455,
+     "w": 35,
+     "h": 35,
+     "s": "1"
+    },
+    {
+     "k": "div|The original invoice must be provided before any work can be authorised under a ::1",
+     "t": "div",
+     "x": 370,
+     "y": 455,
+     "w": 750,
+     "h": 54,
+     "s": "The original invoice must be provided before any work can be authorised under a "
+    },
+    {
+     "k": "strong|Proof of Purchase:::1",
+     "t": "strong",
+     "x": 370,
+     "y": 458,
+     "w": 140,
+     "h": 20,
+     "s": "Proof of Purchase:"
+    },
+    {
+     "k": "div|paints|rgba(0, 0, 0, 0)|none::2",
+     "t": "div",
+     "x": 305,
+     "y": 525,
+     "w": 830,
+     "h": 85,
+     "s": ""
+    },
+    {
+     "k": "div|2::1",
+     "t": "div",
+     "x": 320,
+     "y": 540,
+     "w": 35,
+     "h": 35,
+     "s": "2"
+    },
+    {
+     "k": "div|The warranty is valid from the date and/or mileage stated on the invoice and onl::1",
+     "t": "div",
+     "x": 370,
+     "y": 540,
+     "w": 750,
+     "h": 54,
+     "s": "The warranty is valid from the date and/or mileage stated on the invoice and onl"
+    },
+    {
+     "k": "strong|Warranty Period:::1",
+     "t": "strong",
+     "x": 370,
+     "y": 543,
+     "w": 130,
+     "h": 20,
+     "s": "Warranty Period:"
+    },
+    {
+     "k": "div|paints|rgba(0, 0, 0, 0)|none::3",
+     "t": "div",
+     "x": 305,
+     "y": 610,
+     "w": 830,
+     "h": 112,
+     "s": ""
+    },
+    {
+     "k": "div|3::1",
+     "t": "div",
+     "x": 320,
+     "y": 625,
+     "w": 35,
+     "h": 35,
+     "s": "3"
+    },
+    {
+     "k": "div|KAM Servicing will endeavour to repair any defective part. If repair is not poss::1",
+     "t": "div",
+     "x": 370,
+     "y": 625,
+     "w": 750,
+     "h": 81,
+     "s": "KAM Servicing will endeavour to repair any defective part. If repair is not poss"
+    },
+    {
+     "k": "strong|Repairs and Replacements:::1",
+     "t": "strong",
+     "x": 370,
+     "y": 628,
+     "w": 202,
+     "h": 20,
+     "s": "Repairs and Replacements:"
+    },
+    {
+     "k": "div|paints|rgba(0, 0, 0, 0)|none::4",
+     "t": "div",
+     "x": 305,
+     "y": 722,
+     "w": 830,
+     "h": 85,
+     "s": ""
+    },
+    {
+     "k": "div|4::1",
+     "t": "div",
+     "x": 320,
+     "y": 737,
+     "w": 35,
+     "h": 35,
+     "s": "4"
+    },
+    {
+     "k": "div|The warranty will be void if any part is removed or interfered with by any third::1",
+     "t": "div",
+     "x": 370,
+     "y": 737,
+     "w": 750,
+     "h": 54,
+     "s": "The warranty will be void if any part is removed or interfered with by any third"
+    },
+    {
+     "k": "strong|Unauthorised Work:::1",
+     "t": "strong",
+     "x": 370,
+     "y": 740,
+     "w": 152,
+     "h": 20,
+     "s": "Unauthorised Work:"
+    },
+    {
+     "k": "div|paints|rgba(0, 0, 0, 0)|none::5",
+     "t": "div",
+     "x": 305,
+     "y": 807,
+     "w": 830,
+     "h": 85,
+     "s": ""
+    },
+    {
+     "k": "div|5::1",
+     "t": "div",
+     "x": 320,
+     "y": 822,
+     "w": 35,
+     "h": 35,
+     "s": "5"
+    },
+    {
+     "k": "div|KAM Servicing is not liable for any additional expenses, losses, or damages aris::1",
+     "t": "div",
+     "x": 370,
+     "y": 822,
+     "w": 750,
+     "h": 54,
+     "s": "KAM Servicing is not liable for any additional expenses, losses, or damages aris"
+    },
+    {
+     "k": "strong|Exclusions of Liability:::1",
+     "t": "strong",
+     "x": 370,
+     "y": 825,
+     "w": 166,
+     "h": 20,
+     "s": "Exclusions of Liability:"
+    },
+    {
+     "k": "div|paints|rgba(0, 0, 0, 0)|none::6",
+     "t": "div",
+     "x": 305,
+     "y": 892,
+     "w": 830,
+     "h": 85,
+     "s": ""
+    },
+    {
+     "k": "div|6::1",
+     "t": "div",
+     "x": 320,
+     "y": 907,
+     "w": 35,
+     "h": 35,
+     "s": "6"
+    },
+    {
+     "k": "div|Any mechanical repairs involving the engine or cylinder head gasket must be retu::1",
+     "t": "div",
+     "x": 370,
+     "y": 907,
+     "w": 750,
+     "h": 54,
+     "s": "Any mechanical repairs involving the engine or cylinder head gasket must be retu"
+    },
+    {
+     "k": "strong|Post-Repair Requirements:::1",
+     "t": "strong",
+     "x": 370,
+     "y": 910,
+     "w": 202,
+     "h": 20,
+     "s": "Post-Repair Requirements:"
+    },
+    {
+     "k": "div|paints|rgba(0, 0, 0, 0)|none::7",
+     "t": "div",
+     "x": 305,
+     "y": 977,
+     "w": 830,
+     "h": 85,
+     "s": ""
+    },
+    {
+     "k": "div|7::1",
+     "t": "div",
+     "x": 320,
+     "y": 992,
+     "w": 35,
+     "h": 35,
+     "s": "7"
+    },
+    {
+     "k": "div|The warranty will be void if a component failure is caused by another fault that::1",
+     "t": "div",
+     "x": 370,
+     "y": 992,
+     "w": 750,
+     "h": 54,
+     "s": "The warranty will be void if a component failure is caused by another fault that"
+    },
+    {
+     "k": "strong|Related Faults:::1",
+     "t": "strong",
+     "x": 370,
+     "y": 995,
+     "w": 112,
+     "h": 20,
+     "s": "Related Faults:"
+    },
+    {
+     "k": "div|paints|rgba(0, 0, 0, 0)|none::8",
+     "t": "div",
+     "x": 305,
+     "y": 1062,
+     "w": 830,
+     "h": 85,
+     "s": ""
+    },
+    {
+     "k": "div|8::1",
+     "t": "div",
+     "x": 320,
+     "y": 1077,
+     "w": 35,
+     "h": 35,
+     "s": "8"
+    },
+    {
+     "k": "div|KAM Servicing is not liable for any component failure that was not apparent at t::1",
+     "t": "div",
+     "x": 370,
+     "y": 1077,
+     "w": 750,
+     "h": 54,
+     "s": "KAM Servicing is not liable for any component failure that was not apparent at t"
+    },
+    {
+     "k": "strong|Undetected Issues:::1",
+     "t": "strong",
+     "x": 370,
+     "y": 1080,
+     "w": 146,
+     "h": 20,
+     "s": "Undetected Issues:"
+    },
+    {
+     "k": "div|paints|rgba(0, 0, 0, 0)|none::9",
+     "t": "div",
+     "x": 305,
+     "y": 1147,
+     "w": 830,
+     "h": 85,
+     "s": ""
+    },
+    {
+     "k": "div|9::1",
+     "t": "div",
+     "x": 320,
+     "y": 1162,
+     "w": 35,
+     "h": 35,
+     "s": "9"
+    },
+    {
+     "k": "div|The maximum liability under any warranty claim is limited to the cost of the par::1",
+     "t": "div",
+     "x": 370,
+     "y": 1162,
+     "w": 750,
+     "h": 54,
+     "s": "The maximum liability under any warranty claim is limited to the cost of the par"
+    },
+    {
+     "k": "strong|Maximum Liability:::1",
+     "t": "strong",
+     "x": 370,
+     "y": 1165,
+     "w": 141,
+     "h": 20,
+     "s": "Maximum Liability:"
+    },
+    {
+     "k": "div|paints|rgba(0, 0, 0, 0)|none::10",
+     "t": "div",
+     "x": 305,
+     "y": 1232,
+     "w": 830,
+     "h": 85,
+     "s": ""
+    },
+    {
+     "k": "div|10::1",
+     "t": "div",
+     "x": 320,
+     "y": 1247,
+     "w": 35,
+     "h": 35,
+     "s": "10"
+    },
+    {
+     "k": "div|In the event of a warranty claim, you must notify KAM Servicing and return the v::1",
+     "t": "div",
+     "x": 370,
+     "y": 1247,
+     "w": 750,
+     "h": 54,
+     "s": "In the event of a warranty claim, you must notify KAM Servicing and return the v"
+    },
+    {
+     "k": "strong|Warranty Claims Procedure:::1",
+     "t": "strong",
+     "x": 370,
+     "y": 1250,
+     "w": 212,
+     "h": 20,
+     "s": "Warranty Claims Procedure:"
+    },
+    {
+     "k": "div|paints|rgba(0, 0, 0, 0)|none::11",
+     "t": "div",
+     "x": 305,
+     "y": 1317,
+     "w": 830,
+     "h": 66,
+     "s": ""
+    },
+    {
+     "k": "div|11::1",
+     "t": "div",
+     "x": 320,
+     "y": 1332,
+     "w": 35,
+     "h": 35,
+     "s": "11"
+    },
+    {
+     "k": "div|This warranty does not cover damage resulting from normal wear and tear.::1",
+     "t": "div",
+     "x": 370,
+     "y": 1332,
+     "w": 639,
+     "h": 27,
+     "s": "This warranty does not cover damage resulting from normal wear and tear."
+    },
+    {
+     "k": "strong|Wear and Tear:::1",
+     "t": "strong",
+     "x": 370,
+     "y": 1335,
+     "w": 115,
+     "h": 20,
+     "s": "Wear and Tear:"
+    },
+    {
+     "k": "div|paints|rgba(0, 0, 0, 0)|none::12",
+     "t": "div",
+     "x": 305,
+     "y": 1383,
+     "w": 830,
+     "h": 322,
+     "s": ""
+    },
+    {
+     "k": "div|12::1",
+     "t": "div",
+     "x": 320,
+     "y": 1398,
+     "w": 35,
+     "h": 35,
+     "s": "12"
+    },
+    {
+     "k": "strong|Customer Responsibilities and Limitations:::1",
+     "t": "strong",
+     "x": 370,
+     "y": 1401,
+     "w": 323,
+     "h": 20,
+     "s": "Customer Responsibilities and Limitations:"
+    },
+    {
+     "k": "li|If you suffer any loss or damage for which KAM Servicing is responsible, you mus::1",
+     "t": "li",
+     "x": 388,
+     "y": 1433,
+     "w": 732,
+     "h": 54,
+     "s": "If you suffer any loss or damage for which KAM Servicing is responsible, you mus"
+    },
+    {
+     "k": "li|You are required to take reasonable steps to minimise or avoid further loss or d::1",
+     "t": "li",
+     "x": 388,
+     "y": 1493,
+     "w": 732,
+     "h": 27,
+     "s": "You are required to take reasonable steps to minimise or avoid further loss or d"
+    },
+    {
+     "k": "li|KAM Servicing will not be liable where you fail to provide such opportunity or f::1",
+     "t": "li",
+     "x": 388,
+     "y": 1526,
+     "w": 732,
+     "h": 27,
+     "s": "KAM Servicing will not be liable where you fail to provide such opportunity or f"
+    },
+    {
+     "k": "li|If an authorised repair is suspended at your request, or due to your breach of c::1",
+     "t": "li",
+     "x": 388,
+     "y": 1559,
+     "w": 732,
+     "h": 54,
+     "s": "If an authorised repair is suspended at your request, or due to your breach of c"
+    },
+    {
+     "k": "li|Wheel alignment and geometry may be affected by road conditions and are therefor::1",
+     "t": "li",
+     "x": 388,
+     "y": 1619,
+     "w": 732,
+     "h": 54,
+     "s": "Wheel alignment and geometry may be affected by road conditions and are therefor"
+    },
+    {
+     "k": "div|paints|rgba(0, 0, 0, 0)|none::13",
+     "t": "div",
+     "x": 305,
+     "y": 1705,
+     "w": 830,
+     "h": 85,
+     "s": ""
+    },
+    {
+     "k": "div|13::1",
+     "t": "div",
+     "x": 320,
+     "y": 1720,
+     "w": 35,
+     "h": 35,
+     "s": "13"
+    },
+    {
+     "k": "div|All parts fitted to the vehicle remain the property of KAM Servicing until payme::1",
+     "t": "div",
+     "x": 370,
+     "y": 1720,
+     "w": 750,
+     "h": 54,
+     "s": "All parts fitted to the vehicle remain the property of KAM Servicing until payme"
+    },
+    {
+     "k": "strong|Ownership of Parts:::1",
+     "t": "strong",
+     "x": 370,
+     "y": 1723,
+     "w": 151,
+     "h": 20,
+     "s": "Ownership of Parts:"
+    },
+    {
+     "k": "div|paints|rgba(0, 0, 0, 0)|none::14",
+     "t": "div",
+     "x": 305,
+     "y": 1790,
+     "w": 830,
+     "h": 66,
+     "s": ""
+    },
+    {
+     "k": "div|14::1",
+     "t": "div",
+     "x": 320,
+     "y": 1805,
+     "w": 35,
+     "h": 35,
+     "s": "14"
+    },
+    {
+     "k": "div|All new parts carry a warranty of 12 months or 12,000 miles (whichever occurs fi::1",
+     "t": "div",
+     "x": 370,
+     "y": 1805,
+     "w": 709,
+     "h": 27,
+     "s": "All new parts carry a warranty of 12 months or 12,000 miles (whichever occurs fi"
+    },
+    {
+     "k": "strong|Parts Warranty:::1",
+     "t": "strong",
+     "x": 370,
+     "y": 1808,
+     "w": 122,
+     "h": 20,
+     "s": "Parts Warranty:"
+    },
+    {
+     "k": "div|paints|rgba(0, 0, 0, 0)|none::15",
+     "t": "div",
+     "x": 305,
+     "y": 1856,
+     "w": 830,
+     "h": 66,
+     "s": ""
+    },
+    {
+     "k": "div|15::1",
+     "t": "div",
+     "x": 320,
+     "y": 1871,
+     "w": 35,
+     "h": 35,
+     "s": "15"
+    },
+    {
+     "k": "div|This warranty does not cover serviceable adjustments.::1",
+     "t": "div",
+     "x": 370,
+     "y": 1871,
+     "w": 545,
+     "h": 27,
+     "s": "This warranty does not cover serviceable adjustments."
+    },
+    {
+     "k": "strong|Service Adjustments:::1",
+     "t": "strong",
+     "x": 370,
+     "y": 1874,
+     "w": 160,
+     "h": 20,
+     "s": "Service Adjustments:"
+    },
+    {
+     "k": "div|paints|rgba(0, 0, 0, 0)|none::16",
+     "t": "div",
+     "x": 305,
+     "y": 1922,
+     "w": 830,
+     "h": 85,
+     "s": ""
+    },
+    {
+     "k": "div|16::1",
+     "t": "div",
+     "x": 320,
+     "y": 1937,
+     "w": 35,
+     "h": 35,
+     "s": "16"
+    },
+    {
+     "k": "div|KAM Servicing schedules are independent and may differ from manufacturer recomme::1",
+     "t": "div",
+     "x": 370,
+     "y": 1937,
+     "w": 750,
+     "h": 54,
+     "s": "KAM Servicing schedules are independent and may differ from manufacturer recomme"
+    },
+    {
+     "k": "strong|Service Schedules:::1",
+     "t": "strong",
+     "x": 370,
+     "y": 1940,
+     "w": 138,
+     "h": 20,
+     "s": "Service Schedules:"
+    },
+    {
+     "k": "div|paints|rgba(0, 0, 0, 0)|none::17",
+     "t": "div",
+     "x": 305,
+     "y": 2007,
+     "w": 830,
+     "h": 85,
+     "s": ""
+    },
+    {
+     "k": "div|17::1",
+     "t": "div",
+     "x": 320,
+     "y": 2022,
+     "w": 35,
+     "h": 35,
+     "s": "17"
+    },
+    {
+     "k": "div|KAM Servicing cannot guarantee that we can upload service history to online Digi::1",
+     "t": "div",
+     "x": 370,
+     "y": 2022,
+     "w": 750,
+     "h": 54,
+     "s": "KAM Servicing cannot guarantee that we can upload service history to online Digi"
+    },
+    {
+     "k": "strong|Digital Service Records:::1",
+     "t": "strong",
+     "x": 370,
+     "y": 2025,
+     "w": 178,
+     "h": 20,
+     "s": "Digital Service Records:"
+    },
+    {
+     "k": "div|paints|rgba(0, 0, 0, 0)|none::18",
+     "t": "div",
+     "x": 305,
+     "y": 2092,
+     "w": 830,
+     "h": 66,
+     "s": ""
+    },
+    {
+     "k": "div|18::1",
+     "t": "div",
+     "x": 320,
+     "y": 2107,
+     "w": 35,
+     "h": 35,
+     "s": "18"
+    },
+    {
+     "k": "div|All quotations are valid for 7 days from the date of issue.::1",
+     "t": "div",
+     "x": 370,
+     "y": 2107,
+     "w": 485,
+     "h": 27,
+     "s": "All quotations are valid for 7 days from the date of issue."
+    },
+    {
+     "k": "strong|Quotations:::1",
+     "t": "strong",
+     "x": 370,
+     "y": 2110,
+     "w": 91,
+     "h": 20,
+     "s": "Quotations:"
+    },
+    {
+     "k": "div|paints|rgba(0, 0, 0, 0)|none::19",
+     "t": "div",
+     "x": 305,
+     "y": 2158,
+     "w": 830,
+     "h": 112,
+     "s": ""
+    },
+    {
+     "k": "div|19::1",
+     "t": "div",
+     "x": 320,
+     "y": 2173,
+     "w": 35,
+     "h": 35,
+     "s": "19"
+    },
+    {
+     "k": "div|KAM Servicing reserves the right to refuse any order at its sole discretion. Whe::1",
+     "t": "div",
+     "x": 370,
+     "y": 2173,
+     "w": 750,
+     "h": 81,
+     "s": "KAM Servicing reserves the right to refuse any order at its sole discretion. Whe"
+    },
+    {
+     "k": "strong|Order Acceptance:::1",
+     "t": "strong",
+     "x": 370,
+     "y": 2176,
+     "w": 141,
+     "h": 20,
+     "s": "Order Acceptance:"
+    },
+    {
+     "k": "div|paints|rgba(0, 0, 0, 0)|none::20",
+     "t": "div",
+     "x": 305,
+     "y": 2270,
+     "w": 830,
+     "h": 112,
+     "s": ""
+    },
+    {
+     "k": "div|20::1",
+     "t": "div",
+     "x": 320,
+     "y": 2285,
+     "w": 35,
+     "h": 35,
+     "s": "20"
+    },
+    {
+     "k": "div|Any removed parts, except those covered under warranty or exchange agreements, w::1",
+     "t": "div",
+     "x": 370,
+     "y": 2285,
+     "w": 750,
+     "h": 81,
+     "s": "Any removed parts, except those covered under warranty or exchange agreements, w"
+    },
+    {
+     "k": "strong|Disposal of Parts:::1",
+     "t": "strong",
+     "x": 370,
+     "y": 2288,
+     "w": 134,
+     "h": 20,
+     "s": "Disposal of Parts:"
+    },
+    {
+     "k": "div|paints|rgba(0, 0, 0, 0)|none::21",
+     "t": "div",
+     "x": 305,
+     "y": 2382,
+     "w": 830,
+     "h": 85,
+     "s": ""
+    },
+    {
+     "k": "div|21::1",
+     "t": "div",
+     "x": 320,
+     "y": 2397,
+     "w": 35,
+     "h": 35,
+     "s": "21"
+    },
+    {
+     "k": "div|Storage charges may be applied to vehicles not collected within 5 days following::1",
+     "t": "div",
+     "x": 370,
+     "y": 2397,
+     "w": 750,
+     "h": 54,
+     "s": "Storage charges may be applied to vehicles not collected within 5 days following"
+    },
+    {
+     "k": "strong|Storage Charges:::1",
+     "t": "strong",
+     "x": 370,
+     "y": 2400,
+     "w": 132,
+     "h": 20,
+     "s": "Storage Charges:"
+    },
+    {
+     "k": "div|paints|rgba(0, 0, 0, 0)|none::22",
+     "t": "div",
+     "x": 305,
+     "y": 2467,
+     "w": 830,
+     "h": 85,
+     "s": ""
+    },
+    {
+     "k": "div|22::1",
+     "t": "div",
+     "x": 320,
+     "y": 2482,
+     "w": 35,
+     "h": 35,
+     "s": "22"
+    },
+    {
+     "k": "div|KAM Servicing is not liable for any damage resulting from pre-existing structura::1",
+     "t": "div",
+     "x": 370,
+     "y": 2482,
+     "w": 750,
+     "h": 54,
+     "s": "KAM Servicing is not liable for any damage resulting from pre-existing structura"
+    },
+    {
+     "k": "strong|Vehicle Condition:::1",
+     "t": "strong",
+     "x": 370,
+     "y": 2485,
+     "w": 135,
+     "h": 20,
+     "s": "Vehicle Condition:"
+    },
+    {
+     "k": "div|paints|rgba(0, 0, 0, 0)|none::23",
+     "t": "div",
+     "x": 305,
+     "y": 2552,
+     "w": 830,
+     "h": 66,
+     "s": ""
+    },
+    {
+     "k": "div|23::1",
+     "t": "div",
+     "x": 320,
+     "y": 2567,
+     "w": 35,
+     "h": 35,
+     "s": "23"
+    },
+    {
+     "k": "div|All vehicles left in the car park at owners’ risk.::1",
+     "t": "div",
+     "x": 370,
+     "y": 2567,
+     "w": 409,
+     "h": 27,
+     "s": "All vehicles left in the car park at owners’ risk."
+    },
+    {
+     "k": "strong|Parking Risk:::1",
+     "t": "strong",
+     "x": 370,
+     "y": 2570,
+     "w": 95,
+     "h": 20,
+     "s": "Parking Risk:"
+    },
+    {
+     "k": "div|24::1",
+     "t": "div",
+     "x": 320,
+     "y": 2633,
+     "w": 35,
+     "h": 35,
+     "s": "24"
+    },
+    {
+     "k": "div|Keys left in the key drop off box is at owners’ risk.::1",
+     "t": "div",
+     "x": 370,
+     "y": 2633,
+     "w": 423,
+     "h": 27,
+     "s": "Keys left in the key drop off box is at owners’ risk."
+    },
+    {
+     "k": "strong|Key Drop:::1",
+     "t": "strong",
+     "x": 370,
+     "y": 2636,
+     "w": 74,
+     "h": 20,
+     "s": "Key Drop:"
+    },
+    {
+     "k": "section|paints|rgb(38, 145, 213)|none::1",
+     "t": "section",
+     "x": 0,
+     "y": 2779,
+     "w": 1440,
+     "h": 585,
+     "s": ""
+    },
+    {
+     "k": "h4|BRANCHES::1",
+     "t": "h4",
+     "x": 162,
+     "y": 2839,
+     "w": 641,
+     "h": 31,
+     "s": "BRANCHES"
+    },
+    {
+     "k": "a|Nottingham - Sherwood::1",
+     "t": "a",
+     "x": 191,
+     "y": 2897,
+     "w": 165,
+     "h": 20,
+     "s": "Nottingham - Sherwood",
+     "href": "/kam-servicing-nottingham.php"
+    },
+    {
+     "k": "a|Nottingham - Bulwell::1",
+     "t": "a",
+     "x": 191,
+     "y": 2940,
+     "w": 143,
+     "h": 20,
+     "s": "Nottingham - Bulwell",
+     "href": "/kam-servicing-bulwell.php"
+    },
+    {
+     "k": "a|Nottingham - Nuthall::1",
+     "t": "a",
+     "x": 191,
+     "y": 2983,
+     "w": 142,
+     "h": 20,
+     "s": "Nottingham - Nuthall",
+     "href": "/kam-servicing-nuthall.php"
+    },
+    {
+     "k": "a|Nottingham - Colwick::1",
+     "t": "a",
+     "x": 191,
+     "y": 3026,
+     "w": 145,
+     "h": 20,
+     "s": "Nottingham - Colwick",
+     "href": "/kam-servicing-colwick.php"
+    },
+    {
+     "k": "a|Nottingham - Hucknall::1",
+     "t": "a",
+     "x": 191,
+     "y": 3069,
+     "w": 151,
+     "h": 20,
+     "s": "Nottingham - Hucknall",
+     "href": "/kam-servicing-hucknall.php"
+    },
+    {
+     "k": "a|Beeston::1",
+     "t": "a",
+     "x": 191,
+     "y": 3112,
+     "w": 59,
+     "h": 20,
+     "s": "Beeston",
+     "href": "/kam-servicing-beeston.php"
+    },
+    {
+     "k": "a|Sutton-in-Ashfield::1",
+     "t": "a",
+     "x": 191,
+     "y": 3155,
+     "w": 123,
+     "h": 20,
+     "s": "Sutton-in-Ashfield",
+     "href": "/kam-servicing-sutton.php"
+    },
+    {
+     "k": "a|Stapleford::1",
+     "t": "a",
+     "x": 191,
+     "y": 3198,
+     "w": 72,
+     "h": 20,
+     "s": "Stapleford",
+     "href": "/kam-servicing-stapleford.php"
+    },
+    {
+     "k": "a|Derby - City::1",
+     "t": "a",
+     "x": 524,
+     "y": 2897,
+     "w": 83,
+     "h": 20,
+     "s": "Derby - City",
+     "href": "/kam-servicing-derby.php"
+    },
+    {
+     "k": "a|Derby - Ascot Drive::1",
+     "t": "a",
+     "x": 524,
+     "y": 2940,
+     "w": 137,
+     "h": 20,
+     "s": "Derby - Ascot Drive",
+     "href": "/kam-servicing-ascot.php"
+    },
+    {
+     "k": "a|Derby - Sinfin::1",
+     "t": "a",
+     "x": 524,
+     "y": 2983,
+     "w": 93,
+     "h": 20,
+     "s": "Derby - Sinfin",
+     "href": "/kam-servicing-sinfin.php"
+    },
+    {
+     "k": "a|Long Eaton - Derby Rd::1",
+     "t": "a",
+     "x": 524,
+     "y": 3026,
+     "w": 158,
+     "h": 20,
+     "s": "Long Eaton - Derby Rd",
+     "href": "/kam-servicing-longeaton.php"
+    },
+    {
+     "k": "a|Long Eaton - Tamworth Rd::1",
+     "t": "a",
+     "x": 524,
+     "y": 3069,
+     "w": 187,
+     "h": 20,
+     "s": "Long Eaton - Tamworth Rd",
+     "href": "/kam-servicing-sawley.php"
+    },
+    {
+     "k": "a|Heanor::1",
+     "t": "a",
+     "x": 524,
+     "y": 3112,
+     "w": 52,
+     "h": 20,
+     "s": "Heanor",
+     "href": "/kam-servicing-heanor.php"
+    },
+    {
+     "k": "a|Belper::1",
+     "t": "a",
+     "x": 524,
+     "y": 3155,
+     "w": 46,
+     "h": 20,
+     "s": "Belper",
+     "href": "/kam-servicing-belper.php"
+    },
+    {
+     "k": "a|Ambergate::1",
+     "t": "a",
+     "x": 524,
+     "y": 3198,
+     "w": 78,
+     "h": 20,
+     "s": "Ambergate",
+     "href": "/kam-servicing-ambergate.php"
+    },
+    {
+     "k": "h4|SERVICES::1",
+     "t": "h4",
+     "x": 827,
+     "y": 2839,
+     "w": 451,
+     "h": 31,
+     "s": "SERVICES"
+    },
+    {
+     "k": "a|Book an MOT::1",
+     "t": "a",
+     "x": 1018,
+     "y": 2897,
+     "w": 94,
+     "h": 20,
+     "s": "Book an MOT",
+     "href": "/bookings.php"
+    },
+    {
+     "k": "a|Book a Service::1",
+     "t": "a",
+     "x": 1018,
+     "y": 2940,
+     "w": 101,
+     "h": 20,
+     "s": "Book a Service",
+     "href": "/bookings.php"
+    },
+    {
+     "k": "a|Buy Tyres::1",
+     "t": "a",
+     "x": 1018,
+     "y": 2983,
+     "w": 71,
+     "h": 20,
+     "s": "Buy Tyres",
+     "href": "/tyres.php"
+    },
+    {
+     "k": "a|Book A/C Regas::1",
+     "t": "a",
+     "x": 1018,
+     "y": 3026,
+     "w": 111,
+     "h": 20,
+     "s": "Book A/C Regas",
+     "href": "/bookings.php"
+    },
+    {
+     "k": "a|View All Services::1",
+     "t": "a",
+     "x": 1018,
+     "y": 3069,
+     "w": 114,
+     "h": 20,
+     "s": "View All Services",
+     "href": "/all-kam-services.php"
+    },
+    {
+     "k": "a|Renu::1",
+     "t": "a",
+     "x": 162,
+     "y": 3262,
+     "w": 28,
+     "h": 22,
+     "s": "Renu",
+     "href": "https://renusai.com/"
+    },
+    {
+     "k": "a|Orthopedic hospital::1",
+     "t": "a",
+     "x": 190,
+     "y": 3262,
+     "w": 115,
+     "h": 22,
+     "s": "Orthopedic hospital",
+     "href": "https://happy-hospitals.com/"
+    },
+    {
+     "k": "a|CBSE School faridabad::1",
+     "t": "a",
+     "x": 305,
+     "y": 3262,
+     "w": 129,
+     "h": 22,
+     "s": "CBSE School faridabad",
+     "href": "https://www.homertongrammar.com/"
+    },
+    {
+     "k": "footer|paints|rgb(248, 249, 250)|none::1",
+     "t": "footer",
+     "x": 0,
+     "y": 3363,
+     "w": 1440,
+     "h": 75,
+     "s": ""
+    },
+    {
+     "k": "p|© KAM Servicing - 2026 | | |::1",
+     "t": "p",
+     "x": 162,
+     "y": 3387,
+     "w": 1116,
+     "h": 27,
+     "s": "© KAM Servicing - 2026 | | |"
+    },
+    {
+     "k": "a|Privacy Policy::1",
+     "t": "a",
+     "x": 644,
+     "y": 3390,
+     "w": 94,
+     "h": 20,
+     "s": "Privacy Policy",
+     "href": "https://kamservicing.com/gdpr-privacy-policy.php"
+    },
+    {
+     "k": "a|All Services::1",
+     "t": "a",
+     "x": 751,
+     "y": 3390,
+     "w": 77,
+     "h": 20,
+     "s": "All Services",
+     "href": "https://kamservicing.com/all-kam-services.php"
+    },
+    {
+     "k": "a|Terms & Conditions::1",
+     "t": "a",
+     "x": 841,
+     "y": 3390,
+     "w": 137,
+     "h": 20,
+     "s": "Terms & Conditions",
+     "href": "https://kamservicing.com/terms-conditions.php"
+    }
+   ]
+  },
+  "1512": {
+   "title": "Car Repairs, Servicing, Tyres and MOT, Nottingham & Derby : KAM",
+   "text": "£0.00 Home About Services Contact Careers Warranty Terms & Conditions KAM SERVICING – WARRANTY TERMS AND CONDITIONS 1 Proof of Purchase: The original invoice must be provided before any work can be authorised under a warranty claim. 2 Warranty Period: The warranty is valid from the date and/or mileage stated on the invoice and only applies to the person names on the invoice. 3 Repairs and Replacements: KAM Servicing will endeavour to repair any defective part. If repair is not possible, the part will be replaced and refitted to the vehicle free of charge, subject to these terms and conditions. 4 Unauthorised Work: The warranty will be void if any part is removed or interfered with by any third party without prior authorisation from KAM Servicing. 5 Exclusions of Liability: KAM Servicing is not liable for any additional expenses, losses, or damages arising from a faulty part fitted. 6 Post-Repair Requirements: Any mechanical repairs involving the engine or cylinder head gasket must be returned for re-torque, oil and filter change, or inspection within 500 miles of the invoice mileage. 7 Related Faults: The warranty will be void if a component failure is caused by another fault that was identified on the invoice but not authorised for repair by the customer. 8 Undetected Issues: KAM Servicing is not liable for any component failure that was not apparent at the time of repair. 9 Maximum Liability: The maximum liability under any warranty claim is limited to the cost of the part supplied and fitted. 10 Warranty Claims Procedure: In the event of a warranty claim, you must notify KAM Servicing and return the vehicle to the service centre where the work was carried out. 11 Wear and Tear: This warranty does not cover damage resulting from normal wear and tear. 12 Customer Responsibilities and Limitations: If you suffer any loss or damage for which KAM Servicing is responsible, you must provide a reasonable opportunity for the issue to be rectified. You are required to take reasonable steps to minimise or avoid further loss or damage. KAM Servicing will not be liable where you fail to provide such opportunity or fail to mitigate losses. If an authorised repair is suspended at your request, or due to your breach of contract, KAM Servicing reserves the right to charge additional reasonable costs for any unavoidable expenses incurred. Wheel alignment and geometry may be affected by road conditions and are therefore not covered under this warranty. 13 Ownership of Parts: All parts fitted to the vehicle remain the property of KAM Servicing until payment has been made in full. 14 Parts Warranty: All new parts carry a warranty of 12 months or 12,000 miles (whichever occurs first). 15 Service Adjustments: This warranty does not cover serviceable adjustments. 16 Service Schedules: KAM Servicing schedules are independent and may differ from manufacturer recommendations. 17 Digital Service Records: KAM Servicing cannot guarantee that we can upload service history to online Digital Service Records. 18 Quotations: All quotations are valid for 7 days from the date of issue. 19 Order Acceptance: KAM Servicing reserves the right to refuse any order at its sole discretion. Where fraudulent activity is suspected, additional checks will be carried out, and relevant authorities WILL be notified. 20 Disposal of Parts: Any removed parts, except those covered under warranty or exchange agreements, will be disposed of by the end of the working day in accordance with environmental regulations. A disposal fee may apply. 21 Storage Charges: Storage charges may be applied to vehicles not collected within 5 days following completion of the work. 22 Vehicle Condition: KAM Servicing is not liable for any damage resulting from pre-existing structural defects or weaknesses in the vehicle. 23 Parking Risk: All vehicles left in the car park at owners’ risk. 24 Key Drop: Keys left in the key drop off box is at owners’ risk. BRANCHES Nottingham - Sherwood Nottingham - Bulwell Nottingham - Nuthall Nottingham - Colwick Nottingham - Hucknall Beeston Sutton-in-Ashfield Stapleford Derby - City Derby - Ascot Drive Derby - Sinfin Long Eaton - Derby Rd Long Eaton - Tamworth Rd Heanor Belper Ambergate SERVICES Book an MOT Book a Service Buy Tyres Book A/C Regas View All Services Renu Orthopedic hospital CBSE School faridabad © KAM Servicing - 2026 | Privacy Policy| All Services| Terms & Conditions",
+   "scrollW": 1512,
+   "vw": 1512,
+   "nodes": [
+    {
+     "k": "a|https://kamservicing.com/::1",
+     "t": "a",
+     "x": 198,
+     "y": 0,
+     "w": 286,
+     "h": 90,
+     "s": "",
+     "href": "https://kamservicing.com/"
+    },
+    {
+     "k": "img|logokams-2.png::1",
+     "t": "img",
+     "x": 198,
+     "y": 0,
+     "w": 286,
+     "h": 90,
+     "s": ""
+    },
+    {
+     "k": "a|/blank.php::1",
+     "t": "a",
+     "x": 1214,
+     "y": 22,
+     "w": 100,
+     "h": 47,
+     "s": "",
+     "href": "/blank.php"
+    },
+    {
+     "k": "span|£0.00::1",
+     "t": "span",
+     "x": 1228,
+     "y": 30,
+     "w": 46,
+     "h": 31,
+     "s": "£0.00"
+    },
+    {
+     "k": "nav|paints|rgb(38, 145, 213)|none::1",
+     "t": "nav",
+     "x": 0,
+     "y": 90,
+     "w": 1512,
+     "h": 47,
+     "s": ""
+    },
+    {
+     "k": "a|Home::1",
+     "t": "a",
+     "x": 198,
+     "y": 90,
+     "w": 86,
+     "h": 47,
+     "s": "Home",
+     "href": "/"
+    },
+    {
+     "k": "a|About::1",
+     "t": "a",
+     "x": 284,
+     "y": 90,
+     "w": 85,
+     "h": 47,
+     "s": "About",
+     "href": "https://kamservicing.com/#about"
+    },
+    {
+     "k": "a|Services::1",
+     "t": "a",
+     "x": 369,
+     "y": 90,
+     "w": 106,
+     "h": 47,
+     "s": "Services",
+     "href": "/all-kam-services.php"
+    },
+    {
+     "k": "a|Contact::1",
+     "t": "a",
+     "x": 475,
+     "y": 90,
+     "w": 101,
+     "h": 47,
+     "s": "Contact",
+     "href": "/kam-servicing.php"
+    },
+    {
+     "k": "a|Careers::1",
+     "t": "a",
+     "x": 576,
+     "y": 90,
+     "w": 101,
+     "h": 47,
+     "s": "Careers",
+     "href": "/careers_at_kam_servicing.php"
+    },
+    {
+     "k": "section|paints|rgb(239, 239, 239)|none::1",
+     "t": "section",
+     "x": 0,
+     "y": 137,
+     "w": 1512,
+     "h": 207,
+     "s": ""
+    },
+    {
+     "k": "h1|Warranty Terms & Conditions::1",
+     "t": "h1",
+     "x": 198,
+     "y": 197,
+     "w": 1116,
+     "h": 52,
+     "s": "Warranty Terms & Conditions"
+    },
+    {
+     "k": "p|KAM SERVICING – WARRANTY TERMS AND CONDITIONS::1",
+     "t": "p",
+     "x": 198,
+     "y": 257,
+     "w": 1116,
+     "h": 27,
+     "s": "KAM SERVICING – WARRANTY TERMS AND CONDITIONS"
+    },
+    {
+     "k": "section|paints|rgb(248, 249, 250)|none::1",
+     "t": "section",
+     "x": 0,
+     "y": 344,
+     "w": 1512,
+     "h": 2435,
+     "s": ""
+    },
+    {
+     "k": "div|paints|rgb(255, 255, 255)|none::1",
+     "t": "div",
+     "x": 293,
+     "y": 392,
+     "w": 926,
+     "h": 2339,
+     "s": ""
+    },
+    {
+     "k": "div|paints|rgba(0, 0, 0, 0)|none::1",
+     "t": "div",
+     "x": 341,
+     "y": 440,
+     "w": 830,
+     "h": 85,
+     "s": ""
+    },
+    {
+     "k": "div|1::1",
+     "t": "div",
+     "x": 356,
+     "y": 455,
+     "w": 35,
+     "h": 35,
+     "s": "1"
+    },
+    {
+     "k": "div|The original invoice must be provided before any work can be authorised under a ::1",
+     "t": "div",
+     "x": 406,
+     "y": 455,
+     "w": 750,
+     "h": 54,
+     "s": "The original invoice must be provided before any work can be authorised under a "
+    },
+    {
+     "k": "strong|Proof of Purchase:::1",
+     "t": "strong",
+     "x": 406,
+     "y": 458,
+     "w": 140,
+     "h": 20,
+     "s": "Proof of Purchase:"
+    },
+    {
+     "k": "div|paints|rgba(0, 0, 0, 0)|none::2",
+     "t": "div",
+     "x": 341,
+     "y": 525,
+     "w": 830,
+     "h": 85,
+     "s": ""
+    },
+    {
+     "k": "div|2::1",
+     "t": "div",
+     "x": 356,
+     "y": 540,
+     "w": 35,
+     "h": 35,
+     "s": "2"
+    },
+    {
+     "k": "div|The warranty is valid from the date and/or mileage stated on the invoice and onl::1",
+     "t": "div",
+     "x": 406,
+     "y": 540,
+     "w": 750,
+     "h": 54,
+     "s": "The warranty is valid from the date and/or mileage stated on the invoice and onl"
+    },
+    {
+     "k": "strong|Warranty Period:::1",
+     "t": "strong",
+     "x": 406,
+     "y": 543,
+     "w": 130,
+     "h": 20,
+     "s": "Warranty Period:"
+    },
+    {
+     "k": "div|paints|rgba(0, 0, 0, 0)|none::3",
+     "t": "div",
+     "x": 341,
+     "y": 610,
+     "w": 830,
+     "h": 112,
+     "s": ""
+    },
+    {
+     "k": "div|3::1",
+     "t": "div",
+     "x": 356,
+     "y": 625,
+     "w": 35,
+     "h": 35,
+     "s": "3"
+    },
+    {
+     "k": "div|KAM Servicing will endeavour to repair any defective part. If repair is not poss::1",
+     "t": "div",
+     "x": 406,
+     "y": 625,
+     "w": 750,
+     "h": 81,
+     "s": "KAM Servicing will endeavour to repair any defective part. If repair is not poss"
+    },
+    {
+     "k": "strong|Repairs and Replacements:::1",
+     "t": "strong",
+     "x": 406,
+     "y": 628,
+     "w": 202,
+     "h": 20,
+     "s": "Repairs and Replacements:"
+    },
+    {
+     "k": "div|paints|rgba(0, 0, 0, 0)|none::4",
+     "t": "div",
+     "x": 341,
+     "y": 722,
+     "w": 830,
+     "h": 85,
+     "s": ""
+    },
+    {
+     "k": "div|4::1",
+     "t": "div",
+     "x": 356,
+     "y": 737,
+     "w": 35,
+     "h": 35,
+     "s": "4"
+    },
+    {
+     "k": "div|The warranty will be void if any part is removed or interfered with by any third::1",
+     "t": "div",
+     "x": 406,
+     "y": 737,
+     "w": 750,
+     "h": 54,
+     "s": "The warranty will be void if any part is removed or interfered with by any third"
+    },
+    {
+     "k": "strong|Unauthorised Work:::1",
+     "t": "strong",
+     "x": 406,
+     "y": 740,
+     "w": 152,
+     "h": 20,
+     "s": "Unauthorised Work:"
+    },
+    {
+     "k": "div|paints|rgba(0, 0, 0, 0)|none::5",
+     "t": "div",
+     "x": 341,
+     "y": 807,
+     "w": 830,
+     "h": 85,
+     "s": ""
+    },
+    {
+     "k": "div|5::1",
+     "t": "div",
+     "x": 356,
+     "y": 822,
+     "w": 35,
+     "h": 35,
+     "s": "5"
+    },
+    {
+     "k": "div|KAM Servicing is not liable for any additional expenses, losses, or damages aris::1",
+     "t": "div",
+     "x": 406,
+     "y": 822,
+     "w": 750,
+     "h": 54,
+     "s": "KAM Servicing is not liable for any additional expenses, losses, or damages aris"
+    },
+    {
+     "k": "strong|Exclusions of Liability:::1",
+     "t": "strong",
+     "x": 406,
+     "y": 825,
+     "w": 166,
+     "h": 20,
+     "s": "Exclusions of Liability:"
+    },
+    {
+     "k": "div|paints|rgba(0, 0, 0, 0)|none::6",
+     "t": "div",
+     "x": 341,
+     "y": 892,
+     "w": 830,
+     "h": 85,
+     "s": ""
+    },
+    {
+     "k": "div|6::1",
+     "t": "div",
+     "x": 356,
+     "y": 907,
+     "w": 35,
+     "h": 35,
+     "s": "6"
+    },
+    {
+     "k": "div|Any mechanical repairs involving the engine or cylinder head gasket must be retu::1",
+     "t": "div",
+     "x": 406,
+     "y": 907,
+     "w": 750,
+     "h": 54,
+     "s": "Any mechanical repairs involving the engine or cylinder head gasket must be retu"
+    },
+    {
+     "k": "strong|Post-Repair Requirements:::1",
+     "t": "strong",
+     "x": 406,
+     "y": 910,
+     "w": 202,
+     "h": 20,
+     "s": "Post-Repair Requirements:"
+    },
+    {
+     "k": "div|paints|rgba(0, 0, 0, 0)|none::7",
+     "t": "div",
+     "x": 341,
+     "y": 977,
+     "w": 830,
+     "h": 85,
+     "s": ""
+    },
+    {
+     "k": "div|7::1",
+     "t": "div",
+     "x": 356,
+     "y": 992,
+     "w": 35,
+     "h": 35,
+     "s": "7"
+    },
+    {
+     "k": "div|The warranty will be void if a component failure is caused by another fault that::1",
+     "t": "div",
+     "x": 406,
+     "y": 992,
+     "w": 750,
+     "h": 54,
+     "s": "The warranty will be void if a component failure is caused by another fault that"
+    },
+    {
+     "k": "strong|Related Faults:::1",
+     "t": "strong",
+     "x": 406,
+     "y": 995,
+     "w": 112,
+     "h": 20,
+     "s": "Related Faults:"
+    },
+    {
+     "k": "div|paints|rgba(0, 0, 0, 0)|none::8",
+     "t": "div",
+     "x": 341,
+     "y": 1062,
+     "w": 830,
+     "h": 85,
+     "s": ""
+    },
+    {
+     "k": "div|8::1",
+     "t": "div",
+     "x": 356,
+     "y": 1077,
+     "w": 35,
+     "h": 35,
+     "s": "8"
+    },
+    {
+     "k": "div|KAM Servicing is not liable for any component failure that was not apparent at t::1",
+     "t": "div",
+     "x": 406,
+     "y": 1077,
+     "w": 750,
+     "h": 54,
+     "s": "KAM Servicing is not liable for any component failure that was not apparent at t"
+    },
+    {
+     "k": "strong|Undetected Issues:::1",
+     "t": "strong",
+     "x": 406,
+     "y": 1080,
+     "w": 146,
+     "h": 20,
+     "s": "Undetected Issues:"
+    },
+    {
+     "k": "div|paints|rgba(0, 0, 0, 0)|none::9",
+     "t": "div",
+     "x": 341,
+     "y": 1147,
+     "w": 830,
+     "h": 85,
+     "s": ""
+    },
+    {
+     "k": "div|9::1",
+     "t": "div",
+     "x": 356,
+     "y": 1162,
+     "w": 35,
+     "h": 35,
+     "s": "9"
+    },
+    {
+     "k": "div|The maximum liability under any warranty claim is limited to the cost of the par::1",
+     "t": "div",
+     "x": 406,
+     "y": 1162,
+     "w": 750,
+     "h": 54,
+     "s": "The maximum liability under any warranty claim is limited to the cost of the par"
+    },
+    {
+     "k": "strong|Maximum Liability:::1",
+     "t": "strong",
+     "x": 406,
+     "y": 1165,
+     "w": 141,
+     "h": 20,
+     "s": "Maximum Liability:"
+    },
+    {
+     "k": "div|paints|rgba(0, 0, 0, 0)|none::10",
+     "t": "div",
+     "x": 341,
+     "y": 1232,
+     "w": 830,
+     "h": 85,
+     "s": ""
+    },
+    {
+     "k": "div|10::1",
+     "t": "div",
+     "x": 356,
+     "y": 1247,
+     "w": 35,
+     "h": 35,
+     "s": "10"
+    },
+    {
+     "k": "div|In the event of a warranty claim, you must notify KAM Servicing and return the v::1",
+     "t": "div",
+     "x": 406,
+     "y": 1247,
+     "w": 750,
+     "h": 54,
+     "s": "In the event of a warranty claim, you must notify KAM Servicing and return the v"
+    },
+    {
+     "k": "strong|Warranty Claims Procedure:::1",
+     "t": "strong",
+     "x": 406,
+     "y": 1250,
+     "w": 212,
+     "h": 20,
+     "s": "Warranty Claims Procedure:"
+    },
+    {
+     "k": "div|paints|rgba(0, 0, 0, 0)|none::11",
+     "t": "div",
+     "x": 341,
+     "y": 1317,
+     "w": 830,
+     "h": 66,
+     "s": ""
+    },
+    {
+     "k": "div|11::1",
+     "t": "div",
+     "x": 356,
+     "y": 1332,
+     "w": 35,
+     "h": 35,
+     "s": "11"
+    },
+    {
+     "k": "div|This warranty does not cover damage resulting from normal wear and tear.::1",
+     "t": "div",
+     "x": 406,
+     "y": 1332,
+     "w": 639,
+     "h": 27,
+     "s": "This warranty does not cover damage resulting from normal wear and tear."
+    },
+    {
+     "k": "strong|Wear and Tear:::1",
+     "t": "strong",
+     "x": 406,
+     "y": 1335,
+     "w": 115,
+     "h": 20,
+     "s": "Wear and Tear:"
+    },
+    {
+     "k": "div|paints|rgba(0, 0, 0, 0)|none::12",
+     "t": "div",
+     "x": 341,
+     "y": 1383,
+     "w": 830,
+     "h": 322,
+     "s": ""
+    },
+    {
+     "k": "div|12::1",
+     "t": "div",
+     "x": 356,
+     "y": 1398,
+     "w": 35,
+     "h": 35,
+     "s": "12"
+    },
+    {
+     "k": "strong|Customer Responsibilities and Limitations:::1",
+     "t": "strong",
+     "x": 406,
+     "y": 1401,
+     "w": 323,
+     "h": 20,
+     "s": "Customer Responsibilities and Limitations:"
+    },
+    {
+     "k": "li|If you suffer any loss or damage for which KAM Servicing is responsible, you mus::1",
+     "t": "li",
+     "x": 424,
+     "y": 1433,
+     "w": 732,
+     "h": 54,
+     "s": "If you suffer any loss or damage for which KAM Servicing is responsible, you mus"
+    },
+    {
+     "k": "li|You are required to take reasonable steps to minimise or avoid further loss or d::1",
+     "t": "li",
+     "x": 424,
+     "y": 1493,
+     "w": 732,
+     "h": 27,
+     "s": "You are required to take reasonable steps to minimise or avoid further loss or d"
+    },
+    {
+     "k": "li|KAM Servicing will not be liable where you fail to provide such opportunity or f::1",
+     "t": "li",
+     "x": 424,
+     "y": 1526,
+     "w": 732,
+     "h": 27,
+     "s": "KAM Servicing will not be liable where you fail to provide such opportunity or f"
+    },
+    {
+     "k": "li|If an authorised repair is suspended at your request, or due to your breach of c::1",
+     "t": "li",
+     "x": 424,
+     "y": 1559,
+     "w": 732,
+     "h": 54,
+     "s": "If an authorised repair is suspended at your request, or due to your breach of c"
+    },
+    {
+     "k": "li|Wheel alignment and geometry may be affected by road conditions and are therefor::1",
+     "t": "li",
+     "x": 424,
+     "y": 1619,
+     "w": 732,
+     "h": 54,
+     "s": "Wheel alignment and geometry may be affected by road conditions and are therefor"
+    },
+    {
+     "k": "div|paints|rgba(0, 0, 0, 0)|none::13",
+     "t": "div",
+     "x": 341,
+     "y": 1705,
+     "w": 830,
+     "h": 85,
+     "s": ""
+    },
+    {
+     "k": "div|13::1",
+     "t": "div",
+     "x": 356,
+     "y": 1720,
+     "w": 35,
+     "h": 35,
+     "s": "13"
+    },
+    {
+     "k": "div|All parts fitted to the vehicle remain the property of KAM Servicing until payme::1",
+     "t": "div",
+     "x": 406,
+     "y": 1720,
+     "w": 750,
+     "h": 54,
+     "s": "All parts fitted to the vehicle remain the property of KAM Servicing until payme"
+    },
+    {
+     "k": "strong|Ownership of Parts:::1",
+     "t": "strong",
+     "x": 406,
+     "y": 1723,
+     "w": 151,
+     "h": 20,
+     "s": "Ownership of Parts:"
+    },
+    {
+     "k": "div|paints|rgba(0, 0, 0, 0)|none::14",
+     "t": "div",
+     "x": 341,
+     "y": 1790,
+     "w": 830,
+     "h": 66,
+     "s": ""
+    },
+    {
+     "k": "div|14::1",
+     "t": "div",
+     "x": 356,
+     "y": 1805,
+     "w": 35,
+     "h": 35,
+     "s": "14"
+    },
+    {
+     "k": "div|All new parts carry a warranty of 12 months or 12,000 miles (whichever occurs fi::1",
+     "t": "div",
+     "x": 406,
+     "y": 1805,
+     "w": 709,
+     "h": 27,
+     "s": "All new parts carry a warranty of 12 months or 12,000 miles (whichever occurs fi"
+    },
+    {
+     "k": "strong|Parts Warranty:::1",
+     "t": "strong",
+     "x": 406,
+     "y": 1808,
+     "w": 122,
+     "h": 20,
+     "s": "Parts Warranty:"
+    },
+    {
+     "k": "div|paints|rgba(0, 0, 0, 0)|none::15",
+     "t": "div",
+     "x": 341,
+     "y": 1856,
+     "w": 830,
+     "h": 66,
+     "s": ""
+    },
+    {
+     "k": "div|15::1",
+     "t": "div",
+     "x": 356,
+     "y": 1871,
+     "w": 35,
+     "h": 35,
+     "s": "15"
+    },
+    {
+     "k": "div|This warranty does not cover serviceable adjustments.::1",
+     "t": "div",
+     "x": 406,
+     "y": 1871,
+     "w": 545,
+     "h": 27,
+     "s": "This warranty does not cover serviceable adjustments."
+    },
+    {
+     "k": "strong|Service Adjustments:::1",
+     "t": "strong",
+     "x": 406,
+     "y": 1874,
+     "w": 160,
+     "h": 20,
+     "s": "Service Adjustments:"
+    },
+    {
+     "k": "div|paints|rgba(0, 0, 0, 0)|none::16",
+     "t": "div",
+     "x": 341,
+     "y": 1922,
+     "w": 830,
+     "h": 85,
+     "s": ""
+    },
+    {
+     "k": "div|16::1",
+     "t": "div",
+     "x": 356,
+     "y": 1937,
+     "w": 35,
+     "h": 35,
+     "s": "16"
+    },
+    {
+     "k": "div|KAM Servicing schedules are independent and may differ from manufacturer recomme::1",
+     "t": "div",
+     "x": 406,
+     "y": 1937,
+     "w": 750,
+     "h": 54,
+     "s": "KAM Servicing schedules are independent and may differ from manufacturer recomme"
+    },
+    {
+     "k": "strong|Service Schedules:::1",
+     "t": "strong",
+     "x": 406,
+     "y": 1940,
+     "w": 138,
+     "h": 20,
+     "s": "Service Schedules:"
+    },
+    {
+     "k": "div|paints|rgba(0, 0, 0, 0)|none::17",
+     "t": "div",
+     "x": 341,
+     "y": 2007,
+     "w": 830,
+     "h": 85,
+     "s": ""
+    },
+    {
+     "k": "div|17::1",
+     "t": "div",
+     "x": 356,
+     "y": 2022,
+     "w": 35,
+     "h": 35,
+     "s": "17"
+    },
+    {
+     "k": "div|KAM Servicing cannot guarantee that we can upload service history to online Digi::1",
+     "t": "div",
+     "x": 406,
+     "y": 2022,
+     "w": 750,
+     "h": 54,
+     "s": "KAM Servicing cannot guarantee that we can upload service history to online Digi"
+    },
+    {
+     "k": "strong|Digital Service Records:::1",
+     "t": "strong",
+     "x": 406,
+     "y": 2025,
+     "w": 178,
+     "h": 20,
+     "s": "Digital Service Records:"
+    },
+    {
+     "k": "div|paints|rgba(0, 0, 0, 0)|none::18",
+     "t": "div",
+     "x": 341,
+     "y": 2092,
+     "w": 830,
+     "h": 66,
+     "s": ""
+    },
+    {
+     "k": "div|18::1",
+     "t": "div",
+     "x": 356,
+     "y": 2107,
+     "w": 35,
+     "h": 35,
+     "s": "18"
+    },
+    {
+     "k": "div|All quotations are valid for 7 days from the date of issue.::1",
+     "t": "div",
+     "x": 406,
+     "y": 2107,
+     "w": 485,
+     "h": 27,
+     "s": "All quotations are valid for 7 days from the date of issue."
+    },
+    {
+     "k": "strong|Quotations:::1",
+     "t": "strong",
+     "x": 406,
+     "y": 2110,
+     "w": 91,
+     "h": 20,
+     "s": "Quotations:"
+    },
+    {
+     "k": "div|paints|rgba(0, 0, 0, 0)|none::19",
+     "t": "div",
+     "x": 341,
+     "y": 2158,
+     "w": 830,
+     "h": 112,
+     "s": ""
+    },
+    {
+     "k": "div|19::1",
+     "t": "div",
+     "x": 356,
+     "y": 2173,
+     "w": 35,
+     "h": 35,
+     "s": "19"
+    },
+    {
+     "k": "div|KAM Servicing reserves the right to refuse any order at its sole discretion. Whe::1",
+     "t": "div",
+     "x": 406,
+     "y": 2173,
+     "w": 750,
+     "h": 81,
+     "s": "KAM Servicing reserves the right to refuse any order at its sole discretion. Whe"
+    },
+    {
+     "k": "strong|Order Acceptance:::1",
+     "t": "strong",
+     "x": 406,
+     "y": 2176,
+     "w": 141,
+     "h": 20,
+     "s": "Order Acceptance:"
+    },
+    {
+     "k": "div|paints|rgba(0, 0, 0, 0)|none::20",
+     "t": "div",
+     "x": 341,
+     "y": 2270,
+     "w": 830,
+     "h": 112,
+     "s": ""
+    },
+    {
+     "k": "div|20::1",
+     "t": "div",
+     "x": 356,
+     "y": 2285,
+     "w": 35,
+     "h": 35,
+     "s": "20"
+    },
+    {
+     "k": "div|Any removed parts, except those covered under warranty or exchange agreements, w::1",
+     "t": "div",
+     "x": 406,
+     "y": 2285,
+     "w": 750,
+     "h": 81,
+     "s": "Any removed parts, except those covered under warranty or exchange agreements, w"
+    },
+    {
+     "k": "strong|Disposal of Parts:::1",
+     "t": "strong",
+     "x": 406,
+     "y": 2288,
+     "w": 134,
+     "h": 20,
+     "s": "Disposal of Parts:"
+    },
+    {
+     "k": "div|paints|rgba(0, 0, 0, 0)|none::21",
+     "t": "div",
+     "x": 341,
+     "y": 2382,
+     "w": 830,
+     "h": 85,
+     "s": ""
+    },
+    {
+     "k": "div|21::1",
+     "t": "div",
+     "x": 356,
+     "y": 2397,
+     "w": 35,
+     "h": 35,
+     "s": "21"
+    },
+    {
+     "k": "div|Storage charges may be applied to vehicles not collected within 5 days following::1",
+     "t": "div",
+     "x": 406,
+     "y": 2397,
+     "w": 750,
+     "h": 54,
+     "s": "Storage charges may be applied to vehicles not collected within 5 days following"
+    },
+    {
+     "k": "strong|Storage Charges:::1",
+     "t": "strong",
+     "x": 406,
+     "y": 2400,
+     "w": 132,
+     "h": 20,
+     "s": "Storage Charges:"
+    },
+    {
+     "k": "div|paints|rgba(0, 0, 0, 0)|none::22",
+     "t": "div",
+     "x": 341,
+     "y": 2467,
+     "w": 830,
+     "h": 85,
+     "s": ""
+    },
+    {
+     "k": "div|22::1",
+     "t": "div",
+     "x": 356,
+     "y": 2482,
+     "w": 35,
+     "h": 35,
+     "s": "22"
+    },
+    {
+     "k": "div|KAM Servicing is not liable for any damage resulting from pre-existing structura::1",
+     "t": "div",
+     "x": 406,
+     "y": 2482,
+     "w": 750,
+     "h": 54,
+     "s": "KAM Servicing is not liable for any damage resulting from pre-existing structura"
+    },
+    {
+     "k": "strong|Vehicle Condition:::1",
+     "t": "strong",
+     "x": 406,
+     "y": 2485,
+     "w": 135,
+     "h": 20,
+     "s": "Vehicle Condition:"
+    },
+    {
+     "k": "div|paints|rgba(0, 0, 0, 0)|none::23",
+     "t": "div",
+     "x": 341,
+     "y": 2552,
+     "w": 830,
+     "h": 66,
+     "s": ""
+    },
+    {
+     "k": "div|23::1",
+     "t": "div",
+     "x": 356,
+     "y": 2567,
+     "w": 35,
+     "h": 35,
+     "s": "23"
+    },
+    {
+     "k": "div|All vehicles left in the car park at owners’ risk.::1",
+     "t": "div",
+     "x": 406,
+     "y": 2567,
+     "w": 409,
+     "h": 27,
+     "s": "All vehicles left in the car park at owners’ risk."
+    },
+    {
+     "k": "strong|Parking Risk:::1",
+     "t": "strong",
+     "x": 406,
+     "y": 2570,
+     "w": 95,
+     "h": 20,
+     "s": "Parking Risk:"
+    },
+    {
+     "k": "div|24::1",
+     "t": "div",
+     "x": 356,
+     "y": 2633,
+     "w": 35,
+     "h": 35,
+     "s": "24"
+    },
+    {
+     "k": "div|Keys left in the key drop off box is at owners’ risk.::1",
+     "t": "div",
+     "x": 406,
+     "y": 2633,
+     "w": 423,
+     "h": 27,
+     "s": "Keys left in the key drop off box is at owners’ risk."
+    },
+    {
+     "k": "strong|Key Drop:::1",
+     "t": "strong",
+     "x": 406,
+     "y": 2636,
+     "w": 74,
+     "h": 20,
+     "s": "Key Drop:"
+    },
+    {
+     "k": "section|paints|rgb(38, 145, 213)|none::1",
+     "t": "section",
+     "x": 0,
+     "y": 2779,
+     "w": 1512,
+     "h": 585,
+     "s": ""
+    },
+    {
+     "k": "h4|BRANCHES::1",
+     "t": "h4",
+     "x": 198,
+     "y": 2839,
+     "w": 641,
+     "h": 31,
+     "s": "BRANCHES"
+    },
+    {
+     "k": "a|Nottingham - Sherwood::1",
+     "t": "a",
+     "x": 227,
+     "y": 2897,
+     "w": 165,
+     "h": 20,
+     "s": "Nottingham - Sherwood",
+     "href": "/kam-servicing-nottingham.php"
+    },
+    {
+     "k": "a|Nottingham - Bulwell::1",
+     "t": "a",
+     "x": 227,
+     "y": 2940,
+     "w": 143,
+     "h": 20,
+     "s": "Nottingham - Bulwell",
+     "href": "/kam-servicing-bulwell.php"
+    },
+    {
+     "k": "a|Nottingham - Nuthall::1",
+     "t": "a",
+     "x": 227,
+     "y": 2983,
+     "w": 142,
+     "h": 20,
+     "s": "Nottingham - Nuthall",
+     "href": "/kam-servicing-nuthall.php"
+    },
+    {
+     "k": "a|Nottingham - Colwick::1",
+     "t": "a",
+     "x": 227,
+     "y": 3026,
+     "w": 145,
+     "h": 20,
+     "s": "Nottingham - Colwick",
+     "href": "/kam-servicing-colwick.php"
+    },
+    {
+     "k": "a|Nottingham - Hucknall::1",
+     "t": "a",
+     "x": 227,
+     "y": 3069,
+     "w": 151,
+     "h": 20,
+     "s": "Nottingham - Hucknall",
+     "href": "/kam-servicing-hucknall.php"
+    },
+    {
+     "k": "a|Beeston::1",
+     "t": "a",
+     "x": 227,
+     "y": 3112,
+     "w": 59,
+     "h": 20,
+     "s": "Beeston",
+     "href": "/kam-servicing-beeston.php"
+    },
+    {
+     "k": "a|Sutton-in-Ashfield::1",
+     "t": "a",
+     "x": 227,
+     "y": 3155,
+     "w": 123,
+     "h": 20,
+     "s": "Sutton-in-Ashfield",
+     "href": "/kam-servicing-sutton.php"
+    },
+    {
+     "k": "a|Stapleford::1",
+     "t": "a",
+     "x": 227,
+     "y": 3198,
+     "w": 72,
+     "h": 20,
+     "s": "Stapleford",
+     "href": "/kam-servicing-stapleford.php"
+    },
+    {
+     "k": "a|Derby - City::1",
+     "t": "a",
+     "x": 560,
+     "y": 2897,
+     "w": 83,
+     "h": 20,
+     "s": "Derby - City",
+     "href": "/kam-servicing-derby.php"
+    },
+    {
+     "k": "a|Derby - Ascot Drive::1",
+     "t": "a",
+     "x": 560,
+     "y": 2940,
+     "w": 137,
+     "h": 20,
+     "s": "Derby - Ascot Drive",
+     "href": "/kam-servicing-ascot.php"
+    },
+    {
+     "k": "a|Derby - Sinfin::1",
+     "t": "a",
+     "x": 560,
+     "y": 2983,
+     "w": 93,
+     "h": 20,
+     "s": "Derby - Sinfin",
+     "href": "/kam-servicing-sinfin.php"
+    },
+    {
+     "k": "a|Long Eaton - Derby Rd::1",
+     "t": "a",
+     "x": 560,
+     "y": 3026,
+     "w": 158,
+     "h": 20,
+     "s": "Long Eaton - Derby Rd",
+     "href": "/kam-servicing-longeaton.php"
+    },
+    {
+     "k": "a|Long Eaton - Tamworth Rd::1",
+     "t": "a",
+     "x": 560,
+     "y": 3069,
+     "w": 187,
+     "h": 20,
+     "s": "Long Eaton - Tamworth Rd",
+     "href": "/kam-servicing-sawley.php"
+    },
+    {
+     "k": "a|Heanor::1",
+     "t": "a",
+     "x": 560,
+     "y": 3112,
+     "w": 52,
+     "h": 20,
+     "s": "Heanor",
+     "href": "/kam-servicing-heanor.php"
+    },
+    {
+     "k": "a|Belper::1",
+     "t": "a",
+     "x": 560,
+     "y": 3155,
+     "w": 46,
+     "h": 20,
+     "s": "Belper",
+     "href": "/kam-servicing-belper.php"
+    },
+    {
+     "k": "a|Ambergate::1",
+     "t": "a",
+     "x": 560,
+     "y": 3198,
+     "w": 78,
+     "h": 20,
+     "s": "Ambergate",
+     "href": "/kam-servicing-ambergate.php"
+    },
+    {
+     "k": "h4|SERVICES::1",
+     "t": "h4",
+     "x": 863,
+     "y": 2839,
+     "w": 451,
+     "h": 31,
+     "s": "SERVICES"
+    },
+    {
+     "k": "a|Book an MOT::1",
+     "t": "a",
+     "x": 1054,
+     "y": 2897,
+     "w": 94,
+     "h": 20,
+     "s": "Book an MOT",
+     "href": "/bookings.php"
+    },
+    {
+     "k": "a|Book a Service::1",
+     "t": "a",
+     "x": 1054,
+     "y": 2940,
+     "w": 101,
+     "h": 20,
+     "s": "Book a Service",
+     "href": "/bookings.php"
+    },
+    {
+     "k": "a|Buy Tyres::1",
+     "t": "a",
+     "x": 1054,
+     "y": 2983,
+     "w": 71,
+     "h": 20,
+     "s": "Buy Tyres",
+     "href": "/tyres.php"
+    },
+    {
+     "k": "a|Book A/C Regas::1",
+     "t": "a",
+     "x": 1054,
+     "y": 3026,
+     "w": 111,
+     "h": 20,
+     "s": "Book A/C Regas",
+     "href": "/bookings.php"
+    },
+    {
+     "k": "a|View All Services::1",
+     "t": "a",
+     "x": 1054,
+     "y": 3069,
+     "w": 114,
+     "h": 20,
+     "s": "View All Services",
+     "href": "/all-kam-services.php"
+    },
+    {
+     "k": "a|Renu::1",
+     "t": "a",
+     "x": 198,
+     "y": 3262,
+     "w": 28,
+     "h": 22,
+     "s": "Renu",
+     "href": "https://renusai.com/"
+    },
+    {
+     "k": "a|Orthopedic hospital::1",
+     "t": "a",
+     "x": 226,
+     "y": 3262,
+     "w": 115,
+     "h": 22,
+     "s": "Orthopedic hospital",
+     "href": "https://happy-hospitals.com/"
+    },
+    {
+     "k": "a|CBSE School faridabad::1",
+     "t": "a",
+     "x": 341,
+     "y": 3262,
+     "w": 129,
+     "h": 22,
+     "s": "CBSE School faridabad",
+     "href": "https://www.homertongrammar.com/"
+    },
+    {
+     "k": "footer|paints|rgb(248, 249, 250)|none::1",
+     "t": "footer",
+     "x": 0,
+     "y": 3363,
+     "w": 1512,
+     "h": 75,
+     "s": ""
+    },
+    {
+     "k": "p|© KAM Servicing - 2026 | | |::1",
+     "t": "p",
+     "x": 198,
+     "y": 3387,
+     "w": 1116,
+     "h": 27,
+     "s": "© KAM Servicing - 2026 | | |"
+    },
+    {
+     "k": "a|Privacy Policy::1",
+     "t": "a",
+     "x": 680,
+     "y": 3390,
+     "w": 94,
+     "h": 20,
+     "s": "Privacy Policy",
+     "href": "https://kamservicing.com/gdpr-privacy-policy.php"
+    },
+    {
+     "k": "a|All Services::1",
+     "t": "a",
+     "x": 787,
+     "y": 3390,
+     "w": 77,
+     "h": 20,
+     "s": "All Services",
+     "href": "https://kamservicing.com/all-kam-services.php"
+    },
+    {
+     "k": "a|Terms & Conditions::1",
+     "t": "a",
+     "x": 877,
+     "y": 3390,
+     "w": 137,
+     "h": 20,
+     "s": "Terms & Conditions",
+     "href": "https://kamservicing.com/terms-conditions.php"
+    }
+   ]
+  }
+ }
+}

@@ -1,0 +1,7 @@
+{
+  "name": "KAM Servicing — site",
+  "slug": "kam-site",
+  "version": "0.1.0",
+  "requires_php": "7.4",
+  "homepage": "https://github.com/coachbenedwards/kam-site"
+}

@@ -1,0 +1,523 @@
+{
+ "page": "hucknall",
+ "title": "Book MOT",
+ "replace": true,
+ "blocks": [
+  {
+   "class": "kam-blockrow",
+   "widgets": [
+    {
+     "block": "kam_tiles",
+     "fields": {
+      "h1": "1"
+     },
+     "lines": "https://kamservicing.eastwoodfc.com/wp-content/uploads/2026/10/mot-bg.jpg|Book MOT|from £39.99|https://kamservicing.com/bookings.php?q=1#mot\nhttps://kamservicing.eastwoodfc.com/wp-content/uploads/2026/10/oil-bg.jpg|Book Car Service|from £119.99|https://kamservicing.com/bookings.php?q=2#servicing\nhttps://kamservicing.eastwoodfc.com/wp-content/uploads/2026/10/ac-bg.jpg|Book Air Con Regas|from £59.99|https://kamservicing.com/bookings.php?q=3#ac\nhttps://kamservicing.eastwoodfc.com/wp-content/uploads/2026/10/tyres-bg.jpg|Book Car Tyres|from £18.00|https://kamservicing.com/tyres.php"
+    }
+   ]
+  },
+  {
+   "wrap": "booking-summary",
+   "class": "container mb-5",
+   "padding": {
+    "top": 0,
+    "right": 0,
+    "bottom": 0,
+    "left": 0
+   },
+   "columns": [
+    {
+     "class": "kam-blockrow text-center",
+     "width": 50,
+     "tablet": 50,
+     "padding": {
+      "top": 0,
+      "right": 12,
+      "bottom": 0,
+      "left": 12
+     },
+     "widgets": [
+      {
+       "widget": "image",
+       "fields": {
+        "url": "https://kamservicing.eastwoodfc.com/wp-content/uploads/2026/10/payment-assist.webp",
+        "alt": "Payment Assist",
+        "align": "center"
+       }
+      },
+      {
+       "widget": "text-editor",
+       "fields": {
+        "editor": "<p class=\"font-16\">Call <b>Liam</b> on <a href=\"tel:01157843733\">0115 784 3733</a> for details.</p>",
+        "class": "font-16"
+       }
+      }
+     ]
+    },
+    {
+     "class": "kam-blockrow",
+     "width": 50,
+     "tablet": 50,
+     "padding": {
+      "top": 0,
+      "right": 12,
+      "bottom": 0,
+      "left": 12
+     },
+     "widgets": [
+      {
+       "widget": "heading",
+       "fields": {
+        "tag": "h5",
+        "title": "<i class=\"fas fa-cog i-class-color\"></i> 0% finance pay monthly car repairs"
+       }
+      },
+      {
+       "widget": "text-editor",
+       "fields": {
+        "editor": "<hr><p class=\"font-16\">Don't let car repairs break the bank. Payment Assist offers affordable monthly payments. Apply today and get the help you need.</p><ul class=\"font-16\"><li class=\"pb-2\">Simply pay a 25% deposit upfront and then spread the remaining balance over three easy monthly payments.</li> <!-- <li class=\"pb-2\">Struggling to finance your car repairs due to your credit score? Look no further. No credit check is needed for repairs under £1,000.</li> --> <li class=\"pb-2\">We offer affordable car repairs under £1,000.</li></ul><p class=\"font-16\">Bad credit? No problem.<a href=\"#contact\"> Contact us</a> today and let Payment Assist take the strain.</p>",
+        "class": "font-16"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "wrap": "booking-summary-font container-grey",
+   "class": "container",
+   "padding": {
+    "top": 20,
+    "right": 8,
+    "bottom": 20,
+    "left": 8
+   },
+   "columns": [
+    {
+     "class": "kam-blockrow",
+     "width": 50,
+     "tablet": 50,
+     "padding": {
+      "top": 20,
+      "right": 20,
+      "bottom": 20,
+      "left": 20
+     },
+     "widgets": [
+      {
+       "widget": "heading",
+       "fields": {
+        "tag": "h5",
+        "title": "<i class=\"fas fa-cog i-class-color\"></i> Car servicing in Hucknall"
+       }
+      },
+      {
+       "widget": "text-editor",
+       "fields": {
+        "editor": "<hr><p class=\"font-16\">Hucknall Residents: Discover the AA-Approved Difference in Car Care!</p><p class=\"font-16\">As an AA-approved garage, we offer top-notch car servicing and repairs that keep your vehicle running smoothly and efficiently. Our expert team is dedicated to providing reliable, tailored maintenance that ensures optimal performance and peace of mind.</p><ul class=\"font-16\"><li class=\"pb-2\">AA-Approved Quality: Trust our reputation for excellence and customer satisfaction.</li> <li class=\"pb-2\">Expert Technicians: Our team has years of experience and is dedicated to providing top-notch service.</li> <li class=\"pb-2\"> Reliable Repairs: Count on us for expert car repairs that keep your car running smoothly.</li></ul><p class=\"font-16\">Let us help you keep your car in top condition. Schedule your car service today and discover why Hucknall residents trust us for expert car care.</p>",
+        "class": "font-16"
+       }
+      },
+      {
+       "block": "kam_buttons",
+       "fields": {
+        "book": "Book an Appointment",
+        "book_url": "https://kamservicing.com/bookings.php?q=2#servicing",
+        "call": "Call 0115 784 3733",
+        "call_url": "tel:01157843733"
+       }
+      }
+     ]
+    },
+    {
+     "class": "kam-blockrow",
+     "width": 50,
+     "tablet": 50,
+     "padding": {
+      "top": 20,
+      "right": 20,
+      "bottom": 20,
+      "left": 20
+     },
+     "widgets": [
+      {
+       "widget": "heading",
+       "fields": {
+        "tag": "h5",
+        "title": "<i class=\"fas fa-cog i-class-color\"></i> Book your MOT in Hucknall"
+       }
+      },
+      {
+       "widget": "text-editor",
+       "fields": {
+        "editor": "<hr><p class=\"font-16\">Need a MOT Test in Hucknall? Choose KAM for Reliable and Affordable Vehicle Inspections</p><p class=\"font-16\">At KAM, we prioritise your vehicle's safety and compliance. Our expert technicians conduct thorough MOT tests to ensure your car meets the highest roadworthiness standards. We offer competitive pricing and convenient scheduling to make the process hassle-free.</p><p class=\"font-16\">Why Choose KAM?</p><ul class=\"font-16\"><li class=\"pb-2\">Expert Technicians: Our skilled mechanics have years of experience in conducting MOT tests.</li> <li class=\"pb-2\">Comprehensive Inspections: We examine every aspect of your vehicle to guarantee its safety.</li> <li class=\"pb-2\">Convenient Scheduling: Book your MOT test online or by phone at your convenience.</li> <li class=\"pb-2\">Competitive Pricing: Enjoy affordable rates for our MOT services.</li> <li class=\"pb-2\">Combined Service and MOT Packages: Save money with our discounted packages. </li></ul><p class=\"font-16\">Contact us today to book your appointment. Let KAM keep your vehicle safe and compliant on the road.</p>",
+        "class": "font-16"
+       }
+      },
+      {
+       "block": "kam_buttons",
+       "fields": {
+        "book": "Book an Appointment",
+        "book_url": "https://kamservicing.com/bookings.php?q=1#mot",
+        "call": "Call 0115 784 3733",
+        "call_url": "tel:01157843733"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "wrap": "booking-summary-font container-grey",
+   "class": "container",
+   "padding": {
+    "top": 20,
+    "right": 8,
+    "bottom": 20,
+    "left": 8
+   },
+   "columns": [
+    {
+     "class": "kam-blockrow",
+     "width": 50,
+     "tablet": 50,
+     "padding": {
+      "top": 20,
+      "right": 20,
+      "bottom": 20,
+      "left": 20
+     },
+     "widgets": [
+      {
+       "widget": "heading",
+       "fields": {
+        "tag": "h5",
+        "title": "<i class=\"fas fa-cog i-class-color\"></i> Car tyres Hucknall"
+       }
+      },
+      {
+       "widget": "text-editor",
+       "fields": {
+        "editor": "<hr><p class=\"font-16\">Need new car tyres? KAM makes it a breeze. Enjoy fast and efficient fitting, a wide selection of tyres to suit your needs, and expert advice from our knowledgeable team. Book your appointment online or call us today for a hassle-free experience. We understand that choosing the right tyres can be overwhelming, so our team is here to guide you every step of the way.</p><p class=\"font-16\">From selecting the perfect tyres for your driving style and budget to ensuring a smooth and efficient fitting process, we've got you covered. Whether you're looking for budget-friendly options or premium brands, we have the perfect tyres to match your needs. Our knowledgeable team will help you find the right tyres for your vehicle, considering factors such as your driving habits, road conditions, and vehicle type.</p><p class=\"font-16\">Once you've selected your tyres, our expert technicians will efficiently install them, ensuring a safe and comfortable ride. We're committed to providing exceptional customer service, so you can trust us to make your tyre-buying experience as stress-free as possible.</p><p class=\"font-16\">Visit us today and discover the difference new car tyres can make.</p>",
+        "class": "font-16"
+       }
+      },
+      {
+       "block": "kam_buttons",
+       "fields": {
+        "book": "Book an Appointment",
+        "book_url": "https://kamservicing.com/bookings.php?q=4#tyres",
+        "call": "Call 0115 784 3733",
+        "call_url": "tel:01157843733"
+       }
+      }
+     ]
+    },
+    {
+     "class": "kam-blockrow",
+     "width": 50,
+     "tablet": 50,
+     "padding": {
+      "top": 20,
+      "right": 20,
+      "bottom": 20,
+      "left": 20
+     },
+     "widgets": [
+      {
+       "widget": "heading",
+       "fields": {
+        "tag": "h5",
+        "title": "<i class=\"fas fa-cog i-class-color\"></i> Cambelt replacement Hucknall"
+       }
+      },
+      {
+       "widget": "text-editor",
+       "fields": {
+        "editor": "<hr><p class=\"font-16\">Cambelt Replacement: A Vital Maintenance Task</p><p class=\"font-16\">A cambelt, or timing belt, is a crucial component in many modern internal combustion engines. It synchronises the rotation of the crankshaft and camshaft, ensuring that the engine's valves open and close at the correct times. Over time, cambelts can wear out, and if they fail catastrophically, it can lead to severe engine damage. To prevent this, regular cambelt replacement is essential.</p><p class=\"font-16\">Cambelt replacement intervals vary depending on the vehicle make and model. It's crucial to adhere to the manufacturer's recommended service schedule. Failing to replace the cambelt on time can lead to costly engine damage.</p><p class=\"font-16\">While cambelt replacement may seem like a significant expense, it's a necessary maintenance task to ensure the longevity of your vehicle. By following the manufacturer's recommended service schedule and seeking professional help, you can prevent costly engine repairs and keep your vehicle running smoothly.</p>",
+        "class": "font-16"
+       }
+      },
+      {
+       "block": "kam_buttons",
+       "fields": {
+        "book": "Enquire Now",
+        "book_url": "#contact",
+        "call": "Call 0115 784 3733",
+        "call_url": "tel:01157843733"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "wrap": "booking-summary-font container-grey",
+   "class": "container",
+   "padding": {
+    "top": 20,
+    "right": 8,
+    "bottom": 20,
+    "left": 8
+   },
+   "columns": [
+    {
+     "class": "kam-blockrow",
+     "width": 50,
+     "tablet": 50,
+     "padding": {
+      "top": 20,
+      "right": 20,
+      "bottom": 20,
+      "left": 20
+     },
+     "widgets": [
+      {
+       "widget": "heading",
+       "fields": {
+        "tag": "h5",
+        "title": "<i class=\"fas fa-cog i-class-color\"></i> DPF cleaning Hucknall"
+       }
+      },
+      {
+       "widget": "text-editor",
+       "fields": {
+        "editor": "<hr><p class=\"font-16\">Breathe New Life into Your DPF</p><p class=\"font-16\">Tired of your vehicle's sluggish performance and excessive fuel consumption? A clogged DPF could be the culprit.</p><p class=\"font-16\">Our advanced DPF cleaning service can:</p><p class=\"font-16\">Restore peak performance: Experience the power and efficiency your vehicle deserves.</p><p class=\"font-16\">Reduce harmful emissions: Help protect the environment and contribute to cleaner air.</p><p class=\"font-16\">Prevent costly repairs: Avoid major engine problems and save money in the long run.</p><p class=\"font-16\">How it works:</p><p class=\"font-16\">Our expert technicians use state-of-the-art technology to meticulously clean your DPF, removing harmful soot and contaminants. This process restores your DPF's original condition, ensuring optimal performance and fuel efficiency.</p>",
+        "class": "font-16"
+       }
+      },
+      {
+       "block": "kam_buttons",
+       "fields": {
+        "book": "Book an Appointment",
+        "book_url": "https://kamservicing.com/bookings.php?q=5#dpfc",
+        "call": "Call 0115 784 3733",
+        "call_url": "tel:01157843733"
+       }
+      }
+     ]
+    },
+    {
+     "class": "kam-blockrow",
+     "width": 50,
+     "tablet": 50,
+     "padding": {
+      "top": 20,
+      "right": 20,
+      "bottom": 20,
+      "left": 20
+     },
+     "widgets": [
+      {
+       "widget": "heading",
+       "fields": {
+        "tag": "h5",
+        "title": "<i class=\"fas fa-cog i-class-color\"></i> Hybrid EV servicing Hucknall"
+       }
+      },
+      {
+       "widget": "text-editor",
+       "fields": {
+        "editor": "<hr><p class=\"font-16\">Your Hybrid, Our Expertise</p><p class=\"font-16\">Our skilled technicians will meticulously examine your hybrid vehicle, focusing on these critical areas:</p><ul class=\"font-16\"><li class=\"pb-2\">Inverter Coolant: Ensuring optimal temperature for efficient operation.</li> <li class=\"pb-2\">Charging Point: Verifying its integrity for seamless charging. </li> <li class=\"pb-2\">Battery Health: Assessing its capacity and overall condition.</li> <li class=\"pb-2\">Regenerative Braking System: Checking its effectiveness in capturing energy.</li> <li class=\"pb-2\">Hybrid Control Module: Monitoring its precise management of power flow.</li></ul><p class=\"font-16\">Schedule your hybrid service today. Our commitment to excellence involves utilizing cutting-edge diagnostic tools and adhering strictly to manufacturer guidelines. Trust us to provide your hybrid vehicle with the highest quality care.</p>",
+        "class": "font-16"
+       }
+      },
+      {
+       "block": "kam_buttons",
+       "fields": {
+        "book": "Book an Appointment",
+        "book_url": "https://kamservicing.com/bookings.php?q=2#servicing",
+        "call": "Call 0115 784 3733",
+        "call_url": "tel:01157843733"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "wrap": "booking-summary",
+   "class": "container mb-5",
+   "padding": {
+    "top": 0,
+    "right": 0,
+    "bottom": 0,
+    "left": 0
+   },
+   "columns": [
+    {
+     "class": "kam-blockrow",
+     "width": 50,
+     "tablet": 50,
+     "padding": {
+      "top": 20,
+      "right": 20,
+      "bottom": 20,
+      "left": 20
+     },
+     "widgets": [
+      {
+       "widget": "heading",
+       "fields": {
+        "tag": "h5",
+        "title": "<i class=\"fas fa-cog i-class-color\"></i> Hucknall garage"
+       }
+      },
+      {
+       "widget": "text-editor",
+       "fields": {
+        "editor": "<hr><p class=\"font-16\"><i class=\"fas fa-map-marker-alt i-class-color\"></i> 10 Annesley Rd<br/> Hucknall<br/> Nottingham<br/> NG15 7AB</p><p class=\"font-16\"><a href=\"tel:01157843733\"><i class=\"fas fa-phone i-class-color\"></i> 0115 784 3733</a> <br/><i class=\"fas fa-envelope i-class-color\"></i> hucknall@kamservicing.com <br/><i class=\"fas fa-user i-class-color\"></i> Manager: Liam Masey</p><p class=\"font-16\"><i class=\"fas fa-clock i-class-color\"></i> Mon-Fri: 7.45am - 5.30pm<br/> Sat: 7.45am - 2.00pm<br/> Sun: Closed</p>",
+        "class": "font-16"
+       }
+      }
+     ]
+    },
+    {
+     "class": "kam-blockrow",
+     "width": 50,
+     "tablet": 50,
+     "padding": {
+      "top": 20,
+      "right": 20,
+      "bottom": 20,
+      "left": 20
+     },
+     "widgets": [
+      {
+       "widget": "heading",
+       "fields": {
+        "tag": "h5",
+        "title": "<i class=\"fas fa-envelope i-class-color\"></i> Get in touch"
+       }
+      },
+      {
+       "widget": "text-editor",
+       "fields": {
+        "editor": "<hr><p class=\"font-16\">Email us using the form below.</p>",
+        "class": "font-16"
+       }
+      },
+      {
+       "block": "kam_contact_form",
+       "fields": {
+        "depot": "aaaHuc",
+        "depot_name": "Nottingham - Hucknall",
+        "to": "",
+        "intro": ""
+       }
+      }
+     ]
+    }
+   ],
+   "id": "contact"
+  },
+  {
+   "wrap": "booking-summary",
+   "class": "container mb-5",
+   "padding": {
+    "top": 0,
+    "right": 0,
+    "bottom": 0,
+    "left": 0
+   },
+   "columns": [
+    {
+     "class": "kam-blockrow",
+     "width": 50,
+     "tablet": 50,
+     "padding": {
+      "top": 20,
+      "right": 20,
+      "bottom": 20,
+      "left": 20
+     },
+     "widgets": [
+      {
+       "widget": "heading",
+       "fields": {
+        "tag": "h5",
+        "title": "<i class=\"fas fa-cog i-class-color\"></i> Where can I find KAM Servicing in Hucknall?"
+       }
+      },
+      {
+       "widget": "text-editor",
+       "fields": {
+        "editor": "<hr><p class=\"font-16\">Our garage is just a stone's throw away from Hucknall's bustling town center and train station. This prime location offers the perfect blend of convenience and accessibility. While you explore the vibrant shops, indulge in delicious dining, or simply unwind, rest assured that your vehicle is in the most capable hands.</p>",
+        "class": "font-16"
+       }
+      },
+      {
+       "block": "kam_buttons",
+       "fields": {
+        "book": "Book an Appointment",
+        "book_url": "https://kamservicing.com/bookings.php?q=6#clutchcheck",
+        "call": "Call 0115 784 3733",
+        "call_url": "tel:01157843733"
+       }
+      }
+     ]
+    },
+    {
+     "class": "kam-blockrow",
+     "width": 50,
+     "tablet": 50,
+     "padding": {
+      "top": 20,
+      "right": 20,
+      "bottom": 20,
+      "left": 20
+     },
+     "widgets": [
+      {
+       "block": "kam_map",
+       "fields": {
+        "lat": "53.040480",
+        "lng": "-1.208004",
+        "zoom": "16",
+        "title": "KAM hucknall"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "wrap": "booking-summary",
+   "class": "container mb-5",
+   "padding": {
+    "top": 0,
+    "right": 0,
+    "bottom": 0,
+    "left": 0
+   },
+   "columns": [
+    {
+     "class": "kam-blockrow",
+     "width": 100,
+     "tablet": 100,
+     "padding": {
+      "top": 20,
+      "right": 20,
+      "bottom": 20,
+      "left": 20
+     },
+     "widgets": [
+      {
+       "widget": "heading",
+       "fields": {
+        "tag": "h5",
+        "title": "<i class=\"fas fa-cog i-class-color\"></i> Why choose KAM Servicing?"
+       }
+      },
+      {
+       "widget": "text-editor",
+       "fields": {
+        "editor": "<hr><p class=\"font-16\">We specialise in providing top-tier car servicing for all makes and models, catering to the needs of drivers in Hucknall and the surrounding areas. Our team of skilled technicians is dedicated to delivering exceptional service, ensuring your vehicle performs at its best.</p>",
+        "class": "font-16"
+       }
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1518 @@
+<!doctype html>
+<html lang="en">
+<head>
+        <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="shortcut icon" type="image/jpg" href="https://kamservicing.com/images/favicon.jpg"/>
+    <link rel="canonical" href="https://kamservicing.com/"/>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" referrerpolicy="no-referrer">
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="css/style.css?v=2.89">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/sweetalert2@11/dist/sweetalert2.min.css">
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-YBYYQN0PRW"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'G-YBYYQN0PRW');
+        gtag('config', 'AW-951545351');
+    </script>
+
+    <script>
+                console.log('conversion script is empty');
+            </script><script>
+                console.log('order total is s0');
+            </script>    
+    <title>Car Repairs, Servicing, Tyres and MOT, Nottingham & Derby : KAM</title>
+</head>
+<body>
+        <header class="masthead">
+        <div class="container d-flex justify-content-between align-items-center">
+            <!-- Logo -->
+            <a href="https://kamservicing.com/">
+                <img src="https://kamservicing.com/images/logokams-2.png" title="KAM Servicing AA Approved Garage Logo" class="img-fluid img-responsive" alt="KAM Logo">
+            </a>
+
+            <div class="cart-wrapper">
+                <p class="mb-0 text-end">
+                    <a href="/blank.php" class="cart-link">
+                        <span id="cartCount">£0.00</span>
+                        <i class="fa-solid fa-cart-shopping"></i>
+                    </a>
+                </p>
+            </div>
+
+        </div>
+    </header>
+    <nav class="navbar navbar-expand-md navbar-dark pt-0 pb-0" style="background-color:#2691D5;">
+        <div class="container">
+
+            <!-- Toggle button -->
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+                data-bs-target="#navbarNavDropdown"
+                aria-controls="navbarNavDropdown"
+                aria-expanded="false"
+                aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+
+            <!-- Navbar links -->
+            <div class="collapse navbar-collapse" id="navbarNavDropdown">
+                <ul class="navbar-nav me-auto mb-2 mb-md-0">
+
+                    <li class="nav-item">
+                        <a class="nav-link " href="/">
+                            Home
+                        </a>
+                    </li>
+
+                    <li class="nav-item">
+                        <a class="nav-link " href="https://kamservicing.com/#about">
+                            About
+                        </a>
+                    </li>
+
+                    <li class="nav-item">
+                        <a class="nav-link "
+                            href="/all-kam-services.php">
+                            Services
+                        </a>
+                    </li>
+
+                    <li class="nav-item">
+                        <a class="nav-link active"
+                            href="/kam-servicing.php">
+                            Contact
+                        </a>
+                    </li>
+
+                    <li class="nav-item">
+                        <a class="nav-link "
+                            href="/careers_at_kam_servicing.php">
+                            Careers
+                        </a>
+                    </li>
+
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+<style>
+    .branch-card {
+        box-shadow: 0 8px 25px rgb(0 0 0 / 4%)!important;
+    }
+
+    .branch-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 25px rgba(0,0,0,0.15);
+    }
+
+    .branch-title {
+    text-decoration: none;
+    color: #0d6efd;
+    }
+
+    .branch-title:hover {
+    text-decoration: underline;
+    }
+    .booking-card {
+        transition: all 0.3s ease-in-out;
+        border-radius: 12px;
+    }
+
+    .booking-card:hover {
+        transform: translateY(-6px);
+        box-shadow: 0px 12px 25px rgba(0,0,0,0.15);
+    }
+
+    .card {
+        border-radius: 14px;
+    }
+    .gradient-top-border {
+        position: relative;
+        border-radius: 14px;
+        overflow: hidden;
+    }
+
+    .gradient-top-border::before {
+        content: "";
+        position: absolute;
+        top: 0;
+        left: 0;
+        height: 5px;   /* border thickness */
+        width: 100%;
+        background: linear-gradient(135deg, #2691D5, #1c6fb0);
+    }
+
+    .gradient-top-border .card-body {
+        position: relative;
+        z-index: 1;
+    }
+
+    .custom-p-3 {
+        padding: 0 .75rem 0 .75rem;;
+    }
+    .theme-text-color {
+        color: #2691D5;
+    }
+</style>
+<main>
+                <div id="map_wrapper">
+            <div id="map_canvas" style="width:100%; height:420px;"></div>
+        </div>
+
+        <div class="container my-5">
+            <div class="row g-4">
+
+                                <div class="col-lg-4 col-md-6 col-12">
+
+                    <div class="card branch-card border-0 h-100">
+                    <div class="card-body text-center">
+
+                        <!-- Branch Name -->
+                        <h5 class="mb-2">
+                        <a href="https://kamservicing.com/kam-servicing-derby.php" class="branch-title">
+                            Derby - City                        </a>
+                        </h5>
+
+                        <!-- Location -->
+                                                <p class="mb-1">
+                            <a href="https://www.google.com/maps/place/KAM+Servicing/@52.9161479,-1.4837223,18z/data=!4m6!3m5!1s0x4879f1247657d81f:0xbf1f5277712d8a87!8m2!3d52.9161982!4d-1.4840074!16s%2Fg%2F1th0xwnw?entry=ttu&g_ep=EgoyMDI2MDMyOS4wIKXMDSoASAFQAw%3D%3D" target="_blank" class="text-decoration-none">
+                            <i class="fas fa-map-marker-alt text-danger fs-5"></i>
+                            </a>
+                            <span class="ms-1">252 Abbey St</span>
+                        </p>
+                        
+                        <p class="">
+                        Derby, DE22 3SW                        </p>
+
+                        <!-- Phone -->
+                       <p class="mt-2">
+                            <i class="fas fa-phone-alt text-primary"></i>
+                            <a href="tel:01332342002" class="text-dark ms-1 fw-semibold">
+                                01332 342 002                            </a>
+                        </p>
+
+                        <!-- WhatsApp -->
+                        <p class="">
+                        <a href="https://wa.me/07852953118" class="text-success fw-bold">
+                            <i class="fab fa-whatsapp fs-5"></i> 07852953118                        </a>
+                        </p>
+
+                    </div>
+                    </div>
+
+                </div>
+                                <div class="col-lg-4 col-md-6 col-12">
+
+                    <div class="card branch-card border-0 h-100">
+                    <div class="card-body text-center">
+
+                        <!-- Branch Name -->
+                        <h5 class="mb-2">
+                        <a href="https://kamservicing.com/kam-servicing-sinfin.php" class="branch-title">
+                            Derby - Sinfin                        </a>
+                        </h5>
+
+                        <!-- Location -->
+                                                <p class="mb-1">
+                            <a href="https://maps.google.com/maps?saddr=current+location&daddr=KAM+Servicing+%20DE249GP&ll=52.88570,-1.48549" target="_blank" class="text-decoration-none">
+                            <i class="fas fa-map-marker-alt text-danger fs-5"></i>
+                            </a>
+                            <span class="ms-1">Sinfin Lane</span>
+                        </p>
+                        
+                        <p class="">
+                        Derbyshire, DE24 9GP                        </p>
+
+                        <!-- Phone -->
+                       <p class="mt-2">
+                            <i class="fas fa-phone-alt text-primary"></i>
+                            <a href="tel:01332955488" class="text-dark ms-1 fw-semibold">
+                                01332 955 488                            </a>
+                        </p>
+
+                        <!-- WhatsApp -->
+                        <p class="">
+                        <a href="https://wa.me/07359718749" class="text-success fw-bold">
+                            <i class="fab fa-whatsapp fs-5"></i> 07359718749                        </a>
+                        </p>
+
+                    </div>
+                    </div>
+
+                </div>
+                                <div class="col-lg-4 col-md-6 col-12">
+
+                    <div class="card branch-card border-0 h-100">
+                    <div class="card-body text-center">
+
+                        <!-- Branch Name -->
+                        <h5 class="mb-2">
+                        <a href="https://kamservicing.com/kam-servicing-ascot.php" class="branch-title">
+                            Derby - Ascot Drive                        </a>
+                        </h5>
+
+                        <!-- Location -->
+                                                <p class="mb-1">
+                            <a href="https://maps.google.com/maps?saddr=current+location&daddr=Ascot+Drive+%20DE249GW&ll=52.898615164647936,-1.4523482867725273" target="_blank" class="text-decoration-none">
+                            <i class="fas fa-map-marker-alt text-danger fs-5"></i>
+                            </a>
+                            <span class="ms-1">Ascot Drive, Derby</span>
+                        </p>
+                        
+                        <p class="">
+                        Derbyshire, DE24 8GW                        </p>
+
+                        <!-- Phone -->
+                       <p class="mt-2">
+                            <i class="fas fa-phone-alt text-primary"></i>
+                            <a href="tel:01332438900" class="text-dark ms-1 fw-semibold">
+                                01332 438 900                            </a>
+                        </p>
+
+                        <!-- WhatsApp -->
+                        <p class="">
+                        <a href="https://wa.me/07731 573 720" class="text-success fw-bold">
+                            <i class="fab fa-whatsapp fs-5"></i> 07731 573 720                        </a>
+                        </p>
+
+                    </div>
+                    </div>
+
+                </div>
+                                <div class="col-lg-4 col-md-6 col-12">
+
+                    <div class="card branch-card border-0 h-100">
+                    <div class="card-body text-center">
+
+                        <!-- Branch Name -->
+                        <h5 class="mb-2">
+                        <a href="https://kamservicing.com/kam-servicing-nottingham.php" class="branch-title">
+                            Nottingham - Sherwood                        </a>
+                        </h5>
+
+                        <!-- Location -->
+                                                <p class="mb-1">
+                            <a href="https://maps.google.com/maps?saddr=current+location&daddr=KAM+Servicing+%20NG14EQ&ll=52.96427,-1.15315" target="_blank" class="text-decoration-none">
+                            <i class="fas fa-map-marker-alt text-danger fs-5"></i>
+                            </a>
+                            <span class="ms-1">259 North Sherwood St</span>
+                        </p>
+                        
+                        <p class="">
+                        Nottingham, NG1 4EQ                        </p>
+
+                        <!-- Phone -->
+                       <p class="mt-2">
+                            <i class="fas fa-phone-alt text-primary"></i>
+                            <a href="tel:01159472222" class="text-dark ms-1 fw-semibold">
+                                01159 472 222                            </a>
+                        </p>
+
+                        <!-- WhatsApp -->
+                        <p class="d-none">
+                        <a href="https://wa.me/0447852953118" class="text-success fw-bold">
+                            <i class="fab fa-whatsapp fs-5"></i> 0447852953118                        </a>
+                        </p>
+
+                    </div>
+                    </div>
+
+                </div>
+                                <div class="col-lg-4 col-md-6 col-12">
+
+                    <div class="card branch-card border-0 h-100">
+                    <div class="card-body text-center">
+
+                        <!-- Branch Name -->
+                        <h5 class="mb-2">
+                        <a href="https://kamservicing.com/kam-servicing-colwick.php" class="branch-title">
+                            Nottingham - Colwick                        </a>
+                        </h5>
+
+                        <!-- Location -->
+                                                <p class="mb-1">
+                            <a href="https://maps.google.com/maps?saddr=current+location&daddr=KAM+Servicing+%20NG42JW&ll=52.960148,-1.079433" target="_blank" class="text-decoration-none">
+                            <i class="fas fa-map-marker-alt text-danger fs-5"></i>
+                            </a>
+                            <span class="ms-1">Private Road Number 7, Colwick</span>
+                        </p>
+                        
+                        <p class="">
+                        Colwick, NG4 2JW                        </p>
+
+                        <!-- Phone -->
+                       <p class="mt-2">
+                            <i class="fas fa-phone-alt text-primary"></i>
+                            <a href="tel:01159879846" class="text-dark ms-1 fw-semibold">
+                                01159 879 846                            </a>
+                        </p>
+
+                        <!-- WhatsApp -->
+                        <p class="">
+                        <a href="https://wa.me/07527 296 331" class="text-success fw-bold">
+                            <i class="fab fa-whatsapp fs-5"></i> 07527 296 331                        </a>
+                        </p>
+
+                    </div>
+                    </div>
+
+                </div>
+                                <div class="col-lg-4 col-md-6 col-12">
+
+                    <div class="card branch-card border-0 h-100">
+                    <div class="card-body text-center">
+
+                        <!-- Branch Name -->
+                        <h5 class="mb-2">
+                        <a href="https://kamservicing.com/kam-servicing-nuthall.php" class="branch-title">
+                            Nottingham - Nuthall                        </a>
+                        </h5>
+
+                        <!-- Location -->
+                                                <p class="mb-1">
+                            <a href="https://maps.google.com/maps?saddr=current+location&daddr=KAM+Servicing+%20NG85BY&ll=52.97095,-1.18459" target="_blank" class="text-decoration-none">
+                            <i class="fas fa-map-marker-alt text-danger fs-5"></i>
+                            </a>
+                            <span class="ms-1">100 Nuthall Rd</span>
+                        </p>
+                        
+                        <p class="">
+                        Nottingham, NG8 5BY                        </p>
+
+                        <!-- Phone -->
+                       <p class="mt-2">
+                            <i class="fas fa-phone-alt text-primary"></i>
+                            <a href="tel:01159296964" class="text-dark ms-1 fw-semibold">
+                                01159 296 964                            </a>
+                        </p>
+
+                        <!-- WhatsApp -->
+                        <p class="">
+                        <a href="https://wa.me/07948 203974" class="text-success fw-bold">
+                            <i class="fab fa-whatsapp fs-5"></i> 07948 203974                        </a>
+                        </p>
+
+                    </div>
+                    </div>
+
+                </div>
+                                <div class="col-lg-4 col-md-6 col-12">
+
+                    <div class="card branch-card border-0 h-100">
+                    <div class="card-body text-center">
+
+                        <!-- Branch Name -->
+                        <h5 class="mb-2">
+                        <a href="https://kamservicing.com/kam-servicing-bulwell.php" class="branch-title">
+                            Nottingham - Bulwell                        </a>
+                        </h5>
+
+                        <!-- Location -->
+                                                <p class="mb-1">
+                            <a href="https://maps.google.com/maps?saddr=current+location&daddr=KAM+Servicing+%20NG69DQ&ll=52.99445,-1.19007" target="_blank" class="text-decoration-none">
+                            <i class="fas fa-map-marker-alt text-danger fs-5"></i>
+                            </a>
+                            <span class="ms-1">Highbury Rd, Bulwell</span>
+                        </p>
+                        
+                        <p class="">
+                        Nottingham, NG6 9DQ                        </p>
+
+                        <!-- Phone -->
+                       <p class="mt-2">
+                            <i class="fas fa-phone-alt text-primary"></i>
+                            <a href="tel:01159756337" class="text-dark ms-1 fw-semibold">
+                                01159 756 337                            </a>
+                        </p>
+
+                        <!-- WhatsApp -->
+                        <p class="">
+                        <a href="https://wa.me/07561 199 965" class="text-success fw-bold">
+                            <i class="fab fa-whatsapp fs-5"></i> 07561 199 965                        </a>
+                        </p>
+
+                    </div>
+                    </div>
+
+                </div>
+                                <div class="col-lg-4 col-md-6 col-12">
+
+                    <div class="card branch-card border-0 h-100">
+                    <div class="card-body text-center">
+
+                        <!-- Branch Name -->
+                        <h5 class="mb-2">
+                        <a href="https://kamservicing.com/kam-servicing-hucknall.php" class="branch-title">
+                            Nottingham - Hucknall                        </a>
+                        </h5>
+
+                        <!-- Location -->
+                                                <p class="mb-1">
+                            <a href="https://maps.google.com/maps?saddr=current+location&daddr=KAM+Servicing+%20NG157AB&ll=53.040480,-1.208004" target="_blank" class="text-decoration-none">
+                            <i class="fas fa-map-marker-alt text-danger fs-5"></i>
+                            </a>
+                            <span class="ms-1">Annesley Rd, Hucknall</span>
+                        </p>
+                        
+                        <p class="">
+                        Nottingham, NG15 7AB                        </p>
+
+                        <!-- Phone -->
+                       <p class="mt-2">
+                            <i class="fas fa-phone-alt text-primary"></i>
+                            <a href="tel:01157843733" class="text-dark ms-1 fw-semibold">
+                                01157 843 733                            </a>
+                        </p>
+
+                        <!-- WhatsApp -->
+                        <p class="">
+                        <a href="https://wa.me/07939 196 886" class="text-success fw-bold">
+                            <i class="fab fa-whatsapp fs-5"></i> 07939 196 886                        </a>
+                        </p>
+
+                    </div>
+                    </div>
+
+                </div>
+                                <div class="col-lg-4 col-md-6 col-12">
+
+                    <div class="card branch-card border-0 h-100">
+                    <div class="card-body text-center">
+
+                        <!-- Branch Name -->
+                        <h5 class="mb-2">
+                        <a href="https://kamservicing.com/kam-servicing-beeston.php" class="branch-title">
+                            Beeston                        </a>
+                        </h5>
+
+                        <!-- Location -->
+                                                <p class="mb-1">
+                            <a href="https://maps.google.com/maps?saddr=current+location&daddr=KAM+Servicing+%20NG92FD&ll=52.92761,-1.20298" target="_blank" class="text-decoration-none">
+                            <i class="fas fa-map-marker-alt text-danger fs-5"></i>
+                            </a>
+                            <span class="ms-1">Queens Rd, Beeston</span>
+                        </p>
+                        
+                        <p class="">
+                        Nottingham, NG9 2FD                        </p>
+
+                        <!-- Phone -->
+                       <p class="mt-2">
+                            <i class="fas fa-phone-alt text-primary"></i>
+                            <a href="tel:01159678111" class="text-dark ms-1 fw-semibold">
+                                01159 678 111                            </a>
+                        </p>
+
+                        <!-- WhatsApp -->
+                        <p class="d-none">
+                        <a href="https://wa.me/0447852953118" class="text-success fw-bold">
+                            <i class="fab fa-whatsapp fs-5"></i> 0447852953118                        </a>
+                        </p>
+
+                    </div>
+                    </div>
+
+                </div>
+                                <div class="col-lg-4 col-md-6 col-12">
+
+                    <div class="card branch-card border-0 h-100">
+                    <div class="card-body text-center">
+
+                        <!-- Branch Name -->
+                        <h5 class="mb-2">
+                        <a href="https://kamservicing.com/kam-servicing-sawley.php" class="branch-title">
+                            Long Eaton - Tamworth Rd                        </a>
+                        </h5>
+
+                        <!-- Location -->
+                                                <p class="mb-1">
+                            <a href="https://maps.google.com/maps?saddr=current+location&daddr=KAM+Servicing+%20NG103FB&ll=52.87946,-1.29409" target="_blank" class="text-decoration-none">
+                            <i class="fas fa-map-marker-alt text-danger fs-5"></i>
+                            </a>
+                            <span class="ms-1">Tamworth Rd, Long Eaton</span>
+                        </p>
+                        
+                        <p class="">
+                        Nottingham, NG10 3FB                        </p>
+
+                        <!-- Phone -->
+                       <p class="mt-2">
+                            <i class="fas fa-phone-alt text-primary"></i>
+                            <a href="tel:01159460879" class="text-dark ms-1 fw-semibold">
+                                01159 460 879                            </a>
+                        </p>
+
+                        <!-- WhatsApp -->
+                        <p class="d-none">
+                        <a href="https://wa.me/0447852953118" class="text-success fw-bold">
+                            <i class="fab fa-whatsapp fs-5"></i> 0447852953118                        </a>
+                        </p>
+
+                    </div>
+                    </div>
+
+                </div>
+                                <div class="col-lg-4 col-md-6 col-12">
+
+                    <div class="card branch-card border-0 h-100">
+                    <div class="card-body text-center">
+
+                        <!-- Branch Name -->
+                        <h5 class="mb-2">
+                        <a href="https://kamservicing.com/kam-servicing-stapleford.php" class="branch-title">
+                            Stapleford                        </a>
+                        </h5>
+
+                        <!-- Location -->
+                                                <p class="mb-1">
+                            <a href="https://maps.google.com/maps?saddr=current+location&daddr=KAM+Servicing+%20NG98PA&ll=52.94053,-1.26065" target="_blank" class="text-decoration-none">
+                            <i class="fas fa-map-marker-alt text-danger fs-5"></i>
+                            </a>
+                            <span class="ms-1">Hickings Lane, Stapleford</span>
+                        </p>
+                        
+                        <p class="">
+                        Nottingham, NG9 8PJ                        </p>
+
+                        <!-- Phone -->
+                       <p class="mt-2">
+                            <i class="fas fa-phone-alt text-primary"></i>
+                            <a href="tel:01159252525" class="text-dark ms-1 fw-semibold">
+                                01159 252 525                            </a>
+                        </p>
+
+                        <!-- WhatsApp -->
+                        <p class="">
+                        <a href="https://wa.me/07939 196 866" class="text-success fw-bold">
+                            <i class="fab fa-whatsapp fs-5"></i> 07939 196 866                        </a>
+                        </p>
+
+                    </div>
+                    </div>
+
+                </div>
+                                <div class="col-lg-4 col-md-6 col-12">
+
+                    <div class="card branch-card border-0 h-100">
+                    <div class="card-body text-center">
+
+                        <!-- Branch Name -->
+                        <h5 class="mb-2">
+                        <a href="https://kamservicing.com/kam-servicing-heanor.php" class="branch-title">
+                            Heanor                        </a>
+                        </h5>
+
+                        <!-- Location -->
+                                                <p class="mb-1">
+                            <a href="https://maps.google.com/maps?saddr=current+location&daddr=KAM+Servicing+%20DE757QL&ll=53.01144,-1.36486" target="_blank" class="text-decoration-none">
+                            <i class="fas fa-map-marker-alt text-danger fs-5"></i>
+                            </a>
+                            <span class="ms-1">Derby Rd, Heanor</span>
+                        </p>
+                        
+                        <p class="">
+                        Derbyshire, DE75 7QL                        </p>
+
+                        <!-- Phone -->
+                       <p class="mt-2">
+                            <i class="fas fa-phone-alt text-primary"></i>
+                            <a href="tel:01773710500" class="text-dark ms-1 fw-semibold">
+                                01773 710 500                            </a>
+                        </p>
+
+                        <!-- WhatsApp -->
+                        <p class="d-none">
+                        <a href="https://wa.me/0447852953118" class="text-success fw-bold">
+                            <i class="fab fa-whatsapp fs-5"></i> 0447852953118                        </a>
+                        </p>
+
+                    </div>
+                    </div>
+
+                </div>
+                                <div class="col-lg-4 col-md-6 col-12">
+
+                    <div class="card branch-card border-0 h-100">
+                    <div class="card-body text-center">
+
+                        <!-- Branch Name -->
+                        <h5 class="mb-2">
+                        <a href="https://kamservicing.com/kam-servicing-belper.php" class="branch-title">
+                            Belper                        </a>
+                        </h5>
+
+                        <!-- Location -->
+                                                <p class="mb-1">
+                            <a href="https://maps.google.com/maps?saddr=current+location&daddr=KAM+Servicing+%20DE561JL&ll=53.02658,-1.46308" target="_blank" class="text-decoration-none">
+                            <i class="fas fa-map-marker-alt text-danger fs-5"></i>
+                            </a>
+                            <span class="ms-1">Nottingham Rd, Belper</span>
+                        </p>
+                        
+                        <p class="">
+                        Derbyshire, DE56 1JL                        </p>
+
+                        <!-- Phone -->
+                       <p class="mt-2">
+                            <i class="fas fa-phone-alt text-primary"></i>
+                            <a href="tel:01773824114" class="text-dark ms-1 fw-semibold">
+                                01773 824 114                            </a>
+                        </p>
+
+                        <!-- WhatsApp -->
+                        <p class="d-none">
+                        <a href="https://wa.me/0447852953118" class="text-success fw-bold">
+                            <i class="fab fa-whatsapp fs-5"></i> 0447852953118                        </a>
+                        </p>
+
+                    </div>
+                    </div>
+
+                </div>
+                                <div class="col-lg-4 col-md-6 col-12">
+
+                    <div class="card branch-card border-0 h-100">
+                    <div class="card-body text-center">
+
+                        <!-- Branch Name -->
+                        <h5 class="mb-2">
+                        <a href="https://kamservicing.com/kam-servicing-longeaton.php" class="branch-title">
+                            Long Eaton - Derby Rd                        </a>
+                        </h5>
+
+                        <!-- Location -->
+                                                <p class="mb-1">
+                            <a href="https://maps.google.com/maps?saddr=current+location&daddr=KAM+Servicing+%20NG104LL&ll=52.90142,-1.28028" target="_blank" class="text-decoration-none">
+                            <i class="fas fa-map-marker-alt text-danger fs-5"></i>
+                            </a>
+                            <span class="ms-1">Derby Rd, Long Eaton</span>
+                        </p>
+                        
+                        <p class="">
+                        Nottingham, NG10 4LL                        </p>
+
+                        <!-- Phone -->
+                       <p class="mt-2">
+                            <i class="fas fa-phone-alt text-primary"></i>
+                            <a href="tel:01159461471" class="text-dark ms-1 fw-semibold">
+                                01159 461 471                            </a>
+                        </p>
+
+                        <!-- WhatsApp -->
+                        <p class="d-none">
+                        <a href="https://wa.me/0447852953118" class="text-success fw-bold">
+                            <i class="fab fa-whatsapp fs-5"></i> 0447852953118                        </a>
+                        </p>
+
+                    </div>
+                    </div>
+
+                </div>
+                                <div class="col-lg-4 col-md-6 col-12">
+
+                    <div class="card branch-card border-0 h-100">
+                    <div class="card-body text-center">
+
+                        <!-- Branch Name -->
+                        <h5 class="mb-2">
+                        <a href="https://kamservicing.com/kam-servicing-sutton.php" class="branch-title">
+                            Sutton-in-Ashfield                        </a>
+                        </h5>
+
+                        <!-- Location -->
+                                                <p class="mb-1">
+                            <a href="https://maps.google.com/maps?saddr=current+location&daddr=KAM+Servicing+%20NG175JP&ll=53.12094,-1.23773" target="_blank" class="text-decoration-none">
+                            <i class="fas fa-map-marker-alt text-danger fs-5"></i>
+                            </a>
+                            <span class="ms-1">Newark Rd, Sutton-in-Ashfield</span>
+                        </p>
+                        
+                        <p class="">
+                        Nottingham, NG17 5JP                        </p>
+
+                        <!-- Phone -->
+                       <p class="mt-2">
+                            <i class="fas fa-phone-alt text-primary"></i>
+                            <a href="tel:01623443399" class="text-dark ms-1 fw-semibold">
+                                01623 443 399                            </a>
+                        </p>
+
+                        <!-- WhatsApp -->
+                        <p class="d-none">
+                        <a href="https://wa.me/0447852953118" class="text-success fw-bold">
+                            <i class="fab fa-whatsapp fs-5"></i> 0447852953118                        </a>
+                        </p>
+
+                    </div>
+                    </div>
+
+                </div>
+                                <div class="col-lg-4 col-md-6 col-12">
+
+                    <div class="card branch-card border-0 h-100">
+                    <div class="card-body text-center">
+
+                        <!-- Branch Name -->
+                        <h5 class="mb-2">
+                        <a href="https://kamservicing.com/kam-servicing-ambergate.php" class="branch-title">
+                            Ambergate                        </a>
+                        </h5>
+
+                        <!-- Location -->
+                                                <p class="mb-1">
+                            <a href="https://www.google.com/maps/place/KAM+Servicing/@53.0621648,-1.4777341,18z/data=!4m6!3m5!1s0x48798ce9616069ab:0x47a6939b2bdb6c5c!8m2!3d53.0622627!4d-1.4772769!16s%2Fg%2F11bwc0vdwq" target="_blank" class="text-decoration-none">
+                            <i class="fas fa-map-marker-alt text-danger fs-5"></i>
+                            </a>
+                            <span class="ms-1">Ripley Rd, Ambergate</span>
+                        </p>
+                        
+                        <p class="">
+                        Derbyshire, DE56 2EP                        </p>
+
+                        <!-- Phone -->
+                       <p class="mt-2">
+                            <i class="fas fa-phone-alt text-primary"></i>
+                            <a href="tel:01773857912" class="text-dark ms-1 fw-semibold">
+                                01773 857 912                            </a>
+                        </p>
+
+                        <!-- WhatsApp -->
+                        <p class="d-none">
+                        <a href="https://wa.me/0447852953118" class="text-success fw-bold">
+                            <i class="fab fa-whatsapp fs-5"></i> 0447852953118                        </a>
+                        </p>
+
+                    </div>
+                    </div>
+
+                </div>
+                                <div class="col-lg-4 col-md-6 col-12">
+
+                    <div class="card branch-card border-0 h-100">
+                    <div class="card-body text-center">
+
+                        <!-- Branch Name -->
+                        <h5 class="mb-2">
+                        <a href="/#" class="branch-title">
+                            Emergency Contact                        </a>
+                        </h5>
+
+                        <!-- Location -->
+                                                <p class="text-danger fw-bold">
+                            For 24/7 Out Of Hours                        </p>
+                        
+                        <p class="text-danger fw-bold">
+                        Emergency Assistance                        </p>
+
+                        <!-- Phone -->
+                       <p class="mt-2">
+                            <i class="fas fa-phone-alt text-primary"></i>
+                            <a href="tel:07966320662" class="text-dark ms-1 fw-semibold">
+                                07966 320 662                            </a>
+                        </p>
+
+                        <!-- WhatsApp -->
+                        <p class="">
+                        <a href="https://wa.me/07966320662" class="text-success fw-bold">
+                            <i class="fab fa-whatsapp fs-5"></i> 07966320662                        </a>
+                        </p>
+
+                    </div>
+                    </div>
+
+                </div>
+                
+            </div>
+        </div>
+    
+</main>
+<section class="container-fluid hero text-white">
+   <div class="container">
+      <div class="row gy-4">
+
+         <!-- ================= LEFT : BRANCHES ================= -->
+         <div class="col-lg-7">
+            <h4 class="branch-title mb-4 text-white">BRANCHES</h4>
+
+            <div class="row">
+               <!-- First Column -->
+               <div class="col-md-6">
+                  <p><i class="fa-solid fa-location-dot text-white"></i>
+                     <a href="/kam-servicing-nottingham.php" class="text-white text-decoration-none ms-2">
+                        Nottingham - Sherwood
+                     </a>
+                  </p>
+
+                  <p><i class="fa-solid fa-location-dot text-white"></i>
+                     <a href="/kam-servicing-bulwell.php" class="text-white text-decoration-none ms-2">
+                        Nottingham - Bulwell
+                     </a>
+                  </p>
+
+                  <p><i class="fa-solid fa-location-dot text-white"></i>
+                     <a href="/kam-servicing-nuthall.php" class="text-white text-decoration-none ms-2">
+                        Nottingham - Nuthall
+                     </a>
+                  </p>
+
+                  <p><i class="fa-solid fa-location-dot text-white"></i>
+                     <a href="/kam-servicing-colwick.php" class="text-white text-decoration-none ms-2">
+                        Nottingham - Colwick
+                     </a>
+                  </p>
+
+                  <p><i class="fa-solid fa-location-dot text-white"></i>
+                     <a href="/kam-servicing-hucknall.php" class="text-white text-decoration-none ms-2">
+                        Nottingham - Hucknall
+                     </a>
+                  </p>
+
+                  <p><i class="fa-solid fa-location-dot text-white"></i>
+                     <a href="/kam-servicing-beeston.php" class="text-white text-decoration-none ms-2">
+                        Beeston
+                     </a>
+                  </p>
+
+                  <p><i class="fa-solid fa-location-dot text-white"></i>
+                     <a href="/kam-servicing-sutton.php" class="text-white text-decoration-none ms-2">
+                        Sutton-in-Ashfield
+                     </a>
+                  </p>
+
+                  <p><i class="fa-solid fa-location-dot text-white"></i>
+                     <a href="/kam-servicing-stapleford.php" class="text-white text-decoration-none ms-2">
+                        Stapleford
+                     </a>
+                  </p>
+               </div>
+
+               <!-- Second Column -->
+               <div class="col-md-6">
+                  <p><i class="fa-solid fa-location-dot text-white"></i>
+                     <a href="/kam-servicing-derby.php" class="text-white text-decoration-none ms-2">
+                        Derby - City
+                     </a>
+                  </p>
+
+                  <p><i class="fa-solid fa-location-dot text-white"></i>
+                     <a href="/kam-servicing-ascot.php" class="text-white text-decoration-none ms-2">
+                        Derby - Ascot Drive
+                     </a>
+                  </p>
+
+                  <p><i class="fa-solid fa-location-dot text-white"></i>
+                     <a href="/kam-servicing-sinfin.php" class="text-white text-decoration-none ms-2">
+                        Derby - Sinfin
+                     </a>
+                  </p>
+
+                  <p><i class="fa-solid fa-location-dot text-white"></i>
+                     <a href="/kam-servicing-longeaton.php" class="text-white text-decoration-none ms-2">
+                        Long Eaton - Derby Rd
+                     </a>
+                  </p>
+
+                  <p><i class="fa-solid fa-location-dot text-white"></i>
+                     <a href="/kam-servicing-sawley.php" class="text-white text-decoration-none ms-2">
+                        Long Eaton - Tamworth Rd
+                     </a>
+                  </p>
+
+                  <p><i class="fa-solid fa-location-dot text-white"></i>
+                     <a href="/kam-servicing-heanor.php" class="text-white text-decoration-none ms-2">
+                        Heanor
+                     </a>
+                  </p>
+
+                  <p><i class="fa-solid fa-location-dot text-white"></i>
+                     <a href="/kam-servicing-belper.php" class="text-white text-decoration-none ms-2">
+                        Belper
+                     </a>
+                  </p>
+
+                  <p><i class="fa-solid fa-location-dot text-white"></i>
+                     <a href="/kam-servicing-ambergate.php" class="text-white text-decoration-none ms-2">
+                        Ambergate
+                     </a>
+                  </p>
+               </div>
+            </div>
+         </div>
+
+         <!-- ================= RIGHT : SERVICES ================= -->
+         <div class="col-lg-5">
+            <h4 class="branch-title mb-4 text-white">SERVICES</h4>
+            <!-- services-box -->
+            <div class="">
+               <div class="row">
+                  <div class="col-md-4 d-none d-md-block"></div>
+                  <div class="col-md-6">
+                     <p><i class="fa-solid fa-wrench text-white"></i>
+                        <a href="/bookings.php" class="text-white text-decoration-none ms-2">Book an MOT</a>
+                     </p>
+                     <p><i class="fa-solid fa-wrench text-white"></i>
+                        <a href="/bookings.php" class="text-white text-decoration-none ms-2">Book a Service</a>
+                     </p>
+                     <p><i class="fa-solid fa-wrench text-white"></i>
+                        <a href="/tyres.php" class="text-white text-decoration-none ms-2">Buy Tyres</a>
+                     </p>
+                     <p><i class="fa-solid fa-wrench text-white"></i>
+                        <a href="/bookings.php" class="text-white text-decoration-none ms-2">Book A/C Regas</a>
+                     </p>
+                     <p><i class="fa-solid fa-magnifying-glass text-white"></i>
+                           <a href="/all-kam-services.php" class="text-white text-decoration-none ms-2">View All Services</a>
+                     </p>
+                  </div>
+               </div>
+            </div>
+
+         </div>
+         <div class="col-12 d-flex text-center">
+         <a href="https://renusai.com/" style="color:#2691D5!important;font-size:12px;">Renu</a><a href="https://happy-hospitals.com/" style="color:#2691D5!important;font-size:12px;">Orthopedic hospital</a><a href="https://www.homertongrammar.com/" style="color:#2691D5!important;font-size:12px;">CBSE School faridabad</a>
+      </div>
+      </div>
+   </div>
+</section>
+
+<footer class="text-center py-4 bg-light">
+   <div class="container">
+      <p class="mb-0">
+         &copy; KAM Servicing - 2026 |
+         <a href="https://kamservicing.com/gdpr-privacy-policy.php" class="privacy-policy">Privacy Policy</a>|
+         <a href="https://kamservicing.com/all-kam-services.php" class="all-services">All Services</a>|
+         <a href="https://kamservicing.com/terms-conditions.php" class="terms-and-conditions">Terms & Conditions</a>
+      </p>
+   </div>
+</footer>
+<script>
+   window.AJAX_URL = "https://kamservicing.com/ajax/";
+</script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+<script src="js/main.js?v=2.14"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+<div class="modal fade" id="addtocart-modal" tabindex="-1" aria-hidden="true">
+   <div class="modal-dialog modal-dialog-centered">
+      <div class="modal-content">
+         <div class="modal-header">
+            <h5 class="modal-title">Order Updated!</h5>
+         </div>
+         <div class="modal-body">
+            <p id="addtocart-message"></p>
+         </div>
+         <div class="modal-footer" id="addtocart-footer">
+            <a href="https://kamservicing.com/blank.php" class="btn btn-success btn-sm text-white">
+               <i class="fas fa-check"></i> Checkout
+            </a>
+            <a href="#" id="continue-shopping" class="btn btn-primary btn-sm text-white">
+               <i class="far fa-thumbs-up"></i> Continue Shopping
+            </a>
+         </div>
+      </div>
+   </div>
+</div>
+<script>
+    var VRM = '';
+    document.addEventListener("DOMContentLoaded", function() {
+        var modalEl = document.getElementById('feedback-modal');
+        if (modalEl) {
+            var modal = new bootstrap.Modal(modalEl);
+            modal.show();
+        }
+    });
+    $('#contactForm').on('submit', function(e) {
+        e.preventDefault();
+
+        let form = this;
+
+        if (!form.checkValidity()) {
+            form.reportValidity(); 
+            return;
+        }
+
+        var formData = $(form).serialize();
+
+        let btn = $('#submit-contact-form');
+        btn.prop('disabled', true);
+        btn.html(`<span class="spinner-border spinner-border-sm me-2"></span> Sending...`);
+
+        $.ajax({
+            url: AJAX_URL + 'contact-form-ajax.php',
+            type: 'POST',
+            data: formData,
+            dataType: 'json',
+            success: function(response) {
+
+                if(response.success == true){
+                    Swal.fire({
+                        title: 'Thank you!',
+                        text: 'Your message has been submitted successfully. Our team will contact you shortly.',
+                        icon: 'success'
+                    });
+                }else{
+                    Swal.fire({
+                        title: 'Error',
+                        text: 'Failed to send message',
+                        icon: 'error'
+                    });
+                }
+                form.reset();
+            },
+            error: function(xhr, status, error) {
+                console.error('AJAX Error:', error);
+
+                Swal.fire({
+                    title: 'Error',
+                    text: 'Failed to send message',
+                    icon: 'error'
+                });
+            },
+            complete: function() {
+                btn.prop('disabled', false);
+                btn.html(`<i class="fa fa-paper-plane me-2"></i> Send`);
+            }
+        });
+    });
+
+</script>
+<script>
+function initialize() {
+            // ALL DEPOTS MAP
+        const map = new google.maps.Map(document.getElementById("map_canvas"), {
+            mapTypeId: "roadmap"
+        });
+
+        const bounds = new google.maps.LatLngBounds();
+        const infoWindow = new google.maps.InfoWindow();
+
+        const markers = [
+                                            [
+                    "KAM Derby - City",
+                    52.9161982,
+                    -1.4840074                ],
+                                                        [
+                    "KAM Derby - Sinfin",
+                    52.8857,
+                    -1.48549                ],
+                                                        [
+                    "KAM Ascot",
+                    52.898615164648,
+                    -1.4523482867725                ],
+                                                        [
+                    "KAM Sherwood",
+                    52.96427,
+                    -1.15315                ],
+                                                        [
+                    "KAM Colwick",
+                    52.960148,
+                    -1.079433                ],
+                                                        [
+                    "KAM Nuthall",
+                    52.97095,
+                    -1.18459                ],
+                                                        [
+                    "KAM Bulwell",
+                    52.99445,
+                    -1.19007                ],
+                                                        [
+                    "KAM Hucknall",
+                    53.04048,
+                    -1.208004                ],
+                                                        [
+                    "KAM Beeston",
+                    52.92761,
+                    -1.20298                ],
+                                                        [
+                    "KAM Long Eaton - Tamworth Rd",
+                    52.87946,
+                    -1.29409                ],
+                                                        [
+                    "KAM Stapleford",
+                    52.94053,
+                    -1.26065                ],
+                                                        [
+                    "KAM Heanor",
+                    53.01144,
+                    -1.36486                ],
+                                                        [
+                    "KAM Belper",
+                    53.02658,
+                    -1.46308                ],
+                                                        [
+                    "KAM Long Eaton - Derby Rd",
+                    52.90142,
+                    -1.28028                ],
+                                                        [
+                    "KAM Sutton",
+                    53.12094,
+                    -1.23773                ],
+                                                        [
+                    "KAM Ambergate",
+                    53.0622627,
+                    -1.4772769                ],
+                                                            ];
+
+        /* INFO WINDOW CONTENT */
+        const infoWindowContent = [
+                        `<div class="text-center info_content">
+            <p><b>KAM Derby - City</b></p>
+
+            <p>
+                <i class="fas fa-map-marker-alt" style="color:#2691D5"></i>
+                252 Abbey St<br>
+                Derby, DE22 3SW            </p>
+
+            <p>
+                <i class="fas fa-phone" style="color:#2691D5"></i>
+                <a href="tel:01332342002">01332342002</a>
+            </p>
+
+            <a class="btn btn-danger btn-sm"
+            target="_blank"
+            href="https://www.google.com/maps/place/KAM+Servicing/@52.9161479,-1.4837223,18z/data=!4m6!3m5!1s0x4879f1247657d81f:0xbf1f5277712d8a87!8m2!3d52.9161982!4d-1.4840074!16s%2Fg%2F1th0xwnw?entry=ttu&g_ep=EgoyMDI2MDMyOS4wIKXMDSoASAFQAw%3D%3D">
+                Driving Directions
+                <i class="fas fa-chevron-right"></i>
+            </a>
+        </div>`,
+                                `<div class="text-center info_content">
+            <p><b>KAM Derby - Sinfin</b></p>
+
+            <p>
+                <i class="fas fa-map-marker-alt" style="color:#2691D5"></i>
+                Sinfin Lane<br>
+                Derbyshire, DE24 9GP            </p>
+
+            <p>
+                <i class="fas fa-phone" style="color:#2691D5"></i>
+                <a href="tel:01332955488">01332955488</a>
+            </p>
+
+            <a class="btn btn-danger btn-sm"
+            target="_blank"
+            href="https://maps.google.com/maps?saddr=current+location&daddr=KAM+Servicing+%20DE249GP&ll=52.88570,-1.48549">
+                Driving Directions
+                <i class="fas fa-chevron-right"></i>
+            </a>
+        </div>`,
+                                `<div class="text-center info_content">
+            <p><b>KAM Ascot</b></p>
+
+            <p>
+                <i class="fas fa-map-marker-alt" style="color:#2691D5"></i>
+                Ascot Drive, Derby<br>
+                Derbyshire, DE24 8GW            </p>
+
+            <p>
+                <i class="fas fa-phone" style="color:#2691D5"></i>
+                <a href="tel:01332438900">01332438900</a>
+            </p>
+
+            <a class="btn btn-danger btn-sm"
+            target="_blank"
+            href="https://maps.google.com/maps?saddr=current+location&daddr=Ascot+Drive+%20DE249GW&ll=52.898615164647936,-1.4523482867725273">
+                Driving Directions
+                <i class="fas fa-chevron-right"></i>
+            </a>
+        </div>`,
+                                `<div class="text-center info_content">
+            <p><b>KAM Sherwood</b></p>
+
+            <p>
+                <i class="fas fa-map-marker-alt" style="color:#2691D5"></i>
+                259 North Sherwood St<br>
+                Nottingham, NG1 4EQ            </p>
+
+            <p>
+                <i class="fas fa-phone" style="color:#2691D5"></i>
+                <a href="tel:01159472222">01159472222</a>
+            </p>
+
+            <a class="btn btn-danger btn-sm"
+            target="_blank"
+            href="https://maps.google.com/maps?saddr=current+location&daddr=KAM+Servicing+%20NG14EQ&ll=52.96427,-1.15315">
+                Driving Directions
+                <i class="fas fa-chevron-right"></i>
+            </a>
+        </div>`,
+                                `<div class="text-center info_content">
+            <p><b>KAM Colwick</b></p>
+
+            <p>
+                <i class="fas fa-map-marker-alt" style="color:#2691D5"></i>
+                Private Road Number 7, Colwick<br>
+                Colwick, NG4 2JW            </p>
+
+            <p>
+                <i class="fas fa-phone" style="color:#2691D5"></i>
+                <a href="tel:01159879846">01159879846</a>
+            </p>
+
+            <a class="btn btn-danger btn-sm"
+            target="_blank"
+            href="https://maps.google.com/maps?saddr=current+location&daddr=KAM+Servicing+%20NG42JW&ll=52.960148,-1.079433">
+                Driving Directions
+                <i class="fas fa-chevron-right"></i>
+            </a>
+        </div>`,
+                                `<div class="text-center info_content">
+            <p><b>KAM Nuthall</b></p>
+
+            <p>
+                <i class="fas fa-map-marker-alt" style="color:#2691D5"></i>
+                100 Nuthall Rd<br>
+                Nottingham, NG8 5BY            </p>
+
+            <p>
+                <i class="fas fa-phone" style="color:#2691D5"></i>
+                <a href="tel:01159296964">01159296964</a>
+            </p>
+
+            <a class="btn btn-danger btn-sm"
+            target="_blank"
+            href="https://maps.google.com/maps?saddr=current+location&daddr=KAM+Servicing+%20NG85BY&ll=52.97095,-1.18459">
+                Driving Directions
+                <i class="fas fa-chevron-right"></i>
+            </a>
+        </div>`,
+                                `<div class="text-center info_content">
+            <p><b>KAM Bulwell</b></p>
+
+            <p>
+                <i class="fas fa-map-marker-alt" style="color:#2691D5"></i>
+                Highbury Rd, Bulwell<br>
+                Nottingham, NG6 9DQ            </p>
+
+            <p>
+                <i class="fas fa-phone" style="color:#2691D5"></i>
+                <a href="tel:01159756337">01159756337</a>
+            </p>
+
+            <a class="btn btn-danger btn-sm"
+            target="_blank"
+            href="https://maps.google.com/maps?saddr=current+location&daddr=KAM+Servicing+%20NG69DQ&ll=52.99445,-1.19007">
+                Driving Directions
+                <i class="fas fa-chevron-right"></i>
+            </a>
+        </div>`,
+                                `<div class="text-center info_content">
+            <p><b>KAM Hucknall</b></p>
+
+            <p>
+                <i class="fas fa-map-marker-alt" style="color:#2691D5"></i>
+                Annesley Rd, Hucknall<br>
+                Nottingham, NG15 7AB            </p>
+
+            <p>
+                <i class="fas fa-phone" style="color:#2691D5"></i>
+                <a href="tel:01157843733">01157843733</a>
+            </p>
+
+            <a class="btn btn-danger btn-sm"
+            target="_blank"
+            href="https://maps.google.com/maps?saddr=current+location&daddr=KAM+Servicing+%20NG157AB&ll=53.040480,-1.208004">
+                Driving Directions
+                <i class="fas fa-chevron-right"></i>
+            </a>
+        </div>`,
+                                `<div class="text-center info_content">
+            <p><b>KAM Beeston</b></p>
+
+            <p>
+                <i class="fas fa-map-marker-alt" style="color:#2691D5"></i>
+                Queens Rd, Beeston<br>
+                Nottingham, NG9 2FD            </p>
+
+            <p>
+                <i class="fas fa-phone" style="color:#2691D5"></i>
+                <a href="tel:01159678111">01159678111</a>
+            </p>
+
+            <a class="btn btn-danger btn-sm"
+            target="_blank"
+            href="https://maps.google.com/maps?saddr=current+location&daddr=KAM+Servicing+%20NG92FD&ll=52.92761,-1.20298">
+                Driving Directions
+                <i class="fas fa-chevron-right"></i>
+            </a>
+        </div>`,
+                                `<div class="text-center info_content">
+            <p><b>KAM Long Eaton - Tamworth Rd</b></p>
+
+            <p>
+                <i class="fas fa-map-marker-alt" style="color:#2691D5"></i>
+                Tamworth Rd, Long Eaton<br>
+                Nottingham, NG10 3FB            </p>
+
+            <p>
+                <i class="fas fa-phone" style="color:#2691D5"></i>
+                <a href="tel:01159460879">01159460879</a>
+            </p>
+
+            <a class="btn btn-danger btn-sm"
+            target="_blank"
+            href="https://maps.google.com/maps?saddr=current+location&daddr=KAM+Servicing+%20NG103FB&ll=52.87946,-1.29409">
+                Driving Directions
+                <i class="fas fa-chevron-right"></i>
+            </a>
+        </div>`,
+                                `<div class="text-center info_content">
+            <p><b>KAM Stapleford</b></p>
+
+            <p>
+                <i class="fas fa-map-marker-alt" style="color:#2691D5"></i>
+                Hickings Lane, Stapleford<br>
+                Nottingham, NG9 8PJ            </p>
+
+            <p>
+                <i class="fas fa-phone" style="color:#2691D5"></i>
+                <a href="tel:01159252525">01159252525</a>
+            </p>
+
+            <a class="btn btn-danger btn-sm"
+            target="_blank"
+            href="https://maps.google.com/maps?saddr=current+location&daddr=KAM+Servicing+%20NG98PA&ll=52.94053,-1.26065">
+                Driving Directions
+                <i class="fas fa-chevron-right"></i>
+            </a>
+        </div>`,
+                                `<div class="text-center info_content">
+            <p><b>KAM Heanor</b></p>
+
+            <p>
+                <i class="fas fa-map-marker-alt" style="color:#2691D5"></i>
+                Derby Rd, Heanor<br>
+                Derbyshire, DE75 7QL            </p>
+
+            <p>
+                <i class="fas fa-phone" style="color:#2691D5"></i>
+                <a href="tel:01773710500">01773710500</a>
+            </p>
+
+            <a class="btn btn-danger btn-sm"
+            target="_blank"
+            href="https://maps.google.com/maps?saddr=current+location&daddr=KAM+Servicing+%20DE757QL&ll=53.01144,-1.36486">
+                Driving Directions
+                <i class="fas fa-chevron-right"></i>
+            </a>
+        </div>`,
+                                `<div class="text-center info_content">
+            <p><b>KAM Belper</b></p>
+
+            <p>
+                <i class="fas fa-map-marker-alt" style="color:#2691D5"></i>
+                Nottingham Rd, Belper<br>
+                Derbyshire, DE56 1JL            </p>
+
+            <p>
+                <i class="fas fa-phone" style="color:#2691D5"></i>
+                <a href="tel:01773824114">01773824114</a>
+            </p>
+
+            <a class="btn btn-danger btn-sm"
+            target="_blank"
+            href="https://maps.google.com/maps?saddr=current+location&daddr=KAM+Servicing+%20DE561JL&ll=53.02658,-1.46308">
+                Driving Directions
+                <i class="fas fa-chevron-right"></i>
+            </a>
+        </div>`,
+                                `<div class="text-center info_content">
+            <p><b>KAM Long Eaton - Derby Rd</b></p>
+
+            <p>
+                <i class="fas fa-map-marker-alt" style="color:#2691D5"></i>
+                Derby Rd, Long Eaton<br>
+                Nottingham, NG10 4LL            </p>
+
+            <p>
+                <i class="fas fa-phone" style="color:#2691D5"></i>
+                <a href="tel:01159461471">01159461471</a>
+            </p>
+
+            <a class="btn btn-danger btn-sm"
+            target="_blank"
+            href="https://maps.google.com/maps?saddr=current+location&daddr=KAM+Servicing+%20NG104LL&ll=52.90142,-1.28028">
+                Driving Directions
+                <i class="fas fa-chevron-right"></i>
+            </a>
+        </div>`,
+                                `<div class="text-center info_content">
+            <p><b>KAM Sutton</b></p>
+
+            <p>
+                <i class="fas fa-map-marker-alt" style="color:#2691D5"></i>
+                Newark Rd, Sutton-in-Ashfield<br>
+                Nottingham, NG17 5JP            </p>
+
+            <p>
+                <i class="fas fa-phone" style="color:#2691D5"></i>
+                <a href="tel:01623443399">01623443399</a>
+            </p>
+
+            <a class="btn btn-danger btn-sm"
+            target="_blank"
+            href="https://maps.google.com/maps?saddr=current+location&daddr=KAM+Servicing+%20NG175JP&ll=53.12094,-1.23773">
+                Driving Directions
+                <i class="fas fa-chevron-right"></i>
+            </a>
+        </div>`,
+                                `<div class="text-center info_content">
+            <p><b>KAM Ambergate</b></p>
+
+            <p>
+                <i class="fas fa-map-marker-alt" style="color:#2691D5"></i>
+                Ripley Rd, Ambergate<br>
+                Derbyshire, DE56 2EP            </p>
+
+            <p>
+                <i class="fas fa-phone" style="color:#2691D5"></i>
+                <a href="tel:01773857912">01773857912</a>
+            </p>
+
+            <a class="btn btn-danger btn-sm"
+            target="_blank"
+            href="https://www.google.com/maps/place/KAM+Servicing/@53.0621648,-1.4777341,18z/data=!4m6!3m5!1s0x48798ce9616069ab:0x47a6939b2bdb6c5c!8m2!3d53.0622627!4d-1.4772769!16s%2Fg%2F11bwc0vdwq">
+                Driving Directions
+                <i class="fas fa-chevron-right"></i>
+            </a>
+        </div>`,
+                                        ];
+
+
+
+        markers.forEach(function(marker, i) {
+            const position = { lat: marker[1], lng: marker[2] };
+            bounds.extend(position);
+            const mapMarker = new google.maps.Marker({
+                position: position,
+                map: map,
+                title: marker[0]
+            });
+            mapMarker.addListener('click', function() {
+                infoWindow.setContent(infoWindowContent[i]);
+                infoWindow.open(map, mapMarker);
+            });
+        });
+
+        map.fitBounds(bounds);
+
+        const boundsListener = google.maps.event.addListener(map, 'bounds_changed', function(event) {
+            this.setZoom(9);
+            google.maps.event.removeListener(boundsListener);
+        });
+    }
+
+// Load Google Maps API
+(function loadMap(){
+    const s = document.createElement('script');
+    s.src = "https://maps.googleapis.com/maps/api/js?key=AIzaSyDGrGuuFnXuejU-iuzOTXUSIDn6KTFYCa4&callback=initialize";
+    s.defer = true;
+    document.body.appendChild(s);
+})();
+</script>
+</body>
+</html>

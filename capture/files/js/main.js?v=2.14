@@ -1,0 +1,141 @@
+document.addEventListener("DOMContentLoaded", loadCartCount);
+
+async function loadCartCount() {
+    const container = document.getElementById("cartCount");
+    if (!container) return;
+
+    try {
+        const res = await fetch(AJAX_URL + "cart-count.php", {
+            method: "POST",
+            headers: {
+                "Content-Type": "application/json"
+            },
+            body: JSON.stringify({ action: "get_cart_count" })
+        });
+
+        const data = await res.json();
+
+        if (data.success) {
+            container.innerHTML = "£" + data.cart_count;
+        }
+    } catch (err) {
+        console.error("Cart fetch failed", err);
+    }
+}
+
+document.addEventListener('show.bs.modal', function (event) {
+    const modal = event.target;
+    modal.setAttribute('data-bs-backdrop', 'static');
+    modal.setAttribute('data-bs-keyboard', 'false');
+});
+
+// function loadCartCount() {
+//     const $container = $('#cartCount');
+//     if (!$container.length) return;
+
+//     $.ajax({
+//         url: AJAX_URL + 'cart-count.php',
+//         type: 'POST',
+//         dataType: 'json',
+//         data: {
+//             action: 'get_cart_count',
+//         },
+//         success: function (response) {
+//             if (response.success) {
+//                 $container.html('&pound;' + response.cart_count);
+//             } else {
+//                 console.error(response.error);
+//             }
+//         },
+//         error: function (xhr, status, error) {
+//             console.error('AJAX error:', error);
+//         }
+//     });
+// }
+
+function getSessionDisplay() {
+    const $container = $('#session-display-container');
+    if ($container.length === 0) return;
+    $.ajax({
+        url: AJAX_URL + 'index-ajax.php',
+        type: 'POST',
+        dataType: 'json',
+        data: {
+            action: 'get_session_display'
+        },
+        success: function (response) {
+            if (response.success && response.content) {
+                $container.html(response.content);
+            } else {
+                console.error(
+                    'Failed to load session display:',
+                    response.error || 'Unknown error'
+                );
+            }
+        },
+        error: function (xhr, status, error) {
+            console.error('AJAX Error:', error);
+        }
+    });
+}
+
+$(document).on('submit', '.ajax-contact-form', function (e) {
+    e.preventDefault();
+
+    let form = $(this);
+    let formData = form.serialize();
+
+    // Get reCAPTCHA response
+    let recaptcha = grecaptcha.getResponse();
+
+    if (recaptcha === "") {
+        Swal.fire({
+            icon: 'error',
+            title: 'Captcha Required',
+            text: 'Please verify captcha first'
+        });
+        return;
+    }
+
+    $.ajax({
+        url: AJAX_URL + 'depot-contact.php',
+        type: 'POST',
+        dataType: 'json',
+        data: formData + '&action=submit_contact&g-recaptcha-response=' + recaptcha,
+
+        beforeSend: function () {
+            form.find('button').prop('disabled', true).text('Sending...');
+        },
+
+        success: function (response) {
+            if (response.success) {
+                Swal.fire({
+                    icon: 'success',
+                    title: 'Success',
+                    text: response.message
+                });
+
+                form[0].reset();
+                grecaptcha.reset(); // reset captcha
+            } else {
+                Swal.fire({
+                    icon: 'error',
+                    title: 'Error',
+                    text: response.message
+                });
+            }
+        },
+
+        error: function () {
+            Swal.fire({
+                icon: 'error',
+                title: 'Server Error',
+                text: 'Something went wrong!'
+            });
+        },
+
+        complete: function () {
+            form.find('button').prop('disabled', false).text('Send message');
+        }
+    });
+});

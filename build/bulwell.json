@@ -1,0 +1,523 @@
+{
+ "page": "bulwell",
+ "title": "Book MOT",
+ "replace": true,
+ "blocks": [
+  {
+   "class": "kam-blockrow",
+   "widgets": [
+    {
+     "block": "kam_tiles",
+     "fields": {
+      "h1": "1"
+     },
+     "lines": "https://kamservicing.eastwoodfc.com/wp-content/uploads/2026/10/mot-bg.jpg|Book MOT|from £39.99|https://kamservicing.com/bookings.php?q=1#mot\nhttps://kamservicing.eastwoodfc.com/wp-content/uploads/2026/10/oil-bg.jpg|Book Car Service|from £69.99|https://kamservicing.com/bookings.php?q=2#servicing\nhttps://kamservicing.eastwoodfc.com/wp-content/uploads/2026/10/ac-bg.jpg|Book Air Con Regas|from £59.99|https://kamservicing.com/bookings.php?q=3#ac\nhttps://kamservicing.eastwoodfc.com/wp-content/uploads/2026/10/tyres-bg.jpg|Book Car Tyres|from £18.00|https://kamservicing.com/tyres.php"
+    }
+   ]
+  },
+  {
+   "wrap": "booking-summary",
+   "class": "container mb-5",
+   "padding": {
+    "top": 0,
+    "right": 0,
+    "bottom": 0,
+    "left": 0
+   },
+   "columns": [
+    {
+     "class": "kam-blockrow text-center",
+     "width": 50,
+     "tablet": 50,
+     "padding": {
+      "top": 0,
+      "right": 12,
+      "bottom": 0,
+      "left": 12
+     },
+     "widgets": [
+      {
+       "widget": "image",
+       "fields": {
+        "url": "https://kamservicing.eastwoodfc.com/wp-content/uploads/2026/10/payment-assist.webp",
+        "alt": "Payment Assist",
+        "align": "center"
+       }
+      },
+      {
+       "widget": "text-editor",
+       "fields": {
+        "editor": "<p class=\"font-16\">Call Paul on <a href=\"tel:01159756337\">0115 975 6337</a> for details.</p>",
+        "class": "font-16"
+       }
+      }
+     ]
+    },
+    {
+     "class": "kam-blockrow",
+     "width": 50,
+     "tablet": 50,
+     "padding": {
+      "top": 0,
+      "right": 12,
+      "bottom": 0,
+      "left": 12
+     },
+     "widgets": [
+      {
+       "widget": "heading",
+       "fields": {
+        "tag": "h5",
+        "title": "<i class=\"fas fa-cog i-class-color\"></i> Pay monthly car repairs"
+       }
+      },
+      {
+       "widget": "text-editor",
+       "fields": {
+        "editor": "<hr><p class=\"font-16\">Flexible Car Repairs. Your Way. Payment Assist lets you shop now and pay later with monthly installments and flexible payment options. Enjoy car repairs made simple.</p><ul class=\"font-16\"><li class=\"pb-2\">Don't let financial constraints stop you from getting your car fixed. Our 25% deposit and 3-month payment plan offer a stress-free solution for car repairs.</li> <li class=\"pb-2\">Quick and easy applications. <a href=\"#contact\">Contact us</a> today to find out more &amp; apply </li></ul><p class=\"font-16\">Get affordable pay monthly car repairs under £1,000. Our simple application process makes it easy to get approved.</p>",
+        "class": "font-16"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "wrap": "booking-summary-font container-grey",
+   "class": "container",
+   "padding": {
+    "top": 20,
+    "right": 8,
+    "bottom": 20,
+    "left": 8
+   },
+   "columns": [
+    {
+     "class": "kam-blockrow",
+     "width": 50,
+     "tablet": 50,
+     "padding": {
+      "top": 20,
+      "right": 20,
+      "bottom": 20,
+      "left": 20
+     },
+     "widgets": [
+      {
+       "widget": "heading",
+       "fields": {
+        "tag": "h5",
+        "title": "<i class=\"fas fa-cog i-class-color\"></i> Car servicing in Bulwell"
+       }
+      },
+      {
+       "widget": "text-editor",
+       "fields": {
+        "editor": "<hr><p class=\"font-16\">Bulwell Residents: Protect Your Car, Protect Your Investment.</p><p class=\"font-16\">As an AA-approved garage, we're committed to providing top-notch car servicing and car repairs that keep your vehicle running smoothly and efficiently. Our skilled technicians are dedicated to delivering tailored car care that preserves your car's warranty and ensures optimal performance.</p><p class=\"font-16\">Why Choose Us:</p><ul class=\"font-16\"><li class=\"pb-2\">AA-Approved Quality: Trust our reputation for excellence and customer satisfaction.</li> <li class=\"pb-2\">Expert Technicians: Our team has years of experience and is dedicated to providing top-notch service.</li> <li class=\"pb-2\">Tailored Care: We understand your specific needs and provide personalised solutions.</li> <li class=\"pb-2\">Affordable Prices: Get quality car servicing without breaking the bank.</li></ul><p class=\"font-16\">Let us help you keep your car running its best. Schedule your car service today and discover why Bulwell residents trust us for expert car care.</p>",
+        "class": "font-16"
+       }
+      },
+      {
+       "block": "kam_buttons",
+       "fields": {
+        "book": "Book an Appointment",
+        "book_url": "https://kamservicing.com/bookings.php?q=2#servicing",
+        "call": "Call 0115 975 6337",
+        "call_url": "tel:01159756337"
+       }
+      }
+     ]
+    },
+    {
+     "class": "kam-blockrow",
+     "width": 50,
+     "tablet": 50,
+     "padding": {
+      "top": 20,
+      "right": 20,
+      "bottom": 20,
+      "left": 20
+     },
+     "widgets": [
+      {
+       "widget": "heading",
+       "fields": {
+        "tag": "h5",
+        "title": "<i class=\"fas fa-cog i-class-color\"></i> Book your MOT in Bulwell"
+       }
+      },
+      {
+       "widget": "text-editor",
+       "fields": {
+        "editor": "<hr><p class=\"font-16\">Fast, Reliable, and Affordable MOT Tests in Bulwell</p><p class=\"font-16\">Need a MOT test in Bulwell? Look no further than KAM. We offer quick, efficient, and budget-friendly MOT services to keep your vehicle safe and compliant. Our experienced technicians will thoroughly inspect your car to ensure it meets all DVSA standards. Plus, enjoy discounted rates when you combine your MOT with a service. Book your appointment today!</p><p class=\"font-16\">Why choose KAM for your MOT?</p><ul class=\"font-16\"><li class=\"pb-2\">Speed: We prioritise efficiency to minimise your wait time. </li> <li class=\"pb-2\">Reliability: Our technicians are highly trained and experienced in MOT testing. </li> <li class=\"pb-2\">Affordability: We offer competitive pricing and discounts on combined services. </li> <li class=\"pb-2\">Convenience: Book your appointment online or over the phone at your convenience.</li></ul><p class=\"font-16\">Don't risk driving an unsafe vehicle. Schedule your MOT test at KAM today and enjoy the peace of mind that comes with knowing your car is roadworthy.</p>",
+        "class": "font-16"
+       }
+      },
+      {
+       "block": "kam_buttons",
+       "fields": {
+        "book": "Book an Appointment",
+        "book_url": "https://kamservicing.com/bookings.php?q=1#mot",
+        "call": "Call 0115 975 6337",
+        "call_url": "tel:01159756337"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "wrap": "booking-summary-font container-grey",
+   "class": "container",
+   "padding": {
+    "top": 20,
+    "right": 8,
+    "bottom": 20,
+    "left": 8
+   },
+   "columns": [
+    {
+     "class": "kam-blockrow",
+     "width": 50,
+     "tablet": 50,
+     "padding": {
+      "top": 20,
+      "right": 20,
+      "bottom": 20,
+      "left": 20
+     },
+     "widgets": [
+      {
+       "widget": "heading",
+       "fields": {
+        "tag": "h5",
+        "title": "<i class=\"fas fa-cog i-class-color\"></i> Car tyres Bulwell"
+       }
+      },
+      {
+       "widget": "text-editor",
+       "fields": {
+        "editor": "<hr><p class=\"font-16\">Need new car tyres? Look no further than KAM, your trusted tyre experts in Bulwell. We offer a comprehensive range of services, from expert advice and a massive selection of tyres to fast, affordable fitting. Whether you're looking for budget-friendly options or premium brands, we have the perfect tyres to suit your needs and budget.</p><p class=\"font-16\">Our knowledgeable team will guide you through our extensive selection, ensuring you find the ideal tyres to match your driving style and vehicle type. With our years of experience, we'll provide honest and unbiased advice, helping you make an informed decision.</p><p class=\"font-16\">We stock a wide range of tyres from reputable brands, ensuring that you get high-quality products that meet or exceed industry standards. Whether you prioritise comfort, performance, or fuel efficiency, we have the perfect tyres for you. Our fast and efficient fitting service ensures that you'll be back on the road in no time.</p><p class=\"font-16\">Our skilled technicians will quickly and expertly install your new tyres, ensuring a safe and comfortable ride. We also offer a variety of additional services, such as wheel balancing, alignment, and puncture repair, to ensure that your tyres are in top condition. Visit our store in Bulwell today or book your appointment online for a hassle-free tyre fitting experience.</p>",
+        "class": "font-16"
+       }
+      },
+      {
+       "block": "kam_buttons",
+       "fields": {
+        "book": "Book an Appointment",
+        "book_url": "https://kamservicing.com/tyres.php",
+        "call": "Call 0115 975 6337",
+        "call_url": "tel:01159756337"
+       }
+      }
+     ]
+    },
+    {
+     "class": "kam-blockrow",
+     "width": 50,
+     "tablet": 50,
+     "padding": {
+      "top": 20,
+      "right": 20,
+      "bottom": 20,
+      "left": 20
+     },
+     "widgets": [
+      {
+       "widget": "heading",
+       "fields": {
+        "tag": "h5",
+        "title": "<i class=\"fas fa-cog i-class-color\"></i> Cam belt replacement Bulwell"
+       }
+      },
+      {
+       "widget": "text-editor",
+       "fields": {
+        "editor": "<hr><p class=\"font-16\">Your cambelt is a silent guardian of your engine's health. But even the most vigilant guardian needs a check-up. Regular servicing is your best defense against unexpected cambelt failure, which can lead to costly engine damage. Don't let a small issue turn into a big problem. Schedule a cam belt check today and ensure your car's engine runs smoothly for years to come.</p><p class=\"font-16\">Preventing cambelt failure is a wise investment. While regular servicing may seem like an added expense, it can save you significantly more in the long run. Avoid costly engine repairs by prioritising cambelt maintenance.</p><p class=\"font-16\">Additionally, engine failure can result in increased emissions, contributing to air pollution. By investing in regular cambelt maintenance, you're protecting yourself, your passengers, and the planet. Schedule a service today and ensure your car is running efficiently and safely.</p>",
+        "class": "font-16"
+       }
+      },
+      {
+       "block": "kam_buttons",
+       "fields": {
+        "book": "Enquire Now",
+        "book_url": "#contact",
+        "call": "Call 0115 975 6337",
+        "call_url": "tel:01159756337"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "wrap": "booking-summary-font container-grey",
+   "class": "container",
+   "padding": {
+    "top": 20,
+    "right": 8,
+    "bottom": 20,
+    "left": 8
+   },
+   "columns": [
+    {
+     "class": "kam-blockrow",
+     "width": 50,
+     "tablet": 50,
+     "padding": {
+      "top": 20,
+      "right": 20,
+      "bottom": 20,
+      "left": 20
+     },
+     "widgets": [
+      {
+       "widget": "heading",
+       "fields": {
+        "tag": "h5",
+        "title": "<i class=\"fas fa-cog i-class-color\"></i> DPF cleaning Bulwell"
+       }
+      },
+      {
+       "widget": "text-editor",
+       "fields": {
+        "editor": "<hr><p class=\"font-16\">Our expert technicians employ cutting-edge cleaning methods, including hydrothermal cleaning and ultrasonic technology, to meticulously remove soot and contaminants from your diesel particulate filter (DPF). This buildup can severely impact your vehicle's performance, leading to reduced power, increased fuel consumption, and potential engine damage.</p><p class=\"font-16\">By restoring your DPF to its original condition, we ensure optimal emissions control, smooth vehicle operation, and a significant reduction in the risk of costly repairs. Our specialised cleaning process is designed to enhance your driving experience and contribute to a cleaner environment.</p>",
+        "class": "font-16"
+       }
+      },
+      {
+       "block": "kam_buttons",
+       "fields": {
+        "book": "Book an Appointment",
+        "book_url": "https://kamservicing.com/bookings.php?q=5#dpfc",
+        "call": "Call 0115 975 6337",
+        "call_url": "tel:01159756337"
+       }
+      }
+     ]
+    },
+    {
+     "class": "kam-blockrow",
+     "width": 50,
+     "tablet": 50,
+     "padding": {
+      "top": 20,
+      "right": 20,
+      "bottom": 20,
+      "left": 20
+     },
+     "widgets": [
+      {
+       "widget": "heading",
+       "fields": {
+        "tag": "h5",
+        "title": "<i class=\"fas fa-cog i-class-color\"></i> Hybrid EV servicing Bulwell"
+       }
+      },
+      {
+       "widget": "text-editor",
+       "fields": {
+        "editor": "<hr><p class=\"font-16\">Maintaining a hybrid vehicle is like caring for a traditional petrol or diesel car, but with a few extra considerations. Our expert technicians are well-versed in handling all the standard maintenance tasks you're familiar with. However, hybrid vehicles have some unique components that require specialised attention. These components, such as the inverter coolant, charging point, and battery, are integral to the efficient operation of your hybrid. Our technicians possess the knowledge and experience to diagnose and address any issues related to these components, ensuring your hybrid continues to perform at its best.</p><p class=\"font-16\">Trust our skilled technicians to keep your hybrid running smoothly. With our commitment to excellence and expertise in hybrid vehicle maintenance, you can rest assured that your car is in the best hands. We use state-of-the-art equipment and follow manufacturer guidelines to provide the highest quality care. Our technicians are trained to identify and address potential issues before they become major problems, saving you time and money in the long run.</p>",
+        "class": "font-16"
+       }
+      },
+      {
+       "block": "kam_buttons",
+       "fields": {
+        "book": "Book an Appointment",
+        "book_url": "https://kamservicing.com/bookings.php?q=2#servicing",
+        "call": "Call 0115 975 6337",
+        "call_url": "tel:01159756337"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "wrap": "booking-summary",
+   "class": "container mb-5",
+   "padding": {
+    "top": 0,
+    "right": 0,
+    "bottom": 0,
+    "left": 0
+   },
+   "columns": [
+    {
+     "class": "kam-blockrow",
+     "width": 50,
+     "tablet": 50,
+     "padding": {
+      "top": 20,
+      "right": 20,
+      "bottom": 20,
+      "left": 20
+     },
+     "widgets": [
+      {
+       "widget": "heading",
+       "fields": {
+        "tag": "h5",
+        "title": "<i class=\"fas fa-cog i-class-color\"></i> Bulwell garage"
+       }
+      },
+      {
+       "widget": "text-editor",
+       "fields": {
+        "editor": "<hr><p class=\"font-16\"><i class=\"fas fa-map-marker-alt i-class-color\"></i> Highbury Rd,<br/> Bulwell,<br/> Nottingham<br/> NG6 9DQ</p><p class=\"font-16\"><a href=\"tel:01159756337\"><i class=\"fas fa-phone i-class-color\"></i> 0115 975 6337</a> <br/><i class=\"fas fa-envelope i-class-color\"></i> bulwell@kamservicing.com <br/><i class=\"fas fa-user i-class-color\"></i> Manager: Paul Hemmington-Page</p><p class=\"font-16\"><i class=\"fas fa-clock i-class-color\"></i> Mon-Fri: 7.45am - 6.00pm<br/> Sat: 7.45am - 2.00pm<br/> Sun: Closed</p>",
+        "class": "font-16"
+       }
+      }
+     ]
+    },
+    {
+     "class": "kam-blockrow",
+     "width": 50,
+     "tablet": 50,
+     "padding": {
+      "top": 20,
+      "right": 20,
+      "bottom": 20,
+      "left": 20
+     },
+     "widgets": [
+      {
+       "widget": "heading",
+       "fields": {
+        "tag": "h5",
+        "title": "<i class=\"fas fa-envelope i-class-color\"></i> Get in touch"
+       }
+      },
+      {
+       "widget": "text-editor",
+       "fields": {
+        "editor": "<hr><p class=\"font-16\">Email us using the form below.</p>",
+        "class": "font-16"
+       }
+      },
+      {
+       "block": "kam_contact_form",
+       "fields": {
+        "depot": "aaaBul",
+        "depot_name": "Nottingham - Bulwell",
+        "to": "",
+        "intro": ""
+       }
+      }
+     ]
+    }
+   ],
+   "id": "contact"
+  },
+  {
+   "wrap": "booking-summary",
+   "class": "container mb-5",
+   "padding": {
+    "top": 0,
+    "right": 0,
+    "bottom": 0,
+    "left": 0
+   },
+   "columns": [
+    {
+     "class": "kam-blockrow",
+     "width": 50,
+     "tablet": 50,
+     "padding": {
+      "top": 20,
+      "right": 20,
+      "bottom": 20,
+      "left": 20
+     },
+     "widgets": [
+      {
+       "widget": "heading",
+       "fields": {
+        "tag": "h5",
+        "title": "<i class=\"fas fa-cog i-class-color\"></i> Where can I find KAM Servicing in Bulwell?"
+       }
+      },
+      {
+       "widget": "text-editor",
+       "fields": {
+        "editor": "<hr><p class=\"font-16\">Based in Bulwell, a Nottingham suburb just 3 miles north of the city center, we offer convenient car servicing for all makes and models. Our location is easily accessible, with a tram stop just 2 minutes away and direct bus routes to Nottingham City. We serve Bulwell and surrounding areas, providing expert care for both cars and light commercial vehicles.</p>",
+        "class": "font-16"
+       }
+      },
+      {
+       "block": "kam_buttons",
+       "fields": {
+        "book": "Book an Appointment",
+        "book_url": "https://kamservicing.com/bookings.php?q=6#clutchcheck",
+        "call": "Call 0115 975 6337",
+        "call_url": "tel:01159756337"
+       }
+      }
+     ]
+    },
+    {
+     "class": "kam-blockrow",
+     "width": 50,
+     "tablet": 50,
+     "padding": {
+      "top": 20,
+      "right": 20,
+      "bottom": 20,
+      "left": 20
+     },
+     "widgets": [
+      {
+       "block": "kam_map",
+       "fields": {
+        "lat": "52.99445",
+        "lng": "-1.19007",
+        "zoom": "16",
+        "title": "KAM bulwell"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "wrap": "booking-summary",
+   "class": "container mb-5",
+   "padding": {
+    "top": 0,
+    "right": 0,
+    "bottom": 0,
+    "left": 0
+   },
+   "columns": [
+    {
+     "class": "kam-blockrow",
+     "width": 100,
+     "tablet": 100,
+     "padding": {
+      "top": 20,
+      "right": 20,
+      "bottom": 20,
+      "left": 20
+     },
+     "widgets": [
+      {
+       "widget": "heading",
+       "fields": {
+        "tag": "h5",
+        "title": "<i class=\"fas fa-cog i-class-color\"></i> Why choose KAM Servicing?"
+       }
+      },
+      {
+       "widget": "text-editor",
+       "fields": {
+        "editor": "<hr><p class=\"font-16\">Trusted for over 30 years, we're your local family-run garage, proudly rated 4.4 stars on Google. Specialising in MOT testing, servicing, and repairs for all vehicles, we also offer expert diagnostics, air conditioning services, and clutch replacements. Enjoy a friendly atmosphere and competitive prices.</p><p class=\"font-16\">Call <a href=\"tel:01159756337\">01159 756 337</a> to book your appointment today. Our highly trained technicians use the latest equipment to deliver top-quality care. Experience the difference of personalised service that goes the extra mile.</p>",
+        "class": "font-16"
+       }
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

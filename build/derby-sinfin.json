@@ -1,0 +1,523 @@
+{
+ "page": "derby-sinfin",
+ "title": "Book MOT",
+ "replace": true,
+ "blocks": [
+  {
+   "class": "kam-blockrow",
+   "widgets": [
+    {
+     "block": "kam_tiles",
+     "fields": {
+      "h1": "1"
+     },
+     "lines": "https://kamservicing.eastwoodfc.com/wp-content/uploads/2026/10/mot-bg.jpg|Book MOT|from £49.99|https://kamservicing.com/bookings.php?q=1#mot\nhttps://kamservicing.eastwoodfc.com/wp-content/uploads/2026/10/oil-bg.jpg|Book Car Service|from £109.99|https://kamservicing.com/bookings.php?q=2#servicing\nhttps://kamservicing.eastwoodfc.com/wp-content/uploads/2026/10/ac-bg.jpg|Book Air Con Regas|from £59.99|https://kamservicing.com/bookings.php?q=3#ac\nhttps://kamservicing.eastwoodfc.com/wp-content/uploads/2026/10/tyres-bg.jpg|Book Car Tyres|from £18.00|https://kamservicing.com/tyres.php"
+    }
+   ]
+  },
+  {
+   "wrap": "booking-summary",
+   "class": "container mb-5",
+   "padding": {
+    "top": 0,
+    "right": 0,
+    "bottom": 0,
+    "left": 0
+   },
+   "columns": [
+    {
+     "class": "kam-blockrow text-center",
+     "width": 50,
+     "tablet": 50,
+     "padding": {
+      "top": 0,
+      "right": 12,
+      "bottom": 0,
+      "left": 12
+     },
+     "widgets": [
+      {
+       "widget": "image",
+       "fields": {
+        "url": "https://kamservicing.eastwoodfc.com/wp-content/uploads/2026/10/payment-assist.webp",
+        "alt": "Payment Assist",
+        "align": "center"
+       }
+      },
+      {
+       "widget": "text-editor",
+       "fields": {
+        "editor": "<p class=\"font-16\">Call <b>Steve</b> on <a href=\"tel:01332955488\">01332 955 488</a> for details.</p>",
+        "class": "font-16"
+       }
+      }
+     ]
+    },
+    {
+     "class": "kam-blockrow",
+     "width": 50,
+     "tablet": 50,
+     "padding": {
+      "top": 0,
+      "right": 12,
+      "bottom": 0,
+      "left": 12
+     },
+     "widgets": [
+      {
+       "widget": "heading",
+       "fields": {
+        "tag": "h5",
+        "title": "<i class=\"fas fa-cog i-class-color\"></i> Flexible financing car repairs"
+       }
+      },
+      {
+       "widget": "text-editor",
+       "fields": {
+        "editor": "<hr><p class=\"font-16\">Need Affordable Car Repairs? Payment Assist offers a simple financing plan: pay a 25% deposit upfront and spread the remaining balance over three equal monthly installments. Keep your vehicle running smoothly without financial stress.</p><ul class=\"font-16\"><li class=\"pb-2\">Affordable car repairs for everyone. Our equal opportunity financing makes it easy to get the repairs you need, regardless of your credit score. Apply now for repairs under £1,000.</li> <li class=\"pb-2\">Pay only 25% upfront and spread the rest over 3 months. Our flexible financing options make it simple to get your car back on the road. </li></ul><p class=\"font-16\">We offer affordable car repairs under £1,000. <a href=\"#contact\">Contact us</a> today to apply.</p>",
+        "class": "font-16"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "wrap": "booking-summary-font container-grey",
+   "class": "container",
+   "padding": {
+    "top": 20,
+    "right": 8,
+    "bottom": 20,
+    "left": 8
+   },
+   "columns": [
+    {
+     "class": "kam-blockrow",
+     "width": 50,
+     "tablet": 50,
+     "padding": {
+      "top": 20,
+      "right": 20,
+      "bottom": 20,
+      "left": 20
+     },
+     "widgets": [
+      {
+       "widget": "heading",
+       "fields": {
+        "tag": "h5",
+        "title": "<i class=\"fas fa-cog i-class-color\"></i> Car servicing in Sinfin"
+       }
+      },
+      {
+       "widget": "text-editor",
+       "fields": {
+        "editor": "<hr><p class=\"font-16\">Sinfin Residents: Trust Us for Expert Car Servicing</p><p class=\"font-16\">Need reliable car servicing in Sinfin? Look no further than KAM Sinfin. As an AA-approved garage, we offer comprehensive car repairs and maintenance tailored to your specific needs. Our skilled technicians have years of experience diagnosing and fixing a wide range of car problems.</p><p class=\"font-16\">Why Choose Us:</p><ul><li class=\"pb-2\">AA-Approved Quality: Trust our reputation for excellence.</li> <li class=\"pb-2\">Expert Technicians: Our team is highly skilled and experienced.</li> <li class=\"pb-2\">Tailored Care: We understand your car's unique needs.</li> <li class=\"pb-2\">State-of-the-Art Equipment: We use the latest tools and technology.</li></ul><p class=\"font-16\">Let us help you keep your car running smoothly and efficiently. Schedule your car service in Sinfin today and experience the peace of mind that comes with knowing your vehicle is in expert hands.</p><p class=\"font-16\">Visit KAM Sinfin today and experience the difference.</p>",
+        "class": "font-16"
+       }
+      },
+      {
+       "block": "kam_buttons",
+       "fields": {
+        "book": "Book an Appointment",
+        "book_url": "https://kamservicing.com/bookings.php?q=2#servicing",
+        "call": "Call 01332 955 488",
+        "call_url": "tel:01332955488"
+       }
+      }
+     ]
+    },
+    {
+     "class": "kam-blockrow",
+     "width": 50,
+     "tablet": 50,
+     "padding": {
+      "top": 20,
+      "right": 20,
+      "bottom": 20,
+      "left": 20
+     },
+     "widgets": [
+      {
+       "widget": "heading",
+       "fields": {
+        "tag": "h5",
+        "title": "<i class=\"fas fa-cog i-class-color\"></i> Book your MOT in Sinfin"
+       }
+      },
+      {
+       "widget": "text-editor",
+       "fields": {
+        "editor": "<hr><p class=\"font-16\">Your Sinfin MOT Experts: KAM</p><p class=\"font-16\">Need a hassle-free MOT test in Sinfin? Look no further than KAM. Our experienced technicians are dedicated to ensuring your vehicle meets the highest safety standards. With years of experience and state-of-the-art equipment, we provide thorough and efficient MOT inspections. We understand the importance of keeping your vehicle roadworthy, and we're committed to delivering exceptional service.</p><p class=\"font-16\">At KAM, we pride ourselves on our attention to detail and commitment to customer satisfaction. Our technicians are trained to identify potential issues that may not be immediately apparent, ensuring your vehicle is safe and reliable on the road. We also offer convenient appointment scheduling and flexible options to accommodate your busy lifestyle.</p><p class=\"font-16\">Whether you're a local resident or simply passing through Sinfin, we invite you to experience the KAM difference. Book your MOT test today and enjoy peace of mind knowing your vehicle is in the hands of trusted professionals.</p><p class=\"font-16\">Why choose KAM for your MOT test?</p><ul class=\"font-16\"><li class=\"pb-2\">Expertise: Our technicians have years of experience and are trained to identify potential issues that may not be immediately apparent.</li> <li class=\"pb-2\">Efficiency: We provide fast and efficient MOT inspections to minimize your downtime.</li> <li class=\"pb-2\">Convenience: We offer flexible appointment scheduling and a convenient location in Sinfin.</li> <li class=\"pb-2\">Quality: We use the latest diagnostic equipment to ensure accurate and reliable results.</li></ul><p class=\"font-16\">We are committed to providing excellent customer service and ensuring your complete satisfaction.</p>",
+        "class": "font-16"
+       }
+      },
+      {
+       "block": "kam_buttons",
+       "fields": {
+        "book": "Book an Appointment",
+        "book_url": "https://kamservicing.com/bookings.php?q=1#mot",
+        "call": "Call 01332 955 488",
+        "call_url": "tel:01332955488"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "wrap": "booking-summary-font container-grey",
+   "class": "container",
+   "padding": {
+    "top": 20,
+    "right": 8,
+    "bottom": 20,
+    "left": 8
+   },
+   "columns": [
+    {
+     "class": "kam-blockrow",
+     "width": 50,
+     "tablet": 50,
+     "padding": {
+      "top": 20,
+      "right": 20,
+      "bottom": 20,
+      "left": 20
+     },
+     "widgets": [
+      {
+       "widget": "heading",
+       "fields": {
+        "tag": "h5",
+        "title": "<i class=\"fas fa-cog i-class-color\"></i> Car tyres Sinfin"
+       }
+      },
+      {
+       "widget": "text-editor",
+       "fields": {
+        "editor": "<hr><p class=\"font-16\">KAM Servicing: Your Trusted Tyre Experts</p><p class=\"font-16\">Need new tyres? Look no further than KAM Servicing. As the UK's leading family-owned tyre specialists, we offer:</p><ul class=\"font-16\"><li class=\"pb-2\">Unbeatable Prices: Guaranteed lowest prices on all tyres.</li> <li class=\"pb-2\">Expert Fitting: Same or next-day fitting from just £18.00.</li> <li class=\"pb-2\">Wide Range: Premium and budget brands to suit every need.</li></ul><p class=\"font-16\">New tyres offer a range of advantages that significantly impact your driving experience and safety:</p><ul class=\"font-16\"><li class=\"pb-2\">Smoother Ride: New tyres absorb road imperfections, reducing vibrations and providing a more comfortable driving experience.</li> <li class=\"pb-2\">Fuel Efficiency: Modern tyre technology minimizes rolling resistance, resulting in better fuel economy.</li> <li class=\"pb-2\">Reduced Noise: New tyres are quieter, reducing cabin noise and improving the overall driving experience.</li></ul>",
+        "class": "font-16"
+       }
+      },
+      {
+       "block": "kam_buttons",
+       "fields": {
+        "book": "Book an Appointment",
+        "book_url": "https://kamservicing.com/tyres.php",
+        "call": "Call 01332 955 488",
+        "call_url": "tel:01332955488"
+       }
+      }
+     ]
+    },
+    {
+     "class": "kam-blockrow",
+     "width": 50,
+     "tablet": 50,
+     "padding": {
+      "top": 20,
+      "right": 20,
+      "bottom": 20,
+      "left": 20
+     },
+     "widgets": [
+      {
+       "widget": "heading",
+       "fields": {
+        "tag": "h5",
+        "title": "<i class=\"fas fa-cog i-class-color\"></i> Cam belt replacement Sinfin"
+       }
+      },
+      {
+       "widget": "text-editor",
+       "fields": {
+        "editor": "<hr><p class=\"font-16\">Your engine's silent guardian.</p><p class=\"font-16\">A well-timed cambelt or camchain replacement is crucial to your engine's health. Neglecting this essential service can lead to costly engine damage.</p><p class=\"font-16\">Why Choose KAM Servicing?</p><ul class=\"font-16\"><li class=\"pb-2\">Expert Technicians: Our skilled mechanics have years of experience in cambelt and camchain replacements.</li> <li class=\"pb-2\">Quality Parts: We use only high-quality, manufacturer-approved parts.</li> <li class=\"pb-2\">Precision Workmanship: Our meticulous attention to detail ensures a flawless repair.</li></ul><p class=\"font-16\">Don't risk engine failure. Schedule your service today.</p>",
+        "class": "font-16"
+       }
+      },
+      {
+       "block": "kam_buttons",
+       "fields": {
+        "book": "Enquire Now",
+        "book_url": "#contact",
+        "call": "Call 01332 955 488",
+        "call_url": "tel:01332955488"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "wrap": "booking-summary-font container-grey",
+   "class": "container",
+   "padding": {
+    "top": 20,
+    "right": 8,
+    "bottom": 20,
+    "left": 8
+   },
+   "columns": [
+    {
+     "class": "kam-blockrow",
+     "width": 50,
+     "tablet": 50,
+     "padding": {
+      "top": 20,
+      "right": 20,
+      "bottom": 20,
+      "left": 20
+     },
+     "widgets": [
+      {
+       "widget": "heading",
+       "fields": {
+        "tag": "h5",
+        "title": "<i class=\"fas fa-cog i-class-color\"></i> Revitalise Your Vehicle with Expert DPF Cleaning"
+       }
+      },
+      {
+       "widget": "text-editor",
+       "fields": {
+        "editor": "<hr><p class=\"font-16\">Is your vehicle struggling with performance and fuel efficiency?</p><p class=\"font-16\">A clogged DPF can lead to serious engine issues. Our advanced DPF cleaning process restores your vehicle's optimal performance and reduces harmful emissions.</p><p class=\"font-16\">Why Choose Our DPF Cleaning Service?</p><ul class=\"font-16\"><li class=\"pb-2\">Expert Cleaning: Our skilled technicians use state-of-the-art equipment to meticulously clean your DPF.</li> <li class=\"pb-2\">Restored Performance: Improved fuel efficiency, reduced emissions, and enhanced engine performance.</li> <li class=\"pb-2\">Preventive Maintenance: Regular DPF cleaning can prevent costly repairs and breakdowns.</li> <li class=\"pb-2\">Customer Satisfaction Guarantee: If you're not satisfied, we'll clean it again for free.</li> <li class=\"pb-2\">Comprehensive Vehicle Maintenance: Beyond DPF cleaning, we offer a range of services to keep your vehicle running smoothly.</li></ul><p class=\"font-16\">Don't let a clogged DPF slow you down. Schedule your DPF cleaning today.</p>",
+        "class": "font-16"
+       }
+      },
+      {
+       "block": "kam_buttons",
+       "fields": {
+        "book": "Book an Appointment",
+        "book_url": "https://kamservicing.com/bookings.php?q=5#dpfc",
+        "call": "Call 01332 955 488",
+        "call_url": "tel:01332955488"
+       }
+      }
+     ]
+    },
+    {
+     "class": "kam-blockrow",
+     "width": 50,
+     "tablet": 50,
+     "padding": {
+      "top": 20,
+      "right": 20,
+      "bottom": 20,
+      "left": 20
+     },
+     "widgets": [
+      {
+       "widget": "heading",
+       "fields": {
+        "tag": "h5",
+        "title": "<i class=\"fas fa-cog i-class-color\"></i> Hybrid EV servicing Sinfin"
+       }
+      },
+      {
+       "widget": "text-editor",
+       "fields": {
+        "editor": "<hr><p class=\"font_16\">At KAM Servicing, we are committed to providing exceptional care for your hybrid vehicle. Our skilled technicians are trained to handle the unique intricacies of hybrid technology, ensuring your vehicle performs at its peak.</p><p class=\"font_16\">Why Choose KAM Sinfin?</p><ul class=\"font_16\"><li class=\"pb-2\">Expert Technicians: Our team is well-versed in the latest hybrid technology, offering precise diagnostics and efficient repairs.</li> <li class=\"pb-2\">Quality Parts: We use only high-quality, manufacturer-approved parts to maintain your vehicle's integrity.</li> <li class=\"pb-2\">Transparent Service: Honest and upfront advice.</li> <li class=\"pb-2\">Customer Satisfaction: Our goal is to exceed your expectations with every visit.</li></ul><p class=\"font_16\">KAM Servicing: Your Trusted Partner for Hybrid Vehicle Care.</p>",
+        "class": "font-16"
+       }
+      },
+      {
+       "block": "kam_buttons",
+       "fields": {
+        "book": "Book an Appointment",
+        "book_url": "https://kamservicing.com/bookings.php?q=2#servicing",
+        "call": "Call 01332 955 488",
+        "call_url": "tel:01332955488"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "wrap": "booking-summary",
+   "class": "container mb-5",
+   "padding": {
+    "top": 0,
+    "right": 0,
+    "bottom": 0,
+    "left": 0
+   },
+   "columns": [
+    {
+     "class": "kam-blockrow",
+     "width": 50,
+     "tablet": 50,
+     "padding": {
+      "top": 20,
+      "right": 20,
+      "bottom": 20,
+      "left": 20
+     },
+     "widgets": [
+      {
+       "widget": "heading",
+       "fields": {
+        "tag": "h5",
+        "title": "<i class=\"fas fa-cog i-class-color\"></i> Sinfin garage"
+       }
+      },
+      {
+       "widget": "text-editor",
+       "fields": {
+        "editor": "<hr><p class=\"font-16\"><i class=\"fas fa-map-marker-alt i-class-color\"></i> 294 Sinfin Lane Sinfin<br/> Derby<br/> DE24 9GP</p><p class=\"font-16\"><a href=\"tel:01332955488\"><i class=\"fas fa-phone i-class-color\"></i> 01332 955 488</a><br/></p><p class=\"font-16\"><i class=\"fas fa-envelope i-class-color\"></i> sinfin@kamservicing.com</p><p class=\"font-16\"><i class=\"fas fa-user i-class-color\"></i> Manager: Steve Millington</p><p class=\"font-16\"><i class=\"fas fa-clock i-class-color\"></i> Mon-Fri: 7.30am - 5.30pm<br/> Sat: 7.45am - 2.00pm<br/> Sun: Closed</p>",
+        "class": "font-16"
+       }
+      }
+     ]
+    },
+    {
+     "class": "kam-blockrow",
+     "width": 50,
+     "tablet": 50,
+     "padding": {
+      "top": 20,
+      "right": 20,
+      "bottom": 20,
+      "left": 20
+     },
+     "widgets": [
+      {
+       "widget": "heading",
+       "fields": {
+        "tag": "h5",
+        "title": "<i class=\"fas fa-envelope i-class-color\"></i> Get in touch"
+       }
+      },
+      {
+       "widget": "text-editor",
+       "fields": {
+        "editor": "<hr><p class=\"font-16\">Email us using the form below.</p>",
+        "class": "font-16"
+       }
+      },
+      {
+       "block": "kam_contact_form",
+       "fields": {
+        "depot": "aaaSin",
+        "depot_name": "Derby - Sinfin",
+        "to": "",
+        "intro": ""
+       }
+      }
+     ]
+    }
+   ],
+   "id": "contact"
+  },
+  {
+   "wrap": "booking-summary",
+   "class": "container mb-5",
+   "padding": {
+    "top": 0,
+    "right": 0,
+    "bottom": 0,
+    "left": 0
+   },
+   "columns": [
+    {
+     "class": "kam-blockrow",
+     "width": 50,
+     "tablet": 50,
+     "padding": {
+      "top": 20,
+      "right": 20,
+      "bottom": 20,
+      "left": 20
+     },
+     "widgets": [
+      {
+       "widget": "heading",
+       "fields": {
+        "tag": "h5",
+        "title": "<i class=\"fas fa-cog i-class-color\"></i> Where can I find KAM Servicing in Sinfin?"
+       }
+      },
+      {
+       "widget": "text-editor",
+       "fields": {
+        "editor": "<hr><p class=\"font-16\">Our brand-new garage is conveniently located in Sinfin, Derby, just a short drive from the city center. With easy access to local amenities and excellent transport links, it's the perfect location for all your automotive needs.</p>",
+        "class": "font-16"
+       }
+      },
+      {
+       "block": "kam_buttons",
+       "fields": {
+        "book": "Book an Appointment",
+        "book_url": "https://kamservicing.com/bookings.php?q=6#clutchcheck",
+        "call": "Call 01332 955 488",
+        "call_url": "tel:01332955488"
+       }
+      }
+     ]
+    },
+    {
+     "class": "kam-blockrow",
+     "width": 50,
+     "tablet": 50,
+     "padding": {
+      "top": 20,
+      "right": 20,
+      "bottom": 20,
+      "left": 20
+     },
+     "widgets": [
+      {
+       "block": "kam_map",
+       "fields": {
+        "lat": "52.88570",
+        "lng": "-1.48549",
+        "zoom": "16",
+        "title": "KAM derby-sinfin"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "wrap": "booking-summary",
+   "class": "container mb-5",
+   "padding": {
+    "top": 0,
+    "right": 0,
+    "bottom": 0,
+    "left": 0
+   },
+   "columns": [
+    {
+     "class": "kam-blockrow",
+     "width": 100,
+     "tablet": 100,
+     "padding": {
+      "top": 20,
+      "right": 20,
+      "bottom": 20,
+      "left": 20
+     },
+     "widgets": [
+      {
+       "widget": "heading",
+       "fields": {
+        "tag": "h5",
+        "title": "<i class=\"fas fa-cog i-class-color\"></i> Why choose KAM Servicing?"
+       }
+      },
+      {
+       "widget": "text-editor",
+       "fields": {
+        "editor": "<hr><p class=\"font-16\">KAM Servicing is trusted by customers, rated Excellent on Trustpilot, and accredited by the Good Garage Scheme and the AA for warranty repairs.</p>",
+        "class": "font-16"
+       }
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

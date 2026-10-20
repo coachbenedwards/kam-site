@@ -1,0 +1,523 @@
+{
+ "page": "nuthall",
+ "title": "Book MOT",
+ "replace": true,
+ "blocks": [
+  {
+   "class": "kam-blockrow",
+   "widgets": [
+    {
+     "block": "kam_tiles",
+     "fields": {
+      "h1": "1"
+     },
+     "lines": "https://kamservicing.eastwoodfc.com/wp-content/uploads/2026/10/mot-bg.jpg|Book MOT|from £39.99|https://kamservicing.com/bookings.php?q=1#mot\nhttps://kamservicing.eastwoodfc.com/wp-content/uploads/2026/10/oil-bg.jpg|Book Car Service|from £69.99|https://kamservicing.com/bookings.php?q=2#servicing\nhttps://kamservicing.eastwoodfc.com/wp-content/uploads/2026/10/ac-bg.jpg|Book Air Con Regas|from £59.99|https://kamservicing.com/bookings.php?q=3#ac\nhttps://kamservicing.eastwoodfc.com/wp-content/uploads/2026/10/tyres-bg.jpg|Book Car Tyres|from £18.00|https://kamservicing.com/tyres.php"
+    }
+   ]
+  },
+  {
+   "wrap": "booking-summary",
+   "class": "container mb-5",
+   "padding": {
+    "top": 0,
+    "right": 0,
+    "bottom": 0,
+    "left": 0
+   },
+   "columns": [
+    {
+     "class": "kam-blockrow text-center",
+     "width": 50,
+     "tablet": 50,
+     "padding": {
+      "top": 0,
+      "right": 12,
+      "bottom": 0,
+      "left": 12
+     },
+     "widgets": [
+      {
+       "widget": "image",
+       "fields": {
+        "url": "https://kamservicing.eastwoodfc.com/wp-content/uploads/2026/10/payment-assist.webp",
+        "alt": "Payment Assist",
+        "align": "center"
+       }
+      },
+      {
+       "widget": "text-editor",
+       "fields": {
+        "editor": "<p class=\"font-16\">Call Alex on <a href=\"tel:01159296964\">0115 929 6964</a> for details.</p>",
+        "class": "font-16"
+       }
+      }
+     ]
+    },
+    {
+     "class": "kam-blockrow",
+     "width": 50,
+     "tablet": 50,
+     "padding": {
+      "top": 0,
+      "right": 12,
+      "bottom": 0,
+      "left": 12
+     },
+     "widgets": [
+      {
+       "widget": "heading",
+       "fields": {
+        "tag": "h5",
+        "title": "<i class=\"fas fa-cog i-class-color\"></i> 0% finance car repairs"
+       }
+      },
+      {
+       "widget": "text-editor",
+       "fields": {
+        "editor": "<hr><p class=\"font-16\">Struggling with unexpected car repair costs? Payment Assist provides a simple solution: pay monthly payments for car servicing and repairs, giving you more financial flexibility.</p><ul class=\"font-16\"><li class=\"pb-2\">It's as easy as 1-2-3. Pay a quarter of the total cost now and the rest in three equal monthly payments.</li> <li class=\"pb-2\">Don't let your credit history limit your financial freedom. Get the car repairs you need today.</li></ul><p class=\"font-16\">Affordable pay monthly car repairs. Payment Assist offers flexible financing options for repairs under £1,000. <a href=\"#contact\">Contact us</a> now and get approved quickly.</p>",
+        "class": "font-16"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "wrap": "booking-summary-font container-grey",
+   "class": "container",
+   "padding": {
+    "top": 20,
+    "right": 8,
+    "bottom": 20,
+    "left": 8
+   },
+   "columns": [
+    {
+     "class": "kam-blockrow",
+     "width": 50,
+     "tablet": 50,
+     "padding": {
+      "top": 20,
+      "right": 20,
+      "bottom": 20,
+      "left": 20
+     },
+     "widgets": [
+      {
+       "widget": "heading",
+       "fields": {
+        "tag": "h5",
+        "title": "<i class=\"fas fa-cog i-class-color\"></i> Car servicing in Nuthall"
+       }
+      },
+      {
+       "widget": "text-editor",
+       "fields": {
+        "editor": "<hr><p class=\"font-16\">At KAM Nuthall, we're committed to providing top-notch car servicing and car repairs that keep your vehicle running smoothly and efficiently. Our IMI trained technicians have years of experience diagnosing and repairing a wide range of car problems, from minor issues to major overhauls.</p><p class=\"font-16\">Why Choose Us:</p><ul class=\"font-16\"><li class=\"pb-2\"> Skilled Technicians: Our team has years of experience and is dedicated to providing top-notch service. </li> <li class=\"pb-2\"> Tailored Care: We understand your specific needs and provide personalised solutions. </li> <li class=\"pb-2\"> Peace of Mind: Trust us to keep your car running safely and reliably. </li></ul><p class=\"font-16\">Schedule Your Car Service Today!</p><p class=\"font-16\">Let us help you keep your car in top condition. Schedule your car service today and discover why Nuthall residents trust us for expert car care.</p>",
+        "class": "font-16"
+       }
+      },
+      {
+       "block": "kam_buttons",
+       "fields": {
+        "book": "Book an Appointment",
+        "book_url": "https://kamservicing.com/bookings.php?q=2#servicing",
+        "call": "Call 01159 296 964",
+        "call_url": "tel:01159296964"
+       }
+      }
+     ]
+    },
+    {
+     "class": "kam-blockrow",
+     "width": 50,
+     "tablet": 50,
+     "padding": {
+      "top": 20,
+      "right": 20,
+      "bottom": 20,
+      "left": 20
+     },
+     "widgets": [
+      {
+       "widget": "heading",
+       "fields": {
+        "tag": "h5",
+        "title": "<i class=\"fas fa-cog i-class-color\"></i> Book your MOT in Nuthall"
+       }
+      },
+      {
+       "widget": "text-editor",
+       "fields": {
+        "editor": "<hr><p class=\"font-16\">Need a Reliable MOT Test in Nuthall? Choose KAM</p><p class=\"font-16\">Keeping your vehicle roadworthy is essential for your safety and the safety of others. That's why annual MOT tests are mandatory for all cars in the UK. At KAM Nuthall, we offer convenient and affordable MOT services.</p><p class=\"font-16\">Our skilled technicians will carefully examine your car to ensure it meets the stringent safety standards set by the DVSA. We cover all makes and models of car and light commercial vehicles.</p><p class=\"font-16\">Schedule Your MOT Test Today and Benefit from Our Expert Service</p><p class=\"font-16\">When you choose KAM Nuthall for your MOT test, you can expect:</p><ul class=\"font-16\"><li class=\"pb-2\"> Comprehensive Testing: Our MOT tests cover a wide range of essential safety checks, including brakes, steering, lights, and exhaust emissions. </li> <li class=\"pb-2\"> Expert Advice: If any issues are identified during the MOT test, our technicians will provide expert advice on necessary repairs or adjustments. </li></ul><p class=\"font-16\">By choosing KAM Nuthall for your MOT test, you're investing in the safety and reliability of your vehicle. Contact us today to schedule your appointment and let us take care of all your MOT needs.</p>",
+        "class": "font-16"
+       }
+      },
+      {
+       "block": "kam_buttons",
+       "fields": {
+        "book": "Book an Appointment",
+        "book_url": "https://kamservicing.com/bookings.php?q=1#mot",
+        "call": "Call 01159 296 964",
+        "call_url": "tel:01159296964"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "wrap": "booking-summary-font container-grey",
+   "class": "container",
+   "padding": {
+    "top": 20,
+    "right": 8,
+    "bottom": 20,
+    "left": 8
+   },
+   "columns": [
+    {
+     "class": "kam-blockrow",
+     "width": 50,
+     "tablet": 50,
+     "padding": {
+      "top": 20,
+      "right": 20,
+      "bottom": 20,
+      "left": 20
+     },
+     "widgets": [
+      {
+       "widget": "heading",
+       "fields": {
+        "tag": "h5",
+        "title": "<i class=\"fas fa-cog i-class-color\"></i> Need New Tyres in Nuthall?"
+       }
+      },
+      {
+       "widget": "text-editor",
+       "fields": {
+        "editor": "<hr><p class=\"font-16\">Need new car tyres in Nuthall? Our knowledgeable team are ready to assist you in finding the correct tyres for your vehicle.</p><p class=\"font-16\">Choose from top brands or budget options. Our experts can help you find the right tires. Visit KAM Servicing for expert service and competitive prices. We also offer tyre rotations, wheel balancing, and puncture repairs.</p><p class=\"font-16\">Once you've selected your tyres, our expert technicians will ensure they are installed correctly and safely.</p>",
+        "class": "font-16"
+       }
+      },
+      {
+       "block": "kam_buttons",
+       "fields": {
+        "book": "Book an Appointment",
+        "book_url": "https://kamservicing.com/tyres.php",
+        "call": "Call 01159 296 964",
+        "call_url": "tel:01159296964"
+       }
+      }
+     ]
+    },
+    {
+     "class": "kam-blockrow",
+     "width": 50,
+     "tablet": 50,
+     "padding": {
+      "top": 20,
+      "right": 20,
+      "bottom": 20,
+      "left": 20
+     },
+     "widgets": [
+      {
+       "widget": "heading",
+       "fields": {
+        "tag": "h5",
+        "title": "<i class=\"fas fa-cog i-class-color\"></i> Cam belt replacement Nuthall"
+       }
+      },
+      {
+       "widget": "text-editor",
+       "fields": {
+        "editor": "<hr><p class=\"font-16\">Cambelt Replacement in Nuthall</p><p class=\"font-16\">Need a quick and reliable cambelt replacement? Look no further. Our AA approved garage in Nuthall, Nottingham offers same-day service for all makes and models.</p><p class=\"font-16\">A cambelt, also known as a timing belt, is a crucial component in an internal combustion engine. It's a rubber or polyurethane belt with teeth that synchronizes the rotation of the crankshaft and camshaft.</p><p class=\"font-16\">It's essential to replace the cambelt at the recommended intervals specified by your vehicle's manufacturer. This typically ranges from 60,000 to 100,000 miles, depending on the vehicle. Ignoring this can result in costly engine repairs.</p><p class=\"font-16\">Not sure if your cambelt needs attention? Book a free inspection today. Our skilled technicians will provide a thorough evaluation.</p>",
+        "class": "font-16"
+       }
+      },
+      {
+       "block": "kam_buttons",
+       "fields": {
+        "book": "Enquire Now",
+        "book_url": "#contact",
+        "call": "Call 01159 296 964",
+        "call_url": "tel:01159296964"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "wrap": "booking-summary-font container-grey",
+   "class": "container",
+   "padding": {
+    "top": 20,
+    "right": 8,
+    "bottom": 20,
+    "left": 8
+   },
+   "columns": [
+    {
+     "class": "kam-blockrow",
+     "width": 50,
+     "tablet": 50,
+     "padding": {
+      "top": 20,
+      "right": 20,
+      "bottom": 20,
+      "left": 20
+     },
+     "widgets": [
+      {
+       "widget": "heading",
+       "fields": {
+        "tag": "h5",
+        "title": "<i class=\"fas fa-cog i-class-color\"></i> DPF cleaning Nuthall"
+       }
+      },
+      {
+       "widget": "text-editor",
+       "fields": {
+        "editor": "<hr><p class=\"font-16\">Breathe New Life into Your Diesel Vehicle with DPF Cleaning</p><p class=\"font-16\">Is your diesel vehicle struggling with poor performance and increased fuel consumption? A clogged DPF (Diesel Particulate Filter) could be the culprit.</p><p class=\"font-16\">At KAM Servicing, we offer a state-of-the-art DPF cleaning service that effectively removes soot and contaminants, restoring your vehicle's original performance and efficiency.</p><p class=\"font-16\">Experience the Difference</p><p class=\"font-16\">We guarantee your satisfaction with our DPF cleaning and vehicle inspection services.</p><p class=\"font-16\">Contact us today to schedule your appointment.</p>",
+        "class": "font-16"
+       }
+      },
+      {
+       "block": "kam_buttons",
+       "fields": {
+        "book": "Book an Appointment",
+        "book_url": "https://kamservicing.com/bookings.php?q=5#dpfc",
+        "call": "Call 01159 296 964",
+        "call_url": "tel:01159296964"
+       }
+      }
+     ]
+    },
+    {
+     "class": "kam-blockrow",
+     "width": 50,
+     "tablet": 50,
+     "padding": {
+      "top": 20,
+      "right": 20,
+      "bottom": 20,
+      "left": 20
+     },
+     "widgets": [
+      {
+       "widget": "heading",
+       "fields": {
+        "tag": "h5",
+        "title": "<i class=\"fas fa-cog i-class-color\"></i> Hybrid EV servicing Nuthall"
+       }
+      },
+      {
+       "widget": "text-editor",
+       "fields": {
+        "editor": "<hr><p class=\"font-16\">Hybrid vehicles have transformed the automotive landscape, offering a balance of fuel efficiency and environmental friendliness. To ensure your hybrid vehicle continues to deliver optimal performance, regular servicing is essential.</p><p class=\"font-16\">At KAM Servicing, we specialise in providing expert hybrid vehicle servicing. Our skilled technicians have the knowledge and experience to diagnose and repair a wide range of hybrid vehicle issues.</p><p class=\"font-16\">Schedule Your Hybrid Vehicle Service Today</p><p class=\"font-16\">Don't compromise on the performance of your hybrid vehicle. Trust the experts at KAM Servicing to keep your vehicle running smoothly.</p><p class=\"font-16\">Contact us to schedule your next service appointment.</p>",
+        "class": "font-16"
+       }
+      },
+      {
+       "block": "kam_buttons",
+       "fields": {
+        "book": "Book an Appointment",
+        "book_url": "https://kamservicing.com/bookings.php?q=2#servicing",
+        "call": "Call 01159 296 964",
+        "call_url": "tel:01159296964"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "wrap": "booking-summary",
+   "class": "container mb-5",
+   "padding": {
+    "top": 0,
+    "right": 0,
+    "bottom": 0,
+    "left": 0
+   },
+   "columns": [
+    {
+     "class": "kam-blockrow",
+     "width": 50,
+     "tablet": 50,
+     "padding": {
+      "top": 20,
+      "right": 20,
+      "bottom": 20,
+      "left": 20
+     },
+     "widgets": [
+      {
+       "widget": "heading",
+       "fields": {
+        "tag": "h5",
+        "title": "<i class=\"fas fa-cog i-class-color\"></i> Nuthall garage"
+       }
+      },
+      {
+       "widget": "text-editor",
+       "fields": {
+        "editor": "<hr><p class=\"font-16\"><i class=\"fas fa-map-marker-alt i-class-color\"></i> 100 Nuthall Rd<br/> Nottingham<br/> NG8 5BN</p><p class=\"font-16\"><a href=\"tel:01159296964\"><i class=\"fas fa-phone i-class-color\"></i> 0115 929 6964</a></p><p class=\"font-16\"><i class=\"fas fa-envelope i-class-color\"></i> nuthall@kamservicing.com</p><p class=\"font-16\"><i class=\"fas fa-user i-class-color\"></i> Manager: Alex Boles</p><p class=\"font-16\"><i class=\"fas fa-clock i-class-color\"></i> Mon-Fri: 8.00am - 5.30pm<br/> Sat: 8.00am - 2.00pm<br/> Sun: Closed</p>",
+        "class": "font-16"
+       }
+      }
+     ]
+    },
+    {
+     "class": "kam-blockrow",
+     "width": 50,
+     "tablet": 50,
+     "padding": {
+      "top": 20,
+      "right": 20,
+      "bottom": 20,
+      "left": 20
+     },
+     "widgets": [
+      {
+       "widget": "heading",
+       "fields": {
+        "tag": "h5",
+        "title": "<i class=\"fas fa-envelope i-class-color\"></i> Get in touch"
+       }
+      },
+      {
+       "widget": "text-editor",
+       "fields": {
+        "editor": "<hr><p class=\"font-16\">Email us using the form below.</p>",
+        "class": "font-16"
+       }
+      },
+      {
+       "block": "kam_contact_form",
+       "fields": {
+        "depot": "aaaNut",
+        "depot_name": "Nottingham - Nuthall",
+        "to": "",
+        "intro": ""
+       }
+      }
+     ]
+    }
+   ],
+   "id": "contact"
+  },
+  {
+   "wrap": "booking-summary",
+   "class": "container mb-5",
+   "padding": {
+    "top": 0,
+    "right": 0,
+    "bottom": 0,
+    "left": 0
+   },
+   "columns": [
+    {
+     "class": "kam-blockrow",
+     "width": 50,
+     "tablet": 50,
+     "padding": {
+      "top": 20,
+      "right": 20,
+      "bottom": 20,
+      "left": 20
+     },
+     "widgets": [
+      {
+       "widget": "heading",
+       "fields": {
+        "tag": "h5",
+        "title": "<i class=\"fas fa-cog i-class-color\"></i> Where can I find KAM Servicing in Nuthall?"
+       }
+      },
+      {
+       "widget": "text-editor",
+       "fields": {
+        "editor": "<hr><p class=\"font-16\">Nestled in the peaceful village of Nuthall, Nottinghamshire, we're conveniently located near Nottingham City Hospital and on a direct bus route to the city center.</p><p class=\"font-16\">Our skilled technicians are dedicated to providing top-notch car servicing, from routine maintenance to complex repairs, we offer a wide range of services. Your satisfaction is our priority. We strive to deliver exceptional service and value.</p><p class=\"font-16\">Experience the convenience and quality of our car servicing. Visit us today or book your appointment online.</p>",
+        "class": "font-16"
+       }
+      },
+      {
+       "block": "kam_buttons",
+       "fields": {
+        "book": "Book an Appointment",
+        "book_url": "https://kamservicing.com/bookings.php?q=6#clutchcheck",
+        "call": "Call 01159 296 964",
+        "call_url": "tel:01159296964"
+       }
+      }
+     ]
+    },
+    {
+     "class": "kam-blockrow",
+     "width": 50,
+     "tablet": 50,
+     "padding": {
+      "top": 20,
+      "right": 20,
+      "bottom": 20,
+      "left": 20
+     },
+     "widgets": [
+      {
+       "block": "kam_map",
+       "fields": {
+        "lat": "52.97095",
+        "lng": "-1.18459",
+        "zoom": "16",
+        "title": "KAM nuthall"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "wrap": "booking-summary",
+   "class": "container mb-5",
+   "padding": {
+    "top": 0,
+    "right": 0,
+    "bottom": 0,
+    "left": 0
+   },
+   "columns": [
+    {
+     "class": "kam-blockrow",
+     "width": 100,
+     "tablet": 100,
+     "padding": {
+      "top": 20,
+      "right": 20,
+      "bottom": 20,
+      "left": 20
+     },
+     "widgets": [
+      {
+       "widget": "heading",
+       "fields": {
+        "tag": "h5",
+        "title": "<i class=\"fas fa-cog i-class-color\"></i> Why choose KAM Servicing?"
+       }
+      },
+      {
+       "widget": "text-editor",
+       "fields": {
+        "editor": "<hr><p class=\"font-16\">Experience the difference with KAM Servicing, a family-run business renowned for its exceptional service and customer satisfaction. With a stellar 4.6-star Google rating, we've built a reputation for excellence in the automotive industry. Trust KAM Servicing for all your automotive needs. Contact us today to book your next appointment.</p>",
+        "class": "font-16"
+       }
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,523 @@
+{
+ "page": "colwick",
+ "title": "Book MOT",
+ "replace": true,
+ "blocks": [
+  {
+   "class": "kam-blockrow",
+   "widgets": [
+    {
+     "block": "kam_tiles",
+     "fields": {
+      "h1": "1"
+     },
+     "lines": "https://kamservicing.eastwoodfc.com/wp-content/uploads/2026/10/mot-bg.jpg|Book MOT|from £49.99|https://kamservicing.com/bookings.php?q=1#mot\nhttps://kamservicing.eastwoodfc.com/wp-content/uploads/2026/10/oil-bg.jpg|Book Car Service|from £69.99|https://kamservicing.com/bookings.php?q=2#servicing\nhttps://kamservicing.eastwoodfc.com/wp-content/uploads/2026/10/ac-bg.jpg|Book Air Con Regas|from £59.99|https://kamservicing.com/bookings.php?q=3#ac\nhttps://kamservicing.eastwoodfc.com/wp-content/uploads/2026/10/tyres-bg.jpg|Book Car Tyres|from £18.00|https://kamservicing.com/tyres.php"
+    }
+   ]
+  },
+  {
+   "wrap": "booking-summary",
+   "class": "container mb-5",
+   "padding": {
+    "top": 0,
+    "right": 0,
+    "bottom": 0,
+    "left": 0
+   },
+   "columns": [
+    {
+     "class": "kam-blockrow text-center",
+     "width": 50,
+     "tablet": 100,
+     "padding": {
+      "top": 0,
+      "right": 12,
+      "bottom": 0,
+      "left": 12
+     },
+     "widgets": [
+      {
+       "widget": "image",
+       "fields": {
+        "url": "https://kamservicing.eastwoodfc.com/wp-content/uploads/2026/10/payment-assist.webp",
+        "alt": "Payment Assist",
+        "align": "center"
+       }
+      },
+      {
+       "widget": "text-editor",
+       "fields": {
+        "editor": "<p class=\"font-16\">Call Craig on <a href=\"tel:01159879846\">0115 987 9846</a> for details.</p>",
+        "class": "font-16"
+       }
+      }
+     ]
+    },
+    {
+     "class": "kam-blockrow",
+     "width": 50,
+     "tablet": 100,
+     "padding": {
+      "top": 0,
+      "right": 12,
+      "bottom": 0,
+      "left": 12
+     },
+     "widgets": [
+      {
+       "widget": "heading",
+       "fields": {
+        "tag": "h5",
+        "title": "<i class=\"fas fa-cog i-class-color\"></i> Bad Credit? No problem."
+       }
+      },
+      {
+       "widget": "text-editor",
+       "fields": {
+        "editor": "<hr><p class=\"font-16\">Love your car, love your wallet. With Payment Assist, you can get your car repaired immediately while spreading the cost over time. It's the perfect way to shop without the stress.</p><ul class=\"font-16\"><li class=\"pb-2\">Choose a payment plan that fits your budget. Pay a 25% deposit and spread the rest over three convenient monthly payments.</li> <li class=\"pb-2\">Don't let your credit score hold you back. Apply for repairs under £1,000.</li></ul><p class=\"font-16\">Apply for Payment Assist and get affordable financing for repairs under £1,000. Your credit history doesn't define your future. Get the care your vehicle needs today.</p>",
+        "class": "font-16"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "wrap": "booking-summary-font container-grey",
+   "class": "container",
+   "padding": {
+    "top": 20,
+    "right": 8,
+    "bottom": 20,
+    "left": 8
+   },
+   "columns": [
+    {
+     "class": "kam-blockrow",
+     "width": 50,
+     "tablet": 100,
+     "padding": {
+      "top": 20,
+      "right": 20,
+      "bottom": 20,
+      "left": 20
+     },
+     "widgets": [
+      {
+       "widget": "heading",
+       "fields": {
+        "tag": "h5",
+        "title": "<i class=\"fas fa-cog i-class-color\"></i> Car servicing in Colwick"
+       }
+      },
+      {
+       "widget": "text-editor",
+       "fields": {
+        "editor": "<hr><p class=\"font-16\">Colwick Residents: Trust Us for Expert Car Care</p><p class=\"font-16\">As an AA-approved garage, we're dedicated to providing top-notch car maintenance and repair services tailored to your specific needs. From routine check-ups to major overhauls, we've got you covered.</p><p class=\"font-16\">Why Choose Us:</p><ul class=\"font-16\"><li class=\"pb-2\">Unmatched Expertise: Our highly skilled and experienced technicians are dedicated to providing top-notch car care.</li> <li class=\"pb-2\">Personalised Service: We understand your car's unique needs and tailor our services accordingly.</li> <li class=\"pb-2\">Cutting-Edge Technology: We utilise the latest tools and equipment to ensure accurate diagnoses and efficient repairs.</li></ul><p class=\"font-16\">Let us help you keep your car running smoothly and efficiently. Schedule your car service in Colwick today and experience the peace of mind that comes with knowing your vehicle is in expert hands.</p>",
+        "class": "font-16"
+       }
+      },
+      {
+       "block": "kam_buttons",
+       "fields": {
+        "book": "Book an Appointment",
+        "book_url": "https://kamservicing.com/bookings.php?q=2#servicing",
+        "call": "Call 0115 987 9846",
+        "call_url": "tel:01159879846"
+       }
+      }
+     ]
+    },
+    {
+     "class": "kam-blockrow",
+     "width": 50,
+     "tablet": 100,
+     "padding": {
+      "top": 20,
+      "right": 20,
+      "bottom": 20,
+      "left": 20
+     },
+     "widgets": [
+      {
+       "widget": "heading",
+       "fields": {
+        "tag": "h5",
+        "title": "<i class=\"fas fa-cog i-class-color\"></i> Book your MOT in Colwick"
+       }
+      },
+      {
+       "widget": "text-editor",
+       "fields": {
+        "editor": "<hr><p class=\"font-16\">Fast and Efficient MOTs in Colwick</p><p class=\"font-16\">Experience the ultimate convenience of hassle-free MOT testing with KAM. Our streamlined process and expert technicians ensure a quick turnaround, so you can get back on the road in no time. Book your appointment online or over the phone, and let us handle the rest.</p><p class=\"font-16\">Our expert technicians will ensure your vehicle is roadworthy and safe. We understand that unexpected expenses can be stressful, so we've designed our pricing to be fair and affordable. Our goal is to help you keep your vehicle on the road without breaking the bank. Schedule your MOT today and experience the KAM difference.</p><p class=\"font-16\">Choose KAM for a stress-free and reliable MOT service.</p>",
+        "class": "font-16"
+       }
+      },
+      {
+       "block": "kam_buttons",
+       "fields": {
+        "book": "Book an Appointment",
+        "book_url": "https://kamservicing.com/bookings.php?q=1#mot",
+        "call": "Call 0115 987 9846",
+        "call_url": "tel:01159879846"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "wrap": "booking-summary-font container-grey",
+   "class": "container",
+   "padding": {
+    "top": 20,
+    "right": 8,
+    "bottom": 20,
+    "left": 8
+   },
+   "columns": [
+    {
+     "class": "kam-blockrow",
+     "width": 50,
+     "tablet": 100,
+     "padding": {
+      "top": 20,
+      "right": 20,
+      "bottom": 20,
+      "left": 20
+     },
+     "widgets": [
+      {
+       "widget": "heading",
+       "fields": {
+        "tag": "h5",
+        "title": "<i class=\"fas fa-cog i-class-color\"></i> Car tyres Colwick"
+       }
+      },
+      {
+       "widget": "text-editor",
+       "fields": {
+        "editor": "<hr><p class=\"font-16\">Discover the perfect car tyres for your vehicle at KAM.</p><p class=\"font-16\">We offer a vast selection of car tyres, including options not listed online. From premium to budget-friendly, we have the ideal tyres to suit your needs.</p><p class=\"font-16\">Visit your local KAM center to consult with our knowledgeable staff. They'll assist you in finding the right car tyres for your vehicle and driving style.</p><p class=\"font-16\">We have tyres for every need. Whether you drive an SUV, sports car, or off-road vehicle, we offer premium tyres for all weather and season conditions.</p><p class=\"font-16\">Seeking a balance of quality and affordability? Our mid-range tyres provide excellent performance at a competitive price.</p><p class=\"font-16\">Budget-friendly options available. We also offer low-cost tyre choices to fit every budget.</p>",
+        "class": "font-16"
+       }
+      },
+      {
+       "block": "kam_buttons",
+       "fields": {
+        "book": "Book an Appointment",
+        "book_url": "https://kamservicing.com/bookings.php?q=4#tyres",
+        "call": "Call 0115 987 9846",
+        "call_url": "tel:01159879846"
+       }
+      }
+     ]
+    },
+    {
+     "class": "kam-blockrow",
+     "width": 50,
+     "tablet": 100,
+     "padding": {
+      "top": 20,
+      "right": 20,
+      "bottom": 20,
+      "left": 20
+     },
+     "widgets": [
+      {
+       "widget": "heading",
+       "fields": {
+        "tag": "h5",
+        "title": "<i class=\"fas fa-cog i-class-color\"></i> Cam belt replacement Colwick"
+       }
+      },
+      {
+       "widget": "text-editor",
+       "fields": {
+        "editor": "<hr><p class=\"font-16\">Avoid costly engine repairs by staying ahead of maintenance. Regular cam belt (also known as a Timing Belt) and water pump replacements ensure your vehicle's optimal performance.</p><p class=\"font-16\">Cam belts are crucial for your engine's health, neglecting these essential components can lead to serious engine damage, requiring expensive repairs and potentially even replacing the entire engine. Trust KAM Servicing for expert care, ensuring your vehicle's longevity and reliability.</p><p class=\"font-16\">Experience top-notch service, competitive pricing, and peace of mind knowing your vehicle is in expert hands.</p>",
+        "class": "font-16"
+       }
+      },
+      {
+       "block": "kam_buttons",
+       "fields": {
+        "book": "Enquire Now",
+        "book_url": "#contact",
+        "call": "Call 0115 987 9846",
+        "call_url": "tel:01159879846"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "wrap": "booking-summary-font container-grey",
+   "class": "container",
+   "padding": {
+    "top": 20,
+    "right": 8,
+    "bottom": 20,
+    "left": 8
+   },
+   "columns": [
+    {
+     "class": "kam-blockrow",
+     "width": 50,
+     "tablet": 100,
+     "padding": {
+      "top": 20,
+      "right": 20,
+      "bottom": 20,
+      "left": 20
+     },
+     "widgets": [
+      {
+       "widget": "heading",
+       "fields": {
+        "tag": "h5",
+        "title": "<i class=\"fas fa-cog i-class-color\"></i> DPF cleaning Colwick"
+       }
+      },
+      {
+       "widget": "text-editor",
+       "fields": {
+        "editor": "<hr><p class=\"font-16\">Keep Your Diesel Engine Running Smoothly with Our Professional DPF Cleaning Service.</p><p class=\"font-16\">Tired of dealing with clogged DPFs and expensive repairs? Our expert technicians offer a fast and effective solution. We use advanced equipment to remove soot and contaminants, restoring your DPF's efficiency and preventing future issues.</p><p class=\"font-16\">Our DPF cleaning process is fast and efficient, our team is dedicated to ensuring a smooth and hassle-free experience, from scheduling to completion. We're committed to providing exceptional service and ensuring your complete satisfaction with our work.</p><p class=\"font-16\">Contact us today for a free quote and to learn more about how our DPF cleaning service can benefit your vehicle.</p>",
+        "class": "font-16"
+       }
+      },
+      {
+       "block": "kam_buttons",
+       "fields": {
+        "book": "Book an Appointment",
+        "book_url": "https://kamservicing.com/bookings.php?q=5#dpfc",
+        "call": "Call 0115 987 9846",
+        "call_url": "tel:01159879846"
+       }
+      }
+     ]
+    },
+    {
+     "class": "kam-blockrow",
+     "width": 50,
+     "tablet": 100,
+     "padding": {
+      "top": 20,
+      "right": 20,
+      "bottom": 20,
+      "left": 20
+     },
+     "widgets": [
+      {
+       "widget": "heading",
+       "fields": {
+        "tag": "h5",
+        "title": "<i class=\"fas fa-cog i-class-color\"></i> Hybrid EV servicing Colwick"
+       }
+      },
+      {
+       "widget": "text-editor",
+       "fields": {
+        "editor": "<hr><p class=\"font-16\">Our team of skilled electric vehicle technicians are dedicated to providing honest and efficient service. With fewer components than traditional vehicles, electric cars often require less maintenance.</p><p class=\"font-16\">At KAM, we believe that maintaining your electric vehicle should be as affordable as driving it. We offer competitive pricing and transparent communication to ensure you're always informed about the services your vehicle needs.</p><p class=\"font-16\">Our comprehensive services include:</p><ul class=\"font-16\"><li class=\"pb-2\">Routine maintenance following manufacturer guidelines for all makes and models </li> <li class=\"pb-2\">Repairs and troubleshooting to keep your EV running smoothly</li> <li class=\"pb-2\">Warranty-friendly service that won't void your manufacturer's warranty</li></ul><p class=\"font-16\">Experience top-notch service, competitive pricing, and peace of mind knowing your vehicle is in expert hands.</p>",
+        "class": "font-16"
+       }
+      },
+      {
+       "block": "kam_buttons",
+       "fields": {
+        "book": "Book an Appointment",
+        "book_url": "https://kamservicing.com/bookings.php?q=2#servicing",
+        "call": "Call 0115 987 9846",
+        "call_url": "tel:01159879846"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "wrap": "booking-summary",
+   "class": "container mb-5",
+   "padding": {
+    "top": 0,
+    "right": 0,
+    "bottom": 0,
+    "left": 0
+   },
+   "columns": [
+    {
+     "class": "kam-blockrow",
+     "width": 50,
+     "tablet": 100,
+     "padding": {
+      "top": 20,
+      "right": 20,
+      "bottom": 20,
+      "left": 20
+     },
+     "widgets": [
+      {
+       "widget": "heading",
+       "fields": {
+        "tag": "h5",
+        "title": "<i class=\"fas fa-cog i-class-color\"></i> Colwick garage"
+       }
+      },
+      {
+       "widget": "text-editor",
+       "fields": {
+        "editor": "<hr><p class=\"font-16\"><i class=\"fas fa-map-marker-alt i-class-color\"></i> Colwick Industrial Estate,<br/> Private Road Number 7,<br/> Colwick, Netherfield<br/> NG4 2JW</p><p class=\"font-16\"><a href=\"tel:01159879846\"><i class=\"fas fa-phone i-class-color\"></i> 01159879846</a> <br/><i class=\"fas fa-envelope i-class-color\"></i> colwick@kamservicing.com <br/><i class=\"fas fa-user i-class-color\"></i> Manager : Craig Hickling</p><p class=\"font-16\"><i class=\"fas fa-clock i-class-color\"></i> Mon-Fri : 7.45am - 6.00pm<br/> Sat : 7.45am - 2.00pm<br/> Sun : Closed</p>",
+        "class": "font-16"
+       }
+      }
+     ]
+    },
+    {
+     "class": "kam-blockrow",
+     "width": 50,
+     "tablet": 100,
+     "padding": {
+      "top": 20,
+      "right": 20,
+      "bottom": 20,
+      "left": 20
+     },
+     "widgets": [
+      {
+       "widget": "heading",
+       "fields": {
+        "tag": "h5",
+        "title": "<i class=\"fas fa-envelope i-class-color\"></i> Get in touch"
+       }
+      },
+      {
+       "widget": "text-editor",
+       "fields": {
+        "editor": "<hr><p class=\"font-16\">Email us using the form below.</p>",
+        "class": "font-16"
+       }
+      },
+      {
+       "block": "kam_contact_form",
+       "fields": {
+        "depot": "aaaCol",
+        "depot_name": "Nottingham - Colwick",
+        "to": "",
+        "intro": ""
+       }
+      }
+     ]
+    }
+   ],
+   "id": "contact"
+  },
+  {
+   "wrap": "booking-summary",
+   "class": "container mb-5",
+   "padding": {
+    "top": 0,
+    "right": 0,
+    "bottom": 0,
+    "left": 0
+   },
+   "columns": [
+    {
+     "class": "kam-blockrow",
+     "width": 50,
+     "tablet": 100,
+     "padding": {
+      "top": 20,
+      "right": 20,
+      "bottom": 20,
+      "left": 20
+     },
+     "widgets": [
+      {
+       "widget": "heading",
+       "fields": {
+        "tag": "h5",
+        "title": "<i class=\"fas fa-cog i-class-color\"></i> Where can I find KAM Servicing in Colwick?"
+       }
+      },
+      {
+       "widget": "text-editor",
+       "fields": {
+        "editor": "<hr><p class=\"font-16\">Nestled in the charming village of Colwick, just off the A612 Colwick Loop Road, we offer our services to Colwick and the surrounding neighborhoods. Our convenient location makes us easily accessible from Sneinton, Bakersfield, Carlton, and Netherfield. Whether you're a local resident or visiting the area, we're here to provide you with top-notch service.</p>",
+        "class": "font-16"
+       }
+      },
+      {
+       "block": "kam_buttons",
+       "fields": {
+        "book": "Book an Appointment",
+        "book_url": "https://kamservicing.com/bookings.php?q=6#clutchcheck",
+        "call": "Call 0115 987 9846",
+        "call_url": "tel:01159879846"
+       }
+      }
+     ]
+    },
+    {
+     "class": "kam-blockrow",
+     "width": 50,
+     "tablet": 100,
+     "padding": {
+      "top": 20,
+      "right": 20,
+      "bottom": 20,
+      "left": 20
+     },
+     "widgets": [
+      {
+       "block": "kam_map",
+       "fields": {
+        "lat": "52.960148",
+        "lng": "-1.079433",
+        "zoom": "16",
+        "title": "KAM colwick"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "wrap": "booking-summary",
+   "class": "container mb-5",
+   "padding": {
+    "top": 0,
+    "right": 0,
+    "bottom": 0,
+    "left": 0
+   },
+   "columns": [
+    {
+     "class": "kam-blockrow",
+     "width": 100,
+     "tablet": 100,
+     "padding": {
+      "top": 20,
+      "right": 20,
+      "bottom": 20,
+      "left": 20
+     },
+     "widgets": [
+      {
+       "widget": "heading",
+       "fields": {
+        "tag": "h5",
+        "title": "<i class=\"fas fa-cog i-class-color\"></i> Why choose KAM Servicing?"
+       }
+      },
+      {
+       "widget": "text-editor",
+       "fields": {
+        "editor": "<hr><p class=\"font-16\">Join the thousands of satisfied customers who have trusted us for over 30 years! We're your local, family-run garage, proudly rated 4.7 stars on Google. Our team of highly trained technicians specialises in MOT testing, servicing, repairs, and more. Experience the difference of personalised service and competitive prices. Call <a href=\"tel:01159879846\">0115 987 9846</a> to book your appointment today.</p>",
+        "class": "font-16"
+       }
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

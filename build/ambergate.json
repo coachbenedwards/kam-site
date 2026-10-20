@@ -1,0 +1,523 @@
+{
+ "page": "ambergate",
+ "title": "Book MOT",
+ "replace": true,
+ "blocks": [
+  {
+   "class": "kam-blockrow",
+   "widgets": [
+    {
+     "block": "kam_tiles",
+     "fields": {
+      "h1": "1"
+     },
+     "lines": "https://kamservicing.eastwoodfc.com/wp-content/uploads/2026/10/mot-bg.jpg|Book MOT|from £54.85|https://kamservicing.com/bookings.php?q=1#mot\nhttps://kamservicing.eastwoodfc.com/wp-content/uploads/2026/10/oil-bg.jpg|Book Car Service|from £129.99|https://kamservicing.com/bookings.php?q=2#servicing\nhttps://kamservicing.eastwoodfc.com/wp-content/uploads/2026/10/ac-bg.jpg|Book Air Con Regas|from £79.99|https://kamservicing.com/bookings.php?q=3#ac\nhttps://kamservicing.eastwoodfc.com/wp-content/uploads/2026/10/tyres-bg.jpg|Book Car Tyres|from £18.00|https://kamservicing.com/tyres.php"
+    }
+   ]
+  },
+  {
+   "wrap": "booking-summary",
+   "class": "container mb-5",
+   "padding": {
+    "top": 0,
+    "right": 0,
+    "bottom": 0,
+    "left": 0
+   },
+   "columns": [
+    {
+     "class": "kam-blockrow text-center",
+     "width": 50,
+     "tablet": 50,
+     "padding": {
+      "top": 0,
+      "right": 12,
+      "bottom": 0,
+      "left": 12
+     },
+     "widgets": [
+      {
+       "widget": "image",
+       "fields": {
+        "url": "https://kamservicing.eastwoodfc.com/wp-content/uploads/2026/10/payment-assist.webp",
+        "alt": "Payment Assist",
+        "align": "center"
+       }
+      },
+      {
+       "widget": "text-editor",
+       "fields": {
+        "editor": "<p class=\"font-16\">Call <b>Frank</b> on <a href=\"tel:01773857912\">01773 857 912</a> for details.</p>",
+        "class": "font-16"
+       }
+      }
+     ]
+    },
+    {
+     "class": "kam-blockrow",
+     "width": 50,
+     "tablet": 50,
+     "padding": {
+      "top": 0,
+      "right": 12,
+      "bottom": 0,
+      "left": 12
+     },
+     "widgets": [
+      {
+       "widget": "heading",
+       "fields": {
+        "tag": "h5",
+        "title": "<i class=\"fas fa-pound-sign i-class-color\"></i> 0% Finance Car Repairs. Pay Monthly."
+       }
+      },
+      {
+       "widget": "text-editor",
+       "fields": {
+        "editor": "<hr><p class=\"font-16\">Need Car Repairs on a Budget? Payment Assist offers affordable monthly installments for car servicing and repairs. It's a simple way to break down the cost and keep your vehicle running smoothly. Here's why Payment Assist is a great choice:</p><ul class=\"font-16\"><!-- <li>Interest-Free and Fee-Free Financing: Enjoy affordable car servicing & car repairs without hidden costs or surprise charges. Spread the cost over time with our interest-free and fee-free monthly financing plans. It's a smarter alternative to high-interest credit cards.</li> --> <li>Flexible Financing Options: Choose a pay-monthly installment plan that fits your budget. Take control of your car servicing with our flexible financing solutions.</li> <li>Need quick car repairs in Ambergate? Get fast and easy approval for affordable financing right in our store. Our simple application process takes just minutes. No waiting around! <a href=\"#contact\">Contact us</a> today to learn more about our reliable and budget-friendly car repair services.</li></ul>",
+        "class": "font-16"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "wrap": "booking-summary-font container-grey",
+   "class": "container",
+   "padding": {
+    "top": 20,
+    "right": 8,
+    "bottom": 20,
+    "left": 8
+   },
+   "columns": [
+    {
+     "class": "kam-blockrow",
+     "width": 50,
+     "tablet": 50,
+     "padding": {
+      "top": 20,
+      "right": 20,
+      "bottom": 20,
+      "left": 20
+     },
+     "widgets": [
+      {
+       "widget": "heading",
+       "fields": {
+        "tag": "h5",
+        "title": "<i class=\"fas fa-cog i-class-color\"></i> Car servicing in Ambergate"
+       }
+      },
+      {
+       "widget": "text-editor",
+       "fields": {
+        "editor": "<hr><p class=\"font-16\">Ambergate Residents: Invest in Your Car's Future with Expert Car Care.</p><p class=\"font-16\">As an AA-approved garage, we offer top-notch car servicing and car repairs tailored to your specific needs. Our skilled technicians are dedicated to preserving your vehicle's warranty and ensuring its optimal performance.</p><p class=\"font-16\">Why Choose Us:</p><ul class=\"font-16\"><li>AA-Approved Quality: Trust our reputation for excellence.</li> <li>Expert Technicians: Our team is highly skilled and experienced.</li> <li>Tailored Care: We understand your car's unique needs.</li> <li>State-of-the-Art Equipment: We use the latest tools and technology.</li></ul><p class=\"font-16\">Experience the difference of professional car servicing. From routine checks to major overhauls and diagnostic services, we've got you covered. Schedule your car service in Ambergate today and discover why Derbyshire residents trust us for expert car care.</p>",
+        "class": "font-16"
+       }
+      },
+      {
+       "block": "kam_buttons",
+       "fields": {
+        "book": "Book an Appointment",
+        "book_url": "https://kamservicing.com/bookings.php?q=2#servicing",
+        "call": "Call 01773 857 912",
+        "call_url": "tel:01773857912"
+       }
+      }
+     ]
+    },
+    {
+     "class": "kam-blockrow",
+     "width": 50,
+     "tablet": 50,
+     "padding": {
+      "top": 20,
+      "right": 20,
+      "bottom": 20,
+      "left": 20
+     },
+     "widgets": [
+      {
+       "widget": "heading",
+       "fields": {
+        "tag": "h5",
+        "title": "<i class=\"fas fa-cog i-class-color\"></i> Book your MOT in Ambergate"
+       }
+      },
+      {
+       "widget": "text-editor",
+       "fields": {
+        "editor": "<hr><p class=\"font-16\">Keeping your vehicle roadworthy is essential for your safety and the safety of others. That's why annual MOT tests are mandatory for all cars in the UK. At KAM, we offer convenient and affordable MOT services. Our skilled technicians will carefully examine your car to ensure it meets the stringent safety standards set by the DVSA. We cover all vehicle types, including Class 4 and Class 7 vehicles, such as large vans, pickups, and transits.</p><p class=\"font-16\"><b>*Save Money with Combined Service and MOT Packages*</b></p><p class=\"font-16\">To help you save money, we offer discounted car service packages that combine a Free MOT test with major or full services.</p>",
+        "class": "font-16"
+       }
+      },
+      {
+       "block": "kam_buttons",
+       "fields": {
+        "book": "Book an Appointment",
+        "book_url": "https://kamservicing.com/bookings.php?q=1#mot",
+        "call": "Call 01773 857 912",
+        "call_url": "tel:01773857912"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "wrap": "booking-summary-font container-grey",
+   "class": "container",
+   "padding": {
+    "top": 20,
+    "right": 8,
+    "bottom": 20,
+    "left": 8
+   },
+   "columns": [
+    {
+     "class": "kam-blockrow",
+     "width": 50,
+     "tablet": 50,
+     "padding": {
+      "top": 20,
+      "right": 20,
+      "bottom": 20,
+      "left": 20
+     },
+     "widgets": [
+      {
+       "widget": "heading",
+       "fields": {
+        "tag": "h5",
+        "title": "<i class=\"fas fa-cog i-class-color\"></i> Car tyres Ambergate"
+       }
+      },
+      {
+       "widget": "text-editor",
+       "fields": {
+        "editor": "<hr><p class=\"font-16\">Upgrade your ride with our premium selection of car tyres. Whether you're seeking enhanced performance, improved fuel efficiency, or optimal grip in all weather conditions, we have the perfect car tyres for your vehicle. Our knowledgeable staff will help you choose the right car tyres to meet your specific needs and budget.</p><p class=\"font-16\">Experience the road like never before with our premium car tyres. Our experts are dedicated to finding the ideal tyres for your vehicle and budget. Visit us today for personalised service and a smoother ride.</p>",
+        "class": "font-16"
+       }
+      },
+      {
+       "block": "kam_buttons",
+       "fields": {
+        "book": "Book an Appointment",
+        "book_url": "https://kamservicing.com/tyres.php",
+        "call": "Call 01773 857 912",
+        "call_url": "tel:01773857912"
+       }
+      }
+     ]
+    },
+    {
+     "class": "kam-blockrow",
+     "width": 50,
+     "tablet": 50,
+     "padding": {
+      "top": 20,
+      "right": 20,
+      "bottom": 20,
+      "left": 20
+     },
+     "widgets": [
+      {
+       "widget": "heading",
+       "fields": {
+        "tag": "h5",
+        "title": "<i class=\"fas fa-cog i-class-color\"></i> Cam belt replacement Ambergate"
+       }
+      },
+      {
+       "widget": "text-editor",
+       "fields": {
+        "editor": "<hr><p class=\"font-16\">The frequency of cam belt replacement varies widely between vehicles. Factors like your car's age, mileage, and specific engine design play a significant role in determining the recommended replacement interval. Consulting your vehicle's owner's manual or a trusted mechanic is essential to ensure you adhere to the correct schedule. Ignoring this crucial maintenance task can lead to catastrophic engine failure, resulting in costly repairs. A broken cam belt can cause valves to collide with pistons, damaging both components. Regular inspections and timely replacements are vital to prevent such costly breakdowns and maintain the longevity of your engine.</p>",
+        "class": "font-16"
+       }
+      },
+      {
+       "block": "kam_buttons",
+       "fields": {
+        "book": "Enquire Now",
+        "book_url": "#contact",
+        "call": "Call 01773 857 912",
+        "call_url": "tel:01773857912"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "wrap": "booking-summary-font container-grey",
+   "class": "container",
+   "padding": {
+    "top": 20,
+    "right": 8,
+    "bottom": 20,
+    "left": 8
+   },
+   "columns": [
+    {
+     "class": "kam-blockrow",
+     "width": 50,
+     "tablet": 50,
+     "padding": {
+      "top": 20,
+      "right": 20,
+      "bottom": 20,
+      "left": 20
+     },
+     "widgets": [
+      {
+       "widget": "heading",
+       "fields": {
+        "tag": "h5",
+        "title": "<i class=\"fas fa-cog i-class-color\"></i> DPF cleaning in Ambergate"
+       }
+      },
+      {
+       "widget": "text-editor",
+       "fields": {
+        "editor": "<hr><p class=\"font-16\">Restore your vehicle's performance with our expert DPF cleaning service. Our specialised process effectively removes soot and contaminants that can clog your diesel particulate filter (DPF), leading to reduced power, increased fuel consumption, and even engine damage.</p><p class=\"font-16\">Avoid costly DPF replacements. By scheduling regular maintenance, you can prevent severe clogging and maintain optimal engine performance. Our DPF cleaning process is designed to restore your filter to near-new condition, ensuring efficient emissions control and optimal vehicle operation.</p>",
+        "class": "font-16"
+       }
+      },
+      {
+       "block": "kam_buttons",
+       "fields": {
+        "book": "Book an Appointment",
+        "book_url": "https://kamservicing.com/bookings.php?q=5#dpfc",
+        "call": "Call 01773 857 912",
+        "call_url": "tel:01773857912"
+       }
+      }
+     ]
+    },
+    {
+     "class": "kam-blockrow",
+     "width": 50,
+     "tablet": 50,
+     "padding": {
+      "top": 20,
+      "right": 20,
+      "bottom": 20,
+      "left": 20
+     },
+     "widgets": [
+      {
+       "widget": "heading",
+       "fields": {
+        "tag": "h5",
+        "title": "<i class=\"fas fa-cog i-class-color\"></i> Hybrid EV Servicing Ambergate"
+       }
+      },
+      {
+       "widget": "text-editor",
+       "fields": {
+        "editor": "<hr><p class=\"font-16\">Hybrid vehicle servicing is similar to that of a conventional petrol or diesel car, with a few extra checks. In addition to the usual servicing items, technicians will need to check the inverter coolant and the charging point for any damage. They will also pay particular attention to the health of the battery.</p><p class=\"font-16\">Schedule your hybrid vehicle service today. Our experienced technicians will provide thorough maintenance to keep your car running smoothly and efficiently. We use state-of-the-art diagnostic equipment and follow manufacturer guidelines to ensure your hybrid vehicle receives the highest quality care.</p>",
+        "class": "font-16"
+       }
+      },
+      {
+       "block": "kam_buttons",
+       "fields": {
+        "book": "Book an Appointment",
+        "book_url": "https://kamservicing.com/bookings.php?q=2#servicing",
+        "call": "Call 01773 857 912",
+        "call_url": "tel:01773857912"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "wrap": "booking-summary",
+   "class": "container mb-5",
+   "padding": {
+    "top": 0,
+    "right": 0,
+    "bottom": 0,
+    "left": 0
+   },
+   "columns": [
+    {
+     "class": "kam-blockrow",
+     "width": 50,
+     "tablet": 50,
+     "padding": {
+      "top": 20,
+      "right": 20,
+      "bottom": 20,
+      "left": 20
+     },
+     "widgets": [
+      {
+       "widget": "heading",
+       "fields": {
+        "tag": "h5",
+        "title": "<i class=\"fas fa-cog i-class-color\"></i> Ambergate garage"
+       }
+      },
+      {
+       "widget": "text-editor",
+       "fields": {
+        "editor": "<hr><p class=\"font-16\">Ambergate Saw Mill,<br/> Ripley Road,<br/> Ambergate,<br/> DE56 2EP</p><p class=\"font-16\"><a href=\"tel:01773857912\"><i class=\"fas fa-phone i-class-color\"></i> 01773 857 912</a><br/> <i class=\"fas fa-envelope i-class-color\"></i> ambergate@kamservicing.com<br/> <i class=\"fas fa-user i-class-color\"></i> Manager: Frank</p><p class=\"font-16\"><i class=\"fas fa-clock i-class-color\"></i> Mon-Fri: 7.30am - 6.00pm<br/> Sat: 8.00am - 2.00pm<br/> Sun: Closed</p>",
+        "class": "font-16"
+       }
+      }
+     ]
+    },
+    {
+     "class": "kam-blockrow",
+     "width": 50,
+     "tablet": 50,
+     "padding": {
+      "top": 20,
+      "right": 20,
+      "bottom": 20,
+      "left": 20
+     },
+     "widgets": [
+      {
+       "widget": "heading",
+       "fields": {
+        "tag": "h5",
+        "title": "<i class=\"fas fa-envelope i-class-color\"></i> Get in touch"
+       }
+      },
+      {
+       "widget": "text-editor",
+       "fields": {
+        "editor": "<hr><p class=\"font-16\">Email us using the form below.</p>",
+        "class": "font-16"
+       }
+      },
+      {
+       "block": "kam_contact_form",
+       "fields": {
+        "depot": "aaaAmb",
+        "depot_name": "Ambergate",
+        "to": "",
+        "intro": ""
+       }
+      }
+     ]
+    }
+   ],
+   "id": "contact"
+  },
+  {
+   "wrap": "booking-summary",
+   "class": "container mb-5",
+   "padding": {
+    "top": 0,
+    "right": 0,
+    "bottom": 0,
+    "left": 0
+   },
+   "columns": [
+    {
+     "class": "kam-blockrow",
+     "width": 50,
+     "tablet": 50,
+     "padding": {
+      "top": 20,
+      "right": 20,
+      "bottom": 20,
+      "left": 20
+     },
+     "widgets": [
+      {
+       "widget": "heading",
+       "fields": {
+        "tag": "h5",
+        "title": "<i class=\"fas fa-cog i-class-color\"></i> Where can I find KAM Servicing in Ambergate?"
+       }
+      },
+      {
+       "widget": "text-editor",
+       "fields": {
+        "editor": "<hr><p class=\"font-16\">We are Located on the edge of picturesque Derbyshire, close to Ambergate train station. We are near to Sawmills. Ridgeway, Alderwasley, Heage &amp; Crich and cover all the surrounding areas. We offer car servicing in and around the Ambergate area for all make and models of car and light commercial vehicles.</p>",
+        "class": "font-16"
+       }
+      },
+      {
+       "block": "kam_buttons",
+       "fields": {
+        "book": "Book an Appointment",
+        "book_url": "https://kamservicing.com/bookings.php?q=6#clutchcheck",
+        "call": "Call 01773 857 912",
+        "call_url": "tel:01773857912"
+       }
+      }
+     ]
+    },
+    {
+     "class": "kam-blockrow",
+     "width": 50,
+     "tablet": 50,
+     "padding": {
+      "top": 20,
+      "right": 20,
+      "bottom": 20,
+      "left": 20
+     },
+     "widgets": [
+      {
+       "block": "kam_map",
+       "fields": {
+        "lat": "53.06157",
+        "lng": "-1.47946",
+        "zoom": "16",
+        "title": "KAM ambergate"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "wrap": "booking-summary",
+   "class": "container mb-5",
+   "padding": {
+    "top": 0,
+    "right": 0,
+    "bottom": 0,
+    "left": 0
+   },
+   "columns": [
+    {
+     "class": "kam-blockrow",
+     "width": 100,
+     "tablet": 100,
+     "padding": {
+      "top": 20,
+      "right": 20,
+      "bottom": 20,
+      "left": 20
+     },
+     "widgets": [
+      {
+       "widget": "heading",
+       "fields": {
+        "tag": "h5",
+        "title": "<i class=\"fas fa-cog i-class-color\"></i> Why choose KAM Servicing?"
+       }
+      },
+      {
+       "widget": "text-editor",
+       "fields": {
+        "editor": "<hr><p class=\"font-16\">We are a highly-rated 4.8 stars on Google family-run business with over 30 years of experience. We offer MOT testing and car servicing for all makes and models, and additional services like air conditioning repairs, car diagnostics and clutch replacements &amp; repairs. We offer a customer-friendly atmosphere with very competitive prices.</p><p class=\"font-16\">Call us today on <a href=\"tel:01773857912\">01773 857 912</a> to schedule an appointment and experience the difference for yourself.</p><p class=\"font-16\">Our technicians are highly trained and experienced, and we use the latest equipment to ensure that your car is serviced to the highest standards. We are committed to providing exceptional customer service, and we will go the extra mile to make sure you are satisfied.</p>",
+        "class": "font-16"
+       }
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
